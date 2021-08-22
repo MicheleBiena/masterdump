@@ -126,7 +126,7 @@
     "72": "Defeat an opponent ×[Digit:6digits ] with\ndamage from being poisoned, badly\npoisoned, burned, or trapped (only\ncounts when the battle is completed)",
     "73": "Use the following move ×[Digit:6digits ]\nagainst a [Name:TrainerName ]\n(counts only if the battle\nis completed):",
     "73_element": "• [Name:Move ]",
-    "74": "Defeat three opponents at once using\na single attack ×[Digit:6digits] (counts only\nif the battle is completed)",
+    "74": "Defeat three opponents at once using\na single attack ×[Digit:6digits ] (counts only\nif the battle is completed)",
     "75": "Unlock a level cap ×[Digit:6digits ] for\n[Digit:6digits Idx=\"1\" ] or more sync pair(s)\n",
     "76": "Complete the following Legendary\nArena with [Digit:2digits ] or fewer sync pair(s):\n[Name:QuestTitle ]",
     "77": "Complete the following mission(s):",

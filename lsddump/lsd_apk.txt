@@ -2418,6 +2418,66 @@ Lasst uns Items sammeln!
 [quest_title_1030306000601090] Vs. Perenus 3
 [quest_title_1030306000601100] Vs. Perenus 4
 [quest_title_1030430600105010] Täglicher Bonus-Kampf
+[quest_title_1030110000300100] Das Finale der WPM, Teil 1
+[quest_title_1030110000300200] Das Finale der WPM, Teil 2
+[quest_title_1030110000300300] Vs. MaMo-Rot & sein Team
+[quest_title_1030110000300400] Das Finale der WPM, Teil 3
+[quest_title_1030110000300500] Ein unerwartetes Ende?
+[quest_group_detail_100040] Das Finale der WPM
+[quest_group_title_10205000000] Soir
+[quest_group_title_100039] Kapitel 30
+[quest_group_title_10066010000] Lyer
+[quest_group_title_10067010000] Chetta
+[quest_group_title_10068010000] Drival
+[quest_group_title_10150000000] Falk
+[quest_group_title_10135000000] Ulrich
+[quest_group_title_10244000000] Hop
+[quest_group_title_10247100000] MaMo-Delion
+[quest_title_1030307000601010] Überlasst das mir!
+[quest_title_1030307000601020] Die Kompetenz eines Königs
+[quest_title_1030430700114010] Vs. Flug-Gefährten
+[quest_title_1030430700101010] Vs. Gestein-Gefährten
+[quest_title_1030430700118010] Vs. Wasser-Gefährten
+[quest_title_1030430700115010] Vs. Unlicht-Gefährten
+[quest_title_1030430700111010] Vs. Stahl-Gefährten
+[quest_title_1030430700108010] Vs. Feen-Gefährten
+[quest_title_1030430700102010] Vs. Pflanzen-Gefährten
+[quest_title_1030430700109010] Vs. Kampf-Gefährten
+[quest_title_1030430700100010] Vs. Normal-Gefährten
+[quest_title_1030430700103010] Vs. Elektro-Gefährten
+[quest_title_1030430700112010] Vs. Eis-Gefährten
+[quest_title_1030430700110010] Vs. Boden-Gefährten
+[quest_title_1030430700106010] Vs. Gift-Gefährten
+[quest_title_1030430700104010] Vs. Käfer-Gefährten
+[quest_title_1030430700116010] Vs. Geister-Gefährten
+[quest_title_1030430700113010] Vs. Psycho-Gefährten
+[quest_title_1030430700105010] Vs. Feuer-Gefährten
+[quest_title_1030220205000000] Ein Tag mit Soir
+[quest_title_1030220066010000] Ein Tag mit Lyer
+[quest_title_1030220067010000] Ein Tag mit Chetta
+[quest_title_1030220068010000] Ein Tag mit Drival
+[quest_title_1030220150000000] Ein Tag mit Falk
+[quest_title_1030220135000000] Ein Tag mit Ulrich
+[quest_title_1030220247100000] Ein Tag mit MaMo-Delion
+[quest_title_1030307001001000] Neue Welt, neue Abenteuer!
+[quest_title_1030307001001010] Die wahre Natur des
+Meteoriten
+[quest_title_1030307001001020] Gigantische Schatten über
+Passio
+[quest_title_1030307001001030] Scharfe Zähne
+[quest_title_1030307001001040] Endynalos und die Macht der
+Verbundenheit
+[quest_title_1030307001001050] Brüder mit grenzenlosem
+Willen
+[quest_title_1030307001001060] Einführung in die
+Dynamaximierung
+[quest_title_1030307001001070] Vs. Gloria
+[quest_title_1030307001001080] Vs. Gloria 2
+[quest_title_1030307001001090] Vs. Gloria 3
+[quest_title_1030307001001100] Vs. Gloria 4
+[quest_title_1030307001001110] Vs. Roy
+[quest_title_1030307001001120] Vs. MaMo-Delion
+[quest_title_1030307001001130] Vs. MaMo-Delion 2
 
 ===========
 story_quest_name_en.lsd
@@ -3842,7 +3902,7 @@ story_quest_name_en.lsd
 [quest_title_1030302000605060] Challenge Iris: Part 2
 [quest_title_1030302000605070] Challenge Iris: Part 3
 [quest_title_1030302000605080] Challenge Iris: Part 4
-[quest_title_1030302000605090] Challenge the Dragon Sync Pairs
+[quest_title_1030302000605090] Challenge the Dragon Types
 [quest_title_1030210092800000] A Day with Iris
 [quest_title_1030302001010060] Take Down Cyrus! Round 6
 [quest_group_title_10122000000] Elio
@@ -4053,6 +4113,61 @@ story_quest_name_en.lsd
 [quest_title_1030306000601090] Challenge Darach: Part 3
 [quest_title_1030306000601100] Challenge Darach: Part 4
 [quest_title_1030430600105010] Daily Bonus Battle 1
+[quest_title_1030110000300100] The Road to Victory: Part 1
+[quest_title_1030110000300200] The Road to Victory: Part 2
+[quest_title_1030110000300300] Challenge Team Red
+[quest_title_1030110000300400] The Road to Victory: Part 3
+[quest_title_1030110000300500] The Road Goes Ever On
+[quest_group_detail_100040] The Road to Victory
+[quest_group_title_10205000000] Evelyn
+[quest_group_title_100039] Chapter 30
+[quest_group_title_10066010000] Lear
+[quest_group_title_10067010000] Rachel
+[quest_group_title_10068010000] Sawyer
+[quest_group_title_10150000000] Falkner
+[quest_group_title_10135000000] Sidney
+[quest_group_title_10244000000] Hop
+[quest_group_title_10247100000] Sygna Suit Leon
+[quest_title_1030307000601010] Follow My Lead!
+[quest_title_1030307000601020] Can’t Wait to Be King
+[quest_title_1030430700114010] Challenge the Flying Types
+[quest_title_1030430700101010] Challenge the Rock Types
+[quest_title_1030430700118010] Challenge the Water Types
+[quest_title_1030430700115010] Challenge the Dark Types
+[quest_title_1030430700111010] Challenge the Steel Types
+[quest_title_1030430700108010] Challenge the Fairy Types
+[quest_title_1030430700102010] Challenge the Grass Types
+[quest_title_1030430700109010] Challenge the Fighting Types
+[quest_title_1030430700100010] Challenge the Normal Types
+[quest_title_1030430700103010] Challenge the Electric Types
+[quest_title_1030430700112010] Challenge the Ice Types
+[quest_title_1030430700110010] Challenge the Ground Types
+[quest_title_1030430700106010] Challenge the Poison Types
+[quest_title_1030430700104010] Challenge the Bug Types
+[quest_title_1030430700116010] Challenge the Ghost Types
+[quest_title_1030430700113010] Challenge the Psychic Types
+[quest_title_1030430700105010] Challenge the Fire Types
+[quest_title_1030220205000000] A Day with Evelyn
+[quest_title_1030220066010000] A Day with Lear
+[quest_title_1030220067010000] A Day with Rachel
+[quest_title_1030220068010000] A Day with Sawyer
+[quest_title_1030220150000000] A Day with Falkner
+[quest_title_1030220135000000] A Day with Sidney
+[quest_title_1030220247100000] A Day with Sygna Suit Leon
+[quest_title_1030307001001000] A New Visitor
+[quest_title_1030307001001010] Meteor Mystery
+[quest_title_1030307001001020] A Massive Impact
+[quest_title_1030307001001030] Raihan to the Rescue
+[quest_title_1030307001001040] Bonds of Eternity
+[quest_title_1030307001001050] Strongest Siblings
+[quest_title_1030307001001060] How to Dynamax
+[quest_title_1030307001001070] Challenge Gloria: Part 1
+[quest_title_1030307001001080] Challenge Gloria: Part 2
+[quest_title_1030307001001090] Challenge Gloria: Part 3
+[quest_title_1030307001001100] Challenge Gloria: Part 4
+[quest_title_1030307001001110] Challenge Raihan
+[quest_title_1030307001001120] Challenge Sygna Suit Leon: Part 1
+[quest_title_1030307001001130] Challenge Sygna Suit Leon: Part 2
 
 ===========
 story_quest_name_es.lsd
@@ -5525,7 +5640,7 @@ lo más alto
 [quest_title_1030302000605060] VS. Iris (2)
 [quest_title_1030302000605070] VS. Iris (3)
 [quest_title_1030302000605080] VS. Iris (4)
-[quest_title_1030302000605090] VS. Domadragones
+[quest_title_1030302000605090] VS. compis de tipo Dragón
 [quest_title_1030210092800000] Un día con Iris
 [quest_title_1030302001010060] ¡Vence a Helio! (6)
 [quest_group_title_10122000000] Elio
@@ -5799,6 +5914,62 @@ en Passio
 [quest_title_1030306000601090] VS. Kokuran (3)
 [quest_title_1030306000601100] VS. Kokuran (4)
 [quest_title_1030430600105010] ¡Un combate extra al día!
+[quest_title_1030110000300100] A la conquista del WPM
+[quest_title_1030110000300200] A la conquista del WPM (2)
+[quest_title_1030110000300300] VS. Rojo (Traje S) y su equipo
+[quest_title_1030110000300400] A la conquista del WPM (3)
+[quest_title_1030110000300500] Un nuevo comienzo
+con nuevos vínculos
+[quest_group_detail_100040] A la conquista del WPM
+[quest_group_title_10205000000] Vésper
+[quest_group_title_100039] Capítulo 30
+[quest_group_title_10066010000] Alik
+[quest_group_title_10067010000] Serra
+[quest_group_title_10068010000] Néstor
+[quest_group_title_10150000000] Pegaso
+[quest_group_title_10135000000] Sixto
+[quest_group_title_10244000000] Paul
+[quest_group_title_10247100000] Lionel (Traje S)
+[quest_title_1030307000601010] Una tarea digna de un rey
+[quest_title_1030307000601020] El mejor rey del mundo
+[quest_title_1030430700114010] VS. compis de tipo Volador
+[quest_title_1030430700101010] VS. compis de tipo Roca
+[quest_title_1030430700118010] VS. compis de tipo Agua
+[quest_title_1030430700115010] VS. compis de tipo Siniestro
+[quest_title_1030430700111010] VS. compis de tipo Acero
+[quest_title_1030430700108010] VS. compis de tipo Hada
+[quest_title_1030430700102010] VS. compis de tipo Planta
+[quest_title_1030430700109010] VS. compis de tipo Lucha
+[quest_title_1030430700100010] VS. compis de tipo Normal
+[quest_title_1030430700103010] VS. compis de tipo Eléctrico
+[quest_title_1030430700112010] VS. compis de tipo Hielo
+[quest_title_1030430700110010] VS. compis de tipo Tierra
+[quest_title_1030430700106010] VS. compis de tipo Veneno
+[quest_title_1030430700104010] VS. compis de tipo Bicho
+[quest_title_1030430700116010] VS. compis de tipo Fantasma
+[quest_title_1030430700113010] VS. compis de tipo Psíquico
+[quest_title_1030430700105010] VS. compis de tipo Fuego
+[quest_title_1030220205000000] Un día con Vésper
+[quest_title_1030220066010000] Un día con Alik
+[quest_title_1030220067010000] Un día con Serra
+[quest_title_1030220068010000] Un día con Néstor
+[quest_title_1030220150000000] Un día con Pegaso
+[quest_title_1030220135000000] Un día con Sixto
+[quest_title_1030220247100000] Un día con Lionel (Traje S)
+[quest_title_1030307001001000] Un nuevo capítulo en Passio
+[quest_title_1030307001001010] Lo que esconde un meteorito
+[quest_title_1030307001001020] Sombras gigantes en Passio
+[quest_title_1030307001001030] Rivales codo con codo
+[quest_title_1030307001001040] El poder de un lazo eterno
+[quest_title_1030307001001050] Los hermanos más fuertes
+[quest_title_1030307001001060] Tutorial Dinamax
+[quest_title_1030307001001070] VS. Gloria
+[quest_title_1030307001001080] VS. Gloria (2)
+[quest_title_1030307001001090] VS. Gloria (3)
+[quest_title_1030307001001100] VS. Gloria (4)
+[quest_title_1030307001001110] VS. Roy
+[quest_title_1030307001001120] VS. Lionel (Traje S)
+[quest_title_1030307001001130] VS. Lionel (Traje S) (2)
 
 ===========
 story_quest_name_fr.lsd
@@ -7351,7 +7522,8 @@ des Maîtres
 [quest_title_1030302000605060] Combat : Iris II
 [quest_title_1030302000605070] Combat : Iris III
 [quest_title_1030302000605080] Combat : Iris IV
-[quest_title_1030302000605090] Combat : Dracologues
+[quest_title_1030302000605090] Combat : Duos
+de type Dragon
 [quest_title_1030210092800000] Une journée avec Iris
 [quest_title_1030302001010060] Contre Hélio VI
 [quest_group_title_10122000000] Elio
@@ -7639,6 +7811,82 @@ Objets en folie !
 [quest_title_1030306000601100] Combat : Parsley IV
 [quest_title_1030430600105010] Combat bonus limité
 à une fois par jour !
+[quest_title_1030110000300100] À la conquête du WPM
+[quest_title_1030110000300200] À la conquête du WPM II
+[quest_title_1030110000300300] Combat : l'équipe de Red
+(Look Ultime)
+[quest_title_1030110000300400] À la conquête du WPM III
+[quest_title_1030110000300500] L'aventure continue
+[quest_group_detail_100040] À la conquête du WPM
+[quest_group_title_10205000000] Vesper
+[quest_group_title_100039] Chapitre 30
+[quest_group_title_10066010000] Alexis
+[quest_group_title_10067010000] Cléa
+[quest_group_title_10068010000] Elvis
+[quest_group_title_10150000000] Albert
+[quest_group_title_10135000000] Damien
+[quest_group_title_10244000000] Nabil
+[quest_group_title_10247100000] Tarak (Look Ultime)
+[quest_title_1030307000601010] Laissez faire votre roi !
+[quest_title_1030307000601020] Digne d'être roi
+[quest_title_1030430700114010] Combat : Duos
+de type Vol
+[quest_title_1030430700101010] Combat : Duos
+de type Roche
+[quest_title_1030430700118010] Combat : Duos
+de type Eau
+[quest_title_1030430700115010] Combat : Duos
+de type Ténèbres
+[quest_title_1030430700111010] Combat : Duos
+de type Acier
+[quest_title_1030430700108010] Combat : Duos
+de type Fée
+[quest_title_1030430700102010] Combat : Duos
+de type Plante
+[quest_title_1030430700109010] Combat : Duos
+de type Combat
+[quest_title_1030430700100010] Combat : Duos
+de type Normal
+[quest_title_1030430700103010] Combat : Duos
+de type Électrik
+[quest_title_1030430700112010] Combat : Duos
+de type Glace
+[quest_title_1030430700110010] Combat : Duos
+de type Sol
+[quest_title_1030430700106010] Combat : Duos
+de type Poison
+[quest_title_1030430700104010] Combat : Duos
+de type Insecte
+[quest_title_1030430700116010] Combat : Duos
+de type Spectre
+[quest_title_1030430700113010] Combat : Duos
+de type Psy
+[quest_title_1030430700105010] Combat : Duos
+de type Feu
+[quest_title_1030220205000000] Une journée avec Vesper
+[quest_title_1030220066010000] Une journée avec Alexis
+[quest_title_1030220067010000] Une journée avec Cléa
+[quest_title_1030220068010000] Une journée avec Elvis
+[quest_title_1030220150000000] Une journée avec Albert
+[quest_title_1030220135000000] Une journée avec Damien
+[quest_title_1030220247100000] Une journée avec Tarak
+(Look Ultime)
+[quest_title_1030307001001000] Un visiteur inattendu
+[quest_title_1030307001001010] Mystères et météorites
+[quest_title_1030307001001020] Un problème de taille
+[quest_title_1030307001001030] Roy à la rescousse
+[quest_title_1030307001001040] Le pouvoir éternel des liens
+[quest_title_1030307001001050] La force de deux frères
+[quest_title_1030307001001060] Tutoriel Dynamax
+[quest_title_1030307001001070] Combat : Gloria
+[quest_title_1030307001001080] Combat : Gloria II
+[quest_title_1030307001001090] Combat : Gloria III
+[quest_title_1030307001001100] Combat : Gloria IV
+[quest_title_1030307001001110] Combat : Roy
+[quest_title_1030307001001120] Combat : Tarak
+(Look Ultime)
+[quest_title_1030307001001130] Combat : Tarak
+(Look Ultime) II
 
 ===========
 story_quest_name_it.lsd
@@ -9050,7 +9298,7 @@ story_quest_name_it.lsd
 [quest_title_1030302000605060] VS Iris 2
 [quest_title_1030302000605070] VS Iris 3
 [quest_title_1030302000605080] VS Iris 4
-[quest_title_1030302000605090] VS Unità Drago
+[quest_title_1030302000605090] VS Unità di tipo Drago
 [quest_title_1030210092800000] Un giorno con Iris
 [quest_title_1030302001010060] Sconfiggi Cyrus! 6
 [quest_group_title_10122000000] Elio
@@ -9257,6 +9505,61 @@ story_quest_name_it.lsd
 [quest_title_1030306000601090] VS Paride 3
 [quest_title_1030306000601100] VS Paride 4
 [quest_title_1030430600105010] Lotta bonus (una al giorno)!
+[quest_title_1030110000300100] Alla conquista del WPM (parte 1)
+[quest_title_1030110000300200] Alla conquista del WPM (parte 2)
+[quest_title_1030110000300300] VS Rosso Costumax & co.
+[quest_title_1030110000300400] Alla conquista del WPM (parte 3)
+[quest_title_1030110000300500] Nuove avventure, nuovi legami
+[quest_group_detail_100040] Alla conquista del WPM
+[quest_group_title_10205000000] Vespera
+[quest_group_title_100039] Capitolo 30
+[quest_group_title_10066010000] Kelian
+[quest_group_title_10067010000] Chette
+[quest_group_title_10068010000] Ravi
+[quest_group_title_10150000000] Valerio
+[quest_group_title_10135000000] Fosco
+[quest_group_title_10244000000] Hop
+[quest_group_title_10247100000] Dandel Costumax
+[quest_title_1030307000601010] Lasciate fare a me!
+[quest_title_1030307000601020] Diventerò il re più forte!
+[quest_title_1030430700114010] VS Unità di tipo Volante
+[quest_title_1030430700101010] VS Unità di tipo Roccia
+[quest_title_1030430700118010] VS Unità di tipo Acqua
+[quest_title_1030430700115010] VS Unità di tipo Buio
+[quest_title_1030430700111010] VS Unità di tipo Acciaio
+[quest_title_1030430700108010] VS Unità di tipo Folletto
+[quest_title_1030430700102010] VS Unità di tipo Erba
+[quest_title_1030430700109010] VS Unità di tipo Lotta
+[quest_title_1030430700100010] VS Unità di tipo Normale
+[quest_title_1030430700103010] VS Unità di tipo Elettro
+[quest_title_1030430700112010] VS Unità di tipo Ghiaccio
+[quest_title_1030430700110010] VS Unità di tipo Terra
+[quest_title_1030430700106010] VS Unità di tipo Veleno
+[quest_title_1030430700104010] VS Unità di tipo Coleottero
+[quest_title_1030430700116010] VS Unità di tipo Spettro
+[quest_title_1030430700113010] VS Unità di tipo Psico
+[quest_title_1030430700105010] VS Unità di tipo Fuoco
+[quest_title_1030220205000000] Un giorno con Vespera
+[quest_title_1030220066010000] Un giorno con Kelian
+[quest_title_1030220067010000] Un giorno con Chette
+[quest_title_1030220068010000] Un giorno con Ravi
+[quest_title_1030220150000000] Un giorno con Valerio
+[quest_title_1030220135000000] Un giorno con Fosco
+[quest_title_1030220247100000] Un giorno con Dandel Costumax
+[quest_title_1030307001001000] Nuovi orizzonti: Pasio!
+[quest_title_1030307001001010] La vera natura del meteorite
+[quest_title_1030307001001020] Una notte sconfinata incombe su Pasio
+[quest_title_1030307001001030] Rivali fianco a fianco
+[quest_title_1030307001001040] Il legame con Eternatus
+[quest_title_1030307001001050] La forza di due fratelli
+[quest_title_1030307001001060] Tutorial UniDynamax
+[quest_title_1030307001001070] VS Gloria
+[quest_title_1030307001001080] VS Gloria 2
+[quest_title_1030307001001090] VS Gloria 3
+[quest_title_1030307001001100] VS Gloria 4
+[quest_title_1030307001001110] VS Laburno
+[quest_title_1030307001001120] VS Dandel Costumax
+[quest_title_1030307001001130] VS Dandel Costumax 2
 
 ===========
 story_quest_name_ja.lsd
@@ -10893,6 +11196,61 @@ story_quest_name_ja.lsd
 [quest_title_1030306000601090] ＶＳ　コクラン３
 [quest_title_1030306000601100] ＶＳ　コクラン４
 [quest_title_1030430600105010] １日１回限定・ボーナスバトル！
+[quest_title_1030110000300100] ＷＰＭを制する者　前編
+[quest_title_1030110000300200] ＷＰＭを制する者　中編
+[quest_title_1030110000300300] ＶＳ　チーム・マジコスレッド
+[quest_title_1030110000300400] ＷＰＭを制する者　後編
+[quest_title_1030110000300500] きずなと続く物語
+[quest_group_detail_100040] ＷＰＭを制する者
+[quest_group_title_10205000000] ルスワール
+[quest_group_title_100039] 第３０章
+[quest_group_title_10066010000] ライヤー
+[quest_group_title_10067010000] チェッタ
+[quest_group_title_10068010000] ドリバル
+[quest_group_title_10150000000] ハヤト
+[quest_group_title_10135000000] カゲツ
+[quest_group_title_10244000000] ホップ
+[quest_group_title_10247100000] マジコスダンデ
+[quest_title_1030307000601010] オレさまに任せておけ！
+[quest_title_1030307000601020] 最強の王を目指して
+[quest_title_1030430700114010] ＶＳ　ひこうバディーズ
+[quest_title_1030430700101010] ＶＳ　いわバディーズ
+[quest_title_1030430700118010] ＶＳ　みずバディーズ
+[quest_title_1030430700115010] ＶＳ　あくバディーズ
+[quest_title_1030430700111010] ＶＳ　はがねバディーズ
+[quest_title_1030430700108010] ＶＳ　フェアリーバディーズ
+[quest_title_1030430700102010] ＶＳ　くさバディーズ
+[quest_title_1030430700109010] ＶＳ　かくとうバディーズ
+[quest_title_1030430700100010] ＶＳ　ノーマルバディーズ
+[quest_title_1030430700103010] ＶＳ　でんきバディーズ
+[quest_title_1030430700112010] ＶＳ　こおりバディーズ
+[quest_title_1030430700110010] ＶＳ　じめんバディーズ
+[quest_title_1030430700106010] ＶＳ　どくバディーズ
+[quest_title_1030430700104010] ＶＳ　むしバディーズ
+[quest_title_1030430700116010] ＶＳ　ゴーストバディーズ
+[quest_title_1030430700113010] ＶＳ　エスパーバディーズ
+[quest_title_1030430700105010] ＶＳ　ほのおバディーズ
+[quest_title_1030220205000000] とある日のルスワール
+[quest_title_1030220066010000] とある日のライヤー
+[quest_title_1030220067010000] とある日のチェッタ
+[quest_title_1030220068010000] とある日のドリバル
+[quest_title_1030220150000000] とある日のハヤト
+[quest_title_1030220135000000] とある日のカゲツ
+[quest_title_1030220247100000] とある日のマジコスダンデ
+[quest_title_1030307001001000] 新天地　パシオ！
+[quest_title_1030307001001010] いん石の正体
+[quest_title_1030307001001020] 落ちる巨大な影
+[quest_title_1030307001001030] 共闘キバナ
+[quest_title_1030307001001040] ムゲンダイナときずなの力
+[quest_title_1030307001001050] 最強兄弟
+[quest_title_1030307001001060] チュートリアル　Ｂダイマックス
+[quest_title_1030307001001070] ＶＳ　ユウリ
+[quest_title_1030307001001080] ＶＳ　ユウリ２
+[quest_title_1030307001001090] ＶＳ　ユウリ３
+[quest_title_1030307001001100] ＶＳ　ユウリ４
+[quest_title_1030307001001110] ＶＳ　キバナ
+[quest_title_1030307001001120] ＶＳ　マジコスダンデ
+[quest_title_1030307001001130] ＶＳ　マジコスダンデ２
 
 ===========
 story_quest_name_ko.lsd
@@ -12528,6 +12886,61 @@ story_quest_name_ko.lsd
 [quest_title_1030306000601090] VS 코크런3
 [quest_title_1030306000601100] VS 코크런4
 [quest_title_1030430600105010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030110000300100] WPM을 제패하는 자 전편
+[quest_title_1030110000300200] WPM을 제패하는 자 중편
+[quest_title_1030110000300300] VS 팀 궁극코스 레드
+[quest_title_1030110000300400] WPM을 제패하는 자 후편
+[quest_title_1030110000300500] 유대와 계속되는 이야기
+[quest_group_detail_100040] WPM을 제패하는 자
+[quest_group_title_10205000000] 르수아르
+[quest_group_title_100039] 제30장
+[quest_group_title_10066010000] 라이어
+[quest_group_title_10067010000] 치터
+[quest_group_title_10068010000] 드리버
+[quest_group_title_10150000000] 비상
+[quest_group_title_10135000000] 혁진
+[quest_group_title_10244000000] 호브
+[quest_group_title_10247100000] 궁극코스 단델
+[quest_title_1030307000601010] 이 몸에게 맡겨둬라!
+[quest_title_1030307000601020] 최강의 왕을 목표하며
+[quest_title_1030430700114010] VS 비행타입 버디즈
+[quest_title_1030430700101010] VS 바위타입 버디즈
+[quest_title_1030430700118010] VS 물타입 버디즈
+[quest_title_1030430700115010] VS 악타입 버디즈
+[quest_title_1030430700111010] VS 강철타입 버디즈
+[quest_title_1030430700108010] VS 페어리타입 버디즈
+[quest_title_1030430700102010] VS 풀타입 버디즈
+[quest_title_1030430700109010] VS 격투타입 버디즈
+[quest_title_1030430700100010] VS 노말타입 버디즈
+[quest_title_1030430700103010] VS 전기타입 버디즈
+[quest_title_1030430700112010] VS 얼음타입 버디즈
+[quest_title_1030430700110010] VS 땅타입 버디즈
+[quest_title_1030430700106010] VS 독타입 버디즈
+[quest_title_1030430700104010] VS 벌레타입 버디즈
+[quest_title_1030430700116010] VS 고스트타입 버디즈
+[quest_title_1030430700113010] VS 에스퍼타입 버디즈
+[quest_title_1030430700105010] VS 불꽃타입 버디즈
+[quest_title_1030220205000000] 르수아르의 어느 날
+[quest_title_1030220066010000] 라이어의 어느 날
+[quest_title_1030220067010000] 치터의 어느 날
+[quest_title_1030220068010000] 드리버의 어느 날
+[quest_title_1030220150000000] 비상의 어느 날
+[quest_title_1030220135000000] 혁진의 어느 날
+[quest_title_1030220247100000] 궁극코스 단델의 어느 날
+[quest_title_1030307001001000] 새로운 세상 파시오!
+[quest_title_1030307001001010] 운석의 정체
+[quest_title_1030307001001020] 떨어지는 거대한 그림자
+[quest_title_1030307001001030] 금랑과 협동
+[quest_title_1030307001001040] 무한다이노와 유대의 힘
+[quest_title_1030307001001050] 최강의 형제
+[quest_title_1030307001001060] 튜토리얼 B다이맥스
+[quest_title_1030307001001070] VS 우리
+[quest_title_1030307001001080] VS 우리2
+[quest_title_1030307001001090] VS 우리3
+[quest_title_1030307001001100] VS 우리4
+[quest_title_1030307001001110] VS 금랑
+[quest_title_1030307001001120] VS 궁극코스 단델
+[quest_title_1030307001001130] VS 궁극코스 단델2
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -14163,6 +14576,61 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030306000601090] ＶＳ　石蘭３
 [quest_title_1030306000601100] ＶＳ　石蘭４
 [quest_title_1030430600105010] １天僅限１次的獎勵對戰！
+[quest_title_1030110000300100] 稱霸ＷＰＭ的人　前篇
+[quest_title_1030110000300200] 稱霸ＷＰＭ的人　中篇
+[quest_title_1030110000300300] ＶＳ　美極套裝赤紅隊
+[quest_title_1030110000300400] 稱霸ＷＰＭ的人　後篇
+[quest_title_1030110000300500] 牽絆與繼續下去的故事
+[quest_group_detail_100040] 稱霸ＷＰＭ的人
+[quest_group_title_10205000000] 夕絲
+[quest_group_title_100039] 第３０章
+[quest_group_title_10066010000] 鎯琊
+[quest_group_title_10067010000] 棘兒
+[quest_group_title_10068010000] 螺伯
+[quest_group_title_10150000000] 阿速
+[quest_group_title_10135000000] 花月
+[quest_group_title_10244000000] 赫普
+[quest_group_title_10247100000] 美極套裝丹帝
+[quest_title_1030307000601010] 交給本大爺！
+[quest_title_1030307000601020] 目標是最強王者
+[quest_title_1030430700114010] ＶＳ　飛行屬性拍組
+[quest_title_1030430700101010] ＶＳ　岩石屬性拍組
+[quest_title_1030430700118010] ＶＳ　水屬性拍組
+[quest_title_1030430700115010] ＶＳ　惡屬性拍組
+[quest_title_1030430700111010] ＶＳ　鋼屬性拍組
+[quest_title_1030430700108010] ＶＳ　妖精屬性拍組
+[quest_title_1030430700102010] ＶＳ　草屬性拍組
+[quest_title_1030430700109010] ＶＳ　格鬥屬性拍組
+[quest_title_1030430700100010] ＶＳ　一般屬性拍組
+[quest_title_1030430700103010] ＶＳ　電屬性拍組
+[quest_title_1030430700112010] ＶＳ　冰屬性拍組
+[quest_title_1030430700110010] ＶＳ　地面屬性拍組
+[quest_title_1030430700106010] ＶＳ　毒屬性拍組
+[quest_title_1030430700104010] ＶＳ　蟲屬性拍組
+[quest_title_1030430700116010] ＶＳ　幽靈屬性拍組
+[quest_title_1030430700113010] ＶＳ　超能力屬性拍組
+[quest_title_1030430700105010] ＶＳ　火屬性拍組
+[quest_title_1030220205000000] 某日的夕絲
+[quest_title_1030220066010000] 某日的鎯琊
+[quest_title_1030220067010000] 某日的棘兒
+[quest_title_1030220068010000] 某日的螺伯
+[quest_title_1030220150000000] 某日的阿速
+[quest_title_1030220135000000] 某日的花月
+[quest_title_1030220247100000] 某日的美極套裝丹帝
+[quest_title_1030307001001000] 新天地帕希歐！
+[quest_title_1030307001001010] 隕石的真面目
+[quest_title_1030307001001020] 墜落的巨大影子
+[quest_title_1030307001001030] 並肩作戰的奇巴納
+[quest_title_1030307001001040] 無極汰那與牽絆之力
+[quest_title_1030307001001050] 最強兄弟
+[quest_title_1030307001001060] 使用教學　拍組極巨化
+[quest_title_1030307001001070] ＶＳ　小優
+[quest_title_1030307001001080] ＶＳ　小優２
+[quest_title_1030307001001090] ＶＳ　小優３
+[quest_title_1030307001001100] ＶＳ　小優４
+[quest_title_1030307001001110] ＶＳ　奇巴納
+[quest_title_1030307001001120] ＶＳ　美極套裝丹帝
+[quest_title_1030307001001130] ＶＳ　美極套裝丹帝２
 
 ===========
 trainer_description_de.lsd
@@ -14690,6 +15158,38 @@ stärksten Gegner!
 [10245400000] Mary präsentiert sich cool und in Feierlaune! Zusammen
 mit Olangaar hat sie an ihrem Lächeln gearbeitet, um ihre
 Kunden in der Strandhütte willkommen zu heißen!
+[10066010000] Der Veranstalter der WPM hat nicht nur die künstliche
+Insel Passio angelegt, sondern ist auch der Prinz eines
+fremden Königreichs. Er ist sehr geschickt und schöpft im
+Kampf Stärke aus seiner Freundschaft mit Hoopa.
+[10067010000] Sie ist schon in jungem Alter in Lyers Gefolgschaft
+getreten und stellt sein Wohlergehen daher immer an
+erste Stelle. Trotz ihres lockeren Auftretens nimmt sie ihre
+Arbeit sehr ernst.
+[10068010000] Drival ist ein Gefolgsmann von Lyers Königsfamilie und
+der Vorsitzende des Organisationskomitees der WPM.
+Seine Gestalt wirkt einschüchternd, eigentlich ist er aber
+recht sentimental.
+[10135000000] Ulrich ist ein Mitglied der Top Vier in Hoenn, dessen
+Leidenschaft Pokémon-Kämpfen gilt. Der Ausgang eines
+Kampfes ist ihm dabei nicht wichtig. Er nimmt kein Blatt
+vor den Mund und kann dadurch etwas schroff wirken, ist
+aber im Kern eine höfliche Person.
+[10150000000] Dieser Arenaleiter aus Johto setzt Flug-Pokémon ein. Er
+ist sehr ernst und manchmal sturköpfig. Sein Ziel besteht
+darin, ein angesehener Trainer wie sein Vater zu werden.
+[10205000000] Die Drittgeborene der vier Kampf-Châtelaine-Schwestern
+zeichnet sich durch ein sehr schüchternes Wesen und
+beachtliches Talent aus. Im Kampfhaus ist sie für
+Doppelkämpfe zuständig.
+[10244000000] Dieser Trainer aus Furlongham ist Delions jüngerer Bruder.
+Seine Erfahrungen während der Arena-Challenge haben
+ihn zu seinem neuen Traum einer Laufbahn als
+Pokémon-Professor inspiriert.
+[10247100000] Delion fühlt sich in seiner neuen Machtmontur überaus
+mystisch. Gemeinsam mit seinem mächtigen Partner
+Endynalos strebt er nach Stärke und neuen Perspektiven
+für seine Zukunft.
 [10045900000] Das Nesthäkchen unter den Arenaleitern von Johto ist ein
 wahrer Experte für Käfer-Pokémon und träumt von einer
 Karriere als Pokémon-Professor.
@@ -15190,6 +15690,30 @@ strongest opponents!
 [10245400000] Marnie’s looking cool and ready to party! She’s been
 practicing her smiles with Grimmsnarl to help welcome
 customers to the beachside pop-up eatery!
+[10066010000] Host of the PML and owner of the artificial island of Pasio,
+he is also the prince of a certain kingdom and a highly
+skilled individual. His bond with Hoopa fuels him in battle.
+[10067010000] Having served as one of Lear’s retainers since she was
+young, she always has Lear on her mind. Despite her
+unique, lighthearted tone, she’s actually a hard worker.
+[10068010000] Sawyer is one of the retainers for Lear’s royal family and
+head of the PML staff. He looks scary but is actually
+quite sentimental.
+[10135000000] One of the Hoenn League Elite Four, he loves Pokémon
+battles and doesn’t really care if he wins or loses. He has
+a rough way of speaking but is actually a polite person.
+[10150000000] This Flying-type Pokémon user and Johto Gym Leader has
+a serious demeanor and can be a bit hardheaded. He
+aims to become a great Trainer like his father.
+[10205000000] The third-born of the four Battle Chatelaine sisters, she
+has a very shy personality but very real skill. In the Battle
+Maison, she is in charge of Double Battles.
+[10244000000] This Trainer from the town of Postwick is Leon’s little
+brother. His experience in the Gym Challenge inspired him
+to chase a new dream of becoming a Pokémon Professor.
+[10247100000] Leon’s feeling keenly mystical in his new sygna suit. He is
+on a journey to find new strength and possibilities for his
+future along with his powerful partner, Eternatus.
 [10045900000] The youngest Gym Leader in Johto and a lover of bug
 Pokémon, he has great knowledge of Bug types and
 wants to become a Pokémon Professor.
@@ -15781,6 +16305,34 @@ enemigos más escurridizos.
 [10245400000] Roxy se ha puesto su ropa más alegre y está lista para el
 verano. Está practicando su sonrisa con Grimmsnarl para
 recibir a los clientes en el chiringuito.
+[10066010000] El fundador del World Pokémon Masters y propietario de
+la isla artificial de Passio es también el príncipe de un
+reino lejano y un Entrenador de gran pericia. Su vínculo
+con Hoopa le confiere aún más fuerza en los combates.
+[10067010000] Ha servido a Alik desde que era pequeña y antepone
+su jefe a todo lo demás. Su actitud despreocupada e
+impertinente esconde una faceta muy trabajadora.
+[10068010000] Sirviente y guardaespaldas de Alik y de la familia real, 
+también dirige el comité organizador del WPM. A pesar
+de su aspecto amenazador, es un alma sensible.
+[10135000000] Miembro del Alto Mando de la Liga Pokémon de Hoenn
+al que le gusta tanto combatir que no le importa si gana
+o pierde. A pesar de sus pintas, es muy amable.
+[10150000000] Líder de Gimnasio de Johto que se especializa en el tipo
+Volador. Serio y obstinado, aspira a llegar a la altura de
+su admirado padre como Entrenador.
+[10205000000] Es la tercera de las cuatro hermanas conocidas como las
+Damas del Combate. Posee una personalidad tímida y
+titubeante, pero no carece de pericia al luchar. Se ocupa
+de los Combates Dobles en la Mansión Batalla.
+[10244000000] Entrenador de Pueblo Yarda y hermano menor de Lionel.
+A raíz de sus aventuras durante el desafío de los
+gimnasios, ha encontrado su vocación de convertirse
+en Profesor Pokémon.
+[10247100000] Con el aire místico que le proporciona su Traje Summum,
+Lionel se embarca en una nueva aventura en busca de
+fuerza y un futuro rebosante de posibilidades junto al
+poderoso Eternatus.
 [10045900000] Líder de Gimnasio de Johto y amante de los Pokémon de
 tipo Bicho. A pesar de su corta edad, sabe mucho acerca
 de los Pokémon y su sueño es llegar a ser Profesor
@@ -16303,6 +16855,39 @@ les plus forts de ses adversaires !
 Elle s'entraîne à sourire avec Angoliath pour
 être fin prête à accueillir tous les clients
 de la paillote de plage où elle travaille cet été.
+[10066010000] Le créateur du WPM et propriétaire de l'île artificielle
+de Passio. Prince d'un pays lointain, il est également
+extrêmement doué. Les liens profonds qu'il entretient
+avec Hoopa lui donnent la volonté de se livrer
+entièrement lors des combats.
+[10067010000] Ayant été la domestique d'Alexis depuis sa plus tendre
+enfance, ce dernier occupe une place importante dans
+son cœur. Malgré sa personnalité unique et sa nature
+désinvolte, elle accomplit son travail avec assiduité.
+[10068010000] Un des plus fidèles employés de la famille royale d'Alexis,
+qui est également à la tête du comité d'organisation
+du WPM. Malgré son physique imposant,
+il a la larme facile.
+[10135000000] Un membre du Conseil 4 de Hoenn, qui adore les combats
+Pokémon mais n'accorde que peu d'importance
+au résultat. Il semble quelque peu intimidant,
+mais est en réalité très poli.
+[10150000000] Un Champion d'Arène de Johto spécialiste des Pokémon
+Vol. Très sérieux, il peut également se montrer têtu.
+Son objectif est de devenir un aussi bon Dresseur
+que son père.
+[10205000000] La troisième Châtelaine Combat. Plutôt effacée et timide
+mais également extrêmement talentueuse.
+Elle est en charge des Combats Duo
+à la Maison de Combat.
+[10244000000] Un Dresseur originaire de Paddoxton et le petit frère
+de Tarak, le Maître de Galar. Sa participation
+au Défi des Arènes lui a ouvert les yeux quant
+à son véritable rêve : devenir Professeur Pokémon.
+[10247100000] Tarak est extrêmement intrigant dans son Look Ultime.
+Aux côtés du puissant Éthernatos, il s'embarque
+dans une nouvelle aventure en quête de puissance
+et d'un avenir plein de possibilités.
 [10045900000] Ce Champion, le plus jeune de Johto, est fan du type
 Insecte et en connaît tous les secrets. Il espère devenir
 Professeur Pokémon.
@@ -16846,6 +17431,31 @@ più temibili!
 [10245400000] Mary indossa un abito fresco e vivace, e si esercita
 a sorridere insieme a Grimmsnarl per accogliere i clienti
 del chiosco sulla spiaggia!
+[10066010000] Proprietario dell'isola artificiale di Pasio e organizzatore
+del WPM, è un talentuoso principe che lotta con fervore
+grazie al suo legame con Hoopa.
+[10067010000] Al servizio di Kelian sin da giovanissima, tiene a lui
+con tutta se stessa. A sentirla parlare potrebbe sembrare
+una persona un po' superficiale, ma in realtà lavora sodo.
+[10068010000] Fedele servitore di Kelian e della sua famiglia, nonché
+direttore del comitato organizzatore del WPM. A prima
+vista può sembrare minaccioso, ma in realtà ha il pianto
+facile.
+[10135000000] Membro dei Superquattro della Lega Pokémon di Hoenn,
+adora le lotte a prescindere dal risultato. Si esprime
+in modo un po' brusco, ma ha un'indole gentile.
+[10150000000] Capopalestra di Johto specializzato nel tipo Volante,
+è molto serio e a volte un po' testardo. Mira a diventare
+un grande Allenatore come suo padre.
+[10205000000] La terza delle quattro Dame della lotta, nonché la più
+timida. Ha molto talento e si occupa delle Lotte in Doppio
+all'interno della Villa Lotta.
+[10244000000] Allenatore di Furlongham e fratello minore di Dandel,
+dopo aver affrontato la Sfida delle Palestre, ha trovato
+una nuova aspirazione: diventare un Professore Pokémon.
+[10247100000] Dandel in Costumax è avvolto da un'aura di mistero
+e lotta a fianco del potentissimo Eternatus in cerca
+di nuovi orizzonti e di una forza rinnovata.
 [10045900000] È il Capopalestra più giovane di Johto e la sa lunga sui
 Pokémon di tipo Coleottero, che adora. Da grande
 vorrebbe fare il Professore.
@@ -17345,6 +17955,30 @@ trainer_description_ja.lsd
 [10245400000] クールに　ノリノリで　キメた　マリィ。
 海の家の　仕事で　お客さんを　迎えるために
 オーロンゲと　一緒に　笑顔の　練習中。
+[10066010000] ＷＰＭの　主催者であり　人工島パシオの　所有者。
+とある国の　王子で　その実力は　折り紙つき。
+フーパと　築いた　きずなを　胸に　戦う。
+[10067010000] 幼い頃から　ライヤーに　仕えてきた　家臣。
+いつも　ライヤーのことを　第一に　考えている。
+独特な　軽い口調とは　裏腹に　努力家だ。
+[10068010000] ライヤーの　王家に　仕える　家臣で
+ＷＰＭ運営委員会の　代表も　務めている。
+みためは　怖いが　涙もろい。
+[10135000000] ホウエン地方　ポケモンリーグ　四天王の　ひとり。
+ポケモン勝負が大好きで　勝敗はあまりこだわらない。
+言葉は　荒いが　礼儀正しい　性格。
+[10150000000] ひこうポケモン使いで　ジョウトの　ジムリーダー。
+生真面目な　性格で　少し　頑固な　ところも。
+父親のような　立派なトレーナーを　目指している。
+[10205000000] バトルシャトレーヌ四姉妹の　三女。
+引っこみ思案な　性格だが　実力は　確かで
+バトルハウスでは　ダブルバトルを　担当。
+[10244000000] ハロンタウン出身の　トレーナーで　ダンデの弟。
+ジムチャレンジでの　様々な　できごとを　経て
+ポケモン博士になる　という　新たな夢を　みつけた。
+[10247100000] 鋭く　神秘的な　マジコスを　身につけた　ダンデ。
+強大な　力を持つ　ムゲンダイナと　共に
+己の　進むべき　未来と　強さを　追い求める。
 [10045900000] むしポケモンが　大好きな　ジョウト地方で　最年少の
 ジムリーダー。　むしポケモンの　知識が　豊富で
 将来は　ポケモン博士に　なりたいと　考えている。
@@ -17844,6 +18478,30 @@ trainer_description_ko.lsd
 [10245400000] 쿨하고 신나게 꾸민 마리.
 바다의 집에서 일하면서 손님을 맞이하기 위해
 오롱털과 함께 미소를 연습 중이다.
+[10066010000] WPM의 주최자이자 인공섬 파시오의 소유자.
+어느 나라의 왕자로 확실한 실력을 갖추고 있다.
+후파와 쌓은 유대를 가슴에 품고 싸운다.
+[10067010000] 어릴 때부터 라이어를 섬겨온 부하.
+언제나 라이어를 최우선으로 생각한다.
+독특하고 가벼운 말투와는 달리 노력가다.
+[10068010000] 라이어의 왕가를 섬기는 부하이며
+WPM 운영위원회의 대표도 맡고 있다.
+무서운 겉모습과 달리 눈물이 많다.
+[10135000000] 호연지방 포켓몬리그의 사천왕 중 한 명.
+포켓몬 승부를 매우 좋아하고 승패에는 별로 구애되지 않는다.
+말투는 거칠지만 예의 바른 성격이다.
+[10150000000] 비행포켓몬 전문가이자 성도지방의 체육관 관장.
+고지식한 성격으로 약간 완고한 면도 있다.
+아버지 같은 훌륭한 트레이너가 되는 것이 목표다.
+[10205000000] 배틀샤틀레느 네 자매 중 셋째.
+소극적인 성격이지만 실력은 확실하다.
+배틀하우스에서는 더블배틀을 담당하고 있다.
+[10244000000] 펄롱마을 출신 트레이너로 단델의 동생이다.
+체육관 챌린지를 하며 다양한 일을 겪고
+포켓몬 박사가 되겠다는 새로운 꿈을 발견했다.
+[10247100000] 날카롭고 신비로운 궁극코스를 입은 단델.
+강력한 힘을 가진 무한다이노와 함께
+자신이 나아가야 할 미래와 강함을 추구한다.
 [10045900000] 벌레포켓몬을 정말 좋아하는 성도지방 최연소 체육관 관장.
 벌레포켓몬에 대한 지식이 풍부하고
 장래에는 포켓몬 박사가 되고 싶어 한다.
@@ -18342,6 +19000,30 @@ trainer_description_zh-TW.lsd
 [10245400000] 打扮得又酷又帶勁兒的瑪俐。
 為了完成在海邊小屋接待客人的工作，
 正和長毛巨魔一起練習露出笑容。
+[10066010000] ＷＰＭ的主辦人與人工島帕希歐的主人。
+他也是某國的王子，其實力無庸置疑。
+他將懷抱著與胡帕建立起的牽絆去戰鬥。
+[10067010000] 她從小就是服侍鎯琊的家臣，
+總是把鎯琊的事情擺在第一位。
+在獨特的輕佻語氣之下，其實是個很勤奮的人。
+[10068010000] 他是服侍鎯琊的王室家臣，
+也是ＷＰＭ主辦單位的理事長。
+外表雖可怕，卻是個容易掉眼淚的人。
+[10135000000] 豐緣地區寶可夢聯盟的四天王之一。
+他很喜歡寶可夢對戰，並不拘泥於勝敗。
+雖然講話不加修飾，但是個很有禮貌的人。
+[10150000000] 飛行屬性寶可夢行家，城都的道館館主。
+個性一本正經，也有一點頑固。
+目標是成為像他父親一樣傑出的訓練家。
+[10205000000] 對戰女城主四姐妹中的三女。
+性格內向，但實力貨真價實，
+在對戰屋中負責雙打對戰。
+[10244000000] 來自化朗鎮的訓練家，是丹帝的弟弟。
+透過在道館挑戰中累積的各種經驗，
+他找到了成為寶可夢博士這個全新的夢想。
+[10247100000] 身穿風格犀利且色彩神秘的美極套裝的丹帝。
+他與擁有強大力量的無極汰那一起
+追求屬於自己的未來與強大的實力。
 [10045900000] 喜歡蟲屬性寶可夢，城都地區年紀最小的
 道館館主。擁有豐富的蟲屬性寶可夢知識。
 將來想要成為寶可夢博士。
@@ -18479,11 +19161,13 @@ trainer_name_de.lsd
 [ch0131] Citro
 [ch0132] Lauro
 [ch0133] Silber
+[ch0135] Ulrich
 [ch0136] Platan
 [ch0137] Eich
 [ch0140] Giovanni
 [ch0148] Jens
 [ch0149] Kiawe
+[ch0150] Falk
 [ch0151] Lamina
 [ch0153] Frosina
 [ch0157] Valerie
@@ -18501,10 +19185,12 @@ trainer_name_de.lsd
 [ch0195] G-Cis
 [ch0196] Flordelis
 [ch0198] Lotte
+[ch0205] Soir
 [ch0215] Xenia
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0244] Hop
 [ch0245] Mary
 [ch0247] Delion
 [ch0249] Kate
@@ -18645,11 +19331,13 @@ trainer_name_en.lsd
 [ch0131] Clemont
 [ch0132] Alder
 [ch0133] Silver
+[ch0135] Sidney
 [ch0136] Professor Sycamore
 [ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0148] Morty
 [ch0149] Kiawe
+[ch0150] Falkner
 [ch0151] Fantina
 [ch0153] Glacia
 [ch0157] Valerie
@@ -18667,10 +19355,12 @@ trainer_name_en.lsd
 [ch0195] Ghetsis
 [ch0196] Lysandre
 [ch0198] Lucy
+[ch0205] Evelyn
 [ch0215] Lisia
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0244] Hop
 [ch0245] Marnie
 [ch0247] Leon
 [ch0249] Nessa
@@ -18811,11 +19501,13 @@ trainer_name_es.lsd
 [ch0131] Lem
 [ch0132] Mirto
 [ch0133] Plata
+[ch0135] Sixto
 [ch0136] Ciprés
 [ch0137] Oak
 [ch0140] Giovanni
 [ch0148] Morti
 [ch0149] Kiawe
+[ch0150] Pegaso
 [ch0151] Fantina
 [ch0153] Nívea
 [ch0157] Valeria
@@ -18833,10 +19525,12 @@ trainer_name_es.lsd
 [ch0195] Ghechis
 [ch0196] Lysson
 [ch0198] Fortunia
+[ch0205] Vésper
 [ch0215] Ariana
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0244] Paul
 [ch0245] Roxy
 [ch0247] Lionel
 [ch0249] Cathy
@@ -18977,11 +19671,13 @@ trainer_name_fr.lsd
 [ch0131] Lem
 [ch0132] Goyah
 [ch0133] Silver
+[ch0135] Damien
 [ch0136] Platane
 [ch0137] Chen
 [ch0140] Giovanni
 [ch0148] Mortimer
 [ch0149] Kiawe
+[ch0150] Albert
 [ch0151] Kiméra
 [ch0153] Glacia
 [ch0157] Valériane
@@ -18999,10 +19695,12 @@ trainer_name_fr.lsd
 [ch0195] Ghetis
 [ch0196] Lysandre
 [ch0198] Charline
+[ch0205] Vesper
 [ch0215] Atalante
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0244] Nabil
 [ch0245] Rosemary
 [ch0247] Tarak
 [ch0249] Donna
@@ -19143,11 +19841,13 @@ trainer_name_it.lsd
 [ch0131] Lem
 [ch0132] Nardo
 [ch0133] Argento
+[ch0135] Fosco
 [ch0136] Professor Platan
 [ch0137] Professor Oak
 [ch0140] Giovanni
 [ch0148] Angelo
 [ch0149] Kawe
+[ch0150] Valerio
 [ch0151] Fannie
 [ch0153] Frida
 [ch0157] Valérie
@@ -19165,10 +19865,12 @@ trainer_name_it.lsd
 [ch0195] Ghecis
 [ch0196] Elisio
 [ch0198] Fortunata
+[ch0205] Vespera
 [ch0215] Orthilla
 [ch0240] Jessie
 [ch0241] James
 [ch0243] Gloria
+[ch0244] Hop
 [ch0245] Mary
 [ch0247] Dandel
 [ch0249] Azzurra
@@ -19309,11 +20011,13 @@ trainer_name_ja.lsd
 [ch0131] シトロン
 [ch0132] アデク
 [ch0133] シルバー
+[ch0135] カゲツ
 [ch0136] プラターヌ
 [ch0137] オーキド
 [ch0140] サカキ
 [ch0148] マツバ
 [ch0149] カキ
+[ch0150] ハヤト
 [ch0151] メリッサ
 [ch0153] プリム
 [ch0157] マーシュ
@@ -19331,10 +20035,12 @@ trainer_name_ja.lsd
 [ch0195] ゲーチス
 [ch0196] フラダリ
 [ch0198] アザミ
+[ch0205] ルスワール
 [ch0215] ルチア
 [ch0240] ムサシ
 [ch0241] コジロウ
 [ch0243] ユウリ
+[ch0244] ホップ
 [ch0245] マリィ
 [ch0247] ダンデ
 [ch0249] ルリナ
@@ -19475,11 +20181,13 @@ trainer_name_ko.lsd
 [ch0131] 시트론
 [ch0132] 노간주
 [ch0133] 실버
+[ch0135] 혁진
 [ch0136] 플라타느
 [ch0137] 오박사
 [ch0140] 비주기
 [ch0148] 유빈
 [ch0149] 키아웨
+[ch0150] 비상
 [ch0151] 멜리사
 [ch0153] 미혜
 [ch0157] 마슈
@@ -19497,10 +20205,12 @@ trainer_name_ko.lsd
 [ch0195] 게치스
 [ch0196] 플라드리
 [ch0198] 다슬
+[ch0205] 르수아르
 [ch0215] 루티아
 [ch0240] 로사
 [ch0241] 로이
 [ch0243] 우리
+[ch0244] 호브
 [ch0245] 마리
 [ch0247] 단델
 [ch0249] 야청
@@ -19641,11 +20351,13 @@ trainer_name_zh-TW.lsd
 [ch0131] 希特隆
 [ch0132] 阿戴克
 [ch0133] 小銀
+[ch0135] 花月
 [ch0136] 布拉塔諾
 [ch0137] 大木
 [ch0140] 阪木
 [ch0148] 松葉
 [ch0149] 卡奇
+[ch0150] 阿速
 [ch0151] 梅麗莎
 [ch0153] 波妮
 [ch0157] 瑪綉
@@ -19663,10 +20375,12 @@ trainer_name_zh-TW.lsd
 [ch0195] 魁奇思
 [ch0196] 弗拉達利
 [ch0198] 小薊
+[ch0205] 夕絲
 [ch0215] 琉琪亞
 [ch0240] 武藏
 [ch0241] 小次郎
 [ch0243] 小優
+[ch0244] 赫普
 [ch0245] 瑪俐
 [ch0247] 丹帝
 [ch0249] 露璃娜
@@ -19707,6 +20421,7 @@ common_widget_de.lsd
 [common_widget/cell_042] × [Digit:3digits ]
 [common_widget/cell_043] Im Gang
 [common_widget/cell_045] 6★ EX
+[common_widget/cell_046] Nicht im Besitz
 [common_widget/button_001] OK
 [common_widget/button_002] Ja
 [common_widget/button_003] Nein
@@ -20210,6 +20925,7 @@ common_widget_en.lsd
 [common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/cell_043] In progress
 [common_widget/cell_045] 6★ EX
+[common_widget/cell_046] Not Acquired
 [common_widget/button_001] OK
 [common_widget/button_002] Yes
 [common_widget/button_003] No
@@ -20671,6 +21387,7 @@ common_widget_es.lsd
 [common_widget/cell_042] × [Digit:3digits ]
 [common_widget/cell_043] En curso
 [common_widget/cell_045] 6★ EX
+[common_widget/cell_046] No obtenidos
 [common_widget/button_001] Vale
 [common_widget/button_002] Sí
 [common_widget/button_003] No
@@ -21145,6 +21862,7 @@ common_widget_fr.lsd
 [common_widget/cell_042] × [Digit:3digits ]
 [common_widget/cell_043] En cours
 [common_widget/cell_045] 6★ EX
+[common_widget/cell_046] Non obtenu
 [common_widget/button_001] OK
 [common_widget/button_002] Oui
 [common_widget/button_003] Non
@@ -21633,6 +22351,7 @@ common_widget_it.lsd
 [common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/cell_043] Sfida in corso
 [common_widget/cell_045] 6★ EX
+[common_widget/cell_046] Non ce l'hai
 [common_widget/button_001] Ok
 [common_widget/button_002] Sì
 [common_widget/button_003] No
@@ -22104,6 +22823,7 @@ common_widget_ja.lsd
 [common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/cell_043] 挑戦中
 [common_widget/cell_045] ★6EX
+[common_widget/cell_046] 未所持
 [common_widget/button_001] OK
 [common_widget/button_002] はい
 [common_widget/button_003] いいえ
@@ -22505,7 +23225,7 @@ HARDクリアで解放
 [Name:PokemonName ]が　うまれた！
 [common_widget/egg_detail_001] ニックネームを入力してください
 [common_widget/egg_detail_002] ※ニックネームはあとから変更できます
-[common_widget/egg_detail_003] ニックネーム入力
+[common_widget/egg_detail_003] 
 [common_widget/rank_001] プレイヤーランク
 [common_widget/rank_002] 次のプレイヤーランクまであと
 [common_widget/rank_003] ランクアップ
@@ -22584,6 +23304,7 @@ common_widget_ko.lsd
 [common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/cell_043] 도전 중
 [common_widget/cell_045] ★6EX
+[common_widget/cell_046] 미보유
 [common_widget/button_001] OK
 [common_widget/button_002] 네
 [common_widget/button_003] 아니요
@@ -23060,6 +23781,7 @@ common_widget_zh-TW.lsd
 [common_widget/cell_042] ×[Digit:3digits ]
 [common_widget/cell_043] 挑戰中
 [common_widget/cell_045] ★6EX
+[common_widget/cell_046] 尚未持有
 [common_widget/button_001] OK
 [common_widget/button_002] 是
 [common_widget/button_003] 否
@@ -25798,6 +26520,21 @@ um mehr zu erfahren.
 [home/home_031] Kampfvilla
 [home/home_032] Ein Meisterfestival läuft!
 [home/home_033] Ein PokéFestival läuft!
+[home/home_034] Die folgende zeitlich begrenzte
+Gefährtensuche ist nun verfügbar:
+[Name:BannerText ]
+
+Schaue im Laden vorbei, um mehr zu
+erfahren.
+[home/home_035] Die folgenden zeitlich begrenzten
+Gefährtensuchen sind nun verfügbar:
+[Name:BannerText ]
+[Name:BannerText Idx="1" ]
+[Name:BannerText Idx="2" ]
+Schaue im Laden vorbei, um mehr zu
+erfahren.
+[home/home_036] Ticket-G-Suche
+[home/home_037] Ticket-G-Suche x10
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -26528,6 +27265,18 @@ Check out the shop for more details.
 [home/home_031] Battle Villa
 [home/home_032] Master Fair
 [home/home_033] Poké Fair
+[home/home_034] [Name:BannerText ]
+
+Available for a limited time!
+Check out the shop for more details.
+[home/home_035] [Name:BannerText ]
+[Name:BannerText Idx="1" ]
+[Name:BannerText Idx="2" ]
+
+Available for a limited time!
+Check out the shop for more details.
+[home/home_036] Ticket Scout
+[home/home_037] 10-Pair Ticket Scout
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -27223,6 +27972,19 @@ va a finalizar dentro de poco.
 [home/home_031] Residencia Batalla
 [home/home_032] ¡Pokéfest. maestro en curso!
 [home/home_033] ¡Pokéfestival en curso!
+[home/home_034] Este reclutamiento está disponible
+por tiempo limitado:
+"[Name:BannerText ]".
+¡Pásate por la tienda para saber más!
+[home/home_035] Estos reclutamientos están disponibles
+por tiempo limitado:
+"[Name:BannerText ]",
+"[Name:BannerText Idx="1" ]" y
+"[Name:BannerText Idx="2" ]".
+¡Pásate por la tienda para saber más!
+
+[home/home_036] Reclutamiento billete
+[home/home_037] Reclutamiento billete ×10
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -27936,6 +28698,20 @@ en savoir plus !
 [home/home_031] Villa de Combat
 [home/home_032] Master festival en cours !
 [home/home_033] Festival en cours !
+[home/home_034] Cet Appel Duo est disponible
+pour une durée limitée !
+« [Name:BannerText ] »
+Rendez-vous dans la boutique
+pour en savoir plus !
+[home/home_035] Ces Appels Duo sont disponibles
+pour une durée limitée !
+« [Name:BannerText ] »
+« [Name:BannerText Idx="1" ] »
+« [Name:BannerText Idx="2" ] »
+Rendez-vous dans la boutique
+pour en savoir plus !
+[home/home_036] Appel Duo avec Bons
+[home/home_037] 10 Appels Duo avec Bons
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -28688,6 +29464,20 @@ per approfittarne!
 [home/home_031] Residenza Lotta
 [home/home_032] Mastergala
 [home/home_033] Masterparty in corso!
+[home/home_034] È ora disponibile la seguente Unicerca
+limitata:
+"[Name:BannerText ]"
+
+Scoprila subito nel negozio!
+[home/home_035] Sono ora disponibili le seguenti
+Unicerche limitate:
+"[Name:BannerText ]"
+"[Name:BannerText Idx="1" ]"
+"[Name:BannerText Idx="2" ]"
+
+Scoprile subito nel negozio!
+[home/home_036] Unicerca con ticket
+[home/home_037] 10 ricerche Unità con ticket
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -29420,6 +30210,20 @@ Lv.[Digit:2digits ]で解放
 [home/home_031] バトルヴィラ
 [home/home_032] マスターフェス開催中
 [home/home_033] ポケマスフェス開催中
+[home/home_034] 時間限定で解放されるおとくなBサーチ
+「[Name:BannerText ]」
+が出現しました！
+
+さっそくショップに行ってみよう
+[home/home_035] 時間限定で解放されるおとくなBサーチ
+「[Name:BannerText ]」
+「[Name:BannerText Idx="1" ]」
+「[Name:BannerText Idx="2" ]」
+が出現しました！
+
+さっそくショップに行ってみよう
+[home/home_036] 無料10連開催中
+[home/home_037] 無料10連Bサーチ開催中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -30144,6 +30948,18 @@ Lv.[Digit:2digits ]에서 해방
 [home/home_031] 배틀빌라
 [home/home_032] 마스터페스티벌 개최 중
 [home/home_033] PM페스티벌 개최 중
+[home/home_034] 시간 한정으로 해방되는 스페셜 B서치
+"[Name:BannerText ]"[Kor:Particle char="ga" ]
+출현했습니다!
+바로 숍으로 가봅시다
+[home/home_035] 시간 한정으로 해방되는 스페셜 B서치
+"[Name:BannerText ]"
+"[Name:BannerText Idx="1" ]"
+"[Name:BannerText Idx="2" ]"[Kor:Particle char="ga" ]
+출현했습니다!
+바로 숍으로 가봅시다
+[home/home_036] 무료 10연속 개최 중
+[home/home_037] 무료 10연속 B서치 개최 중
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -30839,6 +31655,18 @@ home_zh-TW.lsd
 [home/home_031] 對戰莊園
 [home/home_032] 大師盛典舉辦中
 [home/home_033] 群星盛典舉辦中
+[home/home_034] 限時開放的超值拍組搜尋
+「[Name:BannerText ]」
+出現了！
+快去商店看看吧！
+[home/home_035] 限時開放的超值拍組搜尋
+「[Name:BannerText ]」
+「[Name:BannerText Idx="1" ]」
+「[Name:BannerText Idx="2" ]」
+出現了！
+快去商店看看吧！
+[home/home_036] 免費連續１０次現正舉辦中
+[home/home_037] 免費連續１０次拍組搜尋現正舉辦中
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -31324,9 +32152,10 @@ Beliebige Gefährtensuche
 [shop/scout_015] Erscheinungsrate
 [shop/scout_017] Gefährtensuche-Punkte
 [shop/scout_018] Aktuelle Gefährtensuche-Punkte
-[shop/scout_019] Wenn du das Punkte-Maximum
-erreichst, kannst du nach einem
-beliebigen Gefährtengespann suchen!
+[shop/scout_019] Erhalte Punkte aus der Gefährtensuche.
+Erreichst du das Maximum an Punkten,
+kannst du ein Gefährtengespann
+deiner Wahl in dein Team aufnehmen.
 [shop/scout_020] Mit Bonus
 [shop/scout_021] Bestätigen
 [shop/scout_022] [Digit:4digits ] Juwelen einsetzen,
@@ -31674,11 +32503,23 @@ der Gefährten ab.
   Namen der Attacke.
 • Es kann bei einigen Trainern auch vorkommen, dass
   keine Stimme vorhanden ist.
-Hinweis: Gefährtenattacken werden in ihrer
-ursprünglichen Version gezeigt und bleiben in ihrer
-Darstellung von etwaigen Veränderungen infolge der
-Entwicklung eines Pokémon oder der Erfüllung
-bestimmter Bedingungen im Kampf unbeeinflusst.
+
+Hinweis: Ändert sich die GA eines Pokémon durch seine
+Entwicklung oder die Erfüllung von Kampfbedingungen,
+wird sie in ihrer ursprünglichen Version angezeigt.
+
+Hinweis: Erhältst du in der G-Suche Gefährten mit der
+Fähigkeit zur Dynamaximierung, wird ihre typische
+Gefährten-Dynamax-Attacke angezeigt.
+[shop/scout_150] G-Suche-Pkt.
+[shop/scout_151] G-Dynamax
+[shop/scout_152] Mega-Entwicklung
+[shop/scout_153] Gefährten-
+Dynamax
+[shop/scout_154] Mit G-Suchetickets x10 kannst du dir
+kostenlos Gefährten ins Team holen!
+[shop/scout_155] Gefährten werden mit aktuellem Attacken-Level angezeigt.
+[shop/scout_156] Gefährtensuche x10
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -31894,8 +32735,10 @@ Scout the sync pair you want!
 [shop/scout_015] Offering Rate
 [shop/scout_017] Scout Points
 [shop/scout_018] Current Scout Points
-[shop/scout_019] When you reach the max, you can
-scout any one sync pair you want!
+[shop/scout_019] Each time you scout for sync pairs,
+you’ll collect scout points. When you
+reach the max, you can scout any one
+sync pair you want!
 [shop/scout_020] Bonus
 [shop/scout_021] Confirm
 [shop/scout_022] Do you want to use [Digit:4digits ] gems
@@ -32118,6 +32961,17 @@ Note: Some Trainers may not have voice-over.
 Sync moves are shown as they appear prior to any
 changes that can be triggered by Pokémon Evolution
 or meeting certain requirements mid-battle.
+For sync pairs capable of using max moves, a select
+max move is shown to represent their capabilities.
+[shop/scout_150] Scout Points
+[shop/scout_151] Dynamax Sync Pair
+[shop/scout_152] Mega Evolution
+[shop/scout_153] Dynamax
+Sync Pairs
+[shop/scout_154] You can team up with sync pairs at no
+cost using 10-Pair Scout Tickets!
+[shop/scout_155] Note: Sync pairs are shown at current move levels.
+[shop/scout_156] 10-Pair Scout
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -32334,9 +33188,10 @@ reclut.
 [shop/scout_015] Tasas de aparición
 [shop/scout_017] Puntos reclutamiento
 [shop/scout_018] Puntos de reclutamiento actuales
-[shop/scout_019] Cuando alcances el máximo, podrás
-reclutar a la pareja de compis que
-elijas.
+[shop/scout_019] Consigue puntos al reclutar compis.
+Si consigues alcanzar el máximo,
+podrás reclutar a la pareja de compis
+que elijas.
 [shop/scout_020] ¡Con bonus!
 [shop/scout_021] Confirmar
 [shop/scout_022] ¿Quieres gastar [Digit:4digits ] joyas en diez reclutamientos de compis?
@@ -32477,9 +33332,8 @@ de la fase
 [shop/scout_128] Detalles de los regalos
 [shop/scout_129] Confirmar
 [shop/scout_130] Con regalo
-[shop/scout_131] Ahora puedes realizar el siguiente
-reclutamiento desde el menú de
-reclutamiento billete:
+[shop/scout_131] Ahora puedes realizar este reclutamiento
+desde el menú de reclutamiento billete:
 [Name:Scout ].
 [shop/scout_132] ¡Puedes usar billetes para conseguir compis de 5★!
 [shop/scout_133] ¿Quieres usar [Name:Item ] ×[Digit:2digits ] para realizar el [Name:Scout ] [Digit:2digits Idx="1" ] ve[ES:Qty Ref="1" S="z" P="ces" ]?
@@ -32514,13 +33368,24 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 [shop/scout_148] Puedes ver vídeos de los movimientos
 compi de los compis destacados antes
 de desbloquearlos.
-[shop/scout_149] En el juego también se incluirán los nombres de los
-movimientos y las voces del Entrenador (puede que
+[shop/scout_149] Nota: En el juego también se incluirán los nombres de
+los movimientos y las voces del Entrenador (puede que
 algunos Entrenadores no tengan voz). En el vídeo
 siempre se mostrará el movimiento compi original,
 sin tener en cuenta ningún cambio ocasionado por
 la evolución de un Pokémon o por determinadas
-situaciones de combate.
+situaciones de combate. Asimismo, si el Pokémon es
+capaz de dinamaxizarse, se mostrará un movimiento
+compi Dinamax representativo.
+[shop/scout_150] Puntos recl.
+[shop/scout_151] Compis Dinamax
+[shop/scout_152] Megaevolución
+[shop/scout_153] Compis
+Dinamax
+[shop/scout_154] ¡Puedes reclutar compis sin coste
+usando un Billete Reclutamiento ×10!
+[shop/scout_155] Nota: Los movimientos se muestran en su nivel actual.
+[shop/scout_156] Reclutamiento billete ×10
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -32732,9 +33597,10 @@ Appelez le Duo de votre choix !
 [shop/scout_015] Chances d'obtention
 [shop/scout_017] Points d'Appel Duo
 [shop/scout_018] Vos Points d'Appel Duo :
-[shop/scout_019] Quand vous aurez atteint le maximum
-de points, vous pourrez appeler le Duo
-de votre choix.
+[shop/scout_019] Vous pouvez gagner des Points d'Appel
+Duo en effectuant des Appels Duo. Si
+vous atteignez le nombre maximum
+de points, vous pourrez choisir un Duo.
 [shop/scout_020] Bonus inclus
 [shop/scout_021] Confirmation
 [shop/scout_022] Voulez-vous utiliser [Digit:4digits ] Diamants
@@ -32912,14 +33778,27 @@ Les Master Duos sont des Duos disponibles pendant la durée du Master festival. 
 Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 [shop/scout_148] Permet de voir en vidéo les capacités
 Duo des Duos à l'affiche.
-[shop/scout_149] En jeu, le nom de la capacité et une
-réplique du Dresseur apparaîtront dans
-chaque vidéo (certains Dresseurs
-resteront toutefois muets).
+[shop/scout_149] En jeu, le nom de la capacité ainsi que la réplique
+du Dresseur apparaîtront dans chaque vidéo
+(certains Dresseurs resteront toutefois muets).
+
 De plus, lorsqu'une capacité Duo subit un changement
 suite à l'évolution d'un Pokémon ou lorsque certaines
 conditions de combat sont remplies, c'est l'animation
-de la capacité Duo d'origine qui sera rejouée.
+de la capacité Duo d'origine qui sera jouée.
+
+(Si un Duo Dynamax est obtenu lors d'un Appel Duo,
+c'est sa capacité Duo Dynamax qui sera jouée.)
+[shop/scout_150] Pts Appel D
+[shop/scout_151] Duo Dynamax
+[shop/scout_152] Méga-Évolution
+[shop/scout_153] Les Duos
+Dynamax
+[shop/scout_154] Vous pouvez faire équipe avec des Duos
+sans frais avec des Bons 10 Appels Duo !
+[shop/scout_155] Les Duos s'affichent avec le niveau actuel de leurs capacités.
+[shop/scout_156] Appel Duo avec
+Bons 10 Appels Duo
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -33139,8 +34018,10 @@ Cerca un'Unità a piacere!
 [shop/scout_015] Tasso comparsa
 [shop/scout_017] Punti Unicerca
 [shop/scout_018] I tuoi punti Unicerca attuali
-[shop/scout_019] Quando raggiungerai il massimo dei
-punti, potrai cercare un'Unità a scelta!
+[shop/scout_019] Puoi accumulare punti effettuando
+Unicerche. Una volta raggiunto
+il massimo dei punti, potrai ottenere
+un'Unità a scelta.
 [shop/scout_020] Bonus incluso
 [shop/scout_021] Conferma
 [shop/scout_022] Vuoi usare [Digit:4digits ] gemme per fare
@@ -33395,6 +34276,18 @@ Attenzione: alcuni Allenatori non hanno battute parlate.
 Se l'Unimossa cambia in seguito all'evoluzione
 del Pokémon o in base a certe condizioni durante
 la lotta, verrà riprodotta l'Unimossa originale.
+Se un'Unità VIP è anche un'Unità Dynamax, verrà
+riprodotta una mossa UniDynamax rappresentativa.
+[shop/scout_150] PU
+[shop/scout_151] Unità Dynamax
+[shop/scout_152] Megaevoluzione
+[shop/scout_153] Unità
+Dynamax
+[shop/scout_154] Puoi ottenere delle Unità senza costo
+utilizzando un Ticket 10 ricerche Unità!
+[shop/scout_155] Le Unità sono visualizzate al livello mosse attuale.
+[shop/scout_156] Unicerca con ticket:
+10 ricerche Unità
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -33617,9 +34510,10 @@ ONにしてください
 [shop/scout_015] 提供割合
 [shop/scout_017] バディーズサーチポイント
 [shop/scout_018] 現在のバディーズサーチポイント
-[shop/scout_019] マックスになると
-好きなバディーズ１体を
-サーチできます！
+[shop/scout_019] バディーズサーチをすると
+ポイントが貯まります
+マックスまで貯めると
+好きなバディーズが１組選べます
 [shop/scout_020] おまけ付き
 [shop/scout_021] 確認
 [shop/scout_022] ダイヤを[Digit:4digits ]個消費して
@@ -33871,6 +34765,16 @@ STEPによってはプレゼントが設定されている場合があります�
 ※トレーナーによってはボイスが無い場合があります
 ※ポケモンが進化する・バトル中に条件を満たす等で
 バディーズわざが変わる場合は変化前のものが再生されます
+※ピックアップバディーズがバディーズダイマックス可能なバディーズの場合、代表的なバディーズダイマックスわざが再生されます
+[shop/scout_150] Bサーチpt
+[shop/scout_151] Bダイマックス
+[shop/scout_152] メガシンカ
+[shop/scout_153] Bダイマックス
+とは
+[shop/scout_154] 無料１０連Ｂサーチチケットを使用して
+バディーズを獲得しよう！
+[shop/scout_155] ※表示しているわざレベルは、所持バディーズの現在の値です
+[shop/scout_156] チケット専用　無料１０連Ｂサーチ
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -34089,9 +34993,10 @@ ON으로 바꿔주십시오
 [shop/scout_015] 제공 확률
 [shop/scout_017] 버디즈서치 포인트
 [shop/scout_018] 현재 버디즈서치 포인트
-[shop/scout_019] 최대치가 되면
-좋아하는 버디즈 하나를
-찾을 수 있습니다!
+[shop/scout_019] 버디즈서치를 하면
+포인트가 모입니다
+최대치까지 모이면
+원하는 버디즈 하나를 선택할 수 있습니다
 [shop/scout_020] 추가 증정
 [shop/scout_021] 확인
 [shop/scout_022] 다이아를 [Digit:4digits ]개 사용하여
@@ -34365,6 +35270,16 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 ※트레이너에 따라서는 음성이 없는 경우도 있습니다
 ※포켓몬이 진화하거나 배틀 중에 특정 조건을 만족하는 등으로
 버디즈기술이 변하는 경우에는 변화하기 전 영상이 재생됩니다
+※픽업 버디즈가 버디즈 다이맥스를 할 수 있는 버디즈인 경우
+대표적인 버디즈다이맥스기술이 재생됩니다
+[shop/scout_150] B서치pt
+[shop/scout_151] B다이맥스
+[shop/scout_152] 메가진화
+[shop/scout_153] B다이맥스란?
+[shop/scout_154] 무료 10연속 B서치 티켓을 사용하여
+버디즈를 획득하자!
+[shop/scout_155] ※표시되고 있는 기술 레벨은 보유 중인 버디즈의 현재 수치입니다
+[shop/scout_156] 티켓 전용 무료 10연속 B서치
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -34573,8 +35488,10 @@ shop_zh-TW.lsd
 [shop/scout_015] 提供比例
 [shop/scout_017] 拍組搜尋點數
 [shop/scout_018] 目前的拍組搜尋點數
-[shop/scout_019] 點數全滿後
-即可搜尋１對喜歡的拍組！
+[shop/scout_019] 進行拍組搜尋
+即可累積點數
+點數全滿後
+可以選擇１對喜歡的拍組
 [shop/scout_020] 附贈品
 [shop/scout_021] 確認
 [shop/scout_022] 確定要消耗[Digit:4digits ]個鑽石
@@ -34789,6 +35706,16 @@ shop_zh-TW.lsd
 ※部分訓練家沒有配聲音
 ※拍組招式因寶可夢進化／對戰中滿足條件
 等因素改變時，會播放招式改變前的動畫
+※精選拍組為可拍組極巨化的拍組時，會播放其代表性的拍組極巨化招式動畫
+[shop/scout_150] 拍組搜尋點數
+[shop/scout_151] 拍組極巨化
+[shop/scout_152] 超級進化
+[shop/scout_153] 什麼是
+拍組極巨化
+[shop/scout_154] 使用免費連續１０次拍組搜尋券
+來獲得拍組吧！
+[shop/scout_155] ※顯示的招式等級為持有拍組目前的數值
+[shop/scout_156] 票券專用　免費連續１０次拍組搜尋
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選

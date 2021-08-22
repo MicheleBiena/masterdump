@@ -1,6 +1,6 @@
 {
     "champion_battle_option_description_2120_01": "Increases the strength of all opposing sync pairs\nby the equivalent of [Digit:6digits ] level(s).",
-    "champion_battle_option_description_2120_02": "At the start of battle, all opposing sync pairs\nbegin to gradually heal themselves.",
+    "champion_battle_option_description_2120_02": "At the start of battle, the Gradual Healing effect\nis applied to all opposing sync pairs.",
     "champion_battle_option_description_2120_03": "At the start of battle, the opponents’ field of play\ngains permanent physical damage reduction.",
     "champion_battle_option_description_2120_04": "At the start of battle, the opponents’ field of play\ngains permanent special damage reduction.",
     "champion_battle_option_description_2120_05": "At the start of battle, the opponents’ field of play\ngains permanent critical-hit defense.",
