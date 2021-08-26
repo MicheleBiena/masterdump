@@ -113,6 +113,7 @@
     "common_widget/dialog_074": "※기절 상태는 모두 회복하면 초기화됩니다",
     "common_widget/dialog_075": "최초에는 동료가 됩니다\n2번째 이후에는\n버디즈기술과 기술의 위력이 상승합니다",
     "common_widget/dialog_076": "※이 버디즈에게는\n버디즈 에피소드가 없습니다",
+    "common_widget/dialog_077": "이 화면에서 뒤로 가기 버튼은 사용할 수 없습니다",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",

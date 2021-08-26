@@ -88,8 +88,8 @@
     "10306003": "Tacticien (Rivaux)",
     "10310001": "Attaquant (Maîtres)",
     "10310003": "Tacticien (Maîtres)",
-    "10311001": "Attaquant (Gangsters)",
-    "10311003": "Tacticien (Gangsters)",
+    "10311001": "Attaquant (Organisation maléfique)",
+    "10311003": "Tacticien (Organisation maléfique)",
     "10401001": "Attaquant (Look Ultime)",
     "10401002": "Soutien (Look Ultime)",
     "10401003": "Tacticien (Look Ultime)",
@@ -206,4 +206,5 @@
     "19970003": "Tacticien (Voyageurs d'Alola)",
     "19980001": "Attaquant (Voyageurs de Galar)",
     "19980002": "Soutien (Voyageurs de Galar)",
+    "19960003": "Tacticien (Pouvoirs surnaturels)",
 }

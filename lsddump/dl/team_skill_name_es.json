@@ -88,8 +88,8 @@
     "10306003": "Sabotaje Rivales",
     "10310001": "Ataque Campeones",
     "10310003": "Sabotaje Campeones",
-    "10311001": "Ataque Equipo malvado",
-    "10311003": "Sabotaje Equipo malvado",
+    "10311001": "Ataque Equipo villano",
+    "10311003": "Sabotaje Equipo villano",
     "10401001": "Ataque Traje Summum",
     "10401002": "Apoyo Traje Summum",
     "10401003": "Sabotaje Traje Summum",
@@ -206,4 +206,5 @@
     "19970003": "Sabotaje Aventureros de Alola",
     "19980001": "Ataque Aventureros de Galar",
     "19980002": "Apoyo Aventureros de Galar",
+    "19960003": "Sabotaje Poderes ocultos",
 }

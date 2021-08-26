@@ -113,6 +113,7 @@
     "common_widget/dialog_074": "Note: Using a full recovery recovers fainted Pokémon.",
     "common_widget/dialog_075": "Sync pairs join your team the first time\nyou obtain them.\nFrom the second time on, their sync\nmoves and move level will level up.",
     "common_widget/dialog_076": "Note: This sync pair does not have a sync pair story.",
+    "common_widget/dialog_077": "The back button cannot be used on this screen.",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",
     "common_widget/trainer_detail_004": "MAX",

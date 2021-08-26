@@ -164,4 +164,6 @@
     "110": "挑戰「[Name:QuestTitle ]」，並在HP歸零的拍組數為[Digit:2digits ]對以下的情況下成功過關",
     "111": "編制[Digit:2digits Idx=\"1\" ]對以上擁有下列標籤的拍組，\n以[Digit:2digits Idx=\"2\" ]對以下的出發拍組數\n成功過關「[Name:QuestTitle ]」",
     "111_element": "・[Name:TeamSkillTag ]",
+    "112": "分別編制[Digit:2digits Idx=\"1\" ]對以上擁有下列標籤的拍組，\n並在HP歸零的拍組數為[Digit:2digits Idx=\"2\" ]對以下的情況下\n成功過關「[Name:QuestTitle ]」",
+    "112_element": "・[Name:TeamSkillTag ]",
 }

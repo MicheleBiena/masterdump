@@ -378,4 +378,6 @@
     "tutorial/tutorial_dynamax_text_001_01": "Some sync pairs have the ability to\nDynamax once per battle.",
     "tutorial/tutorial_dynamax_text_001_02": "Pressing the Dynamax button during a\nbattle will allow these sync pairs to\nuse their max moves.",
     "tutorial/tutorial_dynamax_text_001_03": "Use Dynamax sync pairs to your\nadvantage during battle! More details\non how to play can be found in Tips.",
+    "tutorial/tutorial_teamskill_01": "You can use skill spheres to level\nup your theme skills on this screen.",
+    "tutorial/tutorial_teamskill_02": "Theme skills activate when you form\na team with two or more sync pairs\nthat share the same theme.",
 }

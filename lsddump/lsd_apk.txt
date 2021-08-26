@@ -2478,6 +2478,42 @@ Dynamaximierung
 [quest_title_1030307001001110] Vs. Roy
 [quest_title_1030307001001120] Vs. MaMo-Delion
 [quest_title_1030307001001130] Vs. MaMo-Delion 2
+[quest_group_title_10118500000] Lilly (Jubiläum 2021)
+[quest_group_title_10089400000] N (Jubiläum 2021)
+[quest_group_title_10090500000] Troy (Jubiläum 2021)
+[quest_title_1030220118500000] Ein Tag mit Lilly
+[quest_title_1030220089400000] Ein Tag mit N
+[quest_title_1030220090500000] Ein Tag mit Troy
+[quest_title_1030430800201010] Angreifer-Intensivkurs 6
+[quest_title_1030430800202010] Taktiker-Intensivkurs 6
+[quest_title_1030430800203010] Helfer-Intensivkurs 6
+[quest_title_1030308000604010] Alola-Kameraden
+[quest_title_1030308000604020] Alola-Kameraden 2
+[quest_title_1030308000604030] Einall-Kameraden
+[quest_title_1030308000604040] Einall-Kameraden 2
+[quest_title_1030308000604050] Hoenn-Kameraden
+[quest_title_1030308000604060] Hoenn-Kameraden 2
+[quest_title_1030308000603020] Ns Traum
+[quest_title_1030308000603030] Lillys Wachstum
+[quest_title_1030308000603040] Troys Stärke
+[quest_title_1030308000603170] Güte im Herzen
+[quest_title_1030308000603180] Zwei Regionen, eine Legende
+[quest_title_1030308000603190] Treffen der Monde
+[quest_title_1030308000603200] Nicht von dieser Welt
+[quest_title_1030308000603210] Rayquaza im Doppelpack
+[quest_title_1030308000603010] Eine Einladung zum Fest
+[quest_title_1030308000603060] Vs. Selene
+[quest_title_1030308000603070] Vs. Selene 2
+[quest_title_1030308000603090] Vs. Rosy
+[quest_title_1030308000603100] Vs. Rosy 2
+[quest_title_1030308000603120] Vs. Lotta
+[quest_title_1030308000603130] Vs. Lotta 2
+[quest_title_1030430800402010] Täglicher Kampf um
+Geschenke
+[quest_title_1030430800401011] Spezieller Kampf um
+Geschenke
+[quest_title_1030430800300010] Die kecke Meerjungfrau
+[quest_group_title_10110001000] Misty (Kanto)
 
 ===========
 story_quest_name_en.lsd
@@ -4168,6 +4204,44 @@ story_quest_name_en.lsd
 [quest_title_1030307001001110] Challenge Raihan
 [quest_title_1030307001001120] Challenge Sygna Suit Leon: Part 1
 [quest_title_1030307001001130] Challenge Sygna Suit Leon: Part 2
+[quest_group_title_10118500000] Lillie
+(Anniversary 2021)
+[quest_group_title_10089400000] N
+(Anniversary 2021)
+[quest_group_title_10090500000] Steven
+(Anniversary 2021)
+[quest_title_1030220118500000] A Day with Lillie
+[quest_title_1030220089400000] A Day with N
+[quest_title_1030220090500000] A Day with Steven
+[quest_title_1030430800201010] Strike Drill 6
+[quest_title_1030430800202010] Tech Drill 6
+[quest_title_1030430800203010] Support Drill 6
+[quest_title_1030308000604010] Alola Buddies Unite: Part 1
+[quest_title_1030308000604020] Alola Buddies Unite: Part 2
+[quest_title_1030308000604030] Unova Buddies Unite: Part 1
+[quest_title_1030308000604040] Unova Buddies Unite: Part 2
+[quest_title_1030308000604050] Hoenn Buddies Unite: Part 1
+[quest_title_1030308000604060] Hoenn Buddies Unite: Part 2
+[quest_title_1030308000603020] N’s Dream
+[quest_title_1030308000603030] Lillie’s Evolution
+[quest_title_1030308000603040] Steven’s Strength
+[quest_title_1030308000603170] Quietly Wishing
+[quest_title_1030308000603180] Two Regions, Two Legends
+[quest_title_1030308000603190] Moon to Moon
+[quest_title_1030308000603200] Like a Meteorite
+[quest_title_1030308000603210] Double Rayquaza
+[quest_title_1030308000603010] You’re Invited!
+[quest_title_1030308000603060] Challenge Selene: Part 1
+[quest_title_1030308000603070] Challenge Selene: Part 2
+[quest_title_1030308000603090] Challenge Rosa: Part 1
+[quest_title_1030308000603100] Challenge Rosa: Part 2
+[quest_title_1030308000603120] Challenge Hilda: Part 1
+[quest_title_1030308000603130] Challenge Hilda: Part 2
+[quest_title_1030430800402010] Daily Present Battle
+[quest_title_1030430800401011] Special Present Battle
+[quest_title_1030430800300010] The Tomboyish Mermaid
+[quest_group_title_10110001000] Misty
+(Swimsuit)
 
 ===========
 story_quest_name_es.lsd
@@ -5970,6 +6044,48 @@ con nuevos vínculos
 [quest_title_1030307001001110] VS. Roy
 [quest_title_1030307001001120] VS. Lionel (Traje S)
 [quest_title_1030307001001130] VS. Lionel (Traje S) (2)
+[quest_group_title_10118500000] Lylia (Aniversario)
+[quest_group_title_10089400000] N (Aniversario)
+[quest_group_title_10090500000] Máximo (Aniversario)
+[quest_title_1030220118500000] Un día con Lylia
+[quest_title_1030220089400000] Un día con N
+[quest_title_1030220090500000] Un día con Máximo
+[quest_title_1030430800201010] Entrenamiento de Ataque 6
+[quest_title_1030430800202010] Entrenamiento de Sabotaje 6
+[quest_title_1030430800203010] Entrenamiento de Apoyo 6
+[quest_title_1030308000604010] Desafío con compis de Alola
+[quest_title_1030308000604020] Desafío con compis de
+Alola (2)
+[quest_title_1030308000604030] Desafío con compis de
+Teselia
+[quest_title_1030308000604040] Desafío con compis de
+Teselia (2)
+[quest_title_1030308000604050] Desafío con compis de Hoenn
+[quest_title_1030308000604060] Desafío con compis de
+Hoenn (2)
+[quest_title_1030308000603020] El sueño de N
+[quest_title_1030308000603030] El progreso de Lylia
+[quest_title_1030308000603040] El poder de Máximo
+[quest_title_1030308000603170] Desear la felicidad, a pesar
+de todo
+[quest_title_1030308000603180] Una leyenda compartida
+entre dos regiones
+[quest_title_1030308000603190] Un encuentro lunar
+[quest_title_1030308000603200] Un Pokémon que recuerda
+a un meteorito
+[quest_title_1030308000603210] Los dos Rayquaza
+[quest_title_1030308000603010] ¡Te invitamos a la gala de
+combates!
+[quest_title_1030308000603060] VS. Selene
+[quest_title_1030308000603070] VS. Selene (2)
+[quest_title_1030308000603090] VS. Nanci
+[quest_title_1030308000603100] VS. Nanci (2)
+[quest_title_1030308000603120] VS. Liza
+[quest_title_1030308000603130] VS. Liza (2)
+[quest_title_1030430800402010] ¡Combate diario con regalos!
+[quest_title_1030430800401011] ¡Combate especial con regalos!
+[quest_title_1030430800300010] La Sirena Temperamental
+[quest_group_title_10110001000] Misty (Kanto)
 
 ===========
 story_quest_name_fr.lsd
@@ -7887,6 +8003,45 @@ de type Feu
 (Look Ultime)
 [quest_title_1030307001001130] Combat : Tarak
 (Look Ultime) II
+[quest_group_title_10118500000] Lilie
+(Anniversaire 2021)
+[quest_group_title_10089400000] N
+(Anniversaire 2021)
+[quest_group_title_10090500000] Pierre Rochard
+(Anniversaire 2021)
+[quest_title_1030220118500000] Une journée avec Lilie
+[quest_title_1030220089400000] Une journée avec N
+[quest_title_1030220090500000] Une journée avec Pierre Rochard
+[quest_title_1030430800201010] Exercice Attaquant VI
+[quest_title_1030430800202010] Exercice Tacticien VI
+[quest_title_1030430800203010] Exercice Soutien VI
+[quest_title_1030308000604010] Compagnons d'Alola
+[quest_title_1030308000604020] Compagnons d'Alola II
+[quest_title_1030308000604030] Compagnons d'Unys
+[quest_title_1030308000604040] Compagnons d'Unys II
+[quest_title_1030308000604050] Compagnons de Hoenn
+[quest_title_1030308000604060] Compagnons de Hoenn II
+[quest_title_1030308000603020] Le rêve de N
+[quest_title_1030308000603030] L'évolution de Lilie
+[quest_title_1030308000603040] La force de Pierre Rochard
+[quest_title_1030308000603170] Un vœu de bonheur
+[quest_title_1030308000603180] Une légende, deux régions
+[quest_title_1030308000603190] La lune a rendez-vous
+avec la lune
+[quest_title_1030308000603200] Un Pokémon semblable
+à une météorite
+[quest_title_1030308000603210] Rayquaza voit double
+[quest_title_1030308000603010] Invitation au Gala !
+[quest_title_1030308000603060] Combat : Selene
+[quest_title_1030308000603070] Combat : Selene II
+[quest_title_1030308000603090] Combat : Écho
+[quest_title_1030308000603100] Combat : Écho II
+[quest_title_1030308000603120] Combat : Ludvina
+[quest_title_1030308000603130] Combat : Ludvina II
+[quest_title_1030430800402010] Combat cadeau quotidien
+[quest_title_1030430800401011] Combat cadeau spécial
+[quest_title_1030430800300010] La sirène en short
+[quest_group_title_10110001000] Ondine (Maillot)
 
 ===========
 story_quest_name_it.lsd
@@ -9560,6 +9715,40 @@ story_quest_name_it.lsd
 [quest_title_1030307001001110] VS Laburno
 [quest_title_1030307001001120] VS Dandel Costumax
 [quest_title_1030307001001130] VS Dandel Costumax 2
+[quest_group_title_10118500000] Lylia (anniversario 2021)
+[quest_group_title_10089400000] N (anniversario 2021)
+[quest_group_title_10090500000] Rocco (anniversario 2021)
+[quest_title_1030220118500000] Un giorno con Lylia
+[quest_title_1030220089400000] Un giorno con N
+[quest_title_1030220090500000] Un giorno con Rocco
+[quest_title_1030430800201010] Allenamento Attaccanti 6
+[quest_title_1030430800202010] Allenamento Tecnici 6
+[quest_title_1030430800203010] Allenamento Aiutanti 6
+[quest_title_1030308000604010] Insieme agli amici di Alola
+[quest_title_1030308000604020] Insieme agli amici di Alola 2
+[quest_title_1030308000604030] Insieme agli amici di Unima
+[quest_title_1030308000604040] Insieme agli amici di Unima 2
+[quest_title_1030308000604050] Insieme agli amici di Hoenn
+[quest_title_1030308000604060] Insieme agli amici di Hoenn 2
+[quest_title_1030308000603020] Gli ideali di N
+[quest_title_1030308000603030] La crescita di Lylia
+[quest_title_1030308000603040] La forza di Rocco
+[quest_title_1030308000603170] Un augurio di felicità
+[quest_title_1030308000603180] Leggende collegate
+[quest_title_1030308000603190] Le due facce della luna
+[quest_title_1030308000603200] Il Pokémon simile a un meteorite
+[quest_title_1030308000603210] I due Rayquaza
+[quest_title_1030308000603010] L'invito alla festa
+[quest_title_1030308000603060] VS Selene
+[quest_title_1030308000603070] VS Selene 2
+[quest_title_1030308000603090] VS Rina
+[quest_title_1030308000603100] VS Rina 2
+[quest_title_1030308000603120] VS Anita
+[quest_title_1030308000603130] VS Anita 2
+[quest_title_1030430800402010] Lotta giornaliera con regalo!
+[quest_title_1030430800401011] Lotta speciale con regalo!
+[quest_title_1030430800300010] La sirena maschiaccio
+[quest_group_title_10110001000] Misty (costume)
 
 ===========
 story_quest_name_ja.lsd
@@ -11251,6 +11440,44 @@ story_quest_name_ja.lsd
 [quest_title_1030307001001110] ＶＳ　キバナ
 [quest_title_1030307001001120] ＶＳ　マジコスダンデ
 [quest_title_1030307001001130] ＶＳ　マジコスダンデ２
+[quest_group_title_10118500000] リーリエ
+（２１アニバーサリー）
+[quest_group_title_10089400000] Ｎ
+（２１アニバーサリー）
+[quest_group_title_10090500000] ダイゴ
+（２１アニバーサリー）
+[quest_title_1030220118500000] とある日のリーリエ
+[quest_title_1030220089400000] とある日のN
+[quest_title_1030220090500000] とある日のダイゴ
+[quest_title_1030430800201010] アタッカーの鍛錬６
+[quest_title_1030430800202010] テクニカルの鍛錬６
+[quest_title_1030430800203010] サポートの鍛錬６
+[quest_title_1030308000604010] アローラの仲間と挑戦
+[quest_title_1030308000604020] アローラの仲間と挑戦２
+[quest_title_1030308000604030] イッシュの仲間と挑戦
+[quest_title_1030308000604040] イッシュの仲間と挑戦２
+[quest_title_1030308000604050] ホウエンの仲間と挑戦
+[quest_title_1030308000604060] ホウエンの仲間と挑戦２
+[quest_title_1030308000603020] Nの夢
+[quest_title_1030308000603030] リーリエの成長
+[quest_title_1030308000603040] ダイゴの強さ
+[quest_title_1030308000603170] 静かに願う幸せ
+[quest_title_1030308000603180] ふたつの地方にまたがる伝説
+[quest_title_1030308000603190] お月さまのご対面！
+[quest_title_1030308000603200] いん石のようなポケモン
+[quest_title_1030308000603210] ２匹のレックウザ
+[quest_title_1030308000603010] パーティーにご招待！
+[quest_title_1030308000603060] ＶＳ　ミヅキ
+[quest_title_1030308000603070] ＶＳ　ミヅキ２
+[quest_title_1030308000603090] ＶＳ　メイ
+[quest_title_1030308000603100] ＶＳ　メイ２
+[quest_title_1030308000603120] ＶＳ　トウコ
+[quest_title_1030308000603130] ＶＳ　トウコ２
+[quest_title_1030430800402010] デイリープレゼントバトル！
+[quest_title_1030430800401011] スペシャルプレゼントバトル！
+[quest_title_1030430800300010] ウワサのおてんば人魚
+[quest_group_title_10110001000] カスミ
+（アナザー）
 
 ===========
 story_quest_name_ko.lsd
@@ -12941,6 +13168,44 @@ story_quest_name_ko.lsd
 [quest_title_1030307001001110] VS 금랑
 [quest_title_1030307001001120] VS 궁극코스 단델
 [quest_title_1030307001001130] VS 궁극코스 단델2
+[quest_group_title_10118500000] 릴리에
+(21기념)
+[quest_group_title_10089400000] N
+(21기념)
+[quest_group_title_10090500000] 성호
+(21기념)
+[quest_title_1030220118500000] 릴리에의 어느 날
+[quest_title_1030220089400000] N의 어느 날
+[quest_title_1030220090500000] 성호의 어느 날
+[quest_title_1030430800201010] 어태커의 단련6
+[quest_title_1030430800202010] 테크니컬의 단련6
+[quest_title_1030430800203010] 서포트의 단련6
+[quest_title_1030308000604010] 알로라지방의 동료와 도전하자
+[quest_title_1030308000604020] 알로라지방의 동료와 도전하자2
+[quest_title_1030308000604030] 하나지방의 동료와 도전하자
+[quest_title_1030308000604040] 하나지방의 동료와 도전하자2
+[quest_title_1030308000604050] 호연지방의 동료와 도전하자
+[quest_title_1030308000604060] 호연지방의 동료와 도전하자2
+[quest_title_1030308000603020] N의 꿈
+[quest_title_1030308000603030] 릴리에의 성장
+[quest_title_1030308000603040] 성호의 힘
+[quest_title_1030308000603170] 조용히 빌어주는 행복
+[quest_title_1030308000603180] 두 지방을 잇는 전설
+[quest_title_1030308000603190] 달님의 만남!
+[quest_title_1030308000603200] 운석 같은 포켓몬
+[quest_title_1030308000603210] 2마리의 레쿠쟈
+[quest_title_1030308000603010] 파티 초대!
+[quest_title_1030308000603060] VS 미월
+[quest_title_1030308000603070] VS 미월2
+[quest_title_1030308000603090] VS 명희
+[quest_title_1030308000603100] VS 명희2
+[quest_title_1030308000603120] VS 투희
+[quest_title_1030308000603130] VS 투희2
+[quest_title_1030430800402010] 일일 기프트 배틀!
+[quest_title_1030430800401011] 스페셜 기프트 배틀!
+[quest_title_1030430800300010] 소문의 말괄량이 인어
+[quest_group_title_10110001000] 이슬
+(어나더)
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -14631,6 +14896,44 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030307001001110] ＶＳ　奇巴納
 [quest_title_1030307001001120] ＶＳ　美極套裝丹帝
 [quest_title_1030307001001130] ＶＳ　美極套裝丹帝２
+[quest_group_title_10118500000] 莉莉艾
+（2021週年慶）
+[quest_group_title_10089400000] Ｎ
+（2021週年慶）
+[quest_group_title_10090500000] 大吾
+（2021週年慶）
+[quest_title_1030220118500000] 某日的莉莉艾
+[quest_title_1030220089400000] 某日的N
+[quest_title_1030220090500000] 某日的大吾
+[quest_title_1030430800201010] 攻擊型鍛鍊６
+[quest_title_1030430800202010] 技術型鍛鍊６
+[quest_title_1030430800203010] 輔助型鍛鍊６
+[quest_title_1030308000604010] 與阿羅拉的夥伴一起挑戰
+[quest_title_1030308000604020] 與阿羅拉的夥伴一起挑戰２
+[quest_title_1030308000604030] 與合眾的夥伴一起挑戰
+[quest_title_1030308000604040] 與合眾的夥伴一起挑戰２
+[quest_title_1030308000604050] 與豐緣的夥伴一起挑戰
+[quest_title_1030308000604060] 與豐緣的夥伴一起挑戰２
+[quest_title_1030308000603020] N的夢想
+[quest_title_1030308000603030] 莉莉艾的成長
+[quest_title_1030308000603040] 大吾的強大
+[quest_title_1030308000603170] 靜靜地祈求幸福
+[quest_title_1030308000603180] 橫跨兩個地區的傳說
+[quest_title_1030308000603190] 月亮們相見歡！
+[quest_title_1030308000603200] 宛若隕石的寶可夢
+[quest_title_1030308000603210] ２隻烈空坐
+[quest_title_1030308000603010] 請來參加派對！
+[quest_title_1030308000603060] ＶＳ　美月
+[quest_title_1030308000603070] ＶＳ　美月２
+[quest_title_1030308000603090] ＶＳ　鳴依
+[quest_title_1030308000603100] ＶＳ　鳴依２
+[quest_title_1030308000603120] ＶＳ　鬥子
+[quest_title_1030308000603130] ＶＳ　鬥子２
+[quest_title_1030430800402010] 每日禮物對戰！
+[quest_title_1030430800401011] 特別禮物對戰！
+[quest_title_1030430800300010] 傳聞中的俏皮人魚
+[quest_group_title_10110001000] 小霞
+（泳裝）
 
 ===========
 trainer_description_de.lsd
@@ -15193,6 +15496,20 @@ für seine Zukunft.
 [10045900000] Das Nesthäkchen unter den Arenaleitern von Johto ist ein
 wahrer Experte für Käfer-Pokémon und träumt von einer
 Karriere als Pokémon-Professor.
+[10089400000] N trägt zur Feier seiner Rückkehr ein spektakuläres Outfit.
+Als Zeichen der Dankbarkeit für all die Freundschaften, die
+er auf Passio geschlossen hat, bringt er gemeinsam mit
+Reshiram frischen Wind ins Team.
+[10118500000] Lilly trägt zur Feier ihrer Rückkehr ein umwerfendes Outfit.
+Sie und Lunala bereichern das Team und zeigen allen,
+was sie draufhaben!
+[10090500000] Troy trägt zur Feier seiner Rückkehr einen schicken Anzug.
+An der Seite von Rayquaza möchte er die Geheimnisse
+der Mega-Entwicklung lüften und die darin verborgene
+grenzenlose Fülle an Potenzial und Stärke nutzen.
+[10110010000] Misty fühlt sich in ihrem typischen Outfit aus der Arena
+in Kanto rundum wohl. Am Strand verfolgt sie mit ihrem
+Pokémon einen strikten Trainingsplan.
 
 ===========
 trainer_description_en.lsd
@@ -15717,6 +16034,18 @@ future along with his powerful partner, Eternatus.
 [10045900000] The youngest Gym Leader in Johto and a lover of bug
 Pokémon, he has great knowledge of Bug types and
 wants to become a Pokémon Professor.
+[10089400000] N is back in a beautiful outfit. He’s ready to join the
+Unity Gala together with Reshiram to give thanks for the
+many friends he’s made on Pasio.
+[10118500000] Lillie is back in a gorgeous outfit. Together with Lunala,
+she’s going to join the Unity Gala and show everyone
+what she’s made of!
+[10090500000] Steven is back in a fancy suit! He’s pursuing new strength
+and potential together with Rayquaza, a Pokémon that
+embodies the mysteries of Mega Evolution.
+[10110010000] Misty is feeling comfortable in the swimsuit she usually
+wore back at her Gym in Kanto. She’s been training
+extra hard at the beach with her Pokémon.
 
 ===========
 trainer_description_es.lsd
@@ -16337,6 +16666,18 @@ poderoso Eternatus.
 tipo Bicho. A pesar de su corta edad, sabe mucho acerca
 de los Pokémon y su sueño es llegar a ser Profesor
 Pokémon algún día.
+[10089400000] N se ha puesto sus mejores galas. En gratitud a todos los
+compis que ha conocido en Passio, está listo para levantar
+pasiones en la gala de combates junto con Reshiram.
+[10118500000] Lylia se ha puesto sus mejores galas. Junto con Lunala,
+tiene intención de dejar a un lado la timidez y demostrar
+de qué pasta está hecha en la gala de combates.
+[10090500000] Máximo se ha puesto sus mejores galas. Junto a su compi
+Rayquaza, que encierra los misterios de la megaevolución,
+busca ganar fuerza y explotar su potencial.
+[10110010000] Misty aboga por la comodidad con el bañador que llevaba
+como Líder de Gimnasio de Ciudad Celeste, en Kanto.
+Es perfecto para entrenar en la playa con su compi.
 
 ===========
 trainer_description_fr.lsd
@@ -16891,6 +17232,20 @@ et d'un avenir plein de possibilités.
 [10045900000] Ce Champion, le plus jeune de Johto, est fan du type
 Insecte et en connaît tous les secrets. Il espère devenir
 Professeur Pokémon.
+[10089400000] N a revêtu son costume des grandes occasions.
+Afin d'exprimer sa gratitude envers les personnes
+qu'il a rencontrées à Passio, il participera au Gala
+de combat aux côtés de Reshiram.
+[10118500000] Lilie s'est vêtue d'une magnifique tenue. Elle sera
+au Gala de combat aux côtés de Lunala et montrera
+à tous à quel point elle a mûri !
+[10090500000] Pierre Rochard est de retour dans un costume élégant
+à l'occasion du Gala de combat. Il cherche à maximiser
+son potentiel et sa puissance aux côtés de Rayquaza,
+qui est la clé du mystère de la Méga-Évolution.
+[10110010000] Ondine se sent libre dans sa tenue de Championne
+d'Arène de Kanto. Elle est en plein entraînement
+intensif avec son Pokémon, à la plage.
 
 ===========
 trainer_description_it.lsd
@@ -17459,6 +17814,20 @@ di nuovi orizzonti e di una forza rinnovata.
 [10045900000] È il Capopalestra più giovane di Johto e la sa lunga sui
 Pokémon di tipo Coleottero, che adora. Da grande
 vorrebbe fare il Professore.
+[10089400000] N indossa un abito elegante per le grandi occasioni.
+Partecipando alla Festa della lotta assieme a Reshiram,
+vuole dimostrare la sua gratitudine per tutti i nuovi amici
+conosciuti a Pasio.
+[10118500000] Lylia ha un nuovo completino alla moda e partecipa
+alla Festa della lotta per mostrare a tutti quello di cui
+sono capaci lei e Lunala!
+[10090500000] Rocco, con una nuova giacca elegante, è affiancato
+da Rayquaza, e mira a scoprire tutto il potenziale
+delle megaevoluzioni.
+[10110010000] Misty torna a indossare il comodo costume da bagno
+che usava nella Palestra di Celestopoli. Al momento è
+impegnata in una nuova sessione d'allenamento
+in spiaggia insieme al suo Pokémon.
 
 ===========
 trainer_description_ja.lsd
@@ -17982,6 +18351,18 @@ trainer_description_ja.lsd
 [10045900000] むしポケモンが　大好きな　ジョウト地方で　最年少の
 ジムリーダー。　むしポケモンの　知識が　豊富で
 将来は　ポケモン博士に　なりたいと　考えている。
+[10089400000] 華やかな　衣装を　身にまとった　Ｎ。
+パシオでの　さまざまな　出会いに　感謝するべく
+レシラムと　共に　パーティーバトルを　盛りあげる。
+[10118500000] 華やかな　衣装を　身にまとった　リーリエ。
+ルナアーラと　共に　パーティーバトルに　挑戦し
+大舞台で　自分の　思いを　ぶつける。
+[10090500000] 華やかな　衣装を　身にまとった　ダイゴ。
+メガシンカの　謎を　秘めた　レックウザと　共に
+強さと　可能性を　追求する。
+[10110010000] カントー地方の　ジムで　着ていた　衣装を
+身にまとい　解放感に　あふれた　カスミ。
+バディと　一緒に　海辺で　特訓中。
 
 ===========
 trainer_description_ko.lsd
@@ -18505,6 +18886,18 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10045900000] 벌레포켓몬을 정말 좋아하는 성도지방 최연소 체육관 관장.
 벌레포켓몬에 대한 지식이 풍부하고
 장래에는 포켓몬 박사가 되고 싶어 한다.
+[10089400000] 화려한 의상을 입은 N.
+파시오에서의 다양한 만남에 감사하는 마음을 표현하기 위해
+레시라무와 함께 파티 배틀을 열광시킨다.
+[10118500000] 화려한 의상을 입은 릴리에.
+루나아라와 함께 파티 배틀에 도전하여
+큰 무대에서 자신의 마음을 표현한다.
+[10090500000] 화려한 의상을 입은 성호.
+메가진화의 수수께끼를 품은 레쿠쟈와 함께
+힘과 가능성을 추구한다.
+[10110010000] 관동지방의 체육관에서 입던 의상을 입고
+상쾌함을 느끼는 이슬.
+버디와 함께 해변에서 특훈하고 있다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -19027,6 +19420,18 @@ trainer_description_zh-TW.lsd
 [10045900000] 喜歡蟲屬性寶可夢，城都地區年紀最小的
 道館館主。擁有豐富的蟲屬性寶可夢知識。
 將來想要成為寶可夢博士。
+[10089400000] 身穿華麗服裝的Ｎ。
+為了感謝在帕希歐經歷的各種邂逅，
+他將和萊希拉姆一起炒熱派對對戰的氣氛。
+[10118500000] 身穿華麗服裝的莉莉艾。
+她和露奈雅拉一起挑戰派對對戰，
+在大舞台上展現自己的心意。
+[10090500000] 身穿華麗服裝的大吾。
+他和蘊藏超級進化之謎的烈空坐
+一起追求強大與可能性。
+[10110010000] 穿上在關都地區的道館時穿著的服裝，
+整個人十分舒適自在的小霞。
+她正和拍檔一起在海邊特訓。
 
 ===========
 trainer_name_de.lsd
@@ -20571,6 +20976,7 @@ eingetauscht.
 [common_widget/dialog_074] Kampfunfähigkeit wird nach vollst. Heilung zurückgesetzt.
 [common_widget/dialog_075] Erhältst du Gefährten zum ersten Mal, schließen sie sich deinem Team an. Mit jedem weiteren Mal steigen die Stärke ihrer Gefährtenattacke und ihr Attacken-Level.
 [common_widget/dialog_076] Hinweis: Für dieses Gefährtengespann gibt es keine Gefährtenepisode.
+[common_widget/dialog_077] Auf diesem Bildschirm ist die Schaltfläche, die dich zur vorherigen Ansicht zurückkehren lässt, nicht verfügbar.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -21062,6 +21468,7 @@ you obtain them.
 From the second time on, their sync
 moves and move level will level up.
 [common_widget/dialog_076] Note: This sync pair does not have a sync pair story.
+[common_widget/dialog_077] The back button cannot be used on this screen.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -21535,6 +21942,7 @@ la tenías, se potenciarán los
 movimientos y los movimientos compi
 de dicha pareja. 
 [common_widget/dialog_076] Nota: No hay ningún episodio compi dedicado a esta pareja.
+[common_widget/dialog_077] No puedes usar el botón de retroceso en esta pantalla.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -22003,6 +22411,7 @@ convertis en Pièces.
 [common_widget/dialog_075] La première fois que vous obtenez un Duo, ce dernier rejoindra votre équipe.
 Le niveau de ses capacités et de sa capacité Duo augmentera toutes les fois suivantes.
 [common_widget/dialog_076] Il n'y a pas d'épisode Duo associé à ce Duo.
+[common_widget/dialog_077] L'utilisation du bouton retour est impossible ici.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -22488,6 +22897,7 @@ Dalla seconda volta in poi, invece,
 aumenterà la potenza delle sue mosse
 e delle sue Unimosse.
 [common_widget/dialog_076] Questa Unità non ha un episodio Unità.
+[common_widget/dialog_077] Non puoi usare il pulsante Indietro in questa schermata.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -22956,6 +23366,7 @@ EXカラー衣装が　かくとくできます
 バディーズわざと　わざの威力が上昇します
 [common_widget/dialog_076] ※このバディーズには
 バディーズエピソードがありません
+[common_widget/dialog_077] この画面でバックキーは使用できません
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -23225,7 +23636,7 @@ HARDクリアで解放
 [Name:PokemonName ]が　うまれた！
 [common_widget/egg_detail_001] ニックネームを入力してください
 [common_widget/egg_detail_002] ※ニックネームはあとから変更できます
-[common_widget/egg_detail_003] 
+[common_widget/egg_detail_003] ニックネーム入力
 [common_widget/rank_001] プレイヤーランク
 [common_widget/rank_002] 次のプレイヤーランクまであと
 [common_widget/rank_003] ランクアップ
@@ -23435,6 +23846,7 @@ EX컬러 의상을 획득할 수 있습니다
 버디즈기술과 기술의 위력이 상승합니다
 [common_widget/dialog_076] ※이 버디즈에게는
 버디즈 에피소드가 없습니다
+[common_widget/dialog_077] 이 화면에서 뒤로 가기 버튼은 사용할 수 없습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -23900,6 +24312,7 @@ common_widget_zh-TW.lsd
 會提升拍組招式和招式的威力
 [common_widget/dialog_076] ※這對拍組
 沒有拍組劇情
+[common_widget/dialog_077] 在這個畫面無法使用返回按鈕
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -26150,6 +26563,7 @@ home_de.lsd
 [home/quest_list_title_010] Kampfvilla
 (Multi)
 [home/quest_list_title_011] Champkampf
+[home/quest_list_series_002] Schurkenteam
 [home/quest_list_013] Erf.
 [home/quest_list_017] Gemeinsam spielen
 [home/quest_list_018] Mit zufälligen
@@ -26908,6 +27322,7 @@ home_en.lsd
 [home/quest_list_title_010] Battle Villa
 (Co-op)
 [home/quest_list_title_011] Champion Stadium
+[home/quest_list_series_002] Villain Arc
 [home/quest_list_013] XP
 [home/quest_list_017] Battle with other players!
 [home/quest_list_018] Quick
@@ -27608,6 +28023,7 @@ home_es.lsd
 [home/quest_list_title_010] Residencia Batalla
 (multi)
 [home/quest_list_title_011] Combates de Campeones
+[home/quest_list_series_002] Trama equipo villano
 [home/quest_list_013] Exp.
 [home/quest_list_017] Multijugador
 [home/quest_list_018] Partida rápida
@@ -28325,6 +28741,7 @@ principal (coop)
 [home/quest_list_title_010] Villa de
 Combat (coop)
 [home/quest_list_title_011] Combat de Maître
+[home/quest_list_series_002] L'organisation maléfique
 [home/quest_list_013] Exp.
 [home/quest_list_017] Jeu en coop
 [home/quest_list_018] Connexion
@@ -29099,6 +29516,7 @@ multigiocatore
 [home/quest_list_title_010] Residenza Lotta
 multigiocatore
 [home/quest_list_title_011] Lotte dei Campioni
+[home/quest_list_series_002] I gruppi malvagi
 [home/quest_list_013] ESP.
 [home/quest_list_017] Gioca in compagnia
 [home/quest_list_018] Giocatori a caso
@@ -29849,6 +30267,7 @@ home_ja.lsd
 [home/quest_list_title_010] バトルヴィラ
 （マルチ）
 [home/quest_list_title_011] チャンピオンバトル
+[home/quest_list_series_002] 悪の組織編
 [home/quest_list_013] EXP
 [home/quest_list_017] みんなで遊ぶ
 [home/quest_list_018] おまかせ
@@ -30590,6 +31009,7 @@ home_ko.lsd
 [home/quest_list_title_010] 배틀빌라
 (멀티)
 [home/quest_list_title_011] 챔피언배틀
+[home/quest_list_series_002] 악의 조직 편
 [home/quest_list_013] EXP
 [home/quest_list_017] 함께 즐긴다
 [home/quest_list_018] 자동
@@ -31306,6 +31726,7 @@ home_zh-TW.lsd
 [home/quest_list_title_010] 對戰莊園
 （多隊模式）
 [home/quest_list_title_011] 冠軍對戰
+[home/quest_list_series_002] 邪惡組織篇
 [home/quest_list_013] EXP
 [home/quest_list_017] 多隊模式
 [home/quest_list_018] 隨機配對

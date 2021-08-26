@@ -164,4 +164,6 @@
     "110": "HPが0になったバディーズ数が[Digit:2digits ]組以下で「[Name:QuestTitle ]」をクリアしよう",
     "111": "以下のタグを持つバディーズを[Digit:2digits Idx=\"1\" ]組以上編成して[Digit:2digits Idx=\"2\" ]組以下のバディーズ出発数で「[Name:QuestTitle ]」をクリアしよう",
     "111_element": "・[Name:TeamSkillTag ]",
+    "112": "以下のタグを持つバディーズをそれぞれ[Digit:2digits Idx=\"1\" ]組以上編成してHPが0になったバディーズ数が[Digit:2digits Idx=\"2\" ]組以下で「[Name:QuestTitle ]」をクリアしよう",
+    "112_element": "・[Name:TeamSkillTag ]",
 }

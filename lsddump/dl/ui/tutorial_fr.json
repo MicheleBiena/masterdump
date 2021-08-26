@@ -378,4 +378,6 @@
     "tutorial/tutorial_dynamax_text_001_01": "Certains Duos sont capables de\nse dynamaxer une fois par combat.",
     "tutorial/tutorial_dynamax_text_001_02": "Appuyer sur le bouton « Dynamax »\npendant un combat permettra\nà ces Duos d'utiliser leur\ncapacité Duo Dynamax.",
     "tutorial/tutorial_dynamax_text_001_03": "Utilisez les Duos Dynamax à votre\navantage pendant les combats !\nVous pouvez en apprendre plus\ndans la section « Conseils ».",
+    "tutorial/tutorial_teamskill_01": "Sur cet écran, vous pouvez renforcer\nvos talents d'équipe grâce aux Talents ↑.",
+    "tutorial/tutorial_teamskill_02": "Un talent d'équipe s'active\nlorsque vous formez une équipe\navec au moins deux Duos qui\npartagent un mot-clé.",
 }

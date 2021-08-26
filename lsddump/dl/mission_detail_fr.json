@@ -164,4 +164,6 @@
     "110": "Terminez avec [Digit:2digits ] Duo[FR:Qty P=\"s\" ] ou moins\nayant été mis K.O. :\n[Name:QuestTitle ]",
     "111": "Terminez :\n• [Name:QuestTitle ]\nen utilisant [Digit:2digits Idx=\"1\" ] Duos ou plus, qui ont\nle mot-clé suivant en commun,\navec au total [Digit:2digits Idx=\"2\" ] Duos ou moins",
     "111_element": "• [Name:TeamSkillTag ]",
+    "112": "Terminez :\n• [Name:QuestTitle ]\nen utilisant [Digit:2digits Idx=\"1\" ] [FR:Qty Ref=\"1\" S=\"Duo\" P=\"Duos\" ] ou plus, qui ont\nle mot-clé suivant en commun, avec\n[Digit:2digits Idx=\"2\" ] [FR:Qty Ref=\"2\" S=\"Duo\" P=\"Duos\" ] ou moins ayant été mis K.O.",
+    "112_element": "• [Name:TeamSkillTag ]",
 }

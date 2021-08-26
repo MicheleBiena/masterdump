@@ -88,8 +88,8 @@
     "10306003": "Tecnici (Rivali)",
     "10310001": "Attaccanti (Campioni)",
     "10310003": "Tecnici (Campioni)",
-    "10311001": "Attaccanti (Team malvagi)",
-    "10311003": "Tecnici (Team malvagi)",
+    "10311001": "Attaccanti (Gruppi malvagi)",
+    "10311003": "Tecnici (Gruppi malvagi)",
     "10401001": "Attaccanti (Costumax)",
     "10401002": "Aiutanti (Costumax)",
     "10401003": "Tecnici (Costumax)",
@@ -206,4 +206,5 @@
     "19970003": "Tecnici (In giro per Alola)",
     "19980001": "Attaccanti (In giro per Galar)",
     "19980002": "Aiutanti (In giro per Galar)",
+    "19960003": "Tecnici (Poteri misteriosi)",
 }

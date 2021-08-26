@@ -164,4 +164,6 @@
     "110": "HP가 0이 된 버디즈를 [Digit:2digits ] 이하로 하여\n\"[Name:QuestTitle ]\"[Kor:Particle char=\"wo\" ]\n클리어하자",
     "111": "아래 태그를 가진 버디즈를 [Digit:2digits Idx=\"1\" ] 이상 편성하여\n[Digit:2digits Idx=\"2\" ] 이하의 버디즈를 출발시키고\n\"[Name:QuestTitle ]\"[Kor:Particle char=\"wo\" ]\n클리어하자",
     "111_element": "・[Name:TeamSkillTag ]",
+    "112": "아래 태그를 가진 버디즈를\n각각 [Digit:2digits Idx=\"1\" ] 이상 편성하고\nHP가 0이 된 버디즈를 [Digit:2digits Idx=\"2\" ] 이하로 하여\n\"[Name:QuestTitle ]\"[Kor:Particle char=\"wo\" ]\n클리어하자",
+    "112_element": "・[Name:TeamSkillTag ]",
 }

@@ -164,4 +164,6 @@
     "110": "Completa la siguiente ubicación sin\nque debiliten a más de [Digit:2digits ] pareja[ES:Qty S=\"\" P=\"s\" ] de\ncompis:\n• [Name:QuestTitle ]",
     "111": "Completa [Name:QuestTitle ] con [Digit:2digits Idx=\"2\" ] o menos parejas de compis y al menos [Digit:2digits Idx=\"1\" ] pareja[ES:Qty Ref=\"1\" P=\"s\" ] de compis con el siguiente distintivo:",
     "111_element": "• [Name:TeamSkillTag ]",
+    "112": "Completa [Name:QuestTitle ] sin que debiliten a más de [Digit:2digits Idx=\"2\" ] pareja[ES:Qty Ref=\"2\" P=\"s\" ] de compis y con al menos [Digit:2digits Idx=\"1\" ] pareja[ES:Qty Ref=\"1\" P=\"s\" ] de compis con el o los siguientes distintivos:",
+    "112_element": "• [Name:TeamSkillTag ]",
 }

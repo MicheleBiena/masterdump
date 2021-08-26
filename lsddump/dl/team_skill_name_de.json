@@ -88,8 +88,8 @@
     "10306003": "Rivale (Taktiker)",
     "10310001": "Champ (Angreifer)",
     "10310003": "Champ (Taktiker)",
-    "10311001": "Schurkenteam (Angreifer)",
-    "10311003": "Schurkenteam (Taktiker)",
+    "10311001": "Schurken (Angreifer)",
+    "10311003": "Schurken (Taktiker)",
     "10401001": "Machtmontur (Angreifer)",
     "10401002": "Machtmontur (Helfer)",
     "10401003": "Machtmontur (Taktiker)",
@@ -206,4 +206,5 @@
     "19970003": "Alola-Abenteurer (Taktiker)",
     "19980001": "Galar-Abenteurer (Angreifer)",
     "19980002": "Galar-Abenteurer (Helfer)",
+    "19960003": "Die Übersinnlichen (Taktiker)",
 }
