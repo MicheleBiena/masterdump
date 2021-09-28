@@ -61,4 +61,6 @@
     "error_dialog_contents/30212": "There is no existing save data linked to\nthis Nintendo Account.\n\nPlease go to Account on your\nPoryphone menu and try transferring\nagain using a Nintendo Account with\nlinked save data.",
     "error_dialog_contents/30109": "<attr font='fallback'>법정대리인의 동의 내용에 변경이 있습니다\n계속해서 게임을 플레이하기 위해서는\n법정대리인의 승인이 필요합니다\n\n게임을 다시 시작합니다.</attr>",
     "error_dialog_contents/30110": "<attr font='fallback'>승인 의뢰에 실패하였습니다.</attr>",
+    "error_dialog_contents/BR_30109": "Há uma atualização do consentimento de seu representante legal.\nPara continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.\nReinicie o jogo\n",
+    "error_dialog_contents/BR_30110": "Pedido de Aprovação Falhou",
 }

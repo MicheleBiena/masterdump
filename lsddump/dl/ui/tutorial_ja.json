@@ -92,6 +92,8 @@
     "tutorial/tutorial_storyclear_001_15": "ＷＰＭ　優勝おめでとうございます！\nさらなる戦いに　備えて\n引き続き　様々なバトルに\n挑戦してみましょう！",
     "tutorial/tutorial_storyclear_001_18": "バトルクリア！",
     "tutorial/tutorial_storyclear_001_19": "「ＶＳ　サカキ２」のクリア\nおめでとうございます！\n引き続き　９月末（※）より新展開する\n「悪の組織」の物語にご期待ください！\n※本イベント開始時点での予定となります",
+    "tutorial/tutorial_storyclear_001_16": "[Name:QuestGroupTitle ]　クリア！",
+    "tutorial/tutorial_storyclear_001_17": "[Name:QuestGroupTitle ]を　クリアしました！\nさらなる戦いに　備えて\n引き続き　様々なバトルに\n挑戦してみましょう！",
     "tutorial/tutorial_storyhard_001_11": "ＷＰＭの　ＨＡＲＤモードが\\n解放されました！",
     "tutorial/tutorial_storyhard_001_12": "より難易度が　高い　エリア情報に\\n挑戦することができます",
     "tutorial/tutorial_storyveryhard_001_11": "ＷＰＭの　ＶＥＲＹＨＡＲＤモードが\\n解放されました！",
@@ -382,4 +384,7 @@
     "tutorial/tutorial_dynamax_text_001_03": "バディーズダイマックスを　駆使して\nバトルを　有利に　進めましょう！\n詳しいあそびかたは\nゲームのヒントから　確認できます",
     "tutorial/tutorial_teamskill_01": "この画面では　スキルパワーを\n使って　チームスキルの　レベルを\nあげることが　できます",
     "tutorial/tutorial_teamskill_02": "同じタグの　バディーズを\n2組以上編成すると　チームスキルが\n発動します",
+    "tutorial/tutorial_mainstory_seconddepartment_01": "悪の組織編が　解放されました\n悪の組織編は　ＷＰＭ編クリア後の\n物語です",
+    "tutorial/tutorial_mainstory_seconddepartment_02": "ＷＰＭ編を　先にクリアすることで\n悪の組織編のストーリーを\nより楽しむことができます",
+    "tutorial/tutorial_mainstory_seconddepartment_03": "悪の組織編は　ＷＰＭ編をクリアして\nいなくても　遊ぶことができます\n気になる　メインストーリーから\n進めてみましょう",
 }

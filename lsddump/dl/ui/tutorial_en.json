@@ -92,6 +92,8 @@
     "tutorial/tutorial_storyclear_001_15": "Congratulations, PML champion!\nKeep on battling to prepare yourself \nfor future challenges!",
     "tutorial/tutorial_storyclear_001_18": "Battle complete!",
     "tutorial/tutorial_storyclear_001_19": "Congratulations on completing \nChallenge Giovanni: Part 2! You can\nnow look forward to more villain\narc story content that will arrive in\nlate September.* \n\n*Current plan as of the start of\nthis event",
+    "tutorial/tutorial_storyclear_001_16": "[Name:QuestGroupTitle ] complete!",
+    "tutorial/tutorial_storyclear_001_17": "[Name:QuestGroupTitle ] complete!\nKeep on battling to prepare yourself \nfor future challenges!",
     "tutorial/tutorial_storyhard_001_11": "Pokémon Masters League\nhard mode unlocked!",
     "tutorial/tutorial_storyhard_001_12": "You now have access to area info\nwith even more challenging battles!",
     "tutorial/tutorial_storyveryhard_001_11": "Pokémon Masters League\nvery hard mode unlocked!",
@@ -382,4 +384,7 @@
     "tutorial/tutorial_dynamax_text_001_03": "Use Dynamax sync pairs to your\nadvantage during battle! More details\non how to play can be found in Tips.",
     "tutorial/tutorial_teamskill_01": "You can use skill spheres to level\nup your theme skills on this screen.",
     "tutorial/tutorial_teamskill_02": "Theme skills activate when you form\na team with two or more sync pairs\nthat share the same theme.",
+    "tutorial/tutorial_mainstory_seconddepartment_01": "Villain arc unlocked!\nThe events in the villain arc take\nplace after the conclusion of the\nPML arc.",
+    "tutorial/tutorial_mainstory_seconddepartment_02": "To best enjoy these stories, we\nrecommend completing the PML arc\nbefore starting the villain arc.",
+    "tutorial/tutorial_mainstory_seconddepartment_03": "The villain arc will still be available\neven if you haven’t completed the\nPML arc, so you can choose how to\nproceed through the main story.",
 }

@@ -92,6 +92,8 @@
     "tutorial/tutorial_storyclear_001_15": "WPM 우승을 축하합니다!\n한층 더 높은 수준의 승부에 대비해\n계속해서 다양한 배틀에\n도전해 봅시다!",
     "tutorial/tutorial_storyclear_001_18": "배틀 클리어!",
     "tutorial/tutorial_storyclear_001_19": "\"VS 비주기2\"의\n클리어를 축하합니다!\n계속해서 9월 말(※)부터 새로 시작되는\n\"악의 조직\" 이야기를 기대해 주세요!\n※본 이벤트의 개시 시점에서의 예정입니다",
+    "tutorial/tutorial_storyclear_001_16": "[Name:QuestGroupTitle ] 클리어!",
+    "tutorial/tutorial_storyclear_001_17": "[Name:QuestGroupTitle ][Kor:Particle char=\"wo\" ] 클리어했습니다!\n한층 더 높은 수준의 승부에 대비해\n계속해서 다양한 배틀에\n도전해 봅시다!",
     "tutorial/tutorial_storyhard_001_11": "WPM의 하드 모드가\n해방되었습니다!",
     "tutorial/tutorial_storyhard_001_12": "난이도가 더 높은 에리어 정보에\n도전할 수 있습니다",
     "tutorial/tutorial_storyveryhard_001_11": "WPM의 베리하드 모드가\n해방되었습니다!",
@@ -382,4 +384,7 @@
     "tutorial/tutorial_dynamax_text_001_03": "버디즈 다이맥스를 구사하여\n배틀을 유리하게 진행해봅시다!\n자세한 플레이 방법은\n게임 힌트에서 확인할 수 있습니다",
     "tutorial/tutorial_teamskill_01": "이 화면에서는 스킬 파워를\n사용하여 팀스킬의 레벨을\n올릴 수 있습니다",
     "tutorial/tutorial_teamskill_02": "같은 태그의 버디즈를\n둘 이상 편성하면\n팀스킬이 발동됩니다",
+    "tutorial/tutorial_mainstory_seconddepartment_01": "악의 조직 편이 해방되었습니다\n악의 조직 편은 WPM 편을 클리어한\n이후의 이야기입니다",
+    "tutorial/tutorial_mainstory_seconddepartment_02": "WPM 편을 먼저 클리어하면\n악의 조직 편 스토리를\n더 재미있게 즐길 수 있습니다",
+    "tutorial/tutorial_mainstory_seconddepartment_03": "악의 조직 편은 WPM 편을 클리어하지\n않더라도 즐길 수 있습니다\n마음에 드는 메인 스토리부터\n진행해 봅시다",
 }

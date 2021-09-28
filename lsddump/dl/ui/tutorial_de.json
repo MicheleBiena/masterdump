@@ -92,6 +92,8 @@
     "tutorial/tutorial_storyclear_001_15": "Herzlichen Glückwunsch, WPM-Champ!\nMiss dich auch weiterhin in Kämpfen,\num für zukünftige Herausforderungen\ngerüstet zu sein!",
     "tutorial/tutorial_storyclear_001_18": "Kampf abgeschlossen!",
     "tutorial/tutorial_storyclear_001_19": "Herzlichen Glückwunsch zum Abschluss\nvon „Vs. Giovanni 2“! Ab Ende\nSeptember* wird die Geschichte mit\nden Schurken in der Hauptrolle\nweitergehen! Freu dich schon mal\ndarauf!\n\n* Derzeit geplanter Beginn des Events.",
+    "tutorial/tutorial_storyclear_001_16": "„[Name:QuestGroupTitle ]“ abgeschlossen!",
+    "tutorial/tutorial_storyclear_001_17": "Du hast „[Name:QuestGroupTitle ]“\nabgeschlossen! Miss dich auch\nweiterhin in Kämpfen, um für\nzukünftige Herausforderungen gerüstet\nzu sein!",
     "tutorial/tutorial_storyhard_001_11": "Schwerer Modus der WPM wurde\nfreigeschaltet!",
     "tutorial/tutorial_storyhard_001_12": "Du kannst dich jetzt an schwierigeren\nGebietsinfos versuchen.",
     "tutorial/tutorial_storyveryhard_001_11": "Sehr schwerer Modus der WPM\nwurde freigeschaltet!",
@@ -382,4 +384,7 @@
     "tutorial/tutorial_dynamax_text_001_03": "Nutze Dynamax-Gefährten im Kampf\nzu deinem Vorteil! Details zur\nSpielweise können auch in den\nSpieletipps gefunden werden.",
     "tutorial/tutorial_teamskill_01": "Auf diesem Bildschirm kannst du\nFähigkeitenkraft nutzen, um deine\nTeamfähigkeiten zu verstärken.",
     "tutorial/tutorial_teamskill_02": "Teamfähigkeiten werden aktiviert,\nwenn sich zwei oder mehr Gefährten\nmit demselben Attribut in deinem\nTeam befinden.",
+    "tutorial/tutorial_mainstory_seconddepartment_01": "Der Schurken-Event wurde\nfreigeschaltet! Diese Geschichte ist\ndie Fortsetzung der Handlung nach\ndem Abschluss der WPM.",
+    "tutorial/tutorial_mainstory_seconddepartment_02": "Wenn du den WPM-Handlungsbogen\nzuerst abschließt, kannst du die\nGeschichte im Schurken-Event sogar\nnoch mehr genießen.",
+    "tutorial/tutorial_mainstory_seconddepartment_03": "Der Schurken-Event ist auch ohne\nden WPM-Abschluss spielbar. Folge\ndem Strang der Hauptgeschichte, der\ndich am meisten interessiert.",
 }

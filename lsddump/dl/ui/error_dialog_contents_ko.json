@@ -61,4 +61,6 @@
     "error_dialog_contents/30212": "닌텐도 어카운트에 연동된 저장 데이터가\n존재하지 않습니다\n게임 내의 \"어카운트 관리\"에서 연동한\nApple ID로 다시 이어받기를 진행하여 주십시오",
     "error_dialog_contents/30109": "법정대리인의 동의 내용에 변경이 있습니다\n계속해서 게임을 플레이하기 위해서는\n법정대리인의 승인이 필요합니다\n\n게임을 다시 시작합니다.",
     "error_dialog_contents/30110": "승인 의뢰에 실패하였습니다.",
+    "error_dialog_contents/BR_30109": "Há uma atualização do consentimento de seu representante legal.\nPara continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.\nReinicie o jogo\n",
+    "error_dialog_contents/BR_30110": "Pedido de Aprovação Falhou",
 }

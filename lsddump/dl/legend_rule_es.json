@@ -26,4 +26,7 @@
     "legend_rule_3060_001": "La debilidad del rival cambia dos veces\ndurante el combate.",
     "legend_rule_3060_002": "Los cambios causados por cualquier bando\nen el tiempo atmosférico son permanentes.",
     "legend_rule_3060_003": "Al recuperarse de un efecto de retroceso,\nel rival adquiere resistencia al retroceso.",
+    "legend_rule_3090_001": "En la 1.ª y la 3.ª barra de PS, el rival sufre\nmenos daño si no sufre problemas de estado.",
+    "legend_rule_3090_002": "En la 2.ª y la 3.ª barra de PS, el rival sufre\nmenos daño si no sufre cambios de estado.",
+    "legend_rule_3090_003": "El rival adquiere resistencia a un problema\no cambio de estado tras sobreponerse a él.",
 }

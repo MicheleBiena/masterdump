@@ -92,6 +92,8 @@
     "tutorial/tutorial_storyclear_001_15": "Félicitations, vous avez remporté\nle WPM ! Continuez de participer\nà des combats et de vous entraîner\npour de futures aventures !",
     "tutorial/tutorial_storyclear_001_18": "Combat terminé !",
     "tutorial/tutorial_storyclear_001_19": "Félicitations, vous avez terminé\n« Combat : Giovanni II » !\nLa suite de l'évènement\n« Organisation maléfique »\nest prévue pour fin septembre* !\n\n* Sujet à modification.",
+    "tutorial/tutorial_storyclear_001_16": "[Name:QuestGroupTitle ] terminé !",
+    "tutorial/tutorial_storyclear_001_17": "Vous avez terminé [Name:QuestGroupTitle ] !\nContinuez de participer à des combats\net de vous entraîner pour de futures\naventures !",
     "tutorial/tutorial_storyhard_001_11": "Vous avez désormais accès\nau mode difficile du WPM !",
     "tutorial/tutorial_storyhard_001_12": "Vous pourrez augmenter le niveau\nde difficulté de certaines zones.",
     "tutorial/tutorial_storyveryhard_001_11": "Vous avez désormais accès au mode\ntrès difficile du WPM !",
@@ -382,4 +384,7 @@
     "tutorial/tutorial_dynamax_text_001_03": "Utilisez les Duos Dynamax à votre\navantage pendant les combats !\nVous pouvez en apprendre plus\ndans la section « Conseils ».",
     "tutorial/tutorial_teamskill_01": "Sur cet écran, vous pouvez renforcer\nvos talents d'équipe grâce aux Talents ↑.",
     "tutorial/tutorial_teamskill_02": "Un talent d'équipe s'active\nlorsque vous formez une équipe\navec au moins deux Duos qui\npartagent un mot-clé.",
+    "tutorial/tutorial_mainstory_seconddepartment_01": "« L'organisation maléfique »\nest disponible ! Ces évènements\nse déroulent après la fin du WPM.",
+    "tutorial/tutorial_mainstory_seconddepartment_02": "Il est recommandé de terminer\n« Le WPM » avant de commencer\n« L'organisation maléfique » afin\nde profiter pleinement du scénario.",
+    "tutorial/tutorial_mainstory_seconddepartment_03": "« L'organisation maléfique » est\naccessible sans avoir besoin de\nterminer « Le WPM ». Vous pouvez\njouer comme bon vous semble.",
 }
