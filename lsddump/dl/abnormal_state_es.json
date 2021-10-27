@@ -36,6 +36,8 @@
     "223": "Sig. Supereficaz ↑",
     "224": "Siguiente sin coste",
     "225": "Siguiente mitiga daño",
+    "228": "Siguiente Físico ↑",
+    "229": "Siguiente Especial ↑",
     "301": "Daño físico ↓",
     "302": "Daño especial ↓",
     "303": "Rebote probl. estado",
@@ -117,5 +119,7 @@
     "5060": "Siguiente Supereficaz ↑",
     "5061": "Siguiente sin coste",
     "5062": "Siguiente mitiga daño",
+    "5063": "Siguiente Físico ↑",
+    "5064": "Siguiente Especial ↑",
     "9014": "Lleno de\ndeterminación",
 }

@@ -36,6 +36,8 @@
     "223": "Supereffective ↑ Next",
     "224": "Free Move Next",
     "225": "Damage Guard Next",
+    "228": "Physical Moves ↑ Next",
+    "229": "Special Moves ↑ Next",
     "301": "Physical Damage\nReduction",
     "302": "Special Damage\nReduction",
     "303": "Status Condition Reflection",
@@ -117,5 +119,7 @@
     "5060": "Supereffective ↑ Next",
     "5061": "Free Move Next",
     "5062": "Damage Guard Next",
+    "5063": "Physical Moves ↑ Next",
+    "5064": "Special Moves ↑ Next",
     "9014": "Sync Buff",
 }

@@ -36,6 +36,8 @@
     "223": "Prochain super efficace ↑",
     "224": "Conso. 0 assurée",
     "225": "Prochain Garde",
+    "228": "Prochain boost\ncapacité physique",
+    "229": "Prochain boost\ncapacité spéciale",
     "301": "Résiste capa. phys.",
     "302": "Résiste capa. spé.",
     "303": "Renvoi statuts",
@@ -117,5 +119,7 @@
     "5060": "Prochain super efficace ↑",
     "5061": "Conso. 0 assurée",
     "5062": "Prochain Garde",
+    "5063": "Prochain boost capacité physique",
+    "5064": "Prochain boost capacité spéciale",
     "9014": "Détermination\nau maximum",
 }

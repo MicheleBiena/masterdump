@@ -36,6 +36,8 @@
     "223": "Folge-Effektiv.-Stärke↑",
     "224": "Folge-Leistenverbr. 0",
     "225": "Folge-Schadensschutz",
+    "228": "Folge-Phys.-Attacke↑",
+    "229": "Folge-Sp.-Attacke↑",
     "301": "Physischer Schaden↓",
     "302": "Spezial-Schaden↓",
     "303": "Problemreflexion",
@@ -117,5 +119,7 @@
     "5060": "Folge-Effektiv.-Stärke↑",
     "5061": "Folge-Leistenverbr. 0",
     "5062": "Folge-Schadensschutz",
+    "5063": "Folge-Phys.-Attacke↑",
+    "5064": "Folge-Sp.-Attacke↑",
     "9014": "Gut drauf",
 }

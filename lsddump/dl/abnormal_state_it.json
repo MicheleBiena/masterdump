@@ -36,6 +36,8 @@
     "223": "Prossimo superefficace ↑",
     "224": "Prossimo a costo zero",
     "225": "Protezione prossimo danno",
+    "228": "Prossima mossa fisica ↑",
+    "229": "Prossima mossa speciale ↑",
     "301": "Danni fisici ↓",
     "302": "Danni speciali ↓",
     "303": "Riflette problemi di stato",
@@ -117,5 +119,7 @@
     "5060": "Prossimo superefficace ↑",
     "5061": "Prossimo a costo zero",
     "5062": "Protezione prossimo danno",
+    "5063": "Prossima mossa fisica ↑",
+    "5064": "Prossima mossa speciale ↑",
     "9014": "Su di giri",
 }
