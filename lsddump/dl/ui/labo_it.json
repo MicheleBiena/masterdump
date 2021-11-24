@@ -35,4 +35,13 @@
     "labo/labo_040": "È possibile utilizzare l'autoincubazione\nal massimo per quattro Uova alla volta.",
     "labo/labo_041": "Non puoi inserire Uova nelle Incubatrici\nperché non hai più spazio per altri\nPokémon nella Tenuta.",
     "labo/labo_042": "Al momento non ci sono Pokémon nella Tenuta.",
+    "labo/labo_043": "Scadenza: [Digit:3digits ] giorn[IT:Qty S=\"o\" P=\"i\" ]",
+    "labo/labo_044": "Quando attivo, dimezza il tempo d'incubazione.",
+    "labo/labo_045": "Le gemme non verranno rimborsate in caso di\ninterruzione del servizio, incluso per\nmanutenzione, durante il periodo di attività\ndello strumento.",
+    "labo/labo_046": "Scadenza Incubatrice veloce",
+    "labo/labo_047": "Se l'Incubatrice veloce contiene un Uovo allo scadere\ndel Pass incubatrice veloce, resta attiva fino alla schiusa.",
+    "labo/labo_048": "Incubatrice veloce",
+    "labo/labo_049": "Inserendo un Uovo nell'Incubatrice veloce,\nè possibile farlo schiudere.",
+    "labo/labo_050": "Vuoi inserire l'Uovo nell'Incubatrice veloce?",
+    "labo/labo_051": "Scadenza: [Name:DateTime ]",
 }

@@ -35,4 +35,13 @@
     "labo/labo_040": "Vous pouvez activer l'Incubation automatique\npour un maximum de 4 Œufs à la fois.",
     "labo/labo_041": "Le Ranch affiche complet !\nVous ne pouvez pas faire incuber\ncet Œuf.",
     "labo/labo_042": "Il n'y a actuellement aucun Pokémon au Ranch.",
+    "labo/labo_043": "Temps restant : [Digit:3digits ] jour[FR:Qty P=\"s\" ]",
+    "labo/labo_044": "Réduit la période d'incubation de moitié durant la période de validité.",
+    "labo/labo_045": "Les Diamants ne seront pas remboursés si une interruption de service (maintenances y comprises) se produit pendant la période de validité du Pass Turbo-Incubateur.",
+    "labo/labo_046": "Limite de validité du Turbo-Incubateur",
+    "labo/labo_047": "Si un Œuf se trouve dans un Turbo-Incubateur à son expiration, celui-ci restera actif jusqu'à l'éclosion.",
+    "labo/labo_048": "Turbo-Incubateur",
+    "labo/labo_049": "Vous pouvez placer un Œuf dans un Turbo-Incubateur pour le couver jusqu'à l'éclosion.",
+    "labo/labo_050": "Voulez-vous placer l'Œuf dans le Turbo-Incubateur ?",
+    "labo/labo_051": "Temps restant : [Name:DateTime ]",
 }

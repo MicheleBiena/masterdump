@@ -35,4 +35,13 @@
     "labo/labo_040": "Only four Eggs can be set to auto-incubate\nat once.",
     "labo/labo_041": "This Egg can’t be placed in an\nincubator right now because the\nday care is currently full.",
     "labo/labo_042": "There aren’t any Pokémon in the day care yet.",
+    "labo/labo_043": "Time Remaining: [Digit:3digits ] more day(s)",
+    "labo/labo_044": "Halves incubation time while activated!",
+    "labo/labo_045": "Note: Gems will not be refunded if there is a suspension in service for any reason, including maintenance, while this item is active.",
+    "labo/labo_046": "Eggstreme Pass Expiration",
+    "labo/labo_047": "Note: If the Eggstreme pass expires while an Egg is already placed in an Eggstreme incubator, the Eggstreme incubator will stay active until the Egg hatches.",
+    "labo/labo_048": "Eggstreme Incubator",
+    "labo/labo_049": "You can place Eggs in Eggstreme incubators to hatch them.",
+    "labo/labo_050": "Would you like to place this Egg into an Eggstreme incubator?",
+    "labo/labo_051": "Expires [Name:DateTime ]",
 }

@@ -35,4 +35,13 @@
     "labo/labo_040": "Puedes poner en la cola de Autoincubación un\nmáximo de cuatro Huevos al mismo tiempo.",
     "labo/labo_041": "No puedes colocar más Huevos en la\nIncubadora porque no hay espacio\nsuficiente en el Rancho.",
     "labo/labo_042": "Ahora mismo no hay Pokémon en este Rancho.",
+    "labo/labo_043": "Tiempo restante: [Digit:3digits ] día[ES:Qty P=\"s\" ]",
+    "labo/labo_044": "¡Reduce a la mitad el período de incubación!",
+    "labo/labo_045": "Aviso: Las joyas utilizadas no se restablecerán si se suspende el servicio por varios motivos, tales como labores de mantenimiento, durante el período de validez de la Incubadora Exprés.",
+    "labo/labo_046": "Validez de la Incubadora Exprés:",
+    "labo/labo_047": "Aviso: La Incubadora Exprés seguirá funcionando hasta que el Huevo eclosione, aunque termine su período de validez.",
+    "labo/labo_048": "Incubadora Exprés",
+    "labo/labo_049": "Coloca un Huevo en la Incubadora Exprés para hacerlo eclosionar.",
+    "labo/labo_050": "¿Quieres colocarlo en la Incubadora Exprés?",
+    "labo/labo_051": "Tiempo restante: [Name:DateTime ]",
 }
