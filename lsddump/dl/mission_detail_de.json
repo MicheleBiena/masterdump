@@ -164,6 +164,6 @@
     "110": "Schließe das folgende Gebiet mit\nmaximal [Digit:2digits ] [DE:Qty S=\"Gefährtengespann\" P=\"Gefährtengespannen\" ] ab,\n[DE:Qty S=\"dessen\" P=\"deren\" ] KP auf 0 gefallen sind:\n[Name:QuestTitle ]",
     "111": "Schließe „[Name:QuestTitle ]“\nmit mindestens [Digit:2digits Idx=\"1\" ] Gefährten mit dem\nfolgenden Attribut und maximal [Digit:2digits Idx=\"2\" ]\nGefährten insgesamt ab:",
     "111_element": "• [Name:TeamSkillTag ]",
-    "112": "Schließe „[Name:QuestTitle ]“\nmit mindestens [Digit:2digits Idx=\"1\" ] Gefährten mit dem\nfolgenden Attribut und maximal\n[Digit:2digits Idx=\"2\" ] [DE:Qty Ref=\"2\" S=\"Gefährtengespann\" P=\"Gefährtengespannen\" ] ab, [DE:Qty Ref=\"2\" S=\"dessen\" P=\"deren\" ] KP\nauf 0 gefallen sind:",
+    "112": "Schließe „[Name:QuestTitle ]“\nmit mindestens [Digit:2digits Idx=\"1\" ] Gefährten mit allen folgenden Attributen und maximal\n[Digit:2digits Idx=\"2\" ] [DE:Qty Ref=\"2\" S=\"Gefährtengespann\" P=\"Gefährtengespannen\" ], [DE:Qty Ref=\"2\" S=\"dessen\" P=\"deren\" ] KP\nauf 0 gefallen sind, ab:",
     "112_element": "• [Name:TeamSkillTag ]",
 }

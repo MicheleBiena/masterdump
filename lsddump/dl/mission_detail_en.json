@@ -164,6 +164,6 @@
     "110": "Complete the following area with [Digit:2digits ]\nor fewer sync pairs falling to 0 HP:\n[Name:QuestTitle ]",
     "111": "Complete [Name:QuestTitle ]\nwith [Digit:2digits Idx=\"1\" ] or more sync pairs that share the following theme and with [Digit:2digits Idx=\"2\" ] total sync pairs or fewer.",
     "111_element": "• [Name:TeamSkillTag ]",
-    "112": "Complete [Name:QuestTitle ] with [Digit:2digits Idx=\"1\" ] or more sync pairs that share the following theme(s) and with [Digit:2digits Idx=\"2\" ] or fewer sync pairs falling to 0 HP:",
+    "112": "Complete [Name:QuestTitle ] with [Digit:2digits Idx=\"1\" ] or more sync pairs that share each of the following themes and with [Digit:2digits Idx=\"2\" ] or fewer sync pairs falling to 0 HP:",
     "112_element": "• [Name:TeamSkillTag ]",
 }

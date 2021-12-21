@@ -164,6 +164,6 @@
     "110": "Completa:\n• [Name:QuestTitle ]\nIl numero di Unità i cui PS sono stati\nridotti a 0 deve essere [Digit:2digits ] o meno.",
     "111": "Completa:\n• [Name:QuestTitle ]\nDevi far partire [Digit:2digits Idx=\"2\" ] Unità o meno,\ne devi avere in squadra [Digit:2digits Idx=\"1\" ] o più\nUnità appartenenti al seguente\ngruppo:",
     "111_element": "• [Name:TeamSkillTag ]",
-    "112": "Completa:\n• [Name:QuestTitle ]\nIl numero di Unità i cui PS sono stati\nridotti a 0 deve essere [Digit:2digits Idx=\"2\" ] o meno, e\ndevi avere in squadra [Digit:2digits Idx=\"1\" ] o più Unità\nappartenenti al seguente gruppo:",
+    "112": "Completa:\n• [Name:QuestTitle ]\nIl numero di Unità i cui PS sono stati\nridotti a 0 deve essere [Digit:2digits Idx=\"2\" ] o meno, e\ndevi avere in squadra [Digit:2digits Idx=\"1\" ] o più Unità\nappartenenti a ciascuno dei seguenti\ngruppi:",
     "112_element": "• [Name:TeamSkillTag ]",
 }
