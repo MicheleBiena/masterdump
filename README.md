@@ -9,4 +9,4 @@ Unpacked and uncrypted Pokémon Masters APK (for research purposes)
 ### lsddump
 Probably the most important part of every datamine. This folder contains every bit of text in the game, for every language. There are several .json files divided in two folders: apk (what you have in the game from the moment you download it from the play store / Apple store) and dl (what you download once you've started the game and on every major update). json files can be opened in every text editor, but there's also a condensed .txt file (but it's a bit chaotic to read from only one file).
 ### ui
-If you want to see a nice collection of every other graphical element or video you should check absol-utely repository on [MEGA](https://mega.nz/folder/5Q8iga5Y#CcHEIULdiigckfDqahIpKQ) 
+If you want to see a nice collection of every other graphical element or video you should check my repository on [Google Drive](https://drive.google.com/drive/folders/1-1dVLbABO34K7GmVXFoD-gGRztrSC1FY) 
