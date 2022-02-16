@@ -404,6 +404,6 @@
     "999535": "La potencia de este movimiento aumenta cuando la zona es Zona Acero.",
     "999534": "Recupera aproximadamente un [Digit:2digits ]% de los PS máximos del bando del usuario, exceptuando al usuario. Cuanto mayor sea el nivel de movimiento del usuario, mayor será este porcentaje. (Cada nivel de movimiento adicional aumenta la cantidad de PS que se restauran en un 5%. La restauración de PS máxima es aproximadamente un [Digit:2digits Idx=\"1\" ]% de sus PS máximos).",
     "999533": "El bando del usuario se cura de retroceso, confusión o ataduras.",
-    "999532": "Llena [Digit:1digit Idx=\"2\" ] [ES:Qty Ref=\"3\" S=\"punto\" P=\"puntos\" ] la barra de movimientos del usuario.",
+    "999532": "Llena [Digit:1digit Idx=\"2\" ] [ES:Qty Ref=\"2\" S=\"punto\" P=\"puntos\" ] la barra de movimientos del usuario.",
     "999531": "La potencia de este movimiento aumenta cuando la zona es Zona Siniestra.",
 }

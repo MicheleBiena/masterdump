@@ -404,6 +404,6 @@
     "999535": "Die Stärke dieser Attacke steigt, wenn der Stahl-Fokus aktiv ist.",
     "999534": "Stellt bei allen anderen Gefährten im Team außer dem Anwender etwa [Digit:2digits ] % ihrer maximalen KP wieder her. Je höher das Attacken-Level des Anwenders, desto höher ist dieser Prozentsatz. (Jedes zusätzliche Attacken-Level erhöht die Menge der wiederhergestellten KP um 5 %. Die maximale KP-Wiederherstellung liegt bei ungefähr [Digit:2digits Idx=\"1\" ] % der maximalen KP.)",
     "999533": "Befreit alle Gefährten im Team, die zurückgeschreckt, verwirrt oder umschlungen sind, von dem Zustand.",
-    "999532": "Füllt die Attackenleiste deines Teams um [Digit:1digit Idx=\"2\" ] [DE:Qty Ref=\"3\" S=\"Segment\" P=\"Segmente\" ] auf.",
+    "999532": "Füllt die Attackenleiste deines Teams um [Digit:1digit Idx=\"2\" ] [DE:Qty Ref=\"2\" S=\"Segment\" P=\"Segmente\" ] auf.",
     "999531": "Die Stärke dieser Attacke steigt, wenn der Unlicht-Fokus aktiv ist.",
 }

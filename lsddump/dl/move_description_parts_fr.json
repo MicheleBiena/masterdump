@@ -404,6 +404,6 @@
     "999535": "Augmente la puissance de la capacité quand la zone est une zone Acier.",
     "999534": "Restaure environ [Digit:2digits ] % des PV maximums de tous les Duos alliés, sauf le lanceur. Plus le niveau de capacité du lanceur est haut, plus ce pourcentage est important. (Chaque niveau de capacité supplémentaire augmente la quantité de PV restaurés de 5 %. La quantité maximale restaurée correspond à environ [Digit:2digits Idx=\"1\" ] % des PV maximums.)",
     "999533": "Soigne la peur, la confusion et le ligotage de tous les Duos alliés. ",
-    "999532": "Remplit [Digit:1digit Idx=\"2\" ] [FR:Qty Ref=\"3\" S=\"segment\" P=\"segments\" ] de la Jauge Capacité du lanceur.",
+    "999532": "Remplit [Digit:1digit Idx=\"2\" ] [FR:Qty Ref=\"2\" S=\"segment\" P=\"segments\" ] de la Jauge Capacité du lanceur.",
     "999531": "Augmente la puissance de la capacité quand la zone est une zone Ténèbres.",
 }
