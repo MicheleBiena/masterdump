@@ -57,6 +57,7 @@
     "320": "Anti-changement météo",
     "323": "Champ Herbu",
     "324": "Champ Psychique",
+    "332": "Zone Vol",
     "335": "Zone Spectre",
     "336": "Zone Dragon",
     "337": "Zone Ténèbres",
@@ -129,7 +130,8 @@
     "5066": "Zone Dragon",
     "5067": "Zone Ténèbres",
     "5068": "Zone Acier",
-    "9014": "Détermination\nau maximum",
+    "5069": "Zone Vol",
+    "9014": "Détermination",
     "9017": "Tête de Gel",
     "9018": "Tête Dégel",
 }

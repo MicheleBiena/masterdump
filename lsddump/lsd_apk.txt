@@ -2840,6 +2840,98 @@ vollkommenen Geist
 [quest_group_title_100205] Geben und Nehmen
 [quest_title_1030220194100000] Ein Tag mit MaMo-Zyrus
 [quest_title_1030220116100000] Ein Tag mit MaMo-Lucia
+[quest_group_title_10126410000] Maike (Jubiläum)
+[quest_group_title_10016410000] Géraldine (Jubiläum)
+[quest_group_title_10257400000] Roy (Jubiläum)
+[quest_title_1030402000602010] Neue Freundschaften
+[quest_title_1030402000602110] Setze Psycho-Attacken ein! 1
+[quest_title_1030402000602120] Setze Psycho-Attacken ein! 2
+[quest_title_1030402000602170] Täglicher schwerer Kampf 1
+[quest_title_1030402000602130] Setze Flug-Attacken ein! 1
+[quest_title_1030402000602140] Setze Flug-Attacken ein! 2
+[quest_title_1030402000602180] Täglicher schwerer Kampf 2
+[quest_title_1030402000602150] Setze Drachen-Attacken ein! 1
+[quest_title_1030402000602160] Setze Drachen-Attacken ein! 2
+[quest_title_1030402000602190] Täglicher schwerer Kampf 3
+[quest_title_1030402000602200] Herausforderungskampf 1
+[quest_title_1030402000602210] Herausforderungskampf 2
+[quest_title_1030402000602020] Alle Augen auf Roy!
+[quest_title_1030402000602030] Die Herrin der Stürme
+[quest_title_1030402000602040] Wettbewerbssternchen Maike
+[quest_title_1030402000602050] Wertvolle Erinnerungen
+[quest_title_1030402000604010] Psycho-Kameraden 1
+[quest_title_1030402000604020] Psycho-Kameraden 2
+[quest_title_1030402000604030] Flug-Kameraden 1
+[quest_title_1030402000604040] Flug-Kameraden 2
+[quest_title_1030402000604050] Drachen-Kameraden 1
+[quest_title_1030402000604060] Drachen-Kameraden 2
+[quest_title_1030440200301010] Herausforderungskampf A
+[quest_title_1030440200302010] Herausforderungskampf A2
+[quest_title_1030440200303010] Kollektivkampf A
+[quest_title_1030440200304010] Kollektivkampf A2
+[quest_title_1030440200305010] Herausforderungskampf B
+[quest_title_1030440200306010] Herausforderungskampf B2
+[quest_title_1030440200307010] Kollektivkampf B
+[quest_title_1030440200308010] Kollektivkampf B2
+[quest_title_1030440200309010] Herausforderungskampf C
+[quest_title_1030440200310010] Herausforderungskampf C2
+[quest_title_1030440200311010] Kollektivkampf C
+[quest_title_1030440200312010] Kollektivkampf C2
+[quest_title_1030440200313010] Herausforderungskampf D
+[quest_title_1030440200314010] Herausforderungskampf D2
+[quest_title_1030440200315010] Kollektivkampf D
+[quest_title_1030440200316010] Kollektivkampf D2
+[quest_title_1030440200317010] Herausforderungskampf E
+[quest_title_1030440200318010] Herausforderungskampf E2
+[quest_title_1030440200319010] Kollektivkampf E
+[quest_title_1030440200320010] Kollektivkampf E2
+[quest_title_1030440200321010] Herausforderungskampf F
+[quest_title_1030440200322010] Herausforderungskampf F2
+[quest_title_1030440200323010] Kollektivkampf F
+[quest_title_1030440200324010] Kollektivkampf F2
+[quest_title_1030402000601010] Eine kuriose Entdeckung
+[quest_title_1030402000601110] Nachforschungen auf Passio
+[quest_title_1030402000601020] Professor Platans Theorie
+[quest_title_1030440200101010] Vs. Trainer aus Passio 1
+[quest_title_1030440200102010] Vs. Trainer aus Passio 2
+[quest_title_1030440200103010] Vs. Trainer aus Passio 3
+[quest_title_1030440200104010] Vs. Trainer aus Passio 4
+[quest_title_1030440200204010] Kampf voller Dankbarkeit 1
+[quest_title_1030440200205010] Kampf voller Dankbarkeit 2
+[quest_title_1030440200206010] Kampf voller Dankbarkeit 3
+[quest_title_1030220126410000] Ein Tag mit Maike
+[quest_title_1030220016410000] Ein Tag mit Géraldine
+[quest_title_1030220257400000] Ein Tag mit Roy
+[quest_title_1030440100101010] Der schwierige Weg zum
+Sieg
+[quest_title_1030440100103010] Rollen und Reihenfolgen 1
+[quest_title_1030440101001010] Vs. N
+[quest_title_1030440100103011] Rollen und Reihenfolgen 2
+[quest_title_1030440100104010] Erhöhe die Spannung! 1
+[quest_title_1030440101002010] Vs. Siegfried
+[quest_title_1030440100104011] Erhöhe die Spannung! 2
+[quest_title_1030440100105010] Angriff und Spezial-Angriff 1
+[quest_title_1030440101003010] Vs. Troy
+[quest_title_1030440100105011] Angriff und Spezial-Angriff 2
+[quest_title_1030440100106010] Verteidigung und
+Spezial-Verteidigung 1
+[quest_title_1030440101004010] Vs. Wassili
+[quest_title_1030440100106011] Verteidigung und
+Spezial-Verteidigung 2
+[quest_title_1030440100107010] Lande einen Volltreffer! 1
+[quest_title_1030440100107012] Lande einen Volltreffer! 2
+[quest_title_1030440101006010] Vs. Delion
+[quest_title_1030440100107013] Lande einen Volltreffer! 3
+[quest_title_1030440100108010] Passivfähigkeiten 1
+[quest_title_1030440101007010] Vs. Cynthia
+[quest_title_1030440100108011] Passivfähigkeiten 2
+[quest_title_1030440100109010] Die Abschlussprüfung 1
+[quest_title_1030440101008010] Vs. Rot
+[quest_title_1030440100109011] Die Abschlussprüfung 2
+[quest_title_1030440100102010] Herzlichen Glückwunsch!
+[quest_title_1030440100102011] Das Gefährtensteinbrett ist
+der Schlüssel zum Erfolg!
+[quest_title_1030402000603090] Vs. Drachen-Gefährten
 
 ===========
 story_quest_name_en.lsd
@@ -4885,6 +4977,97 @@ story_quest_name_en.lsd
 [quest_group_title_100205] Give and Take
 [quest_title_1030220194100000] A Day with Sygna Suit Cyrus
 [quest_title_1030220116100000] A Day with Sygna Suit Dawn
+[quest_group_title_10126410000] May
+(Anniversary 2022)
+[quest_group_title_10016410000] Skyla
+(Anniversary 2022)
+[quest_group_title_10257400000] Raihan
+(Anniversary 2022)
+[quest_title_1030402000602010] When We Became Friends
+[quest_title_1030402000602110] Mesmerize with Psychic-Type Moves! Part 1
+[quest_title_1030402000602120] Mesmerize with Psychic-Type Moves! Part 2
+[quest_title_1030402000602170] Daily Extreme Battle 1
+[quest_title_1030402000602130] Soar with Flying-Type Moves! Part 1
+[quest_title_1030402000602140] Soar with Flying-Type Moves! Part 2
+[quest_title_1030402000602180] Daily Extreme Battle 2
+[quest_title_1030402000602150] Rage with Dragon-Type Moves! Part 1
+[quest_title_1030402000602160] Rage with Dragon-Type Moves! Part 2
+[quest_title_1030402000602190] Daily Extreme Battle 3
+[quest_title_1030402000602200] Battle Challenge! Round 1
+[quest_title_1030402000602210] Battle Challenge! Round 2
+[quest_title_1030402000602020] Raihan’s Photo Op
+[quest_title_1030402000602030] High-Flying Skyla
+[quest_title_1030402000602040] Spectacular May
+[quest_title_1030402000602050] Sincere Thanks
+[quest_title_1030402000604010] Psychic Buddies Unite: Part 1
+[quest_title_1030402000604020] Psychic Buddies Unite: Part 2
+[quest_title_1030402000604030] Flying Buddies Unite: Part 1
+[quest_title_1030402000604040] Flying Buddies Unite: Part 2
+[quest_title_1030402000604050] Dragon Buddies Unite: Part 1
+[quest_title_1030402000604060] Dragon Buddies Unite: Part 2
+[quest_title_1030440200301010] Battle Challenge A! Round 1
+[quest_title_1030440200302010] Battle Challenge A! Round 2
+[quest_title_1030440200303010] Full-Force Battle A! Round 1
+[quest_title_1030440200304010] Full-Force Battle A! Round 2
+[quest_title_1030440200305010] Battle Challenge B! Round 1
+[quest_title_1030440200306010] Battle Challenge B! Round 2
+[quest_title_1030440200307010] Full-Force Battle B! Round 1
+[quest_title_1030440200308010] Full-Force Battle B! Round 2
+[quest_title_1030440200309010] Battle Challenge C! Round 1
+[quest_title_1030440200310010] Battle Challenge C! Round 2
+[quest_title_1030440200311010] Full-Force Battle C! Round 1
+[quest_title_1030440200312010] Full-Force Battle C! Round 2
+[quest_title_1030440200313010] Battle Challenge D! Round 1
+[quest_title_1030440200314010] Battle Challenge D! Round 2
+[quest_title_1030440200315010] Full-Force Battle D! Round 1
+[quest_title_1030440200316010] Full-Force Battle D! Round 2
+[quest_title_1030440200317010] Battle Challenge E! Round 1
+[quest_title_1030440200318010] Battle Challenge E! Round 2
+[quest_title_1030440200319010] Full-Force Battle E! Round 1
+[quest_title_1030440200320010] Full-Force Battle E! Round 2
+[quest_title_1030440200321010] Battle Challenge F! Round 1
+[quest_title_1030440200322010] Battle Challenge F! Round 2
+[quest_title_1030440200323010] Full-Force Battle F! Round 1
+[quest_title_1030440200324010] Full-Force Battle F! Round 2
+[quest_title_1030402000601010] Something Strange on Pasio
+[quest_title_1030402000601110] Search Pasio!
+[quest_title_1030402000601020] Sycamore’s Speculation
+[quest_title_1030440200101010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030440200102010] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030440200103010] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030440200104010] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030440200204010] Battle with Pals! Part 1
+[quest_title_1030440200205010] Battle with Pals! Part 2
+[quest_title_1030440200206010] Battle with Pals! Part 3
+[quest_title_1030220126410000] A Day with May
+[quest_title_1030220016410000] A Day with Skyla
+[quest_title_1030220257400000] A Day with Raihan
+[quest_title_1030440100101010] The Road to Hard Mode
+[quest_title_1030440100103010] Roles and Tactics: Part 1
+[quest_title_1030440101001010] Challenge N
+[quest_title_1030440100103011] Roles and Tactics: Part 2
+[quest_title_1030440100104010] Sync Buffs: Part 1
+[quest_title_1030440101002010] Challenge Lance
+[quest_title_1030440100104011] Sync Buffs: Part 2
+[quest_title_1030440100105010] Attack and Sp. Atk: Part 1
+[quest_title_1030440101003010] Challenge Steven
+[quest_title_1030440100105011] Attack and Sp. Atk: Part 2
+[quest_title_1030440100106010] Defense and Sp. Def: Part 1
+[quest_title_1030440101004010] Challenge Wallace
+[quest_title_1030440100106011] Defense and Sp. Def: Part 2
+[quest_title_1030440100107010] Critical Hits: Part 1
+[quest_title_1030440100107012] Critical Hits: Part 2
+[quest_title_1030440101006010] Challenge Leon
+[quest_title_1030440100107013] Critical Hits: Part 3
+[quest_title_1030440100108010] Passive Skills: Part 1
+[quest_title_1030440101007010] Challenge Cynthia
+[quest_title_1030440100108011] Passive Skills: Part 2
+[quest_title_1030440100109010] The Ultimate Graduation Test: Part 1
+[quest_title_1030440101008010] Challenge Red
+[quest_title_1030440100109011] The Ultimate Graduation Test: Part 2
+[quest_title_1030440100102010] You Did It!
+[quest_title_1030440100102011] Sync Grids Are the Key
+[quest_title_1030402000603090] Challenge the Dragon Types
 
 ===========
 story_quest_name_es.lsd
@@ -7090,6 +7273,121 @@ mundo
 [quest_group_title_100205] Los que dan y los que quitan
 [quest_title_1030220194100000] Un día con Helio (Traje S)
 [quest_title_1030220116100000] Un día con Maya (Traje S)
+[quest_group_title_10126410000] Aura (Aniversario)
+[quest_group_title_10016410000] Gerania (Aniversario)
+[quest_group_title_10257400000] Roy (Aniversario)
+[quest_title_1030402000602010] El día que comenzó nuestra
+amistad
+[quest_title_1030402000602110] ¡Al ataque con movimientos
+de tipo Psíquico!
+[quest_title_1030402000602120] ¡Al ataque con movimientos
+de tipo Psíquico! (2)
+[quest_title_1030402000602170] ¡Un combate difícil al día!
+[quest_title_1030402000602130] ¡Al ataque con movimientos
+de tipo Volador!
+[quest_title_1030402000602140] ¡Al ataque con movimientos
+de tipo Volador! (2)
+[quest_title_1030402000602180] ¡Un combate difícil al día! (2)
+[quest_title_1030402000602150] ¡Al ataque con movimientos
+de tipo Dragón!
+[quest_title_1030402000602160] ¡Al ataque con movimientos
+de tipo Dragón! (2)
+[quest_title_1030402000602190] ¡Un combate difícil al día! (3)
+[quest_title_1030402000602200] ¡Un combate desafiante!
+[quest_title_1030402000602210] ¡Un combate desafiante! (2)
+[quest_title_1030402000602020] Selfis con Roy
+[quest_title_1030402000602030] La chica de altos vuelos que
+te deja por los suelos
+[quest_title_1030402000602040] Aura en vivo y en directo
+[quest_title_1030402000602050] Sentimientos sinceros
+[quest_title_1030402000604010] Desafío con compis de tipo
+Psíquico
+[quest_title_1030402000604020] Desafío con compis de tipo
+Psíquico (2)
+[quest_title_1030402000604030] Desafío con compis de tipo
+Volador
+[quest_title_1030402000604040] Desafío con compis de tipo
+Volador (2)
+[quest_title_1030402000604050] Desafío con compis de tipo
+Dragón
+[quest_title_1030402000604060] Desafío con compis de tipo
+Dragón (2)
+[quest_title_1030440200301010] ¡Un combate desafiante A!
+[quest_title_1030440200302010] ¡Un combate desafiante A! (2)
+[quest_title_1030440200303010] ¡Un combate colectivo A!
+[quest_title_1030440200304010] ¡Un combate colectivo A! (2)
+[quest_title_1030440200305010] ¡Un combate desafiante B!
+[quest_title_1030440200306010] ¡Un combate desafiante B! (2)
+[quest_title_1030440200307010] ¡Un combate colectivo B!
+[quest_title_1030440200308010] ¡Un combate colectivo B! (2)
+[quest_title_1030440200309010] ¡Un combate desafiante C!
+[quest_title_1030440200310010] ¡Un combate desafiante C! (2)
+[quest_title_1030440200311010] ¡Un combate colectivo C!
+[quest_title_1030440200312010] ¡Un combate colectivo C! (2)
+[quest_title_1030440200313010] ¡Un combate desafiante D!
+[quest_title_1030440200314010] ¡Un combate desafiante D! (2)
+[quest_title_1030440200315010] ¡Un combate colectivo D!
+[quest_title_1030440200316010] ¡Un combate colectivo D! (2)
+[quest_title_1030440200317010] ¡Un combate desafiante E!
+[quest_title_1030440200318010] ¡Un combate desafiante E! (2)
+[quest_title_1030440200319010] ¡Un combate colectivo E!
+[quest_title_1030440200320010] ¡Un combate colectivo E! (2)
+[quest_title_1030440200321010] ¡Un combate desafiante F!
+[quest_title_1030440200322010] ¡Un combate desafiante F! (2)
+[quest_title_1030440200323010] ¡Un combate colectivo F!
+[quest_title_1030440200324010] ¡Un combate colectivo F! (2)
+[quest_title_1030402000601010] Rumores de algo misterioso
+[quest_title_1030402000601110] ¡Búsqueda por Passio!
+[quest_title_1030402000601020] Las conjeturas del Profesor
+Ciprés
+[quest_title_1030440200101010] VS. Entrenadores de Passio
+[quest_title_1030440200102010] VS. Entrenadores de Passio (2)
+[quest_title_1030440200103010] VS. Entrenadores de Passio (3)
+[quest_title_1030440200104010] VS. Entrenadores de Passio (4)
+[quest_title_1030440200204010] ¡Un combate de
+agradecimiento!
+[quest_title_1030440200205010] ¡Un combate de
+agradecimiento! (2)
+[quest_title_1030440200206010] ¡Un combate de
+agradecimiento! (3)
+[quest_title_1030220126410000] Un día con Aura
+[quest_title_1030220016410000] Un día con Gerania
+[quest_title_1030220257400000] Un día con Roy
+[quest_title_1030440100101010] El camino hacia lo más alto
+en modo difícil
+[quest_title_1030440100103010] Las funciones y el orden de
+ataque del oponente
+[quest_title_1030440101001010] VS. N
+[quest_title_1030440100103011] Las funciones y el orden de
+ataque del oponente (2)
+[quest_title_1030440100104010] Cómo aumentar la
+determinación
+[quest_title_1030440101002010] VS. Lance
+[quest_title_1030440100104011] Cómo aumentar la
+determinación (2)
+[quest_title_1030440100105010] El Ataque y el Ataque
+Especial
+[quest_title_1030440101003010] VS. Máximo
+[quest_title_1030440100105011] El Ataque y el Ataque
+Especial (2)
+[quest_title_1030440100106010] La Defensa y la Defensa
+Especial
+[quest_title_1030440101004010] VS. Plubio
+[quest_title_1030440100106011] La Defensa y la Defensa
+Especial (2)
+[quest_title_1030440100107010] Los golpes críticos
+[quest_title_1030440100107012] Los golpes críticos (2)
+[quest_title_1030440101006010] VS. Lionel
+[quest_title_1030440100107013] Los golpes críticos (3)
+[quest_title_1030440100108010] Las habilidades pasivas
+[quest_title_1030440101007010] VS. Cintia
+[quest_title_1030440100108011] Las habilidades pasivas (2)
+[quest_title_1030440100109010] ¡Hora del examen!
+[quest_title_1030440101008010] VS. Rojo
+[quest_title_1030440100109011] ¡Hora del examen! (2)
+[quest_title_1030440100102010] ¡Enhorabuena, has aprobado!
+[quest_title_1030440100102011] El Tablero de la Piedra Compi
+[quest_title_1030402000603090] VS. compis de tipo Dragón
 
 ===========
 story_quest_name_fr.lsd
@@ -9443,6 +9741,120 @@ Dresseurs de Passio IV
 (Look Ultime)
 [quest_title_1030220116100000] Une journée avec Aurore
 (Look Ultime)
+[quest_group_title_10126410000] Flora
+(Anniversaire 2022)
+[quest_group_title_10016410000] Carolina
+(Anniversaire 2022)
+[quest_group_title_10257400000] Roy
+(Anniversaire 2022)
+[quest_title_1030402000602010] Le jour où nous sommes
+devenus amis
+[quest_title_1030402000602110] Attaquez avec des capacités
+de type Psy !
+[quest_title_1030402000602120] Attaquez avec des capacités
+de type Psy ! II
+[quest_title_1030402000602170] Combat difficile limité
+à une fois par jour !
+[quest_title_1030402000602130] Attaquez avec des capacités
+de type Vol !
+[quest_title_1030402000602140] Attaquez avec des capacités
+de type Vol ! II
+[quest_title_1030402000602180] Combat difficile limité
+à une fois par jour ! II
+[quest_title_1030402000602150] Attaquez avec des capacités
+de type Dragon !
+[quest_title_1030402000602160] Attaquez avec des capacités
+de type Dragon ! II
+[quest_title_1030402000602190] Combat difficile limité
+à une fois par jour ! III
+[quest_title_1030402000602200] Combat difficile
+[quest_title_1030402000602210] Combat difficile II
+[quest_title_1030402000602020] La photo parfaite de Roy
+[quest_title_1030402000602030] Comme un ouragan
+[quest_title_1030402000602040] Flora monte sur scène
+[quest_title_1030402000602050] Sentiments sincères
+[quest_title_1030402000604010] Compagnons de type Psy
+[quest_title_1030402000604020] Compagnons de type Psy II
+[quest_title_1030402000604030] Compagnons de type Vol
+[quest_title_1030402000604040] Compagnons de type Vol II
+[quest_title_1030402000604050] Compagnons de type Dragon
+[quest_title_1030402000604060] Compagnons
+de type Dragon II
+[quest_title_1030440200301010] Combat difficile A
+[quest_title_1030440200302010] Combat difficile A II
+[quest_title_1030440200303010] Combat Collectif A
+[quest_title_1030440200304010] Combat Collectif A II
+[quest_title_1030440200305010] Combat difficile B
+[quest_title_1030440200306010] Combat difficile B II
+[quest_title_1030440200307010] Combat Collectif B
+[quest_title_1030440200308010] Combat Collectif B II
+[quest_title_1030440200309010] Combat difficile C
+[quest_title_1030440200310010] Combat difficile C II
+[quest_title_1030440200311010] Combat Collectif C
+[quest_title_1030440200312010] Combat Collectif C II
+[quest_title_1030440200313010] Combat difficile D
+[quest_title_1030440200314010] Combat difficile D II
+[quest_title_1030440200315010] Combat Collectif D
+[quest_title_1030440200316010] Combat Collectif D II
+[quest_title_1030440200317010] Combat difficile E
+[quest_title_1030440200318010] Combat difficile E II
+[quest_title_1030440200319010] Combat Collectif E
+[quest_title_1030440200320010] Combat Collectif E II
+[quest_title_1030440200321010] Combat difficile F
+[quest_title_1030440200322010] Combat difficile F II
+[quest_title_1030440200323010] Combat Collectif F
+[quest_title_1030440200324010] Combat Collectif F II
+[quest_title_1030402000601010] Quelque chose d'étrange
+à Passio
+[quest_title_1030402000601110] Recherches dans Passio !
+[quest_title_1030402000601020] La théorie du
+Professeur Platane
+[quest_title_1030440200101010] Combat : Dresseurs de Passio
+[quest_title_1030440200102010] Combat :
+Dresseurs de Passio II
+[quest_title_1030440200103010] Combat :
+Dresseurs de Passio III
+[quest_title_1030440200104010] Combat :
+Dresseurs de Passio IV
+[quest_title_1030440200204010] Un combat plein de gratitude
+[quest_title_1030440200205010] Un combat plein
+de gratitude II
+[quest_title_1030440200206010] Un combat plein
+de gratitude III
+[quest_title_1030220126410000] Une journée avec Flora
+[quest_title_1030220016410000] Une journée avec Carolina
+[quest_title_1030220257400000] Une journée avec Roy
+[quest_title_1030440100101010] Visons toujours plus haut :
+la difficulté « Difficile » !
+[quest_title_1030440100103010] Rôles et positions
+[quest_title_1030440101001010] Combat : N
+[quest_title_1030440100103011] Rôles et positions II
+[quest_title_1030440100104010] La détermination
+[quest_title_1030440101002010] Combat : Peter
+[quest_title_1030440100104011] La détermination ! II
+[quest_title_1030440100105010] Attaque et Attaque Spéciale
+[quest_title_1030440101003010] Combat : Pierre Rochard
+[quest_title_1030440100105011] Attaque et Attaque
+Spéciale II
+[quest_title_1030440100106010] Défense et Défense Spéciale
+[quest_title_1030440101004010] Combat : Marc
+[quest_title_1030440100106011] Défense et Défense
+Spéciale II
+[quest_title_1030440100107010] Les coups critiques
+[quest_title_1030440100107012] Les coups critiques II
+[quest_title_1030440101006010] Combat : Tarak
+[quest_title_1030440100107013] Les coups critiques III
+[quest_title_1030440100108010] Les talents passifs
+[quest_title_1030440101007010] Combat : Cynthia
+[quest_title_1030440100108011] Les talents passifs II
+[quest_title_1030440100109010] Le plus dur des tests !
+[quest_title_1030440101008010] Combat : Red
+[quest_title_1030440100109011] Le plus dur des tests ! II
+[quest_title_1030440100102010] Félicitations, quelle réussite !
+[quest_title_1030440100102011] La clé du succès ?
+Le Plateau Duo-Gemme !
+[quest_title_1030402000603090] Combat : Duos
+de type Dragon
 
 ===========
 story_quest_name_it.lsd
@@ -11451,6 +11863,94 @@ story_quest_name_it.lsd
 [quest_group_title_100205] Chi dà e chi prende
 [quest_title_1030220194100000] Un giorno con Cyrus Costumax
 [quest_title_1030220116100000] Un giorno con Lucinda Costumax
+[quest_group_title_10126410000] Vera (2,5 anni)
+[quest_group_title_10016410000] Anemone (2,5 anni)
+[quest_group_title_10257400000] Laburno (2,5 anni)
+[quest_title_1030402000602010] Il giorno in cui siamo diventati amici
+[quest_title_1030402000602110] Attacca con mosse di tipo Psico!
+[quest_title_1030402000602120] Attacca con mosse di tipo Psico! 2
+[quest_title_1030402000602170] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030402000602130] Attacca con mosse di tipo Volante!
+[quest_title_1030402000602140] Attacca con mosse di tipo Volante! 2
+[quest_title_1030402000602180] Lotta ad alta difficoltà (una al giorno)! 2
+[quest_title_1030402000602150] Attacca con mosse di tipo Drago!
+[quest_title_1030402000602160] Attacca con mosse di tipo Drago! 2
+[quest_title_1030402000602190] Lotta ad alta difficoltà (una al giorno)! 3
+[quest_title_1030402000602200] Sfida ad alta difficoltà
+[quest_title_1030402000602210] Sfida ad alta difficoltà 2
+[quest_title_1030402000602020] Lo scatto perfetto di Laburno
+[quest_title_1030402000602030] La signora del vento prende il sopravvento
+[quest_title_1030402000602040] Vera, intrattenitrice dal vivo
+[quest_title_1030402000602050] Sentimenti sinceri
+[quest_title_1030402000604010] Insieme a Unità di tipo Psico
+[quest_title_1030402000604020] Insieme a Unità di tipo Psico 2
+[quest_title_1030402000604030] Insieme a Unità di tipo Volante
+[quest_title_1030402000604040] Insieme a Unità di tipo Volante 2
+[quest_title_1030402000604050] Insieme a Unità di tipo Drago
+[quest_title_1030402000604060] Insieme a Unità di tipo Drago 2
+[quest_title_1030440200301010] Sfida ad alta difficoltà (A)
+[quest_title_1030440200302010] Sfida ad alta difficoltà (A) 2
+[quest_title_1030440200303010] Lotta Collettiva (A)
+[quest_title_1030440200304010] Lotta Collettiva (A) 2
+[quest_title_1030440200305010] Sfida ad alta difficoltà (B)
+[quest_title_1030440200306010] Sfida ad alta difficoltà (B) 2
+[quest_title_1030440200307010] Lotta Collettiva (B)
+[quest_title_1030440200308010] Lotta Collettiva (B) 2
+[quest_title_1030440200309010] Sfida ad alta difficoltà (C)
+[quest_title_1030440200310010] Sfida ad alta difficoltà (C) 2
+[quest_title_1030440200311010] Lotta Collettiva (C)
+[quest_title_1030440200312010] Lotta Collettiva (C) 2
+[quest_title_1030440200313010] Sfida ad alta difficoltà (D)
+[quest_title_1030440200314010] Sfida ad alta difficoltà (D) 2
+[quest_title_1030440200315010] Lotta Collettiva (D)
+[quest_title_1030440200316010] Lotta Collettiva (D) 2
+[quest_title_1030440200317010] Sfida ad alta difficoltà (E)
+[quest_title_1030440200318010] Sfida ad alta difficoltà (E) 2
+[quest_title_1030440200319010] Lotta Collettiva (E)
+[quest_title_1030440200320010] Lotta Collettiva (E) 2
+[quest_title_1030440200321010] Sfida ad alta difficoltà (F)
+[quest_title_1030440200322010] Sfida ad alta difficoltà (F) 2
+[quest_title_1030440200323010] Lotta Collettiva (F)
+[quest_title_1030440200324010] Lotta Collettiva (F) 2
+[quest_title_1030402000601010] Strani ritrovamenti a Pasio
+[quest_title_1030402000601110] Indaghiamo per tutta Pasio!
+[quest_title_1030402000601020] La teoria del Professor Platan
+[quest_title_1030440200101010] VS Allenatori di Pasio
+[quest_title_1030440200102010] VS Allenatori di Pasio 2
+[quest_title_1030440200103010] VS Allenatori di Pasio 3
+[quest_title_1030440200104010] VS Allenatori di Pasio 4
+[quest_title_1030440200204010] Una lotta piena di gratitudine
+[quest_title_1030440200205010] Una lotta piena di gratitudine 2
+[quest_title_1030440200206010] Una lotta piena di gratitudine 3
+[quest_title_1030220126410000] Un giorno con Vera (2,5 anni)
+[quest_title_1030220016410000] Un giorno con Anemone (2,5 anni)
+[quest_title_1030220257400000] Un giorno con Laburno (2,5 anni)
+[quest_title_1030440100101010] La strada verso la modalità difficile
+[quest_title_1030440100103010] Ruoli e priorità 1
+[quest_title_1030440101001010] VS N
+[quest_title_1030440100103011] Ruoli e priorità 2
+[quest_title_1030440100104010] Alza la Tensione! 1
+[quest_title_1030440101002010] VS Lance
+[quest_title_1030440100104011] Alza la Tensione! 2
+[quest_title_1030440100105010] Attacco e Attacco Speciale 1
+[quest_title_1030440101003010] VS Rocco
+[quest_title_1030440100105011] Attacco e Attacco Speciale 2
+[quest_title_1030440100106010] Difesa e Difesa Speciale 1
+[quest_title_1030440101004010] VS Adriano
+[quest_title_1030440100106011] Difesa e Difesa Speciale 2
+[quest_title_1030440100107010] Sferra un brutto colpo! 1
+[quest_title_1030440100107012] Sferra un brutto colpo! 2
+[quest_title_1030440101006010] VS Dandel
+[quest_title_1030440100107013] Sferra un brutto colpo! 3
+[quest_title_1030440100108010] Cos'è un'abilità passiva? 1
+[quest_title_1030440101007010] VS Camilla
+[quest_title_1030440100108011] Cos'è un'abilità passiva? 2
+[quest_title_1030440100109010] L'esame più difficile?! 1
+[quest_title_1030440101008010] VS Rosso
+[quest_title_1030440100109011] L'esame più difficile?! 2
+[quest_title_1030440100102010] Congratulazioni!
+[quest_title_1030440100102011] Il segreto è la Teca Pietra Unità
+[quest_title_1030402000603090] VS Unità di tipo Drago
 
 ===========
 story_quest_name_ja.lsd
@@ -13497,6 +13997,97 @@ story_quest_name_ja.lsd
 [quest_group_title_100205] 与えるものと奪うもの
 [quest_title_1030220194100000] とある日のマジコスアカギ
 [quest_title_1030220116100000] とある日のマジコスヒカリ
+[quest_group_title_10126410000] ハルカ
+（２２アニバーサリー）
+[quest_group_title_10016410000] フウロ
+（２２アニバーサリー）
+[quest_group_title_10257400000] キバナ
+（２２アニバーサリー）
+[quest_title_1030402000602010] ともだちになった日
+[quest_title_1030402000602110] エスパーのわざで攻めよう！
+[quest_title_1030402000602120] エスパーのわざで攻めよう！２
+[quest_title_1030402000602170] １日１回限定・高難度バトル！
+[quest_title_1030402000602130] ひこうのわざで攻めよう！
+[quest_title_1030402000602140] ひこうのわざで攻めよう！２
+[quest_title_1030402000602180] １日１回限定・高難度バトル！２
+[quest_title_1030402000602150] ドラゴンのわざで攻めよう！
+[quest_title_1030402000602160] ドラゴンのわざで攻めよう！２
+[quest_title_1030402000602190] １日１回限定・高難度バトル！３
+[quest_title_1030402000602200] チャレンジバトルで勝負！
+[quest_title_1030402000602210] チャレンジバトルで勝負！２
+[quest_title_1030402000602020] キバナのシャッターチャンス
+[quest_title_1030402000602030] ぶっとばしガール
+[quest_title_1030402000602040] ライブパフォーマー　ハルカ
+[quest_title_1030402000602050] 素直な気持ち
+[quest_title_1030402000604010] エスパーの仲間と挑戦
+[quest_title_1030402000604020] エスパーの仲間と挑戦２
+[quest_title_1030402000604030] ひこうの仲間と挑戦
+[quest_title_1030402000604040] ひこうの仲間と挑戦２
+[quest_title_1030402000604050] ドラゴンの仲間と挑戦
+[quest_title_1030402000604060] ドラゴンの仲間と挑戦２
+[quest_title_1030440200301010] チャレンジバトル！Ａ
+[quest_title_1030440200302010] チャレンジバトル！Ａ２
+[quest_title_1030440200303010] ソウリョクバトル！Ａ
+[quest_title_1030440200304010] ソウリョクバトル！Ａ２
+[quest_title_1030440200305010] チャレンジバトル！Ｂ
+[quest_title_1030440200306010] チャレンジバトル！Ｂ２
+[quest_title_1030440200307010] ソウリョクバトル！Ｂ
+[quest_title_1030440200308010] ソウリョクバトル！Ｂ２
+[quest_title_1030440200309010] チャレンジバトル！Ｃ
+[quest_title_1030440200310010] チャレンジバトル！Ｃ２
+[quest_title_1030440200311010] ソウリョクバトル！Ｃ
+[quest_title_1030440200312010] ソウリョクバトル！Ｃ２
+[quest_title_1030440200313010] チャレンジバトル！Ｄ
+[quest_title_1030440200314010] チャレンジバトル！Ｄ２
+[quest_title_1030440200315010] ソウリョクバトル！Ｄ
+[quest_title_1030440200316010] ソウリョクバトル！Ｄ２
+[quest_title_1030440200317010] チャレンジバトル！Ｅ
+[quest_title_1030440200318010] チャレンジバトル！Ｅ２
+[quest_title_1030440200319010] ソウリョクバトル！Ｅ
+[quest_title_1030440200320010] ソウリョクバトル！Ｅ２
+[quest_title_1030440200321010] チャレンジバトル！Ｆ
+[quest_title_1030440200322010] チャレンジバトル！Ｆ２
+[quest_title_1030440200323010] ソウリョクバトル！Ｆ
+[quest_title_1030440200324010] ソウリョクバトル！Ｆ２
+[quest_title_1030402000601010] パシオでウワサの不思議なもの
+[quest_title_1030402000601110] パシオの各地を調査しよう！
+[quest_title_1030402000601020] プラターヌ博士の推測
+[quest_title_1030440200101010] ＶＳ　パシオのトレーナー
+[quest_title_1030440200102010] ＶＳ　パシオのトレーナー２
+[quest_title_1030440200103010] ＶＳ　パシオのトレーナー３
+[quest_title_1030440200104010] ＶＳ　パシオのトレーナー４
+[quest_title_1030440200204010] 感謝を込めて素敵な勝負！１
+[quest_title_1030440200205010] 感謝を込めて素敵な勝負！２
+[quest_title_1030440200206010] 感謝を込めて素敵な勝負！３
+[quest_title_1030220126410000] とある日のハルカ
+[quest_title_1030220016410000] とある日のフウロ
+[quest_title_1030220257400000] とある日のキバナ
+[quest_title_1030440100101010] さらなる高み「ＨＡＲＤ」への道
+[quest_title_1030440100103010] 「ロール」と「狙われる順番」１
+[quest_title_1030440101001010] ＶＳ　N
+[quest_title_1030440100103011] 「ロール」と「狙われる順番」２
+[quest_title_1030440100104010] 「ボルテージ」をあげよう！１
+[quest_title_1030440101002010] ＶＳ　ワタル
+[quest_title_1030440100104011] 「ボルテージ」をあげよう！２
+[quest_title_1030440100105010] 「こうげき」と「とくこう」１
+[quest_title_1030440101003010] ＶＳ　ダイゴ
+[quest_title_1030440100105011] 「こうげき」と「とくこう」２
+[quest_title_1030440100106010] 「ぼうぎょ」と「とくぼう」１
+[quest_title_1030440101004010] ＶＳ　ミクリ
+[quest_title_1030440100106011] 「ぼうぎょ」と「とくぼう」２
+[quest_title_1030440100107010] 「きゅうしょ」に当てよう！１
+[quest_title_1030440100107012] 「きゅうしょ」に当てよう！２
+[quest_title_1030440101006010] ＶＳ　ダンデ
+[quest_title_1030440100107013] 「きゅうしょ」に当てよう！３
+[quest_title_1030440100108010] 「パッシブスキル」って？１
+[quest_title_1030440101007010] ＶＳ　シロナ
+[quest_title_1030440100108011] 「パッシブスキル」って？２
+[quest_title_1030440100109010] 最強の卒業試験！？１
+[quest_title_1030440101008010] ＶＳ　レッド
+[quest_title_1030440100109011] 最強の卒業試験！？２
+[quest_title_1030440100102010] 達成おめでとう！
+[quest_title_1030440100102011] カギは「バディストーンボード」
+[quest_title_1030402000603090] ＶＳ　ドラゴンバディーズ
 
 ===========
 story_quest_name_ko.lsd
@@ -15542,6 +16133,97 @@ story_quest_name_ko.lsd
 [quest_group_title_100205] 주는 자와 뺏는 자
 [quest_title_1030220194100000] 궁극코스 태홍의 어느 날
 [quest_title_1030220116100000] 궁극코스 빛나의 어느 날
+[quest_group_title_10126410000] 봄이
+(22기념)
+[quest_group_title_10016410000] 풍란
+(22기념)
+[quest_group_title_10257400000] 금랑
+(22기념)
+[quest_title_1030402000602010] 친구가 된 날
+[quest_title_1030402000602110] 에스퍼타입 기술로 공격하자!
+[quest_title_1030402000602120] 에스퍼타입 기술로 공격하자!2
+[quest_title_1030402000602170] 1일 1회 한정 고난도 배틀!
+[quest_title_1030402000602130] 비행타입 기술로 공격하자!
+[quest_title_1030402000602140] 비행타입 기술로 공격하자!2
+[quest_title_1030402000602180] 1일 1회 한정 고난도 배틀!2
+[quest_title_1030402000602150] 드래곤타입 기술로 공격하자!
+[quest_title_1030402000602160] 드래곤타입 기술로 공격하자!2
+[quest_title_1030402000602190] 1일 1회 한정 고난도 배틀!3
+[quest_title_1030402000602200] 챌린지배틀로 승부!
+[quest_title_1030402000602210] 챌린지배틀로 승부!2
+[quest_title_1030402000602020] 금랑의 셔터 찬스
+[quest_title_1030402000602030] 힘차게 날려버리는 소녀
+[quest_title_1030402000602040] 라이브 퍼포머 봄이
+[quest_title_1030402000602050] 솔직한 마음
+[quest_title_1030402000604010] 에스퍼타입 동료와 도전하자
+[quest_title_1030402000604020] 에스퍼타입의 동료와 도전하자2
+[quest_title_1030402000604030] 비행타입의 동료와 도전하자
+[quest_title_1030402000604040] 비행타입의 동료와 도전하자2
+[quest_title_1030402000604050] 드래곤타입의 동료와 도전하자
+[quest_title_1030402000604060] 드래곤타입의 동료와 도전하자2
+[quest_title_1030440200301010] 챌린지배틀! A
+[quest_title_1030440200302010] 챌린지배틀! A2
+[quest_title_1030440200303010] 총력배틀! A
+[quest_title_1030440200304010] 총력배틀! A2
+[quest_title_1030440200305010] 챌린지배틀! B
+[quest_title_1030440200306010] 챌린지배틀! B2
+[quest_title_1030440200307010] 총력배틀! B
+[quest_title_1030440200308010] 총력배틀! B2
+[quest_title_1030440200309010] 챌린지배틀! C
+[quest_title_1030440200310010] 챌린지배틀! C2
+[quest_title_1030440200311010] 총력배틀! C
+[quest_title_1030440200312010] 총력배틀! C2
+[quest_title_1030440200313010] 챌린지배틀! D
+[quest_title_1030440200314010] 챌린지배틀! D2
+[quest_title_1030440200315010] 총력배틀! D
+[quest_title_1030440200316010] 총력배틀! D2
+[quest_title_1030440200317010] 챌린지배틀! E
+[quest_title_1030440200318010] 챌린지배틀! E2
+[quest_title_1030440200319010] 총력배틀 E
+[quest_title_1030440200320010] 총력배틀 E2
+[quest_title_1030440200321010] 챌린지배틀! F
+[quest_title_1030440200322010] 챌린지배틀! F2
+[quest_title_1030440200323010] 총력배틀! F
+[quest_title_1030440200324010] 총력배틀! F2
+[quest_title_1030402000601010] 파시오에 소문난 신비한 물체
+[quest_title_1030402000601110] 파시오 각지를 조사하자!
+[quest_title_1030402000601020] 플라타느박사의 추측
+[quest_title_1030440200101010] VS 파시오의 트레이너
+[quest_title_1030440200102010] VS 파시오의 트레이너2
+[quest_title_1030440200103010] VS 파시오의 트레이너3
+[quest_title_1030440200104010] VS 파시오의 트레이너4
+[quest_title_1030440200204010] 감사의 마음을 담아 멋진 승부!1
+[quest_title_1030440200205010] 감사의 마음을 담아 멋진 승부!2
+[quest_title_1030440200206010] 감사의 마음을 담아 멋진 승부!3
+[quest_title_1030220126410000] 봄이의 어느 날
+[quest_title_1030220016410000] 풍란의 어느 날
+[quest_title_1030220257400000] 금랑의 어느 날
+[quest_title_1030440100101010] 더 높은 목표 "HARD"로 가는 길
+[quest_title_1030440100103010] "롤"과 "노려지는 순서"1
+[quest_title_1030440101001010] VS N
+[quest_title_1030440100103011] "롤"과 "노려지는 순서"2
+[quest_title_1030440100104010] "볼티지"를 올리자!1
+[quest_title_1030440101002010] VS 목호
+[quest_title_1030440100104011] "볼티지"를 올리자!2
+[quest_title_1030440100105010] "공격"과 "특수공격"1
+[quest_title_1030440101003010] VS 성호
+[quest_title_1030440100105011] "공격"과 "특수공격"2
+[quest_title_1030440100106010] "방어"와 "특수방어"1
+[quest_title_1030440101004010] VS 윤진
+[quest_title_1030440100106011] "방어"와 "특수방어"2
+[quest_title_1030440100107010] "급소"에 맞히자!1
+[quest_title_1030440100107012] "급소"에 맞히자!2
+[quest_title_1030440101006010] VS 단델
+[quest_title_1030440100107013] "급소"에 맞히자!3
+[quest_title_1030440100108010] "패시브스킬"이란?1
+[quest_title_1030440101007010] VS 난천
+[quest_title_1030440100108011] "패시브스킬"이란?2
+[quest_title_1030440100109010] 최강의 졸업 시험!?1
+[quest_title_1030440101008010] VS 레드
+[quest_title_1030440100109011] 최강의 졸업 시험!?2
+[quest_title_1030440100102010] 달성 축하합니다!
+[quest_title_1030440100102011] 열쇠는 "버디스톤보드"
+[quest_title_1030402000603090] VS 드래곤 버디즈
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -17587,6 +18269,97 @@ story_quest_name_zh-TW.lsd
 [quest_group_title_100205] 給予者與掠奪者
 [quest_title_1030220194100000] 某日的美極套裝赤日
 [quest_title_1030220116100000] 某日的美極套裝小光
+[quest_group_title_10126410000] 小遙
+（2022週年慶）
+[quest_group_title_10016410000] 風露
+（2022週年慶）
+[quest_group_title_10257400000] 奇巴納
+（2022週年慶）
+[quest_title_1030402000602010] 成為朋友的日子
+[quest_title_1030402000602110] 用超能力屬性招式猛攻吧！
+[quest_title_1030402000602120] 用超能力屬性招式猛攻吧！２
+[quest_title_1030402000602170] １天僅限１次的高難度對戰！
+[quest_title_1030402000602130] 用飛行屬性招式猛攻吧！
+[quest_title_1030402000602140] 用飛行屬性招式猛攻吧！２
+[quest_title_1030402000602180] １天僅限１次的高難度對戰！２
+[quest_title_1030402000602150] 用龍屬性招式猛攻吧！
+[quest_title_1030402000602160] 用龍屬性招式猛攻吧！２
+[quest_title_1030402000602190] １天僅限１次的高難度對戰！３
+[quest_title_1030402000602200] 用挑戰對戰決勝負！
+[quest_title_1030402000602210] 用挑戰對戰決勝負！２
+[quest_title_1030402000602020] 奇巴納的快門時機
+[quest_title_1030402000602030] 嗷～～翔天際的少女
+[quest_title_1030402000602040] 現場大賽表演者小遙
+[quest_title_1030402000602050] 真實的心情
+[quest_title_1030402000604010] 與超能力屬性的夥伴一起挑戰
+[quest_title_1030402000604020] 與超能力屬性的夥伴一起挑戰２
+[quest_title_1030402000604030] 與飛行屬性的夥伴一起挑戰
+[quest_title_1030402000604040] 與飛行屬性的夥伴一起挑戰２
+[quest_title_1030402000604050] 與龍屬性的夥伴一起挑戰
+[quest_title_1030402000604060] 與龍屬性的夥伴一起挑戰２
+[quest_title_1030440200301010] 挑戰對戰！Ａ
+[quest_title_1030440200302010] 挑戰對戰！Ａ２
+[quest_title_1030440200303010] 大對戰！Ａ
+[quest_title_1030440200304010] 大對戰！Ａ２
+[quest_title_1030440200305010] 挑戰對戰！Ｂ
+[quest_title_1030440200306010] 挑戰對戰！Ｂ２
+[quest_title_1030440200307010] 大對戰！Ｂ
+[quest_title_1030440200308010] 大對戰！Ｂ２
+[quest_title_1030440200309010] 挑戰對戰！Ｃ
+[quest_title_1030440200310010] 挑戰對戰！Ｃ２
+[quest_title_1030440200311010] 大對戰！Ｃ
+[quest_title_1030440200312010] 大對戰！Ｃ２
+[quest_title_1030440200313010] 挑戰對戰！Ｄ
+[quest_title_1030440200314010] 挑戰對戰！Ｄ２
+[quest_title_1030440200315010] 大對戰！Ｄ
+[quest_title_1030440200316010] 大對戰！Ｄ２
+[quest_title_1030440200317010] 挑戰對戰！Ｅ
+[quest_title_1030440200318010] 挑戰對戰！Ｅ２
+[quest_title_1030440200319010] 大對戰！Ｅ
+[quest_title_1030440200320010] 大對戰！Ｅ２
+[quest_title_1030440200321010] 挑戰對戰！Ｆ
+[quest_title_1030440200322010] 挑戰對戰！Ｆ２
+[quest_title_1030440200323010] 大對戰！Ｆ
+[quest_title_1030440200324010] 大對戰！Ｆ２
+[quest_title_1030402000601010] 傳聞中出現在帕希歐的神秘物體
+[quest_title_1030402000601110] 調查帕希歐各地吧！
+[quest_title_1030402000601020] 布拉塔諾博士的推測
+[quest_title_1030440200101010] ＶＳ　帕希歐的訓練家
+[quest_title_1030440200102010] ＶＳ　帕希歐的訓練家２
+[quest_title_1030440200103010] ＶＳ　帕希歐的訓練家３
+[quest_title_1030440200104010] ＶＳ　帕希歐的訓練家４
+[quest_title_1030440200204010] 滿懷謝意的絕佳對戰！１
+[quest_title_1030440200205010] 滿懷謝意的絕佳對戰！２
+[quest_title_1030440200206010] 滿懷謝意的絕佳對戰！３
+[quest_title_1030220126410000] 某日的小遙
+[quest_title_1030220016410000] 某日的風露
+[quest_title_1030220257400000] 某日的奇巴納
+[quest_title_1030440100101010] 通往更高境界「ＨＡＲＤ」之路
+[quest_title_1030440100103010] 「體系」與「迎擊順位」１
+[quest_title_1030440101001010] ＶＳ　N
+[quest_title_1030440100103011] 「體系」與「迎擊順位」２
+[quest_title_1030440100104010] 提高「氣魄」吧！１
+[quest_title_1030440101002010] ＶＳ　阿渡
+[quest_title_1030440100104011] 提高「氣魄」吧！２
+[quest_title_1030440100105010] 「攻擊」與「特攻」１
+[quest_title_1030440101003010] ＶＳ　大吾
+[quest_title_1030440100105011] 「攻擊」與「特攻」２
+[quest_title_1030440100106010] 「防禦」與「特防」１
+[quest_title_1030440101004010] ＶＳ　米可利
+[quest_title_1030440100106011] 「防禦」與「特防」２
+[quest_title_1030440100107010] 擊中「要害」吧！１
+[quest_title_1030440100107012] 擊中「要害」吧！２
+[quest_title_1030440101006010] ＶＳ　丹帝
+[quest_title_1030440100107013] 擊中「要害」吧！３
+[quest_title_1030440100108010] 「被動技能」是什麼？１
+[quest_title_1030440101007010] ＶＳ　竹蘭
+[quest_title_1030440100108011] 「被動技能」是什麼？２
+[quest_title_1030440100109010] 面對最強的畢業考試！？１
+[quest_title_1030440101008010] ＶＳ　赤紅
+[quest_title_1030440100109011] 面對最強的畢業考試！？２
+[quest_title_1030440100102010] 恭喜達成！
+[quest_title_1030440100102011] 關鍵是「拍檔石盤」
+[quest_title_1030402000603090] ＶＳ　龍屬性拍組
 
 ===========
 trainer_description_de.lsd
@@ -18264,6 +19037,15 @@ verschlingen.
 Durch seine Machtmontur ist nicht nur seine Bindung zu
 Darkrai stärker geworden, sondern auch die Alpträume,
 die es verursacht.
+[10016500000] Géraldine trägt ein hinreißendes Kleid und dreht mit ihrem
+Partner Boreos anlässlich des Jubiläums von Passio am
+Himmel ihre Runden.
+[10126500000] Maike hat sich in ein umwerfendes Outfit geworfen und
+feiert zusammen mit ihrem Partner Latias Passios Jubiläum
+auf der großen Bühne.
+[10257400000] Roy erscheint in einem festlichen Anzug und erzeugt mit
+seinem Partner Libelldra zur Feier von Passios Jubiläum
+einen gewaltigen Sandsturm.
 [10021900000] Der Enkel des berühmten Professor Eich ist einer der
 stärksten Trainer in ganz Kanto. Rot ist für ihn zugleich
 ewiger Rivale und enger Freund.
@@ -18882,6 +19664,15 @@ her face, she chases off nightmares on Pasio.
 [10194100000] Cyrus dons a sygna suit to forge a deeper connection with
 Darkrai, thus strengthening its nightmarish powers. He still
 aims to create a complete world that embodies his ideals.
+[10016500000] Skyla is back in a beautiful outfit. She takes off into the
+sky to ride the wind with her partner Tornadus and
+is helping Lear celebrate his Friendiversary with Hoopa.
+[10126500000] May is back in a fancy outfit. She and Latias are
+taking the stage in shining glory to help Lear
+celebrate his Friendiversary with Hoopa.
+[10257400000] Raihan’s back in a dashing outfit! He’s doing what he
+does best by kicking up sandstorms with Flygon. He also
+is helping Lear celebrate his Friendiversary with Hoopa. 
 [10021900000] This highly skilled, powerhouse Trainer prominent in Kanto
 is the grandson of the famous Professor Oak. Red is both
 his lifelong rival and his best friend.
@@ -19608,6 +20399,15 @@ de la pesadilla que lo envuelve.
 [10194100000] Helio, que se ha vuelto aún más poderoso al estrechar
 lazos con Darkrai, no piensa parar hasta crear su mundo
 ideal.
+[10016500000] Gerania se ha puesto un vestido muy elegante para
+celebrar el aniversario de la amistad entre Alik y Hoopa,
+y surca los cielos con su compi Tornadus.
+[10126500000] Aura deslumbra con un elegante vestido y sale junto a su
+compi Latias al escenario para celebrar el aniversario de
+la amistad entre Alik y Hoopa.
+[10257400000] Roy viene hecho un pincel con motivo del aniversario de
+la amistad entre Alik y Hoopa. Está listo para desatar una
+tormenta de arena, la especialidad de su compi Flygon.
 [10021900000] Nieto del renombrado Profesor Oak y uno de los
 Entrenadores más diestros de Kanto. Gran amigo,
 a la par que eterno rival, de Rojo.
@@ -20278,6 +21078,19 @@ chasse les cauchemars qui planent sur Passio.
 de Darkrai en portant une tenue qui intensifie
 son lien avec ce dernier. Il fait tout son possible
 pour atteindre son idéal d'un monde parfait.
+[10016500000] Carolina revient dans une superbe tenue pour célébrer
+l'anniversaire de l'amitié entre Alexis et Hoopa.
+Elle sillonne les cieux grâce aux rafales de vents
+générées par son partenaire, Boréas.
+[10126500000] Flora est de retour avec une magnifique tenue pour
+célébrer l'anniversaire de l'amitié entre Alexis et Hoopa.
+Elle brille de mille feux sur scène aux côtés de Latias,
+son partenaire Pokémon.
+[10257400000] Roy revient dans un costume élégant pour célébrer
+l'anniversaire de l'amitié entre Alexis et Hoopa.
+À cette occasion, son partenaire Libégon et lui
+exécutent leur spécialité : des tempêtes de sable
+à faire s'envoler le stade !
 [10021900000] Un des plus puissants Dresseurs de Kanto, petit-fils
 du célèbre Professeur Chen et meilleur ami et éternel
 rival de Red.
@@ -20955,6 +21768,15 @@ che colpiscono gli abitanti di Pasio.
 [10194100000] Cyrus indossa un vestito che rafforza il suo legame
 con Darkrai, permettendogli di provocare incubi ancora
 più terrificanti. Sogna di creare un mondo completo.
+[10016500000] Anemone sfoggia un abito sgargiante e festeggia
+l'anniversario dell'amicizia di Kelian e Hoopa solcando
+i cieli insieme al suo Pokémon, Tornadus.
+[10126500000] Vera indossa un abito elegante e sale su uno splendido
+palco assieme a Latias per celebrare l'anniversario
+dell'amicizia di Kelian e Hoopa.
+[10257400000] Laburno indossa un elegantissimo completo e festeggia
+l'anniversario dell'amicizia di Kelian e Hoopa scatenando
+tempeste di sabbia insieme a Flygon.
 [10021900000] Nipote del celebre Professor Oak, nonché uno dei più forti
 Allenatori di Kanto. Rosso è per lui un amico e un rivale
 storico.
@@ -21571,6 +22393,15 @@ trainer_description_ja.lsd
 [10194100000] ダークライと　深く　つながるための　衣装を　着て
 悪夢の力を　強化した　アカギ。
 理想の　完全な世界を　実現しようと　活動する。
+[10016500000] 華やかな　衣装を　身にまとった　フウロ。
+バディの　トルネロスと　風に乗って　ぶっとび
+ライヤーとフーパの　ともだち記念日を　お祝いする。
+[10126500000] 華やかな　衣装を　身にまとった　ハルカ。
+バディの　ラティアスと　キラキラなステージに　立ち
+ライヤーとフーパの　ともだち記念日を　お祝いする。
+[10257400000] 華やかな　衣装を　身にまとった　キバナ。
+バディのフライゴンと　得意の　すなあらしを　起こし
+ライヤーとフーパの　ともだち記念日を　お祝いする。
 [10021900000] 有名な　オーキド博士の孫で　カントー地方では
 指折りの　実力を持つ　強豪ポケモントレーナー。
 レッドという　終生のライバルにして　親友がいる。
@@ -22187,6 +23018,15 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10194100000] 다크라이와 깊은 유대를 위해 준비한 의상을 입고
 악몽의 힘을 강화한 태홍.
 이상으로 여기는 완전한 세계를 실현시키려고 활동한다.
+[10016500000] 화려한 의상을 입은 풍란.
+버디인 토네로스와 바람을 타고 날아올라
+라이어와 후파의 친구 기념일을 축하한다.
+[10126500000] 화려한 의상을 입은 봄이.
+버디인 라티아스와 반짝반짝 빛나는 스테이지에 올라
+라이어와 후파의 친구 기념일을 축하한다.
+[10257400000] 화려한 의상을 입은 금랑.
+버디인 플라이곤과 특기인 모래바람을 일으켜
+라이어와 후파의 친구 기념일을 축하한다.
 [10021900000] 유명한 오박사의 손자이자 관동지방에서는
 손에 꼽힐만한 실력의 강호인 포켓몬 트레이너.
 레드라는 평생의 라이벌이자 친구가 있다.
@@ -22802,6 +23642,15 @@ trainer_description_zh-TW.lsd
 [10194100000] 穿上為了與達克萊伊緊密相連的服裝，
 強化了惡夢之力的赤日。
 為了實現他理想的完美世界而活動。
+[10016500000] 身穿華麗服裝的風露。
+她和拍檔龍捲雲一起乘風高飛，
+來祝賀鎯琊和胡帕的朋友紀念日。
+[10126500000] 身穿華麗服裝的小遙。
+她和拍檔拉帝亞斯站上閃亮的舞台，
+來祝賀鎯琊和胡帕的朋友紀念日。
+[10257400000] 身穿華麗服裝的奇巴納。
+他和拍檔沙漠蜻蜓使出拿手的沙暴，
+來祝賀鎯琊和胡帕的朋友紀念日。
 [10021900000] 著名的大木博士的孫子，關都地區
 屈指可數的實力派訓練家。赤紅是他
 永遠的勁敵，也是他最要好的朋友。
@@ -24352,6 +25201,12 @@ trainer_verbose_name_de.lsd
 (Saison 2022)
 [10116100000] MaMo-Lucia
 [10194100000] MaMo-Zyrus
+[10016500000] Géraldine
+(Jubiläum)
+[10126500000] Maike
+(Jubiläum)
+[10257400000] Roy
+(Jubiläum)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -24447,6 +25302,12 @@ Lusamine
 (Palentine’s 2022)
 [10116100000] Sygna Suit Dawn
 [10194100000] Sygna Suit Cyrus
+[10016500000] Skyla
+(Anniversary 2022)
+[10126500000] May
+(Anniversary 2022)
+[10257400000] Raihan
+(Anniversary 2022)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -24530,6 +25391,10 @@ arqueóloga)
 (Temporada 22)
 [10116100000] Maya (Traje S)
 [10194100000] Helio (Traje S)
+[10016500000] Gerania
+(Aniversario)
+[10126500000] Aura (Aniversario)
+[10257400000] Roy (Aniversario)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -24618,6 +25483,12 @@ trainer_verbose_name_fr.lsd
 (Saison 2022)
 [10116100000] Aurore (Ultime)
 [10194100000] Hélio (Ultime)
+[10016500000] Carolina
+(Anniversaire 2022)
+[10126500000] Flora
+(Anniversaire 2022)
+[10257400000] Roy
+(Anniversaire 2022)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -24710,6 +25581,12 @@ trainer_verbose_name_it.lsd
 (feste 2022)
 [10116100000] Lucinda Costumax
 [10194100000] Cyrus Costumax
+[10016500000] Anemone
+(2,5 anni)
+[10126500000] Vera
+(2,5 anni)
+[10257400000] Laburno
+(2,5 anni)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -24802,6 +25679,12 @@ trainer_verbose_name_ja.lsd
 （２２シーズン）
 [10116100000] マジコスヒカリ
 [10194100000] マジコスアカギ
+[10016500000] フウロ
+（２２アニバーサリー）
+[10126500000] ハルカ
+（２２アニバーサリー）
+[10257400000] キバナ
+（２２アニバーサリー）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -24894,6 +25777,12 @@ trainer_verbose_name_ko.lsd
 (22시즌)
 [10116100000] 궁극코스 빛나
 [10194100000] 궁극코스 태홍
+[10016500000] 풍란
+(22기념)
+[10126500000] 봄이
+(22기념)
+[10257400000] 금랑
+(22기념)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -24986,6 +25875,12 @@ trainer_verbose_name_zh-TW.lsd
 （２０２２春季）
 [10116100000] 美極套裝小光
 [10194100000] 美極套裝赤日
+[10016500000] 風露
+（2022週年慶）
+[10126500000] 小遙
+（2022週年慶）
+[10257400000] 奇巴納
+（2022週年慶）
 
 ===========
 common_widget_de.lsd
@@ -25039,6 +25934,8 @@ common_widget_de.lsd
 [common_widget/button_012] AN
 [common_widget/button_013] AUS
 [common_widget/button_014] Noch mal
+[common_widget/button_015] Erhältlich!
+[common_widget/button_016] Siegesstraße
 [common_widget/loading_001] Ladevorgang...
 [common_widget/loading_002] Los!
 [common_widget/loading_003] Verbindet...
@@ -25183,6 +26080,8 @@ sich Gefährten in deinem Team
 befinden, die bereits dem Team im
 Legenden-Turnier zugewiesen sind.
 [common_widget/dialog_082] Erstes Geschenk
+[common_widget/dialog_083] Du hast noch nicht alle Gefährten abgeholt! Such dir Gefährten in der Gefährtensuche mit Tickets aus!
+[common_widget/dialog_084] Du hast noch nicht alle Gefährten abgeholt! Bitte such dir ein Gefährtengespann aus!
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -25246,6 +26145,12 @@ dieser Gefährten wechseln?
 [common_widget/trainer_detail_062] 
 [common_widget/trainer_detail_063] [Name:TrainerName ]
 & [Name:PokemonName ]
+[common_widget/trainer_detail_064] Physischer
+Angreifer
+[common_widget/trainer_detail_065] Spezial-
+Angreifer
+[common_widget/trainer_detail_066] Taktiker
+[common_widget/trainer_detail_067] Helfer
 [common_widget/dialog_special_item_001] [Name:Item ]
 erhalten!
 [common_widget/dialog_special_item_002] Noch [Digit:1digit ] Orden!
@@ -25548,6 +26453,45 @@ Wenn diese Bedingung erfüllt ist, kannst du dir die oben gelisteten Lieder in d
 [common_widget/juke_box_023] Hör in die voreingestellte Hintergrundmusik für Kämpfe rein.
 [common_widget/juke_box_024] 6★ EX
 [common_widget/juke_box_025] Item-Tausch
+[common_widget/juke_box_027] Spezial
+[common_widget/spreward_001] Spezial-Bonus
+[common_widget/spreward_002] Schließe die Hauptgeschichte ab!
+[common_widget/spreward_003] Schließe den Champkampf ab!
+[common_widget/spreward_004] Wenn du Kapitel-Sets kaufst, kannst
+du Spezialbelohnungen freischalten!
+[common_widget/spreward_005] Wenn du Champ-Sets kaufst, kannst
+du Spezialbelohnungen freischalten!
+[common_widget/spreward_006] Du kannst bis zu 13 000
+gekaufte Juwelen erhalten!
+[common_widget/spreward_007] Du kannst bis zu 18 500
+gekaufte Juwelen erhalten!
+[common_widget/spreward_008] Auch wenn nicht alle Bedingungen erfüllt wurden,
+kannst du Spezialbelohnungen nach [Digit:3digits ] Tagen abholen.
+[common_widget/spreward_009] Auch wenn nicht alle Bedingungen erfüllt wurden,
+kannst du Spezialbelohnungen abholen in: [Name:DateTime ].
+[common_widget/spreward_010] Sets kaufen
+[common_widget/spreward_011] Standardpreis
+[common_widget/spreward_012] Spezialbelohnung
+[common_widget/spreward_013] Hauptgeschichte
+[common_widget/spreward_014] Champkampf
+[common_widget/spreward_015] Alle abholen
+[common_widget/spreward_016] Schließe „[Name:QuestGroupTitle ]“
+im WPM-Handlungsbogen auf dem Schwierigkeitsgrad Normal ab!
+[common_widget/spreward_017] Schließe alle Kämpfe im Champkampf auf dem
+Schwierigkeitsgrad Normal ab!
+[common_widget/spreward_018] Kostenlose Juwelen
+[common_widget/spreward_019] Gekaufte Juwelen
+[common_widget/spreward_020] Abholen
+[common_widget/spreward_021] Im Gang
+[common_widget/spreward_022] Abgeholt
+[common_widget/spreward_023] Spezial-Bonus
+[common_widget/spreward_024] Du hast diese Belohnungen erhalten:
+[common_widget/spreward_025] Spezialbelohnungen können 60 Tage nach dem Kauf eines Sets
+abgeholt werden, selbst wenn die Bedingungen nicht erfüllt wurden.
+[common_widget/spreward_026] Schließe alle Kämpfe im Champkampf einer beliebigen Region auf
+dem Schwierigkeitsgrad Schwer Lv. 1 ab und betritt die Ruhmeshalle!
+[common_widget/spreward_027] Erhalte Fragmente des Emblems einer beliebigen Region im
+Champkampf auf dem Schwierigkeitsgrad Schwer Lv. 1!
 
 ===========
 common_widget_en.lsd
@@ -25600,6 +26544,8 @@ common_widget_en.lsd
 [common_widget/button_012] ON
 [common_widget/button_013] OFF
 [common_widget/button_014] Learn Again
+[common_widget/button_015] Claimable!
+[common_widget/button_016] Victory Road
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] GO!
 [common_widget/loading_003] Loading...
@@ -25730,7 +26676,13 @@ moves and move level will level up.
 have already participated in a
 Legendary Gauntlet battle. Please edit
 your team.
-[common_widget/dialog_082] First-time Present
+[common_widget/dialog_082] First-Time Present
+[common_widget/dialog_083] You haven’t chosen a sync pair to
+team up with yet. Select a sync pair in
+the Ticket Scout!
+[common_widget/dialog_084] You haven’t chosen a sync pair
+to team up with yet. Please select
+a sync pair.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -25791,6 +26743,12 @@ the switch.
 [common_widget/trainer_detail_062] 
 [common_widget/trainer_detail_063] [Name:TrainerName ]
 & [Name:PokemonName ]
+[common_widget/trainer_detail_064] Physical
+Strike
+[common_widget/trainer_detail_065] Special
+Strike
+[common_widget/trainer_detail_066] Tech
+[common_widget/trainer_detail_067] Support
 [common_widget/dialog_special_item_001] [Name:Item ]
 [common_widget/dialog_special_item_002] Only [Digit:1digit ] more [EN:Qty S="badge" P="badges" ] to go!
 [common_widget/dialog_special_item_003] All badges acquired! Time to compete in the PML!
@@ -26065,6 +27023,44 @@ of your Present Box.
 for this battle.
 [common_widget/juke_box_024] 6★ EX
 [common_widget/juke_box_025] Exchange Items
+[common_widget/juke_box_027] Special
+[common_widget/spreward_001] Special Completion Rewards
+[common_widget/spreward_002] Complete the main story!
+[common_widget/spreward_003] Complete the Champion Stadium!
+[common_widget/spreward_004] You can unlock special rewards
+by purchasing a Story Bundle!
+[common_widget/spreward_005] You can unlock special rewards
+by purchasing a Champion Bundle!
+[common_widget/spreward_006] You can get up to
+13,000 paid gems!
+[common_widget/spreward_007] You can get up to
+18,500 paid gems!
+[common_widget/spreward_008] Even if you don’t complete the requirements,
+you can claim all special rewards in [Digit:3digits ] day(s).
+[common_widget/spreward_009] Even if you don’t complete the requirements,
+you can claim all special rewards in [Name:DateTime ].
+[common_widget/spreward_010] Purchase Bundles
+[common_widget/spreward_011] General Rewards
+[common_widget/spreward_012] Special Rewards
+[common_widget/spreward_013] Main Story
+[common_widget/spreward_014] Champion Stadium
+[common_widget/spreward_015] Claim All
+[common_widget/spreward_016] Complete [Name:QuestGroupTitle ] of the PML arc
+on Normal difficulty
+[common_widget/spreward_017] Complete the Champion Stadium on Normal difficulty
+[common_widget/spreward_018] Non-paid Gems
+[common_widget/spreward_019] Paid Gems
+[common_widget/spreward_020] Claim
+[common_widget/spreward_021] In Progress
+[common_widget/spreward_022] Claimed
+[common_widget/spreward_023] Special Completion Rewards
+[common_widget/spreward_024] You obtained the following rewards!
+[common_widget/spreward_025] Even if you don’t complete the requirements, you can
+claim all special rewards 60 days after purchasing a bundle.
+[common_widget/spreward_026] Complete all Champion Stadium battles for any region,
+and enter the Pasio Hall of Fame on Hard Lv. 1
+[common_widget/spreward_027] Fill in all pieces of the Champion Stadium MVP medal for
+any region on Hard Lv. 1
 
 ===========
 common_widget_es.lsd
@@ -26117,6 +27113,9 @@ common_widget_es.lsd
 [common_widget/button_012] SÍ
 [common_widget/button_013] NO
 [common_widget/button_014] Aprender otra
+[common_widget/button_015] ¡Disponible!
+[common_widget/button_016] Calle
+Victoria
 [common_widget/loading_001] Cargando...
 [common_widget/loading_002] ¡Vamos!
 [common_widget/loading_003] Conectando...
@@ -26260,6 +27259,12 @@ que ya tuviera la pareja de compis.
 ya hayan participado en un combate
 de la Aventura Legendaria.
 [common_widget/dialog_082] Regalo por la primera vez
+[common_widget/dialog_083] Tienes disponible una pareja de compis
+que aún no has recibido. ¡Elígela en el
+reclutamiento billete!
+[common_widget/dialog_084] Tienes disponible una pareja de compis
+que aún no has recibido. Elige la
+pareja de compis que prefieras.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -26316,6 +27321,12 @@ cambio de vestimenta.
 [common_widget/trainer_detail_062] 
 [common_widget/trainer_detail_063] [Name:TrainerName ]
 y [Name:PokemonName ]
+[common_widget/trainer_detail_064] Ataque
+Físico
+[common_widget/trainer_detail_065] Ataque
+Especial
+[common_widget/trainer_detail_066] Sabotaje
+[common_widget/trainer_detail_067] Apoyo
 [common_widget/dialog_special_item_001] Has conseguido:
 [Name:Item ]
 [common_widget/dialog_special_item_002] Medallas restantes: [Digit:1digit ]
@@ -26607,6 +27618,44 @@ cambiar la música del combate.
 para este combate.
 [common_widget/juke_box_024] 6★ EX
 [common_widget/juke_box_025] Canje de objetos
+[common_widget/juke_box_027] Especial
+[common_widget/spreward_001] Premios especiales
+[common_widget/spreward_002] ¡Avanza en la historia principal!
+[common_widget/spreward_003] ¡Completa Combates de Campeones!
+[common_widget/spreward_004] ¡Si compras el Lote historia principal,
+podrás obtener premios especiales!
+[common_widget/spreward_005] ¡Si compras el Lote de Campeones,
+podrás obtener premios especiales!
+[common_widget/spreward_006] ¡Puedes obtener hasta 
+13 000 joyas de pago!
+[common_widget/spreward_007] ¡Puedes obtener hasta 
+18 500 joyas de pago!
+[common_widget/spreward_008] Incluso aunque no cumplas los requisitos, podrás
+obtener estos premios dentro de [Digit:3digits ] día[ES:Qty P="s" ].
+[common_widget/spreward_009] Incluso aunque no cumplas los requisitos, podrás
+obtener estos premios tras: [Name:DateTime ].
+[common_widget/spreward_010] Comprar lotes
+[common_widget/spreward_011] Premios normales
+[common_widget/spreward_012] Premios especiales
+[common_widget/spreward_013] Historia principal
+[common_widget/spreward_014] Combates de Campeones
+[common_widget/spreward_015] Recibir todo
+[common_widget/spreward_016] ¡Completa el [Name:QuestGroupTitle ]
+de la trama del WPM en Normal!
+[common_widget/spreward_017] ¡Completa todos los Combates de Campeones en Normal!
+[common_widget/spreward_018] Joyas sin coste
+[common_widget/spreward_019] Joyas de pago
+[common_widget/spreward_020] Obtener
+[common_widget/spreward_021] En curso
+[common_widget/spreward_022] Obtenido
+[common_widget/spreward_023] Premios especiales
+[common_widget/spreward_024] Has obtenido los siguientes premios:
+[common_widget/spreward_025] Aunque no cumplas los requisitos, podrás obtener todos los
+premios especiales tras 60 días desde la compra de un lote.
+[common_widget/spreward_026] ¡Completa todos los Combates de Campeones de cualquier
+región en Difícil (nivel 1) y entra en el Hall de la Fama!
+[common_widget/spreward_027] ¡Consigue todas las piezas para completar el emblema en los
+Combates de Campeones de cualquier región en Difícil (nivel 1)!
 
 ===========
 common_widget_fr.lsd
@@ -26659,6 +27708,9 @@ common_widget_fr.lsd
 [common_widget/button_012] Oui
 [common_widget/button_013] Non
 [common_widget/button_014] Recommencer
+[common_widget/button_015] Disponible !
+[common_widget/button_016] Route
+Victoire
 [common_widget/loading_001] Chargement...
 [common_widget/loading_002] Allez !
 [common_widget/loading_003] Connexion...
@@ -26795,6 +27847,14 @@ ont déjà participé à un autre combat
 de l'Aventure Légendaire.
 Veuillez modifier votre équipe.
 [common_widget/dialog_082] Récompense de 1re fois
+[common_widget/dialog_083] Vous n'avez pas encore choisi de Duo
+à ajouter à votre équipe. Veuillez
+en sélectionner un à partir de
+l'Appel Duo avec Bons.
+[common_widget/dialog_084] Vous n'avez pas encore choisi de Duo
+à ajouter à votre équipe.
+Veuillez sélectionner le Duo
+de votre choix.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -26857,6 +27917,12 @@ le changement effectué.
 [common_widget/trainer_detail_062] 
 [common_widget/trainer_detail_063] [Name:TrainerName ]
 & [Name:PokemonName ]
+[common_widget/trainer_detail_064] Attaquant
+Physique
+[common_widget/trainer_detail_065] Attaquant
+Spécial
+[common_widget/trainer_detail_066] Tacticien
+[common_widget/trainer_detail_067] Soutien
 [common_widget/dialog_special_item_001] Vous avez obtenu
 1 [Name:Item ] !
 [common_widget/dialog_special_item_002] Encore [Digit:1digit ] Badge[FR:Qty P="s" ] à obtenir !
@@ -27162,6 +28228,45 @@ Mélodie disponibles !
 [common_widget/juke_box_023] Écouter la musique par défaut de ce combat.
 [common_widget/juke_box_024] 6★ EX
 [common_widget/juke_box_025] Échange d'objets
+[common_widget/juke_box_027] Spéciale
+[common_widget/spreward_001] Récompenses (complétion)
+[common_widget/spreward_002] Terminez le scénario principal !
+[common_widget/spreward_003] Terminez le Combat de Maître !
+[common_widget/spreward_004] Vous pouvez débloquer des récompenses
+spéciales en achetant le Pack Scénario Principal !
+[common_widget/spreward_005] Vous pouvez débloquer des récompenses
+spéciales en achetant le Pack Maître !
+[common_widget/spreward_006] Vous pouvez obtenir jusqu'à
+13 000 Diamants payants !
+[common_widget/spreward_007] Vous pouvez obtenir jusqu'à
+18 500 Diamants payants !
+[common_widget/spreward_008] Même si les conditions ne sont pas remplies, vous pourrez
+obtenir toutes les récompenses spéciales dans [Digit:3digits ] jour[FR:Qty P="s" ].
+[common_widget/spreward_009] Même si les conditions ne sont pas remplies, vous pourrez
+obtenir toutes les récompenses spéciales dans [Name:DateTime ].
+[common_widget/spreward_010] Achat de lots
+[common_widget/spreward_011] Récompenses normales
+[common_widget/spreward_012] Récompenses spéciales
+[common_widget/spreward_013] Scénario principal
+[common_widget/spreward_014] Combat de Maître
+[common_widget/spreward_015] Tout accepter
+[common_widget/spreward_016] Terminez « [Name:QuestGroupTitle ] »
+dans l'arc narratif « Le WPM » en difficulté « Normal » !
+[common_widget/spreward_017] Terminez le Combat de Maître en difficulté « Normal » !
+[common_widget/spreward_018] Diamants
+non payants
+[common_widget/spreward_019] Diamants payants
+[common_widget/spreward_020] Accepter
+[common_widget/spreward_021] En cours
+[common_widget/spreward_022] Reçus
+[common_widget/spreward_023] Récompenses (complétion)
+[common_widget/spreward_024] Vous avez reçu les récompenses suivantes :
+[common_widget/spreward_025] Même si vous ne remplissez pas les conditions, vous pourrez obtenir
+toutes les récompenses spéciales 60 jours après l'achat d'un pack.
+[common_widget/spreward_026] Venez à bout de tous les adversaires du Combat de Maître de n'importe
+quelle région en difficulté « Difficile N. 1 » et entrez au Panthéon de Passio !
+[common_widget/spreward_027] Obtenez tous les morceaux pour compléter l'emblème du Combat
+de Maître de n'importe quelle région en difficulté « Difficile N. 1 » !
 
 ===========
 common_widget_it.lsd
@@ -27214,6 +28319,8 @@ common_widget_it.lsd
 [common_widget/button_012] On
 [common_widget/button_013] Off
 [common_widget/button_014] Un'altra volta
+[common_widget/button_015] Disponibili
+[common_widget/button_016] Via Vittoria
 [common_widget/loading_001] Caricamento
 [common_widget/loading_002] VIA!
 [common_widget/loading_003] Connessione...
@@ -27346,6 +28453,10 @@ scambiati automaticamente.
 una o più Unità già partite per la Sfida
 Leggendaria.
 [common_widget/dialog_082] Primo regalo
+[common_widget/dialog_083] Puoi ancora selezionare e ricevere
+un'Unità tramite l'Unicerca con ticket!
+[common_widget/dialog_084] Puoi ancora ricevere un'Unità.
+Scegli quella che preferisci!
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -27405,6 +28516,12 @@ attuale e al L. 1.
 [common_widget/trainer_detail_062] 
 [common_widget/trainer_detail_063] [Name:TrainerName ]
 & [Name:PokemonName ]
+[common_widget/trainer_detail_064] Attaccante
+fisico
+[common_widget/trainer_detail_065] Attaccante
+speciale
+[common_widget/trainer_detail_066] Tecnico
+[common_widget/trainer_detail_067] Aiutante
 [common_widget/dialog_special_item_001] Hai ottenuto: [Name:Item ]!
 [common_widget/dialog_special_item_002] Medaglie mancanti: [Digit:1digit ]!
 [common_widget/dialog_special_item_003] Ora hai tutte le medaglie! Puoi affrontare il WPM!
@@ -27701,6 +28818,44 @@ una volta completata la Guida area.
 per questa lotta.
 [common_widget/juke_box_024] 6★ EX
 [common_widget/juke_box_025] Scambio strumenti
+[common_widget/juke_box_027] Speciale
+[common_widget/spreward_001] Completapremi
+[common_widget/spreward_002] Completa la storia!
+[common_widget/spreward_003] Completa la Lotta dei Campioni!
+[common_widget/spreward_004] Acquistando il Pacchetto storia puoi
+sbloccare le ricompense speciali!
+[common_widget/spreward_005] Acquistando il Pacchetto dei Campioni
+puoi sbloccare le ricompense speciali!
+[common_widget/spreward_006] Puoi ottenere fino a 13.000
+gemme a pagamento!
+[common_widget/spreward_007] Puoi ottenere fino a 18.500
+gemme a pagamento!
+[common_widget/spreward_008] Anche se i requisiti non dovessero essere soddisfatti,
+otterrai tutte le ricompense speciali tra [Digit:3digits ] [IT:Qty S="giorno" P="giorni" ].
+[common_widget/spreward_009] Anche se i requisiti non dovessero essere soddisfatti,
+otterrai tutte le ricompense speciali tra: [Name:DateTime ].
+[common_widget/spreward_010] Acquisto pacchetti
+[common_widget/spreward_011] Ricompense normali
+[common_widget/spreward_012] Ricompense speciali
+[common_widget/spreward_013] Storia
+[common_widget/spreward_014] Lotta dei Campioni
+[common_widget/spreward_015] Ricevi tutto
+[common_widget/spreward_016] Completa "[Name:QuestGroupTitle ]"
+della storia "Il WPM" in difficoltà "Normale".
+[common_widget/spreward_017] Completa la Lotta dei Campioni in difficoltà "Normale"!
+[common_widget/spreward_018] Gemme senza costo
+[common_widget/spreward_019] Gemme a pagamento
+[common_widget/spreward_020] Ricevi
+[common_widget/spreward_021] In corso
+[common_widget/spreward_022] Ricevuta
+[common_widget/spreward_023] Completapremi
+[common_widget/spreward_024] Hai ricevuto le seguenti ricompense:
+[common_widget/spreward_025] Dopo 60 giorni dall'acquisto di un pacchetto, potrai ottenere
+tutte le ricompense speciali senza soddisfare i requisiti.
+[common_widget/spreward_026] Completa tutte le sfide della Lotta dei Campioni di una qualsiasi
+regione ed entra nella Sala d'Onore di Pasio in difficoltà "Difficile L. 1".
+[common_widget/spreward_027] Completa l'emblema "Sala d'onore" di una qualsiasi regione
+in difficoltà "Difficile L. 1".
 
 ===========
 common_widget_ja.lsd
@@ -27753,6 +28908,9 @@ common_widget_ja.lsd
 [common_widget/button_012] ON
 [common_widget/button_013] OFF
 [common_widget/button_014] もういちど
+[common_widget/button_015] もらえる!
+[common_widget/button_016] チャンピオン
+ロード
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出発
 [common_widget/loading_003] 通信中……
@@ -27879,6 +29037,15 @@ EXカラー衣装が　かくとくできます
 バトルで既に出発済みのバディーズが
 編成されているため出発できません
 [common_widget/dialog_082] 初回プレゼント
+[common_widget/dialog_083] まだ受け取っていない
+バディーズがいます
+
+チケット専用バディーズサーチで
+バディーズを選びましょう
+[common_widget/dialog_084] まだ受け取っていない
+バディーズがいます
+
+好きなバディーズを1組選んでください
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -27939,6 +29106,10 @@ MAX
 [common_widget/trainer_detail_062] CV：
 [common_widget/trainer_detail_063] [Name:TrainerName ]
 &[Name:PokemonName ]
+[common_widget/trainer_detail_064] 物理アタッカー
+[common_widget/trainer_detail_065] 特殊アタッカー
+[common_widget/trainer_detail_066] テクニカル
+[common_widget/trainer_detail_067] サポート
 [common_widget/dialog_special_item_001] [Name:Item ]を
 獲得しました！
 [common_widget/dialog_special_item_002] のこるバッジは　あと[Digit:1digit ]個！
@@ -28247,6 +29418,43 @@ HARDクリアで解放
 設定されている楽曲を再生します
 [common_widget/juke_box_024] ★6EX
 [common_widget/juke_box_025] どうぐ交換
+[common_widget/juke_box_027] スペシャル
+[common_widget/spreward_001] スペシャルクリア報酬
+[common_widget/spreward_002] メインストーリーをクリアしよう！
+[common_widget/spreward_003] チャンピオンバトルをクリアしよう！
+[common_widget/spreward_004] ストーリーパックを購入すると
+SP報酬が解放！
+[common_widget/spreward_005] チャンピオンパックを購入すると
+SP報酬が解放！
+[common_widget/spreward_006] 有償ダイヤが
+合計13000個獲得可能！
+[common_widget/spreward_007] 有償ダイヤが
+合計18500個獲得可能！
+[common_widget/spreward_008] 条件達成に関わらず
+あと[Digit:3digits ]日で全てのSP報酬が受取可能
+[common_widget/spreward_009] 条件達成に関わらず
+あと[Name:DateTime ]で全てのSP報酬が受取可能
+[common_widget/spreward_010] パック購入
+[common_widget/spreward_011] 通常報酬
+[common_widget/spreward_012] SP報酬
+[common_widget/spreward_013] メインストーリー
+[common_widget/spreward_014] チャンピオンバトル
+[common_widget/spreward_015] まとめて受取
+[common_widget/spreward_016] ＷＰＭ編の[Name:QuestGroupTitle ]「NORMAL」をクリアしよう
+[common_widget/spreward_017] チャンピオンバトル「NORMAL」をすべてクリアしよう
+[common_widget/spreward_018] 無償ダイヤ
+[common_widget/spreward_019] 有償ダイヤ
+[common_widget/spreward_020] 受取
+[common_widget/spreward_021] 進行中
+[common_widget/spreward_022] 受取済
+[common_widget/spreward_023] スペシャルクリア報酬
+[common_widget/spreward_024] 以下の報酬を受け取りました
+[common_widget/spreward_025] パック購入後60日が経過した場合でも
+条件達成に関わらず全てのSP報酬が受取可能
+[common_widget/spreward_026] いずれかの地方のチャンピオンバトル「HARD Lv.1」を
+すべてクリアしてパシオ殿堂入りをしよう
+[common_widget/spreward_027] いずれかの地方のチャンピオンバトル「HARD Lv.1」で
+タイプに応じたピースを埋めてエンブレムを完成させよう
 
 ===========
 common_widget_ko.lsd
@@ -28288,7 +29496,7 @@ common_widget_ko.lsd
 [common_widget/button_001] OK
 [common_widget/button_002] 네
 [common_widget/button_003] 아니요
-[common_widget/button_004] 닫는다
+[common_widget/button_004] 닫기
 [common_widget/button_005] 취소
 [common_widget/button_006] 다음
 [common_widget/button_007] 출발!
@@ -28299,6 +29507,8 @@ common_widget_ko.lsd
 [common_widget/button_012] ON
 [common_widget/button_013] OFF
 [common_widget/button_014] 한번 더
+[common_widget/button_015] 받을 수 있다!
+[common_widget/button_016] 챔피언로드
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 출발
 [common_widget/loading_003] 통신 중...
@@ -28423,6 +29633,13 @@ EX컬러 의상을 획득할 수 있습니다
 이미 출발한 버디즈가
 편성되어 있어 출발할 수 없습니다
 [common_widget/dialog_082] 첫 선물
+[common_widget/dialog_083] 아직 받지 않은
+버디즈가 있습니다
+티켓 전용 버디즈서치에서
+버디즈를 선택해 봅시다
+[common_widget/dialog_084] 아직 받지 않은
+버디즈가 있습니다
+원하는 버디즈를 하나 선택해 주십시오
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -28484,6 +29701,10 @@ Lv.1 상태
 [common_widget/trainer_detail_062] 
 [common_widget/trainer_detail_063] [Name:TrainerName ]
 &[Name:PokemonName ]
+[common_widget/trainer_detail_064] 물리 어태커
+[common_widget/trainer_detail_065] 특수 어태커
+[common_widget/trainer_detail_066] 테크니컬
+[common_widget/trainer_detail_067] 서포트
 [common_widget/dialog_special_item_001] [Name:Item ][Kor:Particle char="wo" ]
 획득했습니다!
 [common_widget/dialog_special_item_002] 남은 배지는 앞으로 [Digit:1digit ]개!
@@ -28534,7 +29755,7 @@ Lv.MAX
 [common_widget/filter_011] 클리어
 [common_widget/filter_012] 모두
 [common_widget/filter_013] 클리어
-[common_widget/filter_014] 닫는다
+[common_widget/filter_014] 닫기
 [common_widget/filter_015] 정렬
 [common_widget/filter_018] OK
 [common_widget/filter_021] 롤
@@ -28785,6 +30006,43 @@ BP 버디즈 호출권은 도구 교환에서
 설정되어 있던 악곡을 재생합니다
 [common_widget/juke_box_024] ★6EX
 [common_widget/juke_box_025] 도구 교환
+[common_widget/juke_box_027] 스페셜
+[common_widget/spreward_001] 스페셜 클리어 보상
+[common_widget/spreward_002] 메인 스토리를 클리어하자!
+[common_widget/spreward_003] 챔피언배틀을 클리어하자!
+[common_widget/spreward_004] 스토리 팩을 구입하면
+SP 보상이 해방!
+[common_widget/spreward_005] 챔피언 팩을 구입하면
+SP 보상이 해방!
+[common_widget/spreward_006] 유료 다이아를
+합계 13,000개 획득 가능!
+[common_widget/spreward_007] 유료 다이아를
+합계 18,500개 획득 가능!
+[common_widget/spreward_008] 조건 달성과 상관없이
+앞으로 [Digit:3digits ]일 동안 모든 SP 보상 수령 가능
+[common_widget/spreward_009] 조건 달성과 상관없이
+앞으로 [Name:DateTime ] 동안 모든 SP 보상 수령 가능
+[common_widget/spreward_010] 팩 구입
+[common_widget/spreward_011] 일반 보상
+[common_widget/spreward_012] SP 보상
+[common_widget/spreward_013] 메인 스토리
+[common_widget/spreward_014] 챔피언배틀
+[common_widget/spreward_015] 모두 받기
+[common_widget/spreward_016] WPM 편의 [Name:QuestGroupTitle ] "NORMAL"을 클리어하자
+[common_widget/spreward_017] 챔피언배틀 "NORMAL"을 모두 클리어하자
+[common_widget/spreward_018] 무료 다이아
+[common_widget/spreward_019] 유료 다이아
+[common_widget/spreward_020] 받기
+[common_widget/spreward_021] 진행 중
+[common_widget/spreward_022] 받기 완료
+[common_widget/spreward_023] 스페셜 클리어 보상
+[common_widget/spreward_024] 아래의 보상을 받았습니다
+[common_widget/spreward_025] 팩 구입 후 60일이 경과한 경우에도
+조건 달성에 상관없이 모든 SP 보상 수령 가능
+[common_widget/spreward_026] 어느 한 지방의 챔피언배틀 "HARD Lv.1"을
+모두 클리어하고 파시오 전당등록을 하자
+[common_widget/spreward_027] 어느 한 지방의 챔피언배틀 "HARD Lv.1"에서
+타입에 따라 피스를 채워서 엠블럼을 완성시키자
 
 ===========
 common_widget_zh-TW.lsd
@@ -28838,6 +30096,8 @@ common_widget_zh-TW.lsd
 [common_widget/button_012] ON
 [common_widget/button_013] OFF
 [common_widget/button_014] 再來一次
+[common_widget/button_015] 可獲得！
+[common_widget/button_016] 冠軍之路
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出發
 [common_widget/loading_003] 正在連線……
@@ -28950,6 +30210,11 @@ common_widget_zh-TW.lsd
 傳說冒險的對戰中
 因此無法出發
 [common_widget/dialog_082] 首次使用禮
+[common_widget/dialog_083] 有尚未領取的拍組
+到票券專用拍組搜尋
+選擇拍組吧
+[common_widget/dialog_084] 有尚未領取的拍組
+請選擇1對喜歡的拍組
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -29008,6 +30273,10 @@ MAX
 [common_widget/trainer_detail_062] 
 [common_widget/trainer_detail_063] [Name:TrainerName ]
 &[Name:PokemonName ]
+[common_widget/trainer_detail_064] 物理攻擊型
+[common_widget/trainer_detail_065] 特殊攻擊型
+[common_widget/trainer_detail_066] 技術型
+[common_widget/trainer_detail_067] 輔助型
 [common_widget/dialog_special_item_001] 獲得了
 [Name:Item ]！
 [common_widget/dialog_special_item_002] 還剩下[Digit:1digit ]個徽章！
@@ -29289,6 +30558,43 @@ EX服裝！
 [common_widget/juke_box_023] 會播放預先設定好的對戰樂曲
 [common_widget/juke_box_024] ★6EX
 [common_widget/juke_box_025] 交換道具
+[common_widget/juke_box_027] 特別
+[common_widget/spreward_001] 特別過關報酬
+[common_widget/spreward_002] 成功過關主線劇情吧！
+[common_widget/spreward_003] 成功過關冠軍對戰吧！
+[common_widget/spreward_004] 購買劇情包
+即可開放特別報酬！
+[common_widget/spreward_005] 購買冠軍包
+即可開放特別報酬！
+[common_widget/spreward_006] 可獲得總計
+13000個付費鑽石！
+[common_widget/spreward_007] 可獲得總計
+18500個付費鑽石！
+[common_widget/spreward_008] 無論是否達成條件
+皆能於[Digit:3digits ]天後領取所有的特別報酬
+[common_widget/spreward_009] 無論是否達成條件
+皆能於[Name:DateTime ]領取所有的特別報酬
+[common_widget/spreward_010] 購買組合包
+[common_widget/spreward_011] 一般報酬
+[common_widget/spreward_012] 特別報酬
+[common_widget/spreward_013] 主線劇情
+[common_widget/spreward_014] 冠軍對戰
+[common_widget/spreward_015] 全部領取
+[common_widget/spreward_016] 挑戰ＷＰＭ篇的[Name:QuestGroupTitle ]「NORMAL」並成功過關
+[common_widget/spreward_017] 挑戰冠軍對戰「NORMAL」中的所有對戰並成功過關
+[common_widget/spreward_018] 免費鑽石
+[common_widget/spreward_019] 付費鑽石
+[common_widget/spreward_020] 領取
+[common_widget/spreward_021] 進行中
+[common_widget/spreward_022] 已領取
+[common_widget/spreward_023] 特別過關報酬
+[common_widget/spreward_024] 已領取下列報酬
+[common_widget/spreward_025] 購買組合包後經過60天後，
+無論是否達成條件，也能夠領取所有的特別報酬。
+[common_widget/spreward_026] 成功過關任一地區的冠軍對戰「HARD Lv.1」中的所有對戰
+來登入帕希歐名人堂吧
+[common_widget/spreward_027] 在任一地區的冠軍對戰「HARD Lv.1」中
+根據屬性讓勳章結晶填入相應的位置來完成勳章吧
 
 ===========
 error_dialog_contents_de.lsd
@@ -29568,6 +30874,7 @@ Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu 
 Reinicie o jogo
 
 [error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
+[error_dialog_contents/32100] Beim Übertragen von Daten von einem Gerät mit einem anderen Betriebssystem (z. B. iOS, Android, usw.) als dem Gerät, mit dem das entsprechende Set gekauft wurde, kannst du gekaufte Juwelen, die nach der Erfüllung von Bedingungen erhalten wurden, nicht beanspruchen. Bitte übertrage die Daten erneut auf ein Gerät mit demselben Betriebssystem wie das für den Kauf verwendete Gerät, um die Juwelen in Anspruch nehmen zu können.
 
 ===========
 error_dialog_contents_en.lsd
@@ -29788,6 +31095,13 @@ Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu 
 Reinicie o jogo
 
 [error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
+[error_dialog_contents/32100] If game data is transferred to a device with a
+different OS (such as iOS or Android) than the device
+on which a bundle was purchased, paid gems
+obtained for fulfilling requirements cannot be
+claimed. In order to claim paid gems, try transferring
+data to a device with the same OS as the one used to
+purchase the bundle.
 
 ===========
 error_dialog_contents_es.lsd
@@ -30030,6 +31344,16 @@ Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu 
 Reinicie o jogo
 
 [error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
+[error_dialog_contents/32100] Si transfieres tus datos de guardado a
+un dispositivo que tenga un sistema
+operativo (iOS o Android) distinto al
+dispositivo con el que compres un lote,
+no podrás obtener las joyas de pago
+aunque cumplas los requisitos.
+Para poder obtenerlas, vuelve a
+transferir los datos a un dispositivo con
+el mismo sistema operativo que el
+que utilices durante la compra.
 
 ===========
 error_dialog_contents_fr.lsd
@@ -30270,6 +31594,17 @@ Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu 
 Reinicie o jogo
 
 [error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
+[error_dialog_contents/32100] Si vous transférez vos données de
+sauvegarde vers un appareil doté d'un
+système d'exploitation (iOS ou Android)
+différent de l'appareil avec lequel vous
+achetez un lot, vous ne pourrez pas
+recevoir les Diamants achetés même si
+vous remplissez les conditions requises.
+Pour les obtenir, transférez à nouveau
+les données vers un appareil doté
+du même système d'exploitation
+que celui utilisé lors de l'achat.
 
 ===========
 error_dialog_contents_it.lsd
@@ -30517,6 +31852,15 @@ Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu 
 Reinicie o jogo
 
 [error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
+[error_dialog_contents/32100] Trasferendo i dati di gioco a un dispositivo
+con un sistema operativo diverso (come iOS
+o Android) da quello del dispositivo utilizzato
+per l'acquisto di un pacchetto, non sarà possibile
+ricevere le gemme a pagamento ottenute
+soddisfacendo i requisiti. Per ricevere le gemme
+a pagamento puoi trasferire nuovamente i dati
+a un dispositivo dotato dello stesso sistema operativo
+utilizzato all'acquisto.
 
 ===========
 error_dialog_contents_ja.lsd
@@ -30797,6 +32141,13 @@ Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu 
 Reinicie o jogo
 
 [error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
+[error_dialog_contents/32100] 該当のパックを購入した端末と異なる
+OS（iOSやAndroidなど）の
+端末にデータを引き継いだ場合は
+条件達成による有償ダイヤを
+受け取ることはできません
+購入した端末と同じOSの端末に
+再度データを引き継いでお受け取りください
 
 ===========
 error_dialog_contents_ko.lsd
@@ -31047,6 +32398,13 @@ Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu 
 Reinicie o jogo
 
 [error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
+[error_dialog_contents/32100] 해당 팩을 구입한 단말기와 다른
+OS(iOS 또는 Android 등)의
+단말기로 데이터를 이어받은 경우에는
+조건 달성에 따라 유료 다이아를
+받을 수 없습니다
+구입한 단말기와 같은 OS 단말기로
+다시 데이터 이어받기를 진행하여 주십시오
 
 ===========
 error_dialog_contents_zh-TW.lsd
@@ -31265,6 +32623,11 @@ Para continuar jogando o jogo, você é obrigado a obter o consentimento de seu 
 Reinicie o jogo
 
 [error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
+[error_dialog_contents/32100] 購買特定組合包後若將資料轉移到
+不同OS（iOS或Android等）的裝置上
+將無法領取達成條件時發放的付費鑽石
+請再次將資料轉移到與購買組合包時
+相同OS的裝置，以便領取鑽石
 
 ===========
 home_de.lsd
@@ -31701,6 +33064,7 @@ Hinweis: Belohnungen sind wahrscheinlichkeitsabhängig. Es kann auch vorkommen, 
 [home/quest_detail_172] Stufe [Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_182] Hauptpreis
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -31756,6 +33120,22 @@ erfahren.
 [home/home_045] Spezial-G-Suche
 [home/home_046] Spezial-G-Suche verfügbar
 [home/home_048] Pokémon-Masters-Tag
+[home/home_049] Spezieller
+Abschlussbonus
+[home/home_050] Kapitel-Set
+[home/home_051] Beim Abschluss der Hauptgeschichte
+kannst du Juwelen erhalten! Der
+spezielle Abschlussbonus ist jetzt
+erhältlich! Beim Kauf des Kapitel-Sets
+kannst du sogar noch mehr Juwelen
+erhalten!
+[home/home_052] Champ-Set
+[home/home_053] Beim Abschluss des Champkampfs
+kannst du Juwelen erhalten! Der
+spezielle Abschlussbonus ist jetzt
+erhältlich! Beim Kauf des Champ-Sets
+kannst du sogar noch mehr Juwelen
+erhalten!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missionen
 [home/global_menu_008] Freunde
@@ -32107,6 +33487,35 @@ Bedingungen erfüllt hast:
 [home/champion_battle_066] Wird freigeschaltet, wenn du den
 Champ besiegt hast und du in die
 Ruhmeshalle eingezogen bist.
+[home/champion_battle_067] Normal
+[home/champion_battle_068] Belohnungen
+[home/champion_battle_069] Im Gang
+[home/champion_battle_070] Besonders harte Kämpfe, in denen die Top Vier und Champs
+wöchentlich wechseln. Es gelten dabei spezielle Regeln.
+[home/champion_battle_071] Schwer Lv. 1 [Name:ChampionBattleRegion ]
+[home/champion_battle_072] Empf. Level: [Digit:3digits ]
+[home/champion_battle_073] Lerne zusammen mit Rosy und Lilly, wie man Kämpfe
+gewinnt. Dabei kannst du tolle Belohnungen erhalten!
+[home/champion_battle_074] Siegesstraße
+[home/champion_battle_075] Fordere die Top Vier und den Champ aus Kanto zusammen
+mit deinen stärksten Gefährten heraus.
+[home/champion_battle_076] Normal vs. Kanto
+[home/champion_battle_077] Schließe dein Training auf der Siegesstraße ab und erhalte tolle Belohnungen!
+[home/champion_battle_078] Hinweis: Zeigt die Gesamtzahl der Belohnungen an, die du nach dem Abschluss des Trainings auf der Siegesstraße erhalten kannst.
+[home/champion_battle_079] Gesamt-Abschlussboni
+[home/champion_battle_080] Siegesstraße
+[home/champion_battle_081] Mit einer kreativen Strategie kannst du das Training auf der Siegesstraße bestimmt erfolgreich abschließen. Falls du nicht gewinnen kannst, ziehe doch die Kampftipps zurate. Möchtest du dir die Kampftipps jetzt ansehen?
+[home/champion_battle_082] Sieh dir die Rollen deiner Gefährten
+an und wähle passende Positionen.
+[home/champion_battle_083] Position
+[home/champion_battle_084] Beim Abschluss deines Trainings auf der Siegesstraße kannst du tolle Belohnungen wie z. B. 5 000 Juwelen und ein Ticket erhalten, mit dem du dir eines der folgenden Gefährtengespanne aussuchen kannst:
+MaMo-Rot & Glurak
+MaMo-Blau & Turtok
+MaMo-Leaf & Bisaflor
+[home/champion_battle_085] Der Champkampf wird nach Abschluss von „Ein Grund zu kämpfen“ auf dem Schwierigkeitsgrad Normal in Kapitel 10 des WPM-Handlungsbogens in der Hauptgeschichte freigeschaltet. Wenn du den Champkampf auf dem Schwierigkeitsgrad Normal abgeschlossen hast, versuche dich am Training auf der Siegesstraße!
+[home/champion_battle_086] Zur Siegesstraße
+[home/champion_battle_087] Freischaltbedingung
+[home/champion_battle_088] Freischaltbedingung
 [home/battle_villa_001] Ebenensprung
 [home/battle_villa_002] Da du in der letzten Kampfvilla-Veranstaltung die finale Ebene abgeschlossen hast, kannst du jetzt zu deiner gewünschten Ebene springen. Du kannst bis zu der Ebene, zu der du springst, Erstboni erhalten.
 [home/battle_villa_003] Hinweis: Du kannst nur zu Beginn des Veranstaltungszeitraums Ebenen überspringen. Später ist die Funktion nicht mehr verfügbar.
@@ -32555,6 +33964,7 @@ not be reset. Your drop rate level will be reset to 1.
 [home/quest_detail_172] Level [Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_182] Featured Rewards
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -32608,6 +34018,20 @@ Purchase Bundles section of the shop.
 [home/home_045] Special Ticket Scout
 [home/home_046] Special Ticket Scout
 [home/home_048] Pokémon Masters Day
+[home/home_049] Completion
+Rewards
+[home/home_050] Story Bundle
+[home/home_051] Special completion rewards, which
+include gems, are now available for
+completing the main story! You can
+get more gems by purchasing a
+Story Bundle!
+[home/home_052] Champion Bundle
+[home/home_053] Special completion rewards, which
+include gems, are now available for
+completing the Champion Stadium!
+You can get more gems by purchasing
+a Champion Bundle!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Friends
@@ -32921,6 +34345,41 @@ you meet the requirements starting
 [home/champion_battle_065] Option Details
 [home/champion_battle_066] To unlock, defeat the Champion
 and enter the Hall of Fame.
+[home/champion_battle_067] Normal
+[home/champion_battle_068] Rewards
+[home/champion_battle_069] In Progress
+[home/champion_battle_070] Weekly rotating, challenging battles with special parameters
+against the Elite Four and Champions of each region!
+[home/champion_battle_071] [Name:ChampionBattleRegion ]: Hard Lv. 1
+[home/champion_battle_072] Rec. Lv. [Digit:3digits ]
+[home/champion_battle_073] Learn how to win battles with Rosa and Lillie!
+You can earn rewards for completing the story!
+[home/champion_battle_074] Victory Road
+[home/champion_battle_075] Take on the Kanto region’s Elite Four and Champion
+with sync pairs you’ve trained!
+[home/champion_battle_076] Kanto Challenge: Normal
+[home/champion_battle_077] Battle through Victory Road to earn
+amazing rewards!
+[home/champion_battle_078] Note: This is the total of all rewards that can be
+obtained from Victory Road.
+[home/champion_battle_079] Total Completion Rewards
+[home/champion_battle_080] Victory Road
+[home/champion_battle_081] Using the proper strategies and tips will help you complete battles on Victory Road. If you’re having trouble, try taking a look at the battle tips! 
+
+View battle tips?
+[home/champion_battle_082] Learn about sync pair roles
+and tactics!
+[home/champion_battle_083] Tactics
+[home/champion_battle_084] Completing Victory Road will earn you a ticket that you can use to select one of the following sync pairs to team up with:
+Sygna Suit Red & Charizard
+Sygna Suit Blue & Blastoise
+Sygna Suit Leaf & Venusaur
+
+You can also get other amazing rewards, including up to 5,000 gems!
+[home/champion_battle_085] Unlock the Champion Stadium by completing Chapter 10: A Reason to Battle in the PML arc of the main story on Normal. You can take on Victory Road after completing the Champion Stadium on Normal.
+[home/champion_battle_086] Victory Road
+[home/champion_battle_087] Unlock Requirements
+[home/champion_battle_088] Unlock Requirements
 [home/battle_villa_001] Hall Skip
 [home/battle_villa_002] Because you completed all halls during the last Battle Villa challenge, you can skip to a hall of your choice. You can still receive first-time rewards for any halls you skip.
 [home/battle_villa_003] Note: If you don’t skip any halls at this point, you will not be able to do so later during this Battle Villa challenge.
@@ -33377,6 +34836,7 @@ Restablecer para reiniciar tu progreso.
 [home/quest_detail_172] Nivel [Digit:2digits ]
 [home/quest_detail_173] MÁX.
 [home/quest_detail_174] ∞
+[home/quest_detail_182] Premio especial
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -33433,6 +34893,20 @@ Puedes adquirirlos en la sección
 [home/home_045] ¡Recl. billete especial!
 [home/home_046] ¡Recl. billete especial!
 [home/home_048] ¡Día de Pokémon Masters!
+[home/home_049] Premios
+especiales
+[home/home_050] Lote historia principal
+[home/home_051] ¡Puedes recibir joyas como premios
+especiales al completar capítulos de la
+historia principal! ¡Ya están disponibles,
+y puedes obtener aún más joyas al
+comprar el lote historia principal!
+[home/home_052] Lote de Campeones
+[home/home_053] ¡Puedes recibir joyas como premios
+especiales al completar los Combates
+de Campeones! ¡Ya están disponibles,
+y puedes obtener aún más joyas al
+comprar el lote de Campeones!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Misiones
 [home/global_menu_008] Amigos
@@ -33759,6 +35233,46 @@ requisitos.
 [home/champion_battle_066] Se desbloqueará tras vencer al
 Campeón o Campeona e ingresar
 en el Hall de la Fama de Passio.
+[home/champion_battle_067] Normal
+[home/champion_battle_068] Premios
+[home/champion_battle_069] En curso
+[home/champion_battle_070] Libra intensos combates contra el Alto Mando y el Campeón
+con normas especiales. ¡Los rivales cambian cada semana!
+[home/champion_battle_071] [Name:ChampionBattleRegion ]: Difícil (nivel 1)
+[home/champion_battle_072] Nv. [Digit:3digits ] recom.
+[home/champion_battle_073] Aprende a ganar combates junto a Nanci y Lylia.
+¡Completa el episodio para obtener jugosos premios!
+[home/champion_battle_074] Calle Victoria
+[home/champion_battle_075] ¡Enfréntate al Alto Mando y al Campeón de Kanto con tus
+compis más fuertes!
+[home/champion_battle_076] VS. Kanto: Normal
+[home/champion_battle_077] ¡Completa la Calle Victoria para ganar
+premios increíbles!
+[home/champion_battle_078] Nota: Se muestran todos los premios que se pueden obtener en la Calle Victoria.
+[home/champion_battle_079] Premios totales
+[home/champion_battle_080] Calle Victoria
+[home/champion_battle_081] Puedes vencer fácilmente en la Calle Victoria si empleas estrategias creativas, pero, si necesitas ayuda, siempre puedes echar un vistazo a los Consejos para vencer. ¿Quieres consultar los Consejos para vencer?
+[home/champion_battle_082] ¡Comprueba la función de tus compis para
+elegir el orden de ataque adecuado!
+[home/champion_battle_083] Orden de ataque
+[home/champion_battle_084] Si completas la Calle Victoria, conseguirás un billete que te permitirá unir fuerzas con una de estas tres parejas de compis:
+Rojo (Traje S) y Charizard
+Azul (Traje S) y Blastoise
+Hoja (Traje S) y Venusaur
+
+¡También puedes obtener premios fantásticos, como 5000 joyas!
+[home/champion_battle_085] Después de completar "Motivaciones
+para luchar" del capítulo 10 de la
+trama del WPM de la historia principal
+en modo normal, se desbloquearán los
+Combates de Campeones. Completa
+los Combates de Campeones en modo
+normal para empezar tu entrenamiento
+en la Calle Victoria.
+[home/champion_battle_086] Ir a la Calle
+Victoria
+[home/champion_battle_087] Cómo desbloquear
+[home/champion_battle_088] Cómo desbloquear
 [home/battle_villa_001] Saltar planta
 [home/battle_villa_002] Dado que anteriormente completaste la última
 planta, ahora tienes la posibilidad de avanzar
@@ -34225,6 +35739,7 @@ de ne pas en obtenir certains.
 [home/quest_detail_172] Niveau [Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_182] Grand prix
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -34285,6 +35800,24 @@ les trouver dans la section
 [home/home_045] Appel Duo spécial avec Bons
 [home/home_046] Appel Duo spécial avec Bons disponible
 [home/home_048] Journée Pokémon Masters en cours
+[home/home_049] Récompenses
+(complétion)
+[home/home_050] Pack Scénario Principal
+[home/home_051] Des récompenses (complétion)
+comprenant des Diamants sont
+à présent disponibles en terminant
+le scénario principal !
+Et vous pouvez obtenir encore
+plus de Diamants en achetant 
+le Pack Scénario Principal !
+[home/home_052] Pack Maître
+[home/home_053] Des récompenses (complétion)
+comprenant des Diamants sont
+à présent disponibles en terminant
+le Combat de Maître !
+Et vous pouvez obtenir encore
+plus de Diamants en achetant 
+le Pack Maître !
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missions
 [home/global_menu_008] Amis
@@ -34661,6 +36194,57 @@ si les conditions sont remplies :
 [home/champion_battle_066] Débloqué après avoir vaincu le Maître
 une fois et fait votre entrée
 au Panthéon de Passio.
+[home/champion_battle_067] Normal
+[home/champion_battle_068] Récompenses
+[home/champion_battle_069] En cours
+[home/champion_battle_070] Dans ce combat difficile aux règles spéciales, vous pouvez affronter
+le Conseil 4 ainsi que le Maître d'une région différente chaque semaine.
+[home/champion_battle_071] [Name:ChampionBattleRegion ] Difficile N. 1
+[home/champion_battle_072] N. recommandé [Digit:3digits ]
+[home/champion_battle_073] Vous pouvez apprendre à vous battre avec Écho et Lilie.
+De merveilleuses récompenses sont disponibles en terminant ces épisodes !
+[home/champion_battle_074] Route Victoire
+[home/champion_battle_075] Affrontez le Conseil 4 et le Maître de Kanto
+à l'aide de vos Duos les plus puissants !
+[home/champion_battle_076] Combat : Kanto (Normal)
+[home/champion_battle_077] Vous pouvez obtenir de merveilleuses
+récompenses en terminant
+la Route Victoire !
+[home/champion_battle_078] Ceci est le nombre total de récompenses pouvant être
+obtenues sur la Route Victoire.
+[home/champion_battle_079] Total des récompenses de complétion
+[home/champion_battle_080] Route Victoire
+[home/champion_battle_081] En tirant parti des conseils et en
+utilisant les stratégies adéquates,
+vous pourrez venir à bout des combats
+de la Route Victoire. Si vous avez
+besoin d'aide, essayez de vous référer
+aux conseils de combat.
+Voulez-vous consulter les conseils
+de combat ?
+[home/champion_battle_082] Apprenez-en plus au sujet des rôles
+et des positions des Duos !
+[home/champion_battle_083] Position
+[home/champion_battle_084] En terminant la Route Victoire,
+vous pouvez obtenir un bon vous
+permettant de choisir un Duo
+parmi les trois suivants :
+Red (Look Ultime) & Dracaufeu
+Blue (Look Ultime) & Tortank
+Leaf (Look Ultime) & Florizarre
+Vous pouvez également obtenir
+jusqu'à 5 000 Diamants, ainsi que
+d'autres merveilleuses récompenses !
+[home/champion_battle_085] En complétant le chapitre 10 du WPM
+« La raison du combat » en difficulté
+« Normal » dans le scénario principal,
+vous débloquerez le Combat de
+Maître. Terminez le Combat de Maître
+en difficulté « Normal » pour accéder
+aux défis de la Route Victoire !
+[home/champion_battle_086] Route Victoire
+[home/champion_battle_087] Pour débloquer
+[home/champion_battle_088] Pour débloquer
 [home/battle_villa_001] Saut d'échelon
 [home/battle_villa_002] Vous avez battu le dernier échelon lors
 de la précédente session de la Villa de
@@ -35132,6 +36716,7 @@ quanto segue:
 [home/quest_detail_172] Livello [Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_182] Premi principali
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -35192,6 +36777,18 @@ del negozio.
 [home/home_045] Unicerca con ticket speciale
 [home/home_046] Unicerca con ticket speciale
 [home/home_048] Pokémon Masters Day
+[home/home_049] Completapremi
+[home/home_050] Pacchetto storia
+[home/home_051] Grazie ai completapremi, ora puoi
+ottenere gemme completando la storia!
+Se acquisti il Pacchetto storia, potrai
+ottenere ancora più gemme!
+[home/home_052] Pacchetto dei Campioni
+[home/home_053] Grazie ai completapremi, ora puoi
+ottenere gemme completando la Lotta
+dei Campioni! Se acquisti il Pacchetto
+dei Campioni, potrai ottenere ancora
+più gemme!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] Missioni
 [home/global_menu_008] Amici
@@ -35552,6 +37149,54 @@ soddisfatte determinate condizioni:
 o la Campionessa per la prima volta,
 entrando così nella Sala d'Onore
 di Pasio.
+[home/champion_battle_067] Normale
+[home/champion_battle_068] Ricompense
+[home/champion_battle_069] In corso
+[home/champion_battle_070] In queste lotte ad alta difficoltà potrai affrontare Superquattro
+e Campioni con regole speciali, diverse ogni settimana!
+[home/champion_battle_071] [Name:ChampionBattleRegion ] Difficile L. 1
+[home/champion_battle_072] L. [Digit:3digits ] consigliato
+[home/champion_battle_073] Imparerai a vincere nelle lotte insieme a Rina e a Lylia.
+Puoi completare l'episodio per ottenere ricompense favolose!
+[home/champion_battle_074] Via Vittoria
+[home/champion_battle_075] Questa serie di lotte ti permette di affrontare i Superquattro
+e il Campione di Kanto utilizzando le Unità che hai allenato!
+[home/champion_battle_076] VS assi di Kanto (Normale)
+[home/champion_battle_077] Completa Via Vittoria per ottenere
+ricompense incredibili!
+[home/champion_battle_078] Mostra tutte le ricompense che è possibile ottenere
+in Via Vittoria.
+[home/champion_battle_079] Ricompense completamento totale
+[home/champion_battle_080] Via Vittoria
+[home/champion_battle_081] In Via Vittoria è sempre possibile
+vincere, se utilizzi le strategie giuste.
+In caso di difficoltà, puoi consultare
+i consigli per ricevere un aiuto.
+
+Vuoi vedere i consigli per la lotta?
+[home/champion_battle_082] Controlla il ruolo delle tue Unità
+e assegna la priorità più adatta!
+[home/champion_battle_083] Priorità
+[home/champion_battle_084] Completando Via Vittoria, otterrai
+un ticket che ti permetterà di fare
+squadra con un'Unità a scelta
+tra le seguenti:
+• Rosso Costumax & Charizard
+• Blu Costumax & Blastoise
+• Leaf Costumax & Venusaur
+
+Potrai anche ottenere altre incredibili
+ricompense, ad esempio 5.000 gemme!
+[home/champion_battle_085] Completando "Un motivo per lottare",
+il capitolo 10 della storia "Il WPM",
+in difficoltà "Normale", sbloccherai
+la Lotta dei Campioni. Completando
+anche quest'ultima in difficoltà
+"Normale", potrai cimentarti
+in Via Vittoria!
+[home/champion_battle_086] Verso Via Vittoria
+[home/champion_battle_087] Requisiti sblocco
+[home/champion_battle_088] Requisiti sblocco
 [home/battle_villa_001] Salta una sala
 [home/battle_villa_002] Visto che la volta scorsa hai completato
 l'ultima sala, puoi decidere di iniziare da una
@@ -36011,6 +37656,7 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_172] レベル[Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_182] 目玉報酬
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -36069,6 +37715,16 @@ Lv.[Digit:2digits ]で解放
 [home/home_045] 特別チケットBサーチ
 [home/home_046] 特別チケットBサーチ可能
 [home/home_048] ポケマスデー開催チュウ
+[home/home_049] スペシャル
+クリア報酬
+[home/home_050] ストーリーパック
+[home/home_051] メインストーリーをクリアするとダイヤがもらえる
+スペシャルクリア報酬が登場！
+ストーリーパック購入でさらに多くのダイヤがもらえる！
+[home/home_052] チャンピオンパック
+[home/home_053] チャンピオンバトルをクリアするとダイヤがもらえる
+スペシャルクリア報酬が登場！
+チャンピオンパック購入でさらに多くのダイヤがもらえる！
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] ミッション
 [home/global_menu_008] ともだち
@@ -36422,6 +38078,52 @@ GRADE一覧に戻ります
 [home/champion_battle_065] オプション詳細
 [home/champion_battle_066] 一度チャンピオンを倒して
 パシオ殿堂入りすると解放されます
+[home/champion_battle_067] NORMAL
+[home/champion_battle_068] 報酬一覧
+[home/champion_battle_069] 挑戦中
+[home/champion_battle_070] 各地方の四天王とチャンピオンと
+毎週変わる　特殊ルールで戦う　高難度バトルです
+[home/champion_battle_071] HARD Lv.1 [Name:ChampionBattleRegion ]
+[home/champion_battle_072] 推奨Lv.[Digit:3digits ]
+[home/champion_battle_073] メイとリーリエと　いっしょに　バトルの勝ち方を学べます
+ストーリーをクリアして　豪華な報酬を　獲得しましょう
+[home/champion_battle_074] チャンピオンロード
+[home/champion_battle_075] 育てたバディーズで　カントー地方の四天王と
+チャンピオンに　挑戦する　バトルです
+[home/champion_battle_076] NORMAL ＶＳ　カントー
+[home/champion_battle_077] チャンピオンロードをクリアして
+超豪華報酬を獲得しよう！
+[home/champion_battle_078] ※チャンピオンロードで獲得できる
+報酬の合計を表示しています
+[home/champion_battle_079] 合計クリア報酬
+[home/champion_battle_080] チャンピオンロード
+[home/champion_battle_081] チャンピオンロードのバトルは
+工夫することで　必ず勝利できます
+勝てない時は　バトルのヒントを
+確認してみましょう
+
+バトルのヒントを見ますか？
+[home/champion_battle_082] バディーズのロールを確認して
+最適な順番にしよう！
+[home/champion_battle_083] 狙われる順番
+[home/champion_battle_084] チャンピオンロードをクリアしていくと
+マジコスレッド＆リザードン
+マジコスグリーン＆カメックス
+マジコスリーフ＆フシギバナの3組から
+1組を選んで仲間にできるチケットや
+5000ダイヤなど超豪華報酬がもらえる！
+[home/champion_battle_085] メインストーリーＷＰＭ編の
+第１０章「勝負の理由」「NORMAL」を
+クリアするとチャンピオンバトルが
+解放されます
+
+チャンピオンバトル「NORMAL」を
+クリアして
+チャンピオンロードに挑戦しましょう
+[home/champion_battle_086] チャンピオン
+ロードへ
+[home/champion_battle_087] 解放条件
+[home/champion_battle_088] 解放条件
 [home/battle_villa_001] GRADEスキップ
 [home/battle_villa_002] 前回最終GRADEをクリアしたので
 指定のGRADEまでスキップできます
@@ -36701,7 +38403,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_039] 보스 힌트
 [home/quest_detail_040] 조심하자!
 [home/quest_detail_041] 효과가 있다!
-[home/quest_detail_042] 닫는다
+[home/quest_detail_042] 닫기
 [home/quest_detail_046] 능력치
 [home/quest_detail_047] 필요한 능력치
 [home/quest_detail_048] 이 모험에선 팀을 편성할 수 없습니다
@@ -36877,6 +38579,7 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_172] 레벨 [Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_182] 주요 보상
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -36932,6 +38635,18 @@ Lv.[Digit:2digits ]에서 해방
 [home/home_045] 특별 티켓 B서치
 [home/home_046] 특별 티켓 B서치 가능
 [home/home_048] 포켓몬 마스터즈 데이 개최 중
+[home/home_049] 스페셜
+클리어 보상
+[home/home_050] 스토리 팩
+[home/home_051] 메인 스토리를 클리어하면 다이아를
+받을 수 있는 스페셜 클리어 보상이 등장!
+스토리 팩을 구입하면 더 많은 다이아를
+받을 수 있다!
+[home/home_052] 챔피언 팩
+[home/home_053] 챔피언배틀을 클리어하면 다이아를
+받을 수 있는 스페셜 클리어 보상이 등장!
+챔피언 팩을 구입하면 더 많은 다이아를
+받을 수 있다!
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 미션
 [home/global_menu_008] 친구
@@ -37265,6 +38980,50 @@ WPM배지를 모두 모으면
 [home/champion_battle_065] 옵션 상세
 [home/champion_battle_066] 한 번 챔피언을 쓰러뜨리고
 파시오 전당등록을 진행하면 해방됩니다
+[home/champion_battle_067] NORMAL
+[home/champion_battle_068] 보상 일람
+[home/champion_battle_069] 도전 중
+[home/champion_battle_070] 각 지방의 사천왕과 챔피언과
+매주 바뀌는 특수 규칙으로 승부하는 고난도 배틀입니다
+[home/champion_battle_071] HARD Lv.1 [Name:ChampionBattleRegion ]
+[home/champion_battle_072] 권장 Lv.[Digit:3digits ]
+[home/champion_battle_073] 명희와 릴리에와 함께 배틀에서 이기는 방법을 배웁니다
+스토리를 클리어하고 호화로운 보상을 획득합시다
+[home/champion_battle_074] 챔피언로드
+[home/champion_battle_075] 육성한 버디즈로 관동지방의 사천왕과
+챔피언에 도전하는 배틀입니다
+[home/champion_battle_076] NORMAL VS 관동
+[home/champion_battle_077] 챔피언로드를 클리어하고
+매우 호화로운 보상을 획득합시다!
+[home/champion_battle_078] ※챔피언로드로 획득할 수 있는
+보상의 합계를 표시하고 있습니다
+[home/champion_battle_079] 합계 클리어 보상
+[home/champion_battle_080] 챔피언로드
+[home/champion_battle_081] 챔피언로드의 배틀은
+전략을 잘 세우면 반드시 승리할 수 있습니다
+패할 경우에는 배틀 힌트를
+확인해 주세요
+배틀 힌트를 보시겠습니까?
+[home/champion_battle_082] 버디즈의 롤을 확인하고
+최적의 순서로 만듭시다!
+[home/champion_battle_083] 노려지는 순서
+[home/champion_battle_084] 챔피언로드를 클리어하며 진행하면
+궁극코스 레드&리자몽
+궁극코스 그린&거북왕
+궁극코스 리프&이상해꽃 중에서
+하나를 선택해서 동료로 만들 수 있는 티켓이나
+5,000다이아 등 매우 호화로운 보상을
+받을 수 있다!
+[home/champion_battle_085] 메인 스토리 WPM 편의
+제10장 "승부하는 이유" "NORMAL"을
+클리어하면 챔피언배틀이
+해방됩니다
+챔피언배틀 "NORMAL"을
+클리어하고
+챔피언로드에 도전합시다
+[home/champion_battle_086] 챔피언로드로
+[home/champion_battle_087] 해방 조건
+[home/champion_battle_088] 해방 조건
 [home/battle_villa_001] GRADE 스킵
 [home/battle_villa_002] 지난 회 최종 GRADE를 클리어했으므로
 지정된 GRADE까지 스킵할 수 있습니다
@@ -37711,6 +39470,7 @@ home_zh-TW.lsd
 [home/quest_detail_172] 等級[Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_182] 特級報酬
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -37766,6 +39526,15 @@ home_zh-TW.lsd
 [home/home_045] 特別票券拍組搜尋
 [home/home_046] 可進行特別票券拍組搜尋
 [home/home_048] 群星盛典日現正舉辦中
+[home/home_049] 特別過關報酬
+[home/home_050] 劇情包
+[home/home_051] 成功過關主線劇情就能獲得鑽石的
+特別過關報酬登場！
+購買劇情包還能獲得更多鑽石！
+[home/home_052] 冠軍包
+[home/home_053] 成功過關冠軍對戰就能獲得鑽石的
+特別過關報酬登場！
+購買冠軍包還能獲得更多鑽石！
 [home/global_menu_001] [Name:PlayerNickname ]
 [home/global_menu_007] 任務
 [home/global_menu_008] 朋友
@@ -38077,6 +39846,48 @@ home_zh-TW.lsd
 [home/champion_battle_065] 選項說明
 [home/champion_battle_066] 只要打敗一次冠軍
 並登入帕希歐名人堂即可開放
+[home/champion_battle_067] NORMAL
+[home/champion_battle_068] 報酬一覽
+[home/champion_battle_069] 挑戰中
+[home/champion_battle_070] 這是能以每週改變的特殊規則
+和各地區的四天王以及冠軍戰鬥的高難度對戰
+[home/champion_battle_071] HARD Lv.1 [Name:ChampionBattleRegion ]
+[home/champion_battle_072] 建議Lv.[Digit:3digits ]
+[home/champion_battle_073] 與鳴依和莉莉艾一起學習贏得對戰的方法
+成功過關劇情，獲得豪華報酬吧
+[home/champion_battle_074] 冠軍之路
+[home/champion_battle_075] 這是用自己培育出的拍組來挑戰
+關都地區四天王和冠軍的對戰
+[home/champion_battle_076] NORMAL ＶＳ　關都
+[home/champion_battle_077] 成功過關冠軍之路
+獲得超豪華報酬吧！
+[home/champion_battle_078] ※顯示的報酬為在冠軍之路
+可獲得的報酬總數
+[home/champion_battle_079] 總計過關報酬
+[home/champion_battle_080] 冠軍之路
+[home/champion_battle_081] 只要多下點工夫
+就一定能打贏冠軍之路的對戰
+打不贏的時候
+就查看一下對戰提示吧
+是否要查看對戰提示？
+[home/champion_battle_082] 確認拍組的體系
+編制成最適合的順位吧！
+[home/champion_battle_083] 迎擊順位
+[home/champion_battle_084] 只要成功過關冠軍之路就能獲得可從
+美極套裝赤紅＆噴火龍
+美極套裝青綠＆水箭龜
+美極套裝葉子＆妙蛙花
+3對拍組中選擇1對成為夥伴的票券
+以及5000個鑽石等超豪華報酬！
+[home/champion_battle_085] 成功過關主線劇情
+ＷＰＭ篇的第１０章
+「對戰的理由」的「NORMAL」
+即可開放冠軍對戰
+成功過關冠軍對戰的「NORMAL」
+挑戰冠軍之路吧
+[home/champion_battle_086] 前往冠軍之路
+[home/champion_battle_087] 開放條件：
+[home/champion_battle_088] 開放條件：
 [home/battle_villa_001] 跳過GRADE
 [home/battle_villa_002] 上期已成功過關最高GRADE
 因此可跳至指定的GRADE
@@ -38151,6 +39962,16 @@ es anschließend erneut.
 [shop/shop_common_020] Der Kauf wurde abgeschlossen.
 Du kehrst nun zum Titelbildschirm
 zurück.
+[shop/shop_common_021] Möchtest du dieses Set kaufen?
+[shop/shop_common_022] Beim Übertragen von Daten von einem Gerät mit einem
+anderen Betriebssystem (z. B. iOS, Android, usw.) als
+dem Gerät, mit dem das entsprechende Set gekauft
+wurde, kannst du gekaufte Juwelen, die nach der
+Erfüllung von Bedingungen erhalten wurden, nicht
+beanspruchen. Bitte übertrage die Daten erneut auf
+ein Gerät mit demselben Betriebssystem wie das für
+den Kauf verwendete Gerät, um die Juwelen in
+Anspruch nehmen zu können.
 [shop/shop_medal_001] Juwelen-Kauf
 [shop/shop_medal_002] Sonderrabatt
 [shop/shop_medal_003] Schließen
@@ -38251,6 +40072,54 @@ einem Kauf lesen.
 [shop/shop_medal_070] Wird täglich zurückgesetzt
 [shop/shop_medal_071] Manche Waren sind nur für limitierte Zeit erhältlich.
 [shop/shop_medal_073] Items (abgesehen von Juwelen), die das maximale Speicherlimit überschreiten, werden gelöscht.
+[shop/shop_medal_074] Kapitel-Set
+[shop/shop_medal_075] Du kannst bis zu 13 000 gekaufte Juwelen erhalten!
+[shop/shop_medal_076] Schaltet Spezial-Boni in der 
+Hauptgeschichte frei!
+[shop/shop_medal_077] Gekauft
+[shop/shop_medal_078] Champ-Set
+[shop/shop_medal_079] Du kannst bis zu 18 500 gekaufte Juwelen erhalten!
+[shop/shop_medal_080] Schaltet Spezial-Boni im Champkampf frei!
+[shop/shop_medal_081] Spezial-Bonus
+[shop/shop_medal_082] Abholbar nach Erfüllen der Bedingungen (max. [Digit:2digits ] Mal)
+[shop/shop_medal_083] Gekaufte Juwelen
+[shop/shop_medal_084] Kann nach erfolgreichem Abschluss aller Kämpfe
+im Champkampf auf dem Schwierigkeitsgrad
+Normal oder [Digit:2digits ] Tage nach dem Kauf abgeholt
+werden.
+[shop/shop_medal_085] Kann nach erfolgreichem Abschluss aller Kämpfe
+im Champkampf einer beliebigen Region und
+dem Einzug in die Ruhmeshalle auf dem
+Schwierigkeitsgrad Schwer Lv. 1 oder [Digit:2digits ] Tage
+nach dem Kauf abgeholt werden.
+[shop/shop_medal_086] Kann nach Erhalt aller Fragmente des Emblems
+einer beliebigen Region im Champkampf auf dem
+Schwierigkeitsgrad Schwer Lv. 1 oder [Digit:2digits ] Tage
+nach dem Kauf abgeholt werden.
+[shop/shop_medal_087] Kann [Digit:2digits ] Tage nach dem Kauf oder nach
+Abschluss des folgenden Kapitels des
+WPM-Handlungsbogens auf dem
+Schwierigkeitsgrad Normal abgeholt werden:
+
+[Name:QuestGroupTitle ]
+[shop/shop_medal_088] Kapitel-Set
+[shop/shop_medal_089] Champ-Set
+[shop/shop_medal_090] Spezialbelohnung
+[shop/shop_medal_091] Wird durch den Kauf von Kapitel-Sets
+freigeschaltet. Du kannst diese über
+die Schaltfläche „Sets kaufen“ erhalten.
+[shop/shop_medal_092] Wird durch den Kauf von Champ-Sets
+freigeschaltet. Du kannst diese über
+die Schaltfläche „Sets kaufen“ erhalten.
+[shop/shop_medal_093] Du kannst keine weiteren Juwelen
+abholen, da du sonst das Limit
+überschreiten würdest. Verbrauche
+einige deiner Juwelen, bevor du neue
+abholst.
+
+Hinweis: Die Obergrenze an gekauften
+Juwelen in deinem Besitz beträgt
+[Digit:5digits ].
 [shop/shop_itemexchange_001] Item-Tausch
 [shop/shop_itemexchange_003] Tauschen
 [shop/shop_itemexchange_004] Tauschen
@@ -38691,8 +40560,12 @@ kostenlos Gefährten ins Team holen!
 [shop/scout_157] Setze spezielle Tickets ein, um
 Gefährten zu erhalten!
 [shop/scout_159] Die Erscheinungsraten für ★ werden nach der vierten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
+[shop/scout_160] Ticket-G-Suche mit 5★
+nach Wahl x10
+[shop/scout_161] Du kannst eines von drei Gefährtengespannen wählen!
 [shop/scout_162] Musik-
 Schlüssel
+[shop/scout_179] Hinweis: Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann. Du kannst dir nach der Durchführung der Gefährtensuche × 10 ein Gefährtengespann aussuchen.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -38780,6 +40653,14 @@ failed. Please try again later.
 successfully.
 
 Returning to title screen.
+[shop/shop_common_021] Purchase this bundle?
+[shop/shop_common_022] If game data is transferred to a device with a
+different OS (such as iOS or Android) than the device
+on which a bundle was purchased, paid gems
+obtained for fulfilling requirements cannot be
+claimed. In order to claim paid gems, try transferring
+data to a device with the same OS as the one used to
+purchase the bundle.
 [shop/shop_medal_001] Purchase Gems
 [shop/shop_medal_002] Special Discount
 [shop/shop_medal_003] Close
@@ -38885,6 +40766,50 @@ been claimed:
 [shop/shop_medal_071] Some event-related products are only available for a limited time.
 [shop/shop_medal_073] Items other than gems that exceed the maximum storage
 limit will be deleted.
+[shop/shop_medal_074] Story Bundle
+[shop/shop_medal_075] You can get up to 13,000 paid gems!
+[shop/shop_medal_076] Unlocks special completion rewards
+for the main story!
+[shop/shop_medal_077] Purchased
+[shop/shop_medal_078] Champion Bundle
+[shop/shop_medal_079] You can get up to 18,500 paid gems!
+[shop/shop_medal_080] Unlocks special completion rewards
+for the Champion Stadium!
+[shop/shop_medal_081] Special Completion Rewards
+[shop/shop_medal_082] Complete requirements to obtain rewards: ([Digit:2digits ] total)
+[shop/shop_medal_083] Paid Gems
+[shop/shop_medal_084] Obtain by completing Champion Stadium on
+Normal or by waiting until [Digit:2digits ] days
+after purchase.
+[shop/shop_medal_085] Obtain by completing all Champion Stadium
+battles for any region and entering the
+Hall of Fame on Hard Lv. 1—or by waiting
+until [Digit:2digits ] days after purchase.
+[shop/shop_medal_086] Obtain by filling in all pieces of the Champion
+Stadium MVP medal for any region on Hard Lv. 1
+or by waiting until [Digit:2digits ] days after purchase.
+[shop/shop_medal_087] Obtain by completing the following chapter of
+the PML arc on Normal, or by waiting until
+[Digit:2digits ] days after purchase:
+
+[Name:QuestGroupTitle ]
+[shop/shop_medal_088] Story Bundle
+[shop/shop_medal_089] Champion Bundle
+[shop/shop_medal_090] Special Rewards
+[shop/shop_medal_091] Unlock by purchasing a Story Bundle.
+You can purchase Story Bundles via
+the Purchase Bundles button.
+[shop/shop_medal_092] Unlock by purchasing a Champion
+Bundle. You can purchase Champion
+Bundles via the Purchase
+Bundles button.
+[shop/shop_medal_093] You can’t obtain any more gems
+because it would exceed the limit.
+Please reduce your number of gems
+before obtaining more.
+
+Note: The limit for how many paid
+gems you can have is [Digit:5digits ].
 [shop/shop_itemexchange_001] Exchange Items
 [shop/shop_itemexchange_003] Exchanged
 [shop/shop_itemexchange_004] Exchange
@@ -39199,7 +41124,11 @@ The final sync pair scouted (the 10th sync pair for ×10 scouts and 11th sync pa
 Seasonal sync pairs are sync pairs that will appear for a limited time during this seasonal scout. There is a possibility that they will appear outside of this seasonal scout in the future.
 
 When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
+[shop/scout_160] 5★-Select Ticket Scout ×10
+[shop/scout_161] You can pick one of three sync pairs!
 [shop/scout_162] Song Key
+[shop/scout_179] When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
+You may select your additional sync pair after the initial scout is complete.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -39285,6 +41214,15 @@ nuevo.
 Hay que actualizar la información, así
 que se te devolverá a la pantalla de
 título.
+[shop/shop_common_021] ¿Quieres comprar este lote?
+[shop/shop_common_022] Aviso: Si transfieres tus datos de guardado a un
+dispositivo con un sistema operativo (iOS o Android)
+distinto al dispositivo con el que compres un lote,
+no podrás obtener las joyas de pago aunque cumplas
+los requisitos.
+Para poder obtenerlas, vuelve a transferir los datos a
+un dispositivo con el mismo sistema operativo que el
+que utilices durante la compra.
 [shop/shop_medal_001] Comprar joyas
 [shop/shop_medal_002] Oferta especial
 [shop/shop_medal_003] Cerrar
@@ -39388,6 +41326,38 @@ disponibles.
 [shop/shop_medal_071] ¡Estos lotes de joyas limitados cambian según los eventos activos!
 [shop/shop_medal_073] Aviso: Los objetos por encima del límite (excepto las joyas)
 se eliminarán.
+[shop/shop_medal_074] Lote historia principal
+[shop/shop_medal_075] ¡Puedes obtener hasta 13 000 joyas de pago!
+[shop/shop_medal_076] Lote especial que permite obtener ciertos
+premios especiales en la historia principal.
+[shop/shop_medal_077] Ya comprado
+[shop/shop_medal_078] Lote de Campeones
+[shop/shop_medal_079] ¡Puedes obtener hasta 18 500 joyas de pago!
+[shop/shop_medal_080] Lote especial que permite obtener ciertos premios
+especiales en los Combates de Campeones.
+[shop/shop_medal_081] Premios especiales
+[shop/shop_medal_082] Disponible tras cumplir los requisitos ([Digit:2digits ] en total)
+[shop/shop_medal_083] Joyas de pago
+[shop/shop_medal_084] Disponible tras completar todos los Combates de Campeones en Normal o después de [Digit:2digits ] día[ES:Qty P="s" ] desde la compra.
+[shop/shop_medal_085] Disponible tras entrar en el Hall de la Fama de Passio en los Combates de Campeones de cualquier región en Difícil (nivel 1) o después de [Digit:2digits ] día[ES:Qty P="s" ] desde la compra.
+[shop/shop_medal_086] Disponible tras conseguir todas las piezas del emblema "Hall de la Fama" de cualquier región en los Combates de Campeones en Difícil (nivel 1) o después de [Digit:2digits ] día[ES:Qty P="s" ] desde la compra.
+[shop/shop_medal_087] Disponible tras completar el siguiente capítulo de la trama del WPM en Normal o después de [Digit:2digits ] día[ES:Qty P="s" ] desde la compra: [Name:QuestGroupTitle ].
+[shop/shop_medal_088] Lote historia principal
+[shop/shop_medal_089] Lote de Campeones
+[shop/shop_medal_090] Premios especiales
+[shop/shop_medal_091] Disponible tras comprar el Lote historia
+principal. Puedes adquirirlo en la
+sección "Comprar lotes" de la tienda.
+
+[shop/shop_medal_092] Disponible tras comprar el Lote de
+Campeones. Puedes adquirirlo en la
+sección "Comprar lotes" de la tienda.
+
+[shop/shop_medal_093] No puedes obtener más joyas porque
+has excedido el límite.
+Vuelve a intentarlo cuando hayas
+utilizado algunas.
+Límite de joyas de pago: [Digit:5digits ].
 [shop/shop_itemexchange_001] Canjear objetos
 [shop/shop_itemexchange_003] Canjear
 [shop/shop_itemexchange_004] Canjear
@@ -39660,8 +41630,14 @@ Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el 
 La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
 Los compis de temporada son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de temporada, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de temporada.
 Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
+[shop/scout_160] Reclutamiento billete ×10
++ 5★ a elegir
+[shop/scout_161] ¡Puedes recibir una de las tres parejas
+de compis a tu elección!
 [shop/scout_162] Llave
 musical
+[shop/scout_179] Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
+Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -39741,6 +41717,16 @@ Veuillez réessayer plus tard.
 [shop/shop_common_020] L'achat a bien été finalisé.
 Vous allez retourner à l'écran titre afin
 que les données soient actualisées.
+[shop/shop_common_021] Souhaitez-vous acheter ce pack ?
+[shop/shop_common_022] Si vous transférez vos données de sauvegarde
+vers un appareil doté d'un système d'exploitation
+(iOS ou Android) différent de l'appareil avec lequel
+vous achetez un lot, vous ne pourrez pas recevoir
+les Diamants achetés même si vous remplissez
+les conditions requises.
+Pour les obtenir, transférez à nouveau les données
+vers un appareil doté du même système d'exploitation
+que celui utilisé lors de l'achat.
 [shop/shop_medal_001] Achat de Diamants
 [shop/shop_medal_002] Promotion
 [shop/shop_medal_003] Fermer
@@ -39845,6 +41831,46 @@ seront récupérables pendant une période limitée.
 [shop/shop_medal_071] Les produits liés aux évènements ont une disponibilité limitée.
 [shop/shop_medal_073] À l'exception des Diamants, tout objet dont la quantité
 dépasse la limite de stockage sera supprimé.
+[shop/shop_medal_074] Pack Scénario Principal
+[shop/shop_medal_075] Vous pouvez obtenir jusqu'à 13 000 Diamants payants !
+[shop/shop_medal_076] Permet de débloquer les récompenses (complétion) du scénario principal !
+[shop/shop_medal_077] Acheté
+[shop/shop_medal_078] Pack Maître
+[shop/shop_medal_079] Vous pouvez obtenir jusqu'à 18 500 Diamants payants !
+[shop/shop_medal_080] Permet de débloquer les récompenses (complétion) du Combat de Maître !
+[shop/shop_medal_081] Récompenses (complétion)
+[shop/shop_medal_082] Remplissez les conditions pour obtenir les récompenses ([Digit:2digits ] au total)
+[shop/shop_medal_083] Diamants payants
+[shop/shop_medal_084] Vous pouvez obtenir ceci soit en terminant
+le Combat de Maître en difficulté « Normal »,
+soit en attendant [Digit:2digits ] jour[FR:Qty P="s" ] après l'achat.
+[shop/shop_medal_085] Vous pouvez obtenir ceci soit en venant à bout
+de tous les adversaires du Combat de Maître
+de n'importe quelle région et en entrant au
+Panthéon de Passio en difficulté « Difficile N. 1 »,
+soit en attendant [Digit:2digits ] jour[FR:Qty P="s" ] après l'achat.
+[shop/shop_medal_086] Vous pouvez obtenir ceci soit en complétant
+l'emblème du Combat de Maître de n'importe
+quelle région en difficulté « Difficile N. 1 »,
+soit en attendant [Digit:2digits ] jour[FR:Qty P="s" ] après l'achat.
+[shop/shop_medal_087] Vous pouvez obtenir ceci soit en terminant
+« [Name:QuestGroupTitle ] » dans l'arc narratif « Le WPM »
+en difficulté « Normal », soit en attendant
+[Digit:2digits ] jour[FR:Qty P="s" ] après l'achat.
+[shop/shop_medal_088] Pack Scénario Principal
+[shop/shop_medal_089] Pack Maître
+[shop/shop_medal_090] Récompenses spéciales
+[shop/shop_medal_091] Se débloque en achetant un Pack
+Scénario Principal, disponible
+depuis l'icône « Achat de lots ».
+[shop/shop_medal_092] Se débloque en achetant un Pack
+Maître, disponible depuis l'icône
+« Achat de lots ».
+[shop/shop_medal_093] Vous ne pouvez pas recevoir de
+Diamants car vous dépasseriez
+la limite. Veuillez en utiliser avant
+d'en recevoir à nouveau. La limite
+de Diamants payants est de [Digit:5digits ].
 [shop/shop_itemexchange_001] Échange d'objets
 [shop/shop_itemexchange_003] Échange
 [shop/shop_itemexchange_004] Échanger
@@ -40117,8 +42143,13 @@ Bons 10 Appels Duo
 [shop/scout_157] Vous pouvez utiliser des Bons
 spéciaux pour obtenir des Duos !
 [shop/scout_159] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis au troisième chiffre après la virgule, il peut arriver que la somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Un Duo saisonnier est un Duo apparaissant pendant une durée limitée, à l'occasion d'un Appel Duo saisonnier. Il est possible qu'un Duo saisonnier apparaisse à nouveau, même après la fin de son Appel Duo saisonnier. Les Duos ayant une astérisque (*) après le nom de leur Pokémon à côté du pourcentage peuvent faire évoluer leur Pokémon si vous débloquez leur épisode d'évolution.
+[shop/scout_160] 10 Appels Duo avec
+Bon 5★ au choix
+[shop/scout_161] Vous pouvez choisir un Duo parmi trois disponibles !
 [shop/scout_162] Clé
 Mélodie
+[shop/scout_179] Remarque : lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+Vous pourrez obtenir un Duo supplémentaire de votre choix après avoir passé l'Appel Duo.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -40204,6 +42235,16 @@ Riprova più tardi.
 [shop/shop_common_020] L'acquisto è stato completato
 con successo. Ritorno alla schermata
 del titolo per aggiornare i dati.
+[shop/shop_common_021] Vuoi comprare questo pacchetto?
+[shop/shop_common_022] Trasferendo i dati di gioco a un dispositivo
+con un sistema operativo diverso (come iOS
+o Android) da quello del dispositivo utilizzato
+per l'acquisto di un pacchetto, non sarà possibile
+ricevere le gemme a pagamento ottenute
+soddisfacendo i requisiti. Per ricevere le gemme
+a pagamento puoi trasferire nuovamente i dati
+a un dispositivo dotato dello stesso sistema operativo
+utilizzato all'acquisto.
 [shop/shop_medal_001] Acquisto gemme
 [shop/shop_medal_002] Offerta speciale
 [shop/shop_medal_003] Chiudi
@@ -40310,6 +42351,50 @@ disponibili per l'acquisto.
 [shop/shop_medal_071] Alcune offerte per eventi sono disponibili per un periodo limitato.
 [shop/shop_medal_073] Gli strumenti (salvo le gemme) che superano il limite
 massimo verranno eliminati.
+[shop/shop_medal_074] Pacchetto storia
+[shop/shop_medal_075] Puoi ottenere fino a 13.000 gemme a pagamento!
+[shop/shop_medal_076] Permette di sbloccare le ricompense
+speciali dei completapremi della storia!
+[shop/shop_medal_077] Acquistato
+[shop/shop_medal_078] Pacchetto dei Campioni
+[shop/shop_medal_079] Puoi ottenere fino a 18.500 gemme a pagamento!
+[shop/shop_medal_080] Permette di sbloccare le ricompense speciali
+dei completapremi della Lotta dei Campioni!
+[shop/shop_medal_081] Completapremi
+[shop/shop_medal_082] Ricevuti soddisfacendo i requisiti ([Digit:2digits ] volt[IT:Qty S="a" P="e" ] in tutto)
+[shop/shop_medal_083] Gemme a pagamento
+[shop/shop_medal_084] Ottenibile completando la Lotta dei Campioni
+in difficoltà "Normale", oppure [Digit:2digits ] [IT:Qty S="giorno" P="giorni" ] dopo
+l'acquisto.
+[shop/shop_medal_085] Ottenibile entrando nella Sala d'Onore di Pasio
+in difficoltà "Difficile L. 1" dopo aver completato
+tutte le sfide della Lotta dei Campioni di una
+qualsiasi regione, oppure [Digit:2digits ] [IT:Qty S="giorno" P="giorni" ] dopo
+l'acquisto.
+[shop/shop_medal_086] Ottenibile completando l'emblema "Sala d'onore"
+di una qualsiasi regione in difficoltà "Difficile
+L. 1", oppure [Digit:2digits ] [IT:Qty S="giorno" P="giorni" ] dopo l'acquisto.
+[shop/shop_medal_087] Ottenibile completando il seguente capitolo
+della storia "Il WPM" in difficoltà "Normale",
+oppure [Digit:2digits ] [IT:Qty S="giorno" P="giorni" ] dopo l'acquisto:
+
+[Name:QuestGroupTitle ]
+[shop/shop_medal_088] Pacchetto storia
+[shop/shop_medal_089] Pacchetto dei Campioni
+[shop/shop_medal_090] Ricompense speciali
+[shop/shop_medal_091] Si sbloccano acquistando il Pacchetto
+storia, che puoi trovare nel menu
+"Acquisto pacchetti" del negozio.
+[shop/shop_medal_092] Si sbloccano acquistando il Pacchetto
+dei Campioni, che puoi trovare
+nel menu "Acquisto pacchetti"
+del negozio.
+[shop/shop_medal_093] Non puoi ricevere altre gemme
+perché supererebbero il limite.
+Riduci il numero di gemme prima
+di riceverne altre.
+Attenzione: puoi avere al massimo
+[Digit:5digits ] gemme a pagamento.
 [shop/shop_itemexchange_001] Scambio strumenti
 [shop/shop_itemexchange_003] Scambiati
 [shop/shop_itemexchange_004] Scambia
@@ -40657,8 +42742,13 @@ Per consultare il tasso di comparsa delle estrazioni che selezionano solo Unità
 Le Unità festive sono Unità che compaiono durante questa ricerca Unità festiva.
 È possibile che le Unità festive compaiano anche in ricerche Unità successive, non necessariamente festive.
 I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
+[shop/scout_160] Unicerca con ticket ×10
+con un'Unità a scelta!
+[shop/scout_161] Puoi ottenere un'Unità a scelta tra tre!
 [shop/scout_162] Chiave
 musicale
+[shop/scout_179] I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
+L'Unità aggiuntiva può essere scelta dopo aver completato la ricerca Unità iniziale.
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -40746,6 +42836,14 @@ shop_ja.lsd
 [shop/shop_common_019] 所持
 [shop/shop_common_020] 購入処理が正常に完了しました
 データ反映のため、タイトルに戻ります
+[shop/shop_common_021] パックを購入しますか？
+[shop/shop_common_022] 該当のパックを購入した端末と異なる
+OS（iOSやAndroidなど）の
+端末にデータを引き継いだ場合は
+条件達成による有償ダイヤを
+受け取ることはできません
+購入した端末と同じOSの端末に
+再度データを引き継いでお受け取りください
 [shop/shop_medal_001] ダイヤ購入
 [shop/shop_medal_002] 特別ディスカウント
 [shop/shop_medal_003] とじる
@@ -40853,6 +42951,43 @@ ONにしてください
 [shop/shop_medal_070] 日ごとに回数が更新されます
 [shop/shop_medal_071] イベント等に合わせて販売される期間限定の商品も要チェック！
 [shop/shop_medal_073] ※ダイヤ以外の所持上限を超えたどうぐは破棄されます
+[shop/shop_medal_074] ストーリーパック
+[shop/shop_medal_075] 有償ダイヤが合計13000個獲得可能！
+[shop/shop_medal_076] スペシャルクリア報酬（メインストーリー）の
+SP報酬が解放されるおとくなパック！
+[shop/shop_medal_077] 購入済み
+[shop/shop_medal_078] チャンピオンパック
+[shop/shop_medal_079] 有償ダイヤが合計18500個獲得可能！
+[shop/shop_medal_080] スペシャルクリア報酬（チャンピオンバトル）の
+SP報酬が解放されるおとくなパック！
+[shop/shop_medal_081] スペシャルクリア報酬
+[shop/shop_medal_082] 条件達成（全[Digit:2digits ]回）で受取
+[shop/shop_medal_083] 有償ダイヤ
+[shop/shop_medal_084] チャンピオンバトル「NORMAL」をすべてクリアするか
+購入から[Digit:2digits ]日後に受け取り可能
+[shop/shop_medal_085] いずれかの地方のチャンピオンバトル「HARD Lv.1」を
+すべてクリアしてパシオ殿堂入りするか
+購入から[Digit:2digits ]日後に受け取り可能
+[shop/shop_medal_086] いずれかの地方のチャンピオンバトル「HARD Lv.1」で
+タイプに応じたピースを埋めてエンブレムを完成させるか
+購入から[Digit:2digits ]日後に受け取り可能
+[shop/shop_medal_087] ＷＰＭ編の[Name:QuestGroupTitle ]「NORMAL」をクリアするか
+購入から[Digit:2digits ]日後に受け取り可能
+[shop/shop_medal_088] ストーリーパック
+[shop/shop_medal_089] チャンピオンパック
+[shop/shop_medal_090] SP報酬
+[shop/shop_medal_091] ストーリーパックを購入すると解放されます
+ストーリーパックはパック購入ボタンから購入できます
+[shop/shop_medal_092] チャンピオンパックを購入すると解放されます
+チャンピオンパックはパック購入ボタンから購入できます
+[shop/shop_medal_093] ダイヤ所持数が上限を超えるため
+受け取れません
+
+ダイヤを減らしてから
+受け取ってください
+
+※ダイヤ(有償分)の所持上限は
+[Digit:5digits ]個です
 [shop/shop_itemexchange_001] どうぐ交換
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -41194,8 +43329,12 @@ STEPによってはプレゼントが設定されている場合があります�
 ※シーズン限定バディーズとはこのシーズン限定バディーズサーチの期間中に出現するバディーズです。
 ※シーズン限定バディーズは今後シーズン限定バディーズサーチ以外でも出現する可能性があります。
 ※提供割合にてポケモン名の後ろに(*)が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます。
+[shop/scout_160] チケット専用　選べる１０連Ｂサーチ
+[shop/scout_161] 3組のうちからさらに選んで1組獲得！
 [shop/scout_162] BGM
 解放条件
+[shop/scout_179] ※提供割合にてポケモン名の後ろに（*）が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます
+※バディーズはバディーズサーチ実行後に選ぶことができます
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -41282,9 +43421,17 @@ shop_ko.lsd
 [shop/shop_common_019] 보유
 [shop/shop_common_020] 구입처리를 정상적으로 완료하였습니다
 데이터 반영을 위해 타이틀로 돌아갑니다
+[shop/shop_common_021] 팩을 구입하겠습니까?
+[shop/shop_common_022] 해당 팩을 구입한 단말기와 다른
+OS(iOS 또는 Android 등)의
+단말기로 데이터를 이어받은 경우에는
+조건 달성에 따라 유료 다이아를
+받을 수 없습니다
+구입한 단말기와 같은 OS 단말기로
+다시 데이터 이어받기를 진행하여 주십시오
 [shop/shop_medal_001] 다이아 구입
 [shop/shop_medal_002] 특별 할인
-[shop/shop_medal_003] 닫는다
+[shop/shop_medal_003] 닫기
 [shop/shop_medal_004] OK
 [shop/shop_medal_005] 보유 수량 에러
 [shop/shop_medal_006] 다이아 보유 수량이 상한을 넘어
@@ -41386,6 +43533,41 @@ ON으로 바꿔주십시오
 [shop/shop_medal_070] 매일 횟수가 갱신됩니다
 [shop/shop_medal_071] 이벤트 등에 맞춰 판매되는 기간 한정 상품도 체크해보자!
 [shop/shop_medal_073] ※다이아 이외에 보유 상한을 넘은 도구는 파기됩니다
+[shop/shop_medal_074] 스토리 팩
+[shop/shop_medal_075] 유료 다이아를 합계 13,000개 획득 가능!
+[shop/shop_medal_076] 스페셜 클리어 보상 메인 스토리의
+SP 보상이 해방되는 유용한 팩!
+[shop/shop_medal_077] 구입 완료
+[shop/shop_medal_078] 챔피언 팩
+[shop/shop_medal_079] 유료 다이아를 합계 18,500개 획득 가능!
+[shop/shop_medal_080] 스페셜 클리어 보상 챔피언배틀의
+SP 보상이 해방되는 유용한 팩!
+[shop/shop_medal_081] 스페셜 클리어 보상
+[shop/shop_medal_082] 조건 달성(모두 [Digit:2digits ]회)으로 받기
+[shop/shop_medal_083] 유료 다이아
+[shop/shop_medal_084] 챔피언배틀 "NORMAL"을 모두 클리어하거나
+구입 후 [Digit:2digits ]일 후에 받기 가능
+[shop/shop_medal_085] 어느 한 지방의 챔피언배틀 "HARD Lv.1"을
+모두 클리어하고 파시오 전당등록을 하거나
+구입 후 [Digit:2digits ]일 후에 받기 가능
+[shop/shop_medal_086] 어느 한 지방의 챔피언배틀 "HARD Lv.1"에서
+타입에 따라 피스를 채워서 엠블럼을 완성시키거나
+구입 후 [Digit:2digits ]일 후에 받기 가능
+[shop/shop_medal_087] WPM 편의 [Name:QuestGroupTitle ] "NORMAL"을 클리어하거나
+구입 후 [Digit:2digits ]일 후에 받기 가능
+[shop/shop_medal_088] 스토리 팩
+[shop/shop_medal_089] 챔피언 팩
+[shop/shop_medal_090] SP 보상
+[shop/shop_medal_091] 스토리 팩을 구입하면 해방됩니다
+스토리 팩은 팩 구입 버튼으로 구입할 수 있습니다
+[shop/shop_medal_092] 챔피언 팩을 구입하면 해방됩니다
+챔피언 팩은 팩 구입 버튼으로 구입할 수 있습니다
+[shop/shop_medal_093] 다이아 보유 수량이 상한을 넘어
+더 이상 구입할 수 없습니다
+다이아를 소모한 다음에
+구입하여 주십시오
+※다이아(유료분)의 보유 상한은
+[Digit:5digits ]개입니다
 [shop/shop_itemexchange_001] 도구 교환
 [shop/shop_itemexchange_003] 교환
 [shop/shop_itemexchange_004] 교환
@@ -41442,7 +43624,7 @@ ON으로 바꿔주십시오
 [shop/scout_004] 10연속 버디즈서치
 [shop/scout_005] 1일 1회 할인
 [shop/scout_006] 유료
-[shop/scout_007] 닫는다
+[shop/scout_007] 닫기
 [shop/scout_008] 제공 확률
 [shop/scout_009] [Digit:2digits ]회 한정!
 [shop/scout_012] [Digit:2digits ]회 한정!
@@ -41753,8 +43935,12 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 ※시즌 한정 버디즈는 이후 시즌 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
 ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는
 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
+[shop/scout_160] 티켓 전용 선택 10연속 B서치
+[shop/scout_161] 3 버디즈 중 하나를 선택해서 추가 획득!
 [shop/scout_162] BGM
 해방 조건
+[shop/scout_179] ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다
+※버디즈는 버디즈서치를 실행한 후에 선택할 수 있습니다
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -41839,6 +44025,12 @@ shop_zh-TW.lsd
 [shop/shop_common_020] 已正常完成購買程序
 為將購買內容反應至遊戲內
 即將回到標題畫面
+[shop/shop_common_021] 要購買組合包嗎？
+[shop/shop_common_022] 購買特定組合包後若將資料轉移到
+不同OS（iOS或Android等）的裝置上
+將無法領取達成條件時發放的付費鑽石
+請再次將資料轉移到與購買組合包時
+相同OS的裝置，以便領取鑽石
 [shop/shop_medal_001] 購買鑽石
 [shop/shop_medal_002] 特別折扣
 [shop/shop_medal_003] 關閉
@@ -41937,6 +44129,41 @@ shop_zh-TW.lsd
 [shop/shop_medal_070] 次數會每天更新
 [shop/shop_medal_071] 不要忘了確認配合活動等販賣的期間限定商品！
 [shop/shop_medal_073] ※除鑽石以外，其他超過持有上限的道具將會作廢
+[shop/shop_medal_074] 劇情包
+[shop/shop_medal_075] 可獲得總計13000個付費鑽石！
+[shop/shop_medal_076] 可開放特別過關報酬（主線劇情）裡的
+特別報酬的超值組合包！
+[shop/shop_medal_077] 購買完成
+[shop/shop_medal_078] 冠軍包
+[shop/shop_medal_079] 可獲得總計18500個付費鑽石！
+[shop/shop_medal_080] 可開放特別過關報酬（冠軍對戰）裡的
+特別報酬的超值組合包！
+[shop/shop_medal_081] 特別過關報酬
+[shop/shop_medal_082] 達成條件（共[Digit:2digits ]次）即可領取
+[shop/shop_medal_083] 付費鑽石
+[shop/shop_medal_084] 成功過關冠軍對戰「NORMAL」中的所有對戰
+或購買經過[Digit:2digits ]天後即可領取
+[shop/shop_medal_085] 成功過關任一地區的冠軍對戰
+「HARD Lv.1」中的所有對戰
+來登入帕希歐名人堂
+或購買經過[Digit:2digits ]天後即可領取
+[shop/shop_medal_086] 在任一地區的冠軍對戰「HARD Lv.1」中
+根據屬性讓勳章結晶填入相應的位置來完成勳章
+或購買經過[Digit:2digits ]天後即可領取
+[shop/shop_medal_087] 成功過關ＷＰＭ篇的[Name:QuestGroupTitle ]「NORMAL」
+或購買經過[Digit:2digits ]天後即可領取
+[shop/shop_medal_088] 劇情包
+[shop/shop_medal_089] 冠軍包
+[shop/shop_medal_090] 特別報酬
+[shop/shop_medal_091] 購買劇情包即可開放
+劇情包可點選組合包的按鈕來購買
+[shop/shop_medal_092] 購買冠軍包即可開放
+冠軍包可點選組合包的按鈕來購買
+[shop/shop_medal_093] 領取後將會使鑽石個數超過持有上限
+因此無法領取
+請減少鑽石數量後再重新領取
+※付費鑽石的持有上限為
+[Digit:5digits ]個
 [shop/shop_itemexchange_001] 交換道具
 [shop/shop_itemexchange_003] 交換
 [shop/shop_itemexchange_004] 交換
@@ -42239,8 +44466,12 @@ shop_zh-TW.lsd
 ※季節限定拍組是會在本次季節限定拍組搜尋期間出現的拍組
 ※季節限定拍組今後也有可能在季節限定拍組搜尋以外出現
 ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
+[shop/scout_160] 票券專用　自選連續１０次拍組搜尋
+[shop/scout_161] 可從3對拍組中選擇1對來獲得！
 [shop/scout_162] BGM
 解鎖條件
+[shop/scout_179] ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
+※可於拍組搜尋後自選1對拍組
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選

@@ -57,6 +57,7 @@
     "320": "Meteo fisso",
     "323": "Campo Erboso",
     "324": "Campo Psichico",
+    "332": "Zona Volante",
     "335": "Zona Spettro",
     "336": "Zona Drago",
     "337": "Zona Buio",
@@ -129,7 +130,8 @@
     "5066": "Zona Drago",
     "5067": "Zona Buio",
     "5068": "Zona Acciaio",
-    "9014": "Su di giri",
+    "5069": "Zona Volante",
+    "9014": "Tensione",
     "9017": "Gelofaccia",
     "9018": "Liquefaccia",
 }

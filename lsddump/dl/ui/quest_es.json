@@ -18,7 +18,7 @@
     "quest/quest_result_032": "Botín especial",
     "quest/dialog_001": "Exploración",
     "quest/dialog_002": "¿Avanzas a la siguiente zona?",
-    "quest/dialog_003": "¿Quieres seleccionar de manera\nautomática la formación del equipo,\nlos accesorios y la posición de los\ncompis en función de los tipos\nrecomendados?",
+    "quest/dialog_003": "¿Quieres seleccionar de manera\nautomática la formación del equipo,\nlos accesorios y el orden de ataque\nen función de los tipos recomendados?",
     "quest/dialog_004": "¿Quieres sobrescribir el equipo de abajo con\nel equipo recomendado?",
     "quest/cutin_001": "¡Adelante!",
 }

@@ -57,6 +57,7 @@
     "320": "Bloqueo cambio\natmosférico",
     "323": "Campo de hierba",
     "324": "Campo psíquico",
+    "332": "Zona Voladora",
     "335": "Zona Fantasma",
     "336": "Zona Dragón",
     "337": "Zona Siniestra",
@@ -129,7 +130,8 @@
     "5066": "Zona Dragón",
     "5067": "Zona Siniestra",
     "5068": "Zona Acero",
-    "9014": "Lleno de\ndeterminación",
+    "5069": "Zona Voladora",
+    "9014": "Determinación",
     "9017": "Cara de Hielo",
     "9018": "Cara Deshielo",
 }

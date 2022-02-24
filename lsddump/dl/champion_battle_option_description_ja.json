@@ -4,7 +4,7 @@
     "champion_battle_option_description_2120_03": "バトルの開始時に相手全体の場は継続時間が永続の物理ダメージ軽減状態になる",
     "champion_battle_option_description_2120_04": "バトルの開始時に相手全体の場は継続時間が永続の特殊ダメージ軽減状態になる",
     "champion_battle_option_description_2120_05": "バトルの開始時に相手全体の場は継続時間が永続の急所防御状態になる",
-    "champion_battle_option_description_2120_06": "相手がバディーズわざを使ったあとの能力上昇の効果が[Digit:6digits ]％あがる",
+    "champion_battle_option_description_2120_06": "相手のボルテージ上昇時の効果が[Digit:6digits ]％あがる",
     "champion_battle_option_description_2120_07": "相手のバディーズわざ発動可能状態までのカウントの上限値が[Digit:6digits ]減る",
     "champion_battle_option_description_2120_12": "自分のわざゲージの上限が[Digit:6digits ]減る",
     "champion_battle_option_description_2120_13": "バトルの開始時に味方全員のＨＰが最大値の[Digit:6digits ]％減る",

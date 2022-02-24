@@ -4,7 +4,7 @@
     "champion_battle_option_description_2120_03": "배틀 시작 시 상대 전원의 필드는 별도의 유지 시간 없이\n영구 지속되는 물리데미지경감 상태가 된다",
     "champion_battle_option_description_2120_04": "배틀 시작 시 상대 전원의 필드는 별도의 유지 시간 없이\n영구 지속되는 특수데미지경감 상태가 된다",
     "champion_battle_option_description_2120_05": "배틀 시작 시 상대 전원의 필드는 별도의 유지 시간 없이\n영구 지속되는 급소방어 상태가 된다",
-    "champion_battle_option_description_2120_06": "상대가 버디즈기술을 사용한 뒤에 능력이 오르는 효과가\n[Digit:6digits ]% 오른다",
+    "champion_battle_option_description_2120_06": "상대의 볼티지 상승 시 효과가 [Digit:6digits ]% 오른다",
     "champion_battle_option_description_2120_07": "상대의 버디즈기술 발동 가능 상태가 되기까지의\n카운트 상한치가 [Digit:6digits ] 줄어든다",
     "champion_battle_option_description_2120_12": "자신의 기술게이지 상한이 [Digit:6digits ] 줄어든다",
     "champion_battle_option_description_2120_13": "배틀 시작 시 같은 편 전원의 HP가\n최대치의 [Digit:6digits ]% 줄어든다",

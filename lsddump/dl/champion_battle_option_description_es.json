@@ -4,7 +4,7 @@
     "champion_battle_option_description_2120_03": "Se mitiga de forma permanente el daño que el\nbando rival recibe de ataques físicos al comienzo\ndel combate.",
     "champion_battle_option_description_2120_04": "Se mitiga de forma permanente el daño que el\nbando rival recibe de ataques especiales al\ncomienzo del combate.",
     "champion_battle_option_description_2120_05": "Se activa de forma permanente el bloqueo de\ncríticos en el bando rival al comienzo del\ncombate.",
-    "champion_battle_option_description_2120_06": "Se aumentan en un [Digit:6digits ]% los efectos de los\nmovimientos compi rivales que aumentan\ncaracterísticas.",
+    "champion_battle_option_description_2120_06": "Cuando la determinación del bando rival\naumenta, el efecto de esta es un [Digit:6digits ]% mayor.",
     "champion_battle_option_description_2120_07": "Se reduce en [Digit:6digits ] el máximo del contador de\nmovimientos compi del bando rival.",
     "champion_battle_option_description_2120_12": "Se reduce en [Digit:6digits ] el máximo de la barra de\nmovimientos del bando del usuario.",
     "champion_battle_option_description_2120_13": "Se reducen en un [Digit:6digits ]% los PS máximos del\nbando del usuario al comienzo del combate.",

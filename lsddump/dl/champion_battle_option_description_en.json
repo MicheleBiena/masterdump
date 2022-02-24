@@ -4,7 +4,7 @@
     "champion_battle_option_description_2120_03": "At the start of battle, the opponents’ field of play\ngains permanent physical damage reduction.",
     "champion_battle_option_description_2120_04": "At the start of battle, the opponents’ field of play\ngains permanent special damage reduction.",
     "champion_battle_option_description_2120_05": "At the start of battle, the opponents’ field of play\ngains permanent critical-hit defense.",
-    "champion_battle_option_description_2120_06": "Increases the effectiveness of the stat boosts that\nall opponents receive after an opponent uses a\nsync move by [Digit:6digits ]%.",
+    "champion_battle_option_description_2120_06": "Increases the effectiveness of sync buffs that\nopponents receive by [Digit:6digits ]%.",
     "champion_battle_option_description_2120_07": "The total number of moves opponents need to\nuse before they can unleash a sync move is\nreduced by [Digit:6digits ].",
     "champion_battle_option_description_2120_12": "Reduces allied sync pairs’ move gauge maximum\nby [Digit:6digits ].",
     "champion_battle_option_description_2120_13": "At the start of battle, reduces the HP of all allied\nsync pairs by [Digit:6digits ]% of their maximum HP.",
