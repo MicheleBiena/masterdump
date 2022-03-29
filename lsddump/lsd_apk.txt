@@ -2843,6 +2843,7 @@ vollkommenen Geist
 [quest_group_title_10126410000] Maike (Jubiläum)
 [quest_group_title_10016410000] Géraldine (Jubiläum)
 [quest_group_title_10257400000] Roy (Jubiläum)
+[quest_group_title_10130100000] MaMo-Serena
 [quest_title_1030402000602010] Neue Freundschaften
 [quest_title_1030402000602110] Setze Psycho-Attacken ein! 1
 [quest_title_1030402000602120] Setze Psycho-Attacken ein! 2
@@ -2899,9 +2900,31 @@ vollkommenen Geist
 [quest_title_1030440200204010] Kampf voller Dankbarkeit 1
 [quest_title_1030440200205010] Kampf voller Dankbarkeit 2
 [quest_title_1030440200206010] Kampf voller Dankbarkeit 3
+[quest_title_1030402500601010] Professor Platans Zweifel
+[quest_title_1030402500601020] Drei Legenden
+[quest_title_1030402500601110] Vs. Team Break 1
+[quest_title_1030402500601030] Auf der Suche nach
+Zygarde-Zellen
+[quest_title_1030402500601120] Vs. Team Break 2
+[quest_title_1030402500601040] Eine hilfreiche Methode
+[quest_title_1030402500601130] Vs. Team Break 3
+[quest_title_1030402500601050] Seite an Seite
+[quest_title_1030402500601140] Vs. Team Break 4
+[quest_title_1030402500601150] Täglicher schwerer Kampf
+[quest_title_1030402500601160] Herausforderungskampf 1
+[quest_title_1030402500601170] Herausforderungskampf 2
+[quest_title_1030402500601060] Beschützer des Ökosystems
+[quest_title_1030402500602110] Kalos-Kameraden 1
+[quest_title_1030402500602120] Kalos-Kameraden 2
+[quest_title_1030440250101010] Vs. Silvana 1
+[quest_title_1030440250102010] Vs. Silvana 2
+[quest_title_1030440250103010] Vs. Silvana 3
+[quest_title_1030440250104010] Vs. Silvana 4
+[quest_title_1030440250105010] Täglicher Bonus-Kampf
 [quest_title_1030220126410000] Ein Tag mit Maike
 [quest_title_1030220016410000] Ein Tag mit Géraldine
 [quest_title_1030220257400000] Ein Tag mit Roy
+[quest_title_1030220130100000] Ein Tag mit MaMo-Serena
 [quest_title_1030440100101010] Der schwierige Weg zum
 Sieg
 [quest_title_1030440100103010] Rollen und Reihenfolgen 1
@@ -2932,6 +2955,75 @@ Spezial-Verteidigung 2
 [quest_title_1030440100102011] Das Gefährtensteinbrett ist
 der Schlüssel zum Erfolg!
 [quest_title_1030402000603090] Vs. Drachen-Gefährten
+[quest_group_title_10118410000] Lilly (Kostüm)
+[quest_group_title_10259400000] Sania (Kostüm)
+[quest_group_title_10108400000] Hin (Kostüm)
+[quest_group_title_10109400000] Her (Kostüm)
+[quest_title_1030403000606010] Rat ist gefragt
+[quest_title_1030403000606030] Vs. Trainer aus Passio 1
+[quest_title_1030403000606040] Vs. Trainer aus Passio 2
+[quest_title_1030403000606050] Vs. Trainer aus Passio 3
+[quest_title_1030403000606060] Vs. Trainer aus Passio 4
+[quest_title_1030403000606070] Täglicher schwerer Kampf
+[quest_title_1030403000606020] Das Geheimnis der Sportler
+[quest_title_1030440300101010] Vs. Trainer aus Passio 1
+[quest_title_1030440300102010] Vs. Trainer aus Passio 2
+[quest_title_1030440300103010] Vs. Trainer aus Passio 3
+[quest_title_1030440300104010] Vs. Trainer aus Passio 4
+[quest_title_1030403000601010] Ein rätselhaftes Willkommen
+[quest_title_1030403000601020] Das Rätsel der Drillinge
+[quest_title_1030403000601030] Das Geheimnis der
+Gastfreundschaft
+[quest_title_1030403000601040] Wo ist Mortipot?
+[quest_title_1030403000601050] Das einzig wahre Mortipot
+[quest_title_1030403000601060] Herausforderungskampf:
+Colin 1
+[quest_title_1030403000601070] Herausforderungskampf:
+Colin 2
+[quest_title_1030403000601080] Herausforderungskampf:
+Benny 1
+[quest_title_1030403000601090] Herausforderungskampf:
+Benny 2
+[quest_title_1030403000602010] Lilly geht einkaufen
+[quest_title_1030403000602040] Vs. Trainer aus Passio 1
+[quest_title_1030403000602050] Vs. Trainer aus Passio 2
+[quest_title_1030403000602060] Vs. Trainer aus Passio 3
+[quest_title_1030403000602070] Vs. Trainer aus Passio 4
+[quest_title_1030403000602080] Täglicher schwerer Kampf
+[quest_title_1030403000602020] Lang und elegant
+[quest_title_1030403000602090] Löse das Rätsel von Wassili!
+[quest_title_1030403000602030] Unverschämt elegant
+[quest_title_1030403000603010] Irgendetwas fehlt noch...
+[quest_title_1030403000603040] Vs. Trainer aus Passio 1
+[quest_title_1030403000603050] Vs. Trainer aus Passio 2
+[quest_title_1030403000603060] Vs. Trainer aus Passio 3
+[quest_title_1030403000603070] Vs. Trainer aus Passio 4
+[quest_title_1030403000603080] Täglicher schwerer Kampf
+[quest_title_1030403000603020] Die perfekte Tasse Tee
+[quest_title_1030403000603090] Löse das Rätsel von Kate!
+[quest_title_1030403000603030] Die vierte Zutat
+[quest_title_1030403000604010] Der Weg zum Butler
+[quest_title_1030403000604040] Vs. Trainer aus Passio 1
+[quest_title_1030403000604050] Vs. Trainer aus Passio 2
+[quest_title_1030403000604060] Vs. Trainer aus Passio 3
+[quest_title_1030403000604070] Vs. Trainer aus Passio 4
+[quest_title_1030403000604080] Täglicher schwerer Kampf
+[quest_title_1030403000604020] Eine Frage des Transportes
+[quest_title_1030403000604090] Löse das Rätsel von Perenus!
+[quest_title_1030403000604030] Ein erstklassiger Service
+[quest_title_1030403000605010] Die Talente eines Butlers
+[quest_title_1030403000605040] Vs. Trainer aus Passio 1
+[quest_title_1030403000605050] Vs. Trainer aus Passio 2
+[quest_title_1030403000605060] Vs. Trainer aus Passio 3
+[quest_title_1030403000605070] Vs. Trainer aus Passio 4
+[quest_title_1030403000605080] Täglicher schwerer Kampf
+[quest_title_1030403000605020] Eine besondere Art, sich
+auszudrücken
+[quest_title_1030403000605090] Löse das Rätsel von Nezz!
+[quest_title_1030403000605030] Ein Metromeister und Butler!
+[quest_title_1030110000420200] Die Macht eines Teams
+[quest_title_1030403000601100] Rätselhafter Kampf
+[quest_title_1030440101008011] Vs. MaMo-Rot
 
 ===========
 story_quest_name_en.lsd
@@ -4983,6 +5075,7 @@ story_quest_name_en.lsd
 (Anniversary 2022)
 [quest_group_title_10257400000] Raihan
 (Anniversary 2022)
+[quest_group_title_10130100000] Sygna Suit Serena
 [quest_title_1030402000602010] When We Became Friends
 [quest_title_1030402000602110] Mesmerize with Psychic-Type Moves! Part 1
 [quest_title_1030402000602120] Mesmerize with Psychic-Type Moves! Part 2
@@ -5039,9 +5132,30 @@ story_quest_name_en.lsd
 [quest_title_1030440200204010] Battle with Pals! Part 1
 [quest_title_1030440200205010] Battle with Pals! Part 2
 [quest_title_1030440200206010] Battle with Pals! Part 3
+[quest_title_1030402500601010] Sycamore’s Suspicion
+[quest_title_1030402500601020] The Third Legendary
+[quest_title_1030402500601110] Challenge Team Break: Part 1
+[quest_title_1030402500601030] The Search for Cells
+[quest_title_1030402500601120] Challenge Team Break: Part 2
+[quest_title_1030402500601040] Misguided Methods
+[quest_title_1030402500601130] Challenge Team Break: Part 3
+[quest_title_1030402500601050] Together with You
+[quest_title_1030402500601140] Challenge Team Break: Part 4
+[quest_title_1030402500601150] Daily Extreme Battle 1
+[quest_title_1030402500601160] Battle Challenge! Round 1
+[quest_title_1030402500601170] Battle Challenge! Round 2
+[quest_title_1030402500601060] Guardian of the Ecosystem
+[quest_title_1030402500602110] Kalos Buddies Unite: Part 1
+[quest_title_1030402500602120] Kalos Buddies Unite: Part 2
+[quest_title_1030440250101010] Challenge Gardenia: Part 1
+[quest_title_1030440250102010] Challenge Gardenia: Part 2
+[quest_title_1030440250103010] Challenge Gardenia: Part 3
+[quest_title_1030440250104010] Challenge Gardenia: Part 4
+[quest_title_1030440250105010] Daily Bonus Battle 1
 [quest_title_1030220126410000] A Day with May
 [quest_title_1030220016410000] A Day with Skyla
 [quest_title_1030220257400000] A Day with Raihan
+[quest_title_1030220130100000] A Day with Sygna Suit Serena
 [quest_title_1030440100101010] The Road to Hard Mode
 [quest_title_1030440100103010] Roles and Tactics: Part 1
 [quest_title_1030440101001010] Challenge N
@@ -5068,6 +5182,73 @@ story_quest_name_en.lsd
 [quest_title_1030440100102010] You Did It!
 [quest_title_1030440100102011] Sync Grids Are the Key
 [quest_title_1030402000603090] Challenge the Dragon Types
+[quest_group_title_10118410000] Lillie
+(Special Costume)
+[quest_group_title_10259400000] Sonia
+(Special Costume)
+[quest_group_title_10108400000] Ingo
+(Special Costume)
+[quest_group_title_10109400000] Emmet
+(Special Costume)
+[quest_title_1030403000606010] Fancy Flavor
+[quest_title_1030403000606030] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030403000606040] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030403000606050] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030403000606060] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030403000606070] Daily Extreme Battle 1
+[quest_title_1030403000606020] A Secret between Athletes
+[quest_title_1030440300101010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030440300102010] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030440300103010] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030440300104010] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030403000601010] Let the Tea Party Begin!
+[quest_title_1030403000601020] Trial from a Trio
+[quest_title_1030403000601030] Puzzling Hospitality
+[quest_title_1030403000601040] Friend or Phony
+[quest_title_1030403000601050] The Real Polteageist
+[quest_title_1030403000601060] Cress’s Battle Challenge! Round 1
+[quest_title_1030403000601070] Cress’s Battle Challenge! Round 2
+[quest_title_1030403000601080] Cilan’s Battle Challenge! Round 1
+[quest_title_1030403000601090] Cilan’s Battle Challenge! Round 2
+[quest_title_1030403000602010] A Beauteaful Day for Shopping
+[quest_title_1030403000602040] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030403000602050] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030403000602060] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030403000602070] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030403000602080] Daily Extreme Battle 1
+[quest_title_1030403000602020] Fluttery Fashion
+[quest_title_1030403000602090] Solve Wallace’s Riddle!
+[quest_title_1030403000602030] How’s My Outfit?
+[quest_title_1030403000603010] Something’s Missing...
+[quest_title_1030403000603040] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030403000603050] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030403000603060] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030403000603070] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030403000603080] Daily Extreme Battle 1
+[quest_title_1030403000603020] The Three Necessiteas
+[quest_title_1030403000603090] Solve Nessa’s Riddle!
+[quest_title_1030403000603030] The Fourth Ingredient
+[quest_title_1030403000604010] The Way of the Butler
+[quest_title_1030403000604040] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030403000604050] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030403000604060] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030403000604070] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030403000604080] Daily Extreme Battle 1
+[quest_title_1030403000604020] Pokémon Logistics
+[quest_title_1030403000604090] Solve Darach’s Riddle!
+[quest_title_1030403000604030] Heart of Hospitalitea
+[quest_title_1030403000605010] How to Butler...
+[quest_title_1030403000605040] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030403000605050] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030403000605060] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030403000605070] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030403000605080] Daily Extreme Battle 1
+[quest_title_1030403000605020] Express Yourself
+[quest_title_1030403000605090] Solve Piers’s Riddle!
+[quest_title_1030403000605030] Butler-Subway-Boss Extraordinaire!
+[quest_title_1030110000420200] Justice without Power
+[quest_title_1030403000601100] Riddle Mission Battle
+[quest_title_1030440101008011] Challenge Sygna Suit Red
 
 ===========
 story_quest_name_es.lsd
@@ -7276,6 +7457,7 @@ mundo
 [quest_group_title_10126410000] Aura (Aniversario)
 [quest_group_title_10016410000] Gerania (Aniversario)
 [quest_group_title_10257400000] Roy (Aniversario)
+[quest_group_title_10130100000] Serena (Traje S)
 [quest_title_1030402000602010] El día que comenzó nuestra
 amistad
 [quest_title_1030402000602110] ¡Al ataque con movimientos
@@ -7350,9 +7532,33 @@ agradecimiento!
 agradecimiento! (2)
 [quest_title_1030440200206010] ¡Un combate de
 agradecimiento! (3)
+[quest_title_1030402500601010] Las dudas del Profesor Ciprés
+[quest_title_1030402500601020] La tercera leyenda
+[quest_title_1030402500601110] VS. Team Break
+[quest_title_1030402500601030] En busca de las Células de
+Zygarde
+[quest_title_1030402500601120] VS. Team Break (2)
+[quest_title_1030402500601040] La mejor manera de reunir
+células
+[quest_title_1030402500601130] VS. Team Break (3)
+[quest_title_1030402500601050] Estaré a tu lado
+[quest_title_1030402500601140] VS. Team Break (4)
+[quest_title_1030402500601150] ¡Un combate difícil al día!
+[quest_title_1030402500601160] ¡Un combate desafiante!
+[quest_title_1030402500601170] ¡Un combate desafiante! (2)
+[quest_title_1030402500601060] El guardián del ecosistema
+[quest_title_1030402500602110] Desafío con compis de Kalos
+[quest_title_1030402500602120] Desafío con compis de
+Kalos (2)
+[quest_title_1030440250101010] VS. Gardenia
+[quest_title_1030440250102010] VS. Gardenia (2)
+[quest_title_1030440250103010] VS. Gardenia (3)
+[quest_title_1030440250104010] VS. Gardenia (4)
+[quest_title_1030440250105010] ¡Un combate extra al día!
 [quest_title_1030220126410000] Un día con Aura
 [quest_title_1030220016410000] Un día con Gerania
 [quest_title_1030220257400000] Un día con Roy
+[quest_title_1030220130100000] Un día con Serena (Traje S)
 [quest_title_1030440100101010] El camino hacia lo más alto
 en modo difícil
 [quest_title_1030440100103010] Las funciones y el orden de
@@ -7388,6 +7594,82 @@ Especial (2)
 [quest_title_1030440100102010] ¡Enhorabuena, has aprobado!
 [quest_title_1030440100102011] El Tablero de la Piedra Compi
 [quest_title_1030402000603090] VS. compis de tipo Dragón
+[quest_group_title_10118410000] Lylia (Especial)
+[quest_group_title_10259400000] Sonia (Especial)
+[quest_group_title_10108400000] Fero (Especial)
+[quest_group_title_10109400000] Caril (Especial)
+[quest_title_1030403000606010] Nuestra receta especial
+[quest_title_1030403000606030] VS. Entrenadores de Passio
+[quest_title_1030403000606040] VS. Entrenadores de Passio (2)
+[quest_title_1030403000606050] VS. Entrenadores de Passio (3)
+[quest_title_1030403000606060] VS. Entrenadores de Passio (4)
+[quest_title_1030403000606070] ¡Un combate difícil al día!
+[quest_title_1030403000606020] El secreto de los atletas
+[quest_title_1030440300101010] VS. Entrenadores de Passio
+[quest_title_1030440300102010] VS. Entrenadores de Passio (2)
+[quest_title_1030440300103010] VS. Entrenadores de Passio (3)
+[quest_title_1030440300104010] VS. Entrenadores de Passio (4)
+[quest_title_1030403000601010] ¡Es la hora del té!
+[quest_title_1030403000601020] Desafío Triangular
+[quest_title_1030403000601030] Rompecabezas a todo tren
+[quest_title_1030403000601040] ¿Cuál es mi Polteageist?
+[quest_title_1030403000601050] El Polteageist más genuino
+[quest_title_1030403000601060] ¡Un combate desafiante
+contra Maíz!
+[quest_title_1030403000601070] ¡Un combate desafiante
+contra Maíz! (2)
+[quest_title_1030403000601080] ¡Un combate desafiante
+contra Millo!
+[quest_title_1030403000601090] ¡Un combate desafiante
+contra Millo! (2)
+[quest_title_1030403000602010] Compras espléndidas
+[quest_title_1030403000602040] VS. Entrenadores de Passio
+[quest_title_1030403000602050] VS. Entrenadores de Passio (2)
+[quest_title_1030403000602060] VS. Entrenadores de Passio (3)
+[quest_title_1030403000602070] VS. Entrenadores de Passio (4)
+[quest_title_1030403000602080] ¡Un combate difícil al día!
+[quest_title_1030403000602020] Una prenda serpenteante
+a la par que elegante
+[quest_title_1030403000602090] ¡Resuelve el rompecabezas
+de Plubio!
+[quest_title_1030403000602030] ¿Y mi atuendo...?
+[quest_title_1030403000603010] Hay algo que se me olvida
+[quest_title_1030403000603040] VS. Entrenadores de Passio
+[quest_title_1030403000603050] VS. Entrenadores de Passio (2)
+[quest_title_1030403000603060] VS. Entrenadores de Passio (3)
+[quest_title_1030403000603070] VS. Entrenadores de Passio (4)
+[quest_title_1030403000603080] ¡Un combate difícil al día!
+[quest_title_1030403000603020] Los tres ingredientes de un té
+sin igual
+[quest_title_1030403000603090] ¡Resuelve el rompecabezas
+de Cathy!
+[quest_title_1030403000603030] El cuarto ingrediente
+[quest_title_1030403000604010] Enséñame a ser mayordomo
+[quest_title_1030403000604040] VS. Entrenadores de Passio
+[quest_title_1030403000604050] VS. Entrenadores de Passio (2)
+[quest_title_1030403000604060] VS. Entrenadores de Passio (3)
+[quest_title_1030403000604070] VS. Entrenadores de Passio (4)
+[quest_title_1030403000604080] ¡Un combate difícil al día!
+[quest_title_1030403000604020] ¿Qué tipo de Pokémon usar
+para transportar materiales?
+[quest_title_1030403000604090] ¡Resuelve el rompecabezas
+de Kokuran!
+[quest_title_1030403000604030] La cualidad más importante
+de un mayordomo
+[quest_title_1030403000605010] ¿Qué puedo ofrecer como
+mayordomo?
+[quest_title_1030403000605040] VS. Entrenadores de Passio
+[quest_title_1030403000605050] VS. Entrenadores de Passio (2)
+[quest_title_1030403000605060] VS. Entrenadores de Passio (3)
+[quest_title_1030403000605070] VS. Entrenadores de Passio (4)
+[quest_title_1030403000605080] ¡Un combate difícil al día!
+[quest_title_1030403000605020] Expresa lo que sientes
+[quest_title_1030403000605090] ¡Resuelve el rompecabezas
+de Nerio!
+[quest_title_1030403000605030] Jefe Metro y mayordomo
+[quest_title_1030110000420200] No hay justicia sin poder
+[quest_title_1030403000601100] Combate con rompecabezas
+[quest_title_1030440101008011] VS. Rojo (Traje S)
 
 ===========
 story_quest_name_fr.lsd
@@ -9747,6 +10029,7 @@ Dresseurs de Passio IV
 (Anniversaire 2022)
 [quest_group_title_10257400000] Roy
 (Anniversaire 2022)
+[quest_group_title_10130100000] Serena (Look Ultime)
 [quest_title_1030402000602010] Le jour où nous sommes
 devenus amis
 [quest_title_1030402000602110] Attaquez avec des capacités
@@ -9821,9 +10104,37 @@ Dresseurs de Passio IV
 de gratitude II
 [quest_title_1030440200206010] Un combat plein
 de gratitude III
+[quest_title_1030402500601010] Les doutes du Professeur
+Platane
+[quest_title_1030402500601020] Le troisième Pokémon
+légendaire
+[quest_title_1030402500601110] Combat : Team Break
+[quest_title_1030402500601030] La recherche des Cellules
+de Zygarde
+[quest_title_1030402500601120] Combat : Team Break II
+[quest_title_1030402500601040] La meilleure des méthodes
+pour récolter des cellules
+[quest_title_1030402500601130] Combat : Team Break III
+[quest_title_1030402500601050] Côte à côte
+[quest_title_1030402500601140] Combat : Team Break IV
+[quest_title_1030402500601150] Combat difficile limité
+à une fois par jour !
+[quest_title_1030402500601160] Combat difficile
+[quest_title_1030402500601170] Combat difficile II
+[quest_title_1030402500601060] Le gardien de l'écosystème
+[quest_title_1030402500602110] Compagnons de Kalos
+[quest_title_1030402500602120] Compagnons de Kalos II
+[quest_title_1030440250101010] Combat : Flo
+[quest_title_1030440250102010] Combat : Flo II
+[quest_title_1030440250103010] Combat : Flo III
+[quest_title_1030440250104010] Combat : Flo IV
+[quest_title_1030440250105010] Combat bonus limité
+à une fois par jour !
 [quest_title_1030220126410000] Une journée avec Flora
 [quest_title_1030220016410000] Une journée avec Carolina
 [quest_title_1030220257400000] Une journée avec Roy
+[quest_title_1030220130100000] Une journée avec Serena
+(Look Ultime)
 [quest_title_1030440100101010] Visons toujours plus haut :
 la difficulté « Difficile » !
 [quest_title_1030440100103010] Rôles et positions
@@ -9855,6 +10166,100 @@ Spéciale II
 Le Plateau Duo-Gemme !
 [quest_title_1030402000603090] Combat : Duos
 de type Dragon
+[quest_group_title_10118410000] Lilie (Look Spécial)
+[quest_group_title_10259400000] Sonya (Look Spécial)
+[quest_group_title_10108400000] Chammal (Look Spécial)
+[quest_group_title_10109400000] Chamsin (Look Spécial)
+[quest_title_1030403000606010] À la recherche de douceurs
+raffinées
+[quest_title_1030403000606030] Combat : Dresseurs de Passio
+[quest_title_1030403000606040] Combat :
+Dresseurs de Passio II
+[quest_title_1030403000606050] Combat :
+Dresseurs de Passio III
+[quest_title_1030403000606060] Combat :
+Dresseurs de Passio IV
+[quest_title_1030403000606070] Combat difficile limité
+à une fois par jour !
+[quest_title_1030403000606020] Le secret des athlètes
+[quest_title_1030440300101010] Combat : Dresseurs de Passio
+[quest_title_1030440300102010] Combat :
+Dresseurs de Passio II
+[quest_title_1030440300103010] Combat :
+Dresseurs de Passio III
+[quest_title_1030440300104010] Combat :
+Dresseurs de Passio IV
+[quest_title_1030403000601010] Que la réception commence !
+[quest_title_1030403000601020] Le défi des trois frères
+[quest_title_1030403000601030] Énigmatique hospitalithé
+[quest_title_1030403000601040] Mais où est Polthégeist ?
+[quest_title_1030403000601050] Le véritable Polthégeist
+[quest_title_1030403000601060] Combat difficile : Noa
+[quest_title_1030403000601070] Combat difficile : Noa II
+[quest_title_1030403000601080] Combat difficile : Rachid
+[quest_title_1030403000601090] Combat difficile : Rachid II
+[quest_title_1030403000602010] Une magnifique acquisition
+[quest_title_1030403000602040] Combat : Dresseurs de Passio
+[quest_title_1030403000602050] Combat :
+Dresseurs de Passio II
+[quest_title_1030403000602060] Combat :
+Dresseurs de Passio III
+[quest_title_1030403000602070] Combat :
+Dresseurs de Passio IV
+[quest_title_1030403000602080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030403000602020] Un accessoire indispensable
+[quest_title_1030403000602090] Résolvez l'énigme de Marc !
+[quest_title_1030403000602030] Conseil vestimentaire
+[quest_title_1030403000603010] Il manque quelque chose...
+[quest_title_1030403000603040] Combat : Dresseurs de Passio
+[quest_title_1030403000603050] Combat :
+Dresseurs de Passio II
+[quest_title_1030403000603060] Combat :
+Dresseurs de Passio III
+[quest_title_1030403000603070] Combat :
+Dresseurs de Passio IV
+[quest_title_1030403000603080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030403000603020] Les trois éléments
+indispensables
+[quest_title_1030403000603090] Résolvez l'énigme de Donna !
+[quest_title_1030403000603030] Le quatrième élément
+[quest_title_1030403000604010] Les rudiments du rôle
+de valet
+[quest_title_1030403000604040] Combat : Dresseurs de Passio
+[quest_title_1030403000604050] Combat :
+Dresseurs de Passio II
+[quest_title_1030403000604060] Combat :
+Dresseurs de Passio III
+[quest_title_1030403000604070] Combat :
+Dresseurs de Passio IV
+[quest_title_1030403000604080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030403000604020] Logistique Pokémon
+[quest_title_1030403000604090] Résolvez l'énigme
+de Parsley !
+[quest_title_1030403000604030] La qualité essentielle
+d'un valet
+[quest_title_1030403000605010] Comment être un bon valet ?
+[quest_title_1030403000605040] Combat : Dresseurs de Passio
+[quest_title_1030403000605050] Combat :
+Dresseurs de Passio II
+[quest_title_1030403000605060] Combat :
+Dresseurs de Passio III
+[quest_title_1030403000605070] Combat :
+Dresseurs de Passio IV
+[quest_title_1030403000605080] Combat difficile limité
+à une fois par jour !
+[quest_title_1030403000605020] Écoute ton cœur,
+exprime-toi !
+[quest_title_1030403000605090] Résolvez l'énigme
+de Peterson !
+[quest_title_1030403000605030] Chef du Métro et valet,
+à votre service !
+[quest_title_1030110000420200] Justice sans pouvoir
+[quest_title_1030403000601100] Combat de mission à énigme
+[quest_title_1030440101008011] Combat : Red (Look Ultime)
 
 ===========
 story_quest_name_it.lsd
@@ -11866,6 +12271,7 @@ story_quest_name_it.lsd
 [quest_group_title_10126410000] Vera (2,5 anni)
 [quest_group_title_10016410000] Anemone (2,5 anni)
 [quest_group_title_10257400000] Laburno (2,5 anni)
+[quest_group_title_10130100000] Serena Costumax
 [quest_title_1030402000602010] Il giorno in cui siamo diventati amici
 [quest_title_1030402000602110] Attacca con mosse di tipo Psico!
 [quest_title_1030402000602120] Attacca con mosse di tipo Psico! 2
@@ -11922,9 +12328,30 @@ story_quest_name_it.lsd
 [quest_title_1030440200204010] Una lotta piena di gratitudine
 [quest_title_1030440200205010] Una lotta piena di gratitudine 2
 [quest_title_1030440200206010] Una lotta piena di gratitudine 3
+[quest_title_1030402500601010] I sospetti del Professor Platan
+[quest_title_1030402500601020] Il terzo Pokémon leggendario
+[quest_title_1030402500601110] VS Team Break
+[quest_title_1030402500601030] Alla ricerca delle cellule di Zygarde
+[quest_title_1030402500601120] VS Team Break 2
+[quest_title_1030402500601040] Il modo migliore per raccogliere le cellule
+[quest_title_1030402500601130] VS Team Break 3
+[quest_title_1030402500601050] Fianco a fianco
+[quest_title_1030402500601140] VS Team Break 4
+[quest_title_1030402500601150] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030402500601160] Sfida ad alta difficoltà
+[quest_title_1030402500601170] Sfida ad alta difficoltà 2
+[quest_title_1030402500601060] I protettori dell'ecosistema
+[quest_title_1030402500602110] Insieme agli amici di Kalos
+[quest_title_1030402500602120] Insieme agli amici di Kalos 2
+[quest_title_1030440250101010] VS Gardenia
+[quest_title_1030440250102010] VS Gardenia 2
+[quest_title_1030440250103010] VS Gardenia 3
+[quest_title_1030440250104010] VS Gardenia 4
+[quest_title_1030440250105010] Lotta bonus (una al giorno)!
 [quest_title_1030220126410000] Un giorno con Vera (2,5 anni)
 [quest_title_1030220016410000] Un giorno con Anemone (2,5 anni)
 [quest_title_1030220257400000] Un giorno con Laburno (2,5 anni)
+[quest_title_1030220130100000] Un giorno con Serena Costumax
 [quest_title_1030440100101010] La strada verso la modalità difficile
 [quest_title_1030440100103010] Ruoli e priorità 1
 [quest_title_1030440101001010] VS N
@@ -11951,6 +12378,69 @@ story_quest_name_it.lsd
 [quest_title_1030440100102010] Congratulazioni!
 [quest_title_1030440100102011] Il segreto è la Teca Pietra Unità
 [quest_title_1030402000603090] VS Unità di tipo Drago
+[quest_group_title_10118410000] Lylia (speciale)
+[quest_group_title_10259400000] Sonia (speciale)
+[quest_group_title_10108400000] Andy (speciale)
+[quest_group_title_10109400000] Torn (speciale)
+[quest_title_1030403000606010] Il dolce speciale delle signorine perbene
+[quest_title_1030403000606030] VS Allenatori di Pasio
+[quest_title_1030403000606040] VS Allenatori di Pasio 2
+[quest_title_1030403000606050] VS Allenatori di Pasio 3
+[quest_title_1030403000606060] VS Allenatori di Pasio 4
+[quest_title_1030403000606070] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030403000606020] Il segreto degli atleti
+[quest_title_1030440300101010] VS Allenatori di Pasio
+[quest_title_1030440300102010] VS Allenatori di Pasio 2
+[quest_title_1030440300103010] VS Allenatori di Pasio 3
+[quest_title_1030440300104010] VS Allenatori di Pasio 4
+[quest_title_1030403000601010] Inizia il tè enigmatico!
+[quest_title_1030403000601020] La sfida dei tre fratelli
+[quest_title_1030403000601030] Ospitalità enigmatica
+[quest_title_1030403000601040] Dov'è Polteageist?
+[quest_title_1030403000601050] Il Polteageist autentico
+[quest_title_1030403000601060] Sfida ad alta difficoltà: Maisello
+[quest_title_1030403000601070] Sfida ad alta difficoltà: Maisello 2
+[quest_title_1030403000601080] Sfida ad alta difficoltà: Spighetto
+[quest_title_1030403000601090] Sfida ad alta difficoltà: Spighetto 2
+[quest_title_1030403000602010] Acquisti eleganti
+[quest_title_1030403000602040] VS Allenatori di Pasio 1
+[quest_title_1030403000602050] VS Allenatori di Pasio 2
+[quest_title_1030403000602060] VS Allenatori di Pasio 3
+[quest_title_1030403000602070] VS Allenatori di Pasio 4
+[quest_title_1030403000602080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030403000602020] Un accessorio che sventola dal collo
+[quest_title_1030403000602090] Risolvi l'indovinello di Adriano!
+[quest_title_1030403000602030] Com'è il mio look...?
+[quest_title_1030403000603010] Manca qualcosa...
+[quest_title_1030403000603040] VS Allenatori di Pasio 1
+[quest_title_1030403000603050] VS Allenatori di Pasio 2
+[quest_title_1030403000603060] VS Allenatori di Pasio 3
+[quest_title_1030403000603070] VS Allenatori di Pasio 4
+[quest_title_1030403000603080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030403000603020] I tre ingredienti per il migliore dei tè
+[quest_title_1030403000603090] Risolvi l'indovinello di Azzurra!
+[quest_title_1030403000603030] Il quarto ingrediente fondamentale
+[quest_title_1030403000604010] Le basi per diventare un maggiordomo
+[quest_title_1030403000604040] VS Allenatori di Pasio 1
+[quest_title_1030403000604050] VS Allenatori di Pasio 2
+[quest_title_1030403000604060] VS Allenatori di Pasio 3
+[quest_title_1030403000604070] VS Allenatori di Pasio 4
+[quest_title_1030403000604080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030403000604020] Il miglior Pokémon per il trasporto
+[quest_title_1030403000604090] Risolvi l'indovinello di Paride!
+[quest_title_1030403000604030] Spirito d'ospitalità
+[quest_title_1030403000605010] Come fare il maggiordomo
+[quest_title_1030403000605040] VS Allenatori di Pasio 1
+[quest_title_1030403000605050] VS Allenatori di Pasio 2
+[quest_title_1030403000605060] VS Allenatori di Pasio 3
+[quest_title_1030403000605070] VS Allenatori di Pasio 4
+[quest_title_1030403000605080] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030403000605020] Esprimere i propri talenti in modo creativo
+[quest_title_1030403000605090] Risolvi l'indovinello di Ginepro!
+[quest_title_1030403000605030] Maggiordomo e Capometrò!
+[quest_title_1030110000420200] Giustizia senza forza
+[quest_title_1030403000601100] Lotta per la missione enigmatica!
+[quest_title_1030440101008011] VS Rosso Costumax
 
 ===========
 story_quest_name_ja.lsd
@@ -14003,6 +14493,7 @@ story_quest_name_ja.lsd
 （２２アニバーサリー）
 [quest_group_title_10257400000] キバナ
 （２２アニバーサリー）
+[quest_group_title_10130100000] マジコスセレナ
 [quest_title_1030402000602010] ともだちになった日
 [quest_title_1030402000602110] エスパーのわざで攻めよう！
 [quest_title_1030402000602120] エスパーのわざで攻めよう！２
@@ -14059,9 +14550,30 @@ story_quest_name_ja.lsd
 [quest_title_1030440200204010] 感謝を込めて素敵な勝負！１
 [quest_title_1030440200205010] 感謝を込めて素敵な勝負！２
 [quest_title_1030440200206010] 感謝を込めて素敵な勝負！３
+[quest_title_1030402500601010] プラターヌ博士の疑念
+[quest_title_1030402500601020] 三匹目の伝説
+[quest_title_1030402500601110] ＶＳ　ブレイク団
+[quest_title_1030402500601030] ジガルデ・セルを求めて
+[quest_title_1030402500601120] ＶＳ　ブレイク団２
+[quest_title_1030402500601040] セルを集める　さえたやり方
+[quest_title_1030402500601130] ＶＳ　ブレイク団３
+[quest_title_1030402500601050] アナタと共に歩む
+[quest_title_1030402500601140] ＶＳ　ブレイク団４
+[quest_title_1030402500601150] １日１回限定・高難度バトル！
+[quest_title_1030402500601160] チャレンジバトルで勝負！
+[quest_title_1030402500601170] チャレンジバトルで勝負！２
+[quest_title_1030402500601060] 生態系の守護者
+[quest_title_1030402500602110] カロスの仲間と挑戦
+[quest_title_1030402500602120] カロスの仲間と挑戦２
+[quest_title_1030440250101010] ＶＳ　ナタネ
+[quest_title_1030440250102010] ＶＳ　ナタネ２
+[quest_title_1030440250103010] ＶＳ　ナタネ３
+[quest_title_1030440250104010] ＶＳ　ナタネ４
+[quest_title_1030440250105010] １日１回限定・ボーナスバトル！
 [quest_title_1030220126410000] とある日のハルカ
 [quest_title_1030220016410000] とある日のフウロ
 [quest_title_1030220257400000] とある日のキバナ
+[quest_title_1030220130100000] とある日のマジコスセレナ
 [quest_title_1030440100101010] さらなる高み「ＨＡＲＤ」への道
 [quest_title_1030440100103010] 「ロール」と「狙われる順番」１
 [quest_title_1030440101001010] ＶＳ　N
@@ -14088,6 +14600,73 @@ story_quest_name_ja.lsd
 [quest_title_1030440100102010] 達成おめでとう！
 [quest_title_1030440100102011] カギは「バディストーンボード」
 [quest_title_1030402000603090] ＶＳ　ドラゴンバディーズ
+[quest_group_title_10118410000] リーリエ
+（スペシャル）
+[quest_group_title_10259400000] ソニア
+（スペシャル）
+[quest_group_title_10108400000] ノボリ
+（スペシャル）
+[quest_group_title_10109400000] クダリ
+（スペシャル）
+[quest_title_1030403000606010] お嬢様たちの「とっておき」
+[quest_title_1030403000606030] ＶＳ　パシオのトレーナー
+[quest_title_1030403000606040] ＶＳ　パシオのトレーナー２
+[quest_title_1030403000606050] ＶＳ　パシオのトレーナー３
+[quest_title_1030403000606060] ＶＳ　パシオのトレーナー４
+[quest_title_1030403000606070] １日１回限定・高難度バトル！
+[quest_title_1030403000606020] アスリートたちの秘密……？
+[quest_title_1030440300101010] ＶＳ　パシオのトレーナー
+[quest_title_1030440300102010] ＶＳ　パシオのトレーナー２
+[quest_title_1030440300103010] ＶＳ　パシオのトレーナー３
+[quest_title_1030440300104010] ＶＳ　パシオのトレーナー４
+[quest_title_1030403000601010] 開幕ティーパーティー！
+[quest_title_1030403000601020] ３兄弟からの挑戦状
+[quest_title_1030403000601030] 謎解きのおもてなし
+[quest_title_1030403000601040] ポットデスはどこデス？
+[quest_title_1030403000601050] 本物のポットデス
+[quest_title_1030403000601060] チャレンジバトル！　コーン
+[quest_title_1030403000601070] チャレンジバトル！　コーン２
+[quest_title_1030403000601080] チャレンジバトル！　デント
+[quest_title_1030403000601090] チャレンジバトル！　デント２
+[quest_title_1030403000602010] ワンダフルなお買い物
+[quest_title_1030403000602040] ＶＳ　パシオのトレーナー１
+[quest_title_1030403000602050] ＶＳ　パシオのトレーナー２
+[quest_title_1030403000602060] ＶＳ　パシオのトレーナー３
+[quest_title_1030403000602070] ＶＳ　パシオのトレーナー４
+[quest_title_1030403000602080] １日１回限定・高難度バトル！
+[quest_title_1030403000602020] 長く美しいファッションポイント
+[quest_title_1030403000602090] ミクリの謎に答えよう！
+[quest_title_1030403000602030] わたしのファッションは……？
+[quest_title_1030403000603010] なにかが足りない気がする……
+[quest_title_1030403000603040] ＶＳ　パシオのトレーナー１
+[quest_title_1030403000603050] ＶＳ　パシオのトレーナー２
+[quest_title_1030403000603060] ＶＳ　パシオのトレーナー３
+[quest_title_1030403000603070] ＶＳ　パシオのトレーナー４
+[quest_title_1030403000603080] １日１回限定・高難度バトル！
+[quest_title_1030403000603020] 最高のティーに必要な３つのもの
+[quest_title_1030403000603090] ルリナの謎に答えよう！
+[quest_title_1030403000603030] ４つめの大事なこと
+[quest_title_1030403000604010] 執事の心得を学びたい
+[quest_title_1030403000604040] ＶＳ　パシオのトレーナー１
+[quest_title_1030403000604050] ＶＳ　パシオのトレーナー２
+[quest_title_1030403000604060] ＶＳ　パシオのトレーナー３
+[quest_title_1030403000604070] ＶＳ　パシオのトレーナー４
+[quest_title_1030403000604080] １日１回限定・高難度バトル！
+[quest_title_1030403000604020] 資材運びにベストなポケモン
+[quest_title_1030403000604090] コクランの謎に答えよう！
+[quest_title_1030403000604030] おもてなしの精神
+[quest_title_1030403000605010] 執事の仕事ってなんだろう
+[quest_title_1030403000605040] ＶＳ　パシオのトレーナー１
+[quest_title_1030403000605050] ＶＳ　パシオのトレーナー２
+[quest_title_1030403000605060] ＶＳ　パシオのトレーナー３
+[quest_title_1030403000605070] ＶＳ　パシオのトレーナー４
+[quest_title_1030403000605080] １日１回限定・高難度バトル！
+[quest_title_1030403000605020] 自分の心を表現すること
+[quest_title_1030403000605090] ネズの謎に答えよう！
+[quest_title_1030403000605030] 執事でサブウェイマスター！
+[quest_title_1030110000420200] 力なき正義
+[quest_title_1030403000601100] 謎解きミッションバトル！
+[quest_title_1030440101008011] ＶＳ　マジコスレッド
 
 ===========
 story_quest_name_ko.lsd
@@ -16139,6 +16718,7 @@ story_quest_name_ko.lsd
 (22기념)
 [quest_group_title_10257400000] 금랑
 (22기념)
+[quest_group_title_10130100000] 궁극코스 세레나
 [quest_title_1030402000602010] 친구가 된 날
 [quest_title_1030402000602110] 에스퍼타입 기술로 공격하자!
 [quest_title_1030402000602120] 에스퍼타입 기술로 공격하자!2
@@ -16195,9 +16775,30 @@ story_quest_name_ko.lsd
 [quest_title_1030440200204010] 감사의 마음을 담아 멋진 승부!1
 [quest_title_1030440200205010] 감사의 마음을 담아 멋진 승부!2
 [quest_title_1030440200206010] 감사의 마음을 담아 멋진 승부!3
+[quest_title_1030402500601010] 플라타느박사의 의심
+[quest_title_1030402500601020] 세 번째 전설의 포켓몬
+[quest_title_1030402500601110] VS 브레이크단
+[quest_title_1030402500601030] 지가르데 셀을 찾아서
+[quest_title_1030402500601120] VS 브레이크단2
+[quest_title_1030402500601040] 셀을 모으는 효과적인 방법
+[quest_title_1030402500601130] VS 브레이크단3
+[quest_title_1030402500601050] 너와 함께 걸으며
+[quest_title_1030402500601140] VS 브레이크단4
+[quest_title_1030402500601150] 1일 1회 한정 고난도 배틀!
+[quest_title_1030402500601160] 챌린지배틀로 승부!
+[quest_title_1030402500601170] 챌린지배틀로 승부!2
+[quest_title_1030402500601060] 생태계의 수호자
+[quest_title_1030402500602110] 칼로스지방의 동료와 도전
+[quest_title_1030402500602120] 칼로스지방의 동료와 도전2
+[quest_title_1030440250101010] VS 유채
+[quest_title_1030440250102010] VS 유채2
+[quest_title_1030440250103010] VS 유채3
+[quest_title_1030440250104010] VS 유채4
+[quest_title_1030440250105010] 1일 1회 한정 보너스 배틀!
 [quest_title_1030220126410000] 봄이의 어느 날
 [quest_title_1030220016410000] 풍란의 어느 날
 [quest_title_1030220257400000] 금랑의 어느 날
+[quest_title_1030220130100000] 궁극코스 세레나의 어느 날
 [quest_title_1030440100101010] 더 높은 목표 "HARD"로 가는 길
 [quest_title_1030440100103010] "롤"과 "노려지는 순서"1
 [quest_title_1030440101001010] VS N
@@ -16224,6 +16825,73 @@ story_quest_name_ko.lsd
 [quest_title_1030440100102010] 달성 축하합니다!
 [quest_title_1030440100102011] 열쇠는 "버디스톤보드"
 [quest_title_1030402000603090] VS 드래곤 버디즈
+[quest_group_title_10118410000] 릴리에
+(스페셜)
+[quest_group_title_10259400000] 소니아
+(스페셜)
+[quest_group_title_10108400000] 상행
+(스페셜)
+[quest_group_title_10109400000] 하행
+(스페셜)
+[quest_title_1030403000606010] 아기씨들의 "비장의 정보"
+[quest_title_1030403000606030] VS 파시오의 트레이너
+[quest_title_1030403000606040] VS 파시오의 트레이너2
+[quest_title_1030403000606050] VS 파시오의 트레이너3
+[quest_title_1030403000606060] VS 파시오의 트레이너4
+[quest_title_1030403000606070] 1일 1회 한정 고난도 배틀!
+[quest_title_1030403000606020] 애슬리트들의 비밀이란...?
+[quest_title_1030440300101010] VS 파시오의 트레이너
+[quest_title_1030440300102010] VS 파시오의 트레이너2
+[quest_title_1030440300103010] VS 파시오의 트레이너3
+[quest_title_1030440300104010] VS 파시오의 트레이너4
+[quest_title_1030403000601010] 개막! 티 파티!
+[quest_title_1030403000601020] 3형제의 도전장
+[quest_title_1030403000601030] 수수께끼 풀기의 대접
+[quest_title_1030403000601040] 포트데스는 어디쓰?
+[quest_title_1030403000601050] 진짜 포트데스
+[quest_title_1030403000601060] 챌린지배틀! 콘
+[quest_title_1030403000601070] 챌린지배틀! 콘2
+[quest_title_1030403000601080] 챌린지배틀! 덴트
+[quest_title_1030403000601090] 챌린지배틀! 덴트2
+[quest_title_1030403000602010] 원더풀한 쇼핑
+[quest_title_1030403000602040] VS 파시오의 트레이너1
+[quest_title_1030403000602050] VS 파시오의 트레이너2
+[quest_title_1030403000602060] VS 파시오의 트레이너3
+[quest_title_1030403000602070] VS 파시오의 트레이너4
+[quest_title_1030403000602080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030403000602020] 길고 아름다운 패션 포인트
+[quest_title_1030403000602090] 윤진의 수수께끼를 풀자!
+[quest_title_1030403000602030] 내 패션은...?
+[quest_title_1030403000603010] 뭔가 부족한 것 같아...
+[quest_title_1030403000603040] VS 파시오의 트레이너1
+[quest_title_1030403000603050] VS 파시오의 트레이너2
+[quest_title_1030403000603060] VS 파시오의 트레이너3
+[quest_title_1030403000603070] VS 파시오의 트레이너4
+[quest_title_1030403000603080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030403000603020] 최고의 티에 필요한 3가지
+[quest_title_1030403000603090] 야청의 수수께끼를 풀자!
+[quest_title_1030403000603030] 4가지 소중한 것
+[quest_title_1030403000604010] 집사의 마음가짐을 배우고 싶어
+[quest_title_1030403000604040] VS 파시오의 트레이너1
+[quest_title_1030403000604050] VS 파시오의 트레이너2
+[quest_title_1030403000604060] VS 파시오의 트레이너3
+[quest_title_1030403000604070] VS 파시오의 트레이너4
+[quest_title_1030403000604080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030403000604020] 자재 운반에 최고인 포켓몬
+[quest_title_1030403000604090] 코크런의 수수께끼를 풀자!
+[quest_title_1030403000604030] 대접의 정신
+[quest_title_1030403000605010] 집사의 일이란?
+[quest_title_1030403000605040] VS 파시오의 트레이너1
+[quest_title_1030403000605050] VS 파시오의 트레이너2
+[quest_title_1030403000605060] VS 파시오의 트레이너3
+[quest_title_1030403000605070] VS 파시오의 트레이너4
+[quest_title_1030403000605080] 1일 1회 한정 고난도 배틀!
+[quest_title_1030403000605020] 자신의 마음을 표현하는 것
+[quest_title_1030403000605090] 두송의 수수께끼를 풀자!
+[quest_title_1030403000605030] 집사이자 서브웨이마스터!
+[quest_title_1030110000420200] 힘없는 정의
+[quest_title_1030403000601100] 수수께끼 풀기 미션 배틀!
+[quest_title_1030440101008011] VS 궁극코스 레드
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -18275,6 +18943,7 @@ story_quest_name_zh-TW.lsd
 （2022週年慶）
 [quest_group_title_10257400000] 奇巴納
 （2022週年慶）
+[quest_group_title_10130100000] 美極套裝莎莉娜
 [quest_title_1030402000602010] 成為朋友的日子
 [quest_title_1030402000602110] 用超能力屬性招式猛攻吧！
 [quest_title_1030402000602120] 用超能力屬性招式猛攻吧！２
@@ -18331,9 +19000,30 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030440200204010] 滿懷謝意的絕佳對戰！１
 [quest_title_1030440200205010] 滿懷謝意的絕佳對戰！２
 [quest_title_1030440200206010] 滿懷謝意的絕佳對戰！３
+[quest_title_1030402500601010] 布拉塔諾博士的疑惑
+[quest_title_1030402500601020] 第三隻的傳說
+[quest_title_1030402500601110] ＶＳ　破壞隊
+[quest_title_1030402500601030] 尋找基格爾德・細胞
+[quest_title_1030402500601120] ＶＳ　破壞隊２
+[quest_title_1030402500601040] 聰明的細胞收集方法
+[quest_title_1030402500601130] ＶＳ　破壞隊３
+[quest_title_1030402500601050] 與你同行
+[quest_title_1030402500601140] ＶＳ　破壞隊４
+[quest_title_1030402500601150] １天僅限１次的高難度對戰！
+[quest_title_1030402500601160] 用挑戰對戰決勝負！
+[quest_title_1030402500601170] 用挑戰對戰決勝負！２
+[quest_title_1030402500601060] 生態系統的守護者
+[quest_title_1030402500602110] 與卡洛斯的夥伴一起挑戰
+[quest_title_1030402500602120] 與卡洛斯的夥伴一起挑戰２
+[quest_title_1030440250101010] ＶＳ　菜種
+[quest_title_1030440250102010] ＶＳ　菜種２
+[quest_title_1030440250103010] ＶＳ　菜種３
+[quest_title_1030440250104010] ＶＳ　菜種４
+[quest_title_1030440250105010] １天僅限１次的獎勵對戰！
 [quest_title_1030220126410000] 某日的小遙
 [quest_title_1030220016410000] 某日的風露
 [quest_title_1030220257400000] 某日的奇巴納
+[quest_title_1030220130100000] 某日的美極套裝莎莉娜
 [quest_title_1030440100101010] 通往更高境界「ＨＡＲＤ」之路
 [quest_title_1030440100103010] 「體系」與「迎擊順位」１
 [quest_title_1030440101001010] ＶＳ　N
@@ -18360,6 +19050,73 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030440100102010] 恭喜達成！
 [quest_title_1030440100102011] 關鍵是「拍檔石盤」
 [quest_title_1030402000603090] ＶＳ　龍屬性拍組
+[quest_group_title_10118410000] 莉莉艾
+（洋裝）
+[quest_group_title_10259400000] 索妮亞
+（禮服）
+[quest_group_title_10108400000] 北尚
+（禮服）
+[quest_group_title_10109400000] 南廈
+（禮服）
+[quest_title_1030403000606010] 大小姐們的「私藏甜點」
+[quest_title_1030403000606030] ＶＳ　帕希歐的訓練家
+[quest_title_1030403000606040] ＶＳ　帕希歐的訓練家２
+[quest_title_1030403000606050] ＶＳ　帕希歐的訓練家３
+[quest_title_1030403000606060] ＶＳ　帕希歐的訓練家４
+[quest_title_1030403000606070] １天僅限１次的高難度對戰！
+[quest_title_1030403000606020] 運動家們的秘密……？
+[quest_title_1030440300101010] ＶＳ　帕希歐的訓練家
+[quest_title_1030440300102010] ＶＳ　帕希歐的訓練家２
+[quest_title_1030440300103010] ＶＳ　帕希歐的訓練家３
+[quest_title_1030440300104010] ＶＳ　帕希歐的訓練家４
+[quest_title_1030403000601010] 茶會開幕！
+[quest_title_1030403000601020] 來自３兄弟的戰帖
+[quest_title_1030403000601030] 以解謎款待來客
+[quest_title_1030403000601040] 怖思壺是哪壺？
+[quest_title_1030403000601050] 正牌貨的怖思壺
+[quest_title_1030403000601060] 挑戰對戰！　寇恩
+[quest_title_1030403000601070] 挑戰對戰！　寇恩２
+[quest_title_1030403000601080] 挑戰對戰！　天桐
+[quest_title_1030403000601090] 挑戰對戰！　天桐２
+[quest_title_1030403000602010] 令人讚嘆的購物
+[quest_title_1030403000602040] ＶＳ　帕希歐的訓練家１
+[quest_title_1030403000602050] ＶＳ　帕希歐的訓練家２
+[quest_title_1030403000602060] ＶＳ　帕希歐的訓練家３
+[quest_title_1030403000602070] ＶＳ　帕希歐的訓練家４
+[quest_title_1030403000602080] １天僅限１次的高難度對戰！
+[quest_title_1030403000602020] 修長又美麗的時尚重點
+[quest_title_1030403000602090] 回答米可利的謎題吧！
+[quest_title_1030403000602030] 我的時尚是……？
+[quest_title_1030403000603010] 總覺得有哪裡不周到……
+[quest_title_1030403000603040] ＶＳ　帕希歐的訓練家１
+[quest_title_1030403000603050] ＶＳ　帕希歐的訓練家２
+[quest_title_1030403000603060] ＶＳ　帕希歐的訓練家３
+[quest_title_1030403000603070] ＶＳ　帕希歐的訓練家４
+[quest_title_1030403000603080] １天僅限１次的高難度對戰！
+[quest_title_1030403000603020] 最美味的茶所需的３個要素
+[quest_title_1030403000603090] 回答露璃娜的謎題吧！
+[quest_title_1030403000603030] 第４個重要的要素
+[quest_title_1030403000604010] 想學習管家的守則
+[quest_title_1030403000604040] ＶＳ　帕希歐的訓練家１
+[quest_title_1030403000604050] ＶＳ　帕希歐的訓練家２
+[quest_title_1030403000604060] ＶＳ　帕希歐的訓練家３
+[quest_title_1030403000604070] ＶＳ　帕希歐的訓練家４
+[quest_title_1030403000604080] １天僅限１次的高難度對戰！
+[quest_title_1030403000604020] 最適合運送器材的寶可夢
+[quest_title_1030403000604090] 回答石蘭的謎題吧！
+[quest_title_1030403000604030] 款待之心
+[quest_title_1030403000605010] 何謂管家的工作
+[quest_title_1030403000605040] ＶＳ　帕希歐的訓練家１
+[quest_title_1030403000605050] ＶＳ　帕希歐的訓練家２
+[quest_title_1030403000605060] ＶＳ　帕希歐的訓練家３
+[quest_title_1030403000605070] ＶＳ　帕希歐的訓練家４
+[quest_title_1030403000605080] １天僅限１次的高難度對戰！
+[quest_title_1030403000605020] 展現出自己的心
+[quest_title_1030403000605090] 回答聶梓的謎題吧！
+[quest_title_1030403000605030] 管家兼地下鐵總管！
+[quest_title_1030110000420200] 無力的正義
+[quest_title_1030403000601100] 解謎任務對戰！
+[quest_title_1030440101008011] ＶＳ　美極套裝赤紅
 
 ===========
 trainer_description_de.lsd
@@ -19046,6 +19803,25 @@ auf der großen Bühne.
 [10257400000] Roy erscheint in einem festlichen Anzug und erzeugt mit
 seinem Partner Libelldra zur Feier von Passios Jubiläum
 einen gewaltigen Sandsturm.
+[10130100000] Serena trägt eine prachtvolle Machtmontur und hat sich
+passend dazu für eine schicke Kurzhaarfrisur entschieden.
+Zusammen mit ihrem Partner Zygarde hat sie stets ein
+wachsames Auge auf Passio.
+[10118410000] Lilly ist in einem speziellen Kostüm zurück und bereit, alle
+Rätsel zu lösen, um an der Teegesellschaft teilzunehmen.
+Ihr Partner Mortipot ist eine seltene Originalform.
+[10259400000] Sania trägt ein prächtiges Kostüm und hilft bei der
+Vorbereitung der Rätsel für eine aufregende
+Teegesellschaft. Um ihrem Partner Fruyal noch näher zu
+kommen, übt sie sich in einem königlichen Lachen.
+[10108400000] Hin erscheint in einem eleganten Frack und bereitet die
+Rätsel für eine spannende Teegesellschaft vor. Seinen
+Partner Hydragil hat er durch einen Tausch mit Her
+erhalten.
+[10109400000] Her erscheint in einem eleganten Frack und bereitet die
+Rätsel für eine spannende Teegesellschaft vor. Seinen
+Partner Cavalanzas hat er durch einen Tausch mit Hin
+erhalten.
 [10021900000] Der Enkel des berühmten Professor Eich ist einer der
 stärksten Trainer in ganz Kanto. Rot ist für ihn zugleich
 ewiger Rivale und enger Freund.
@@ -19673,6 +20449,21 @@ celebrate his Friendiversary with Hoopa.
 [10257400000] Raihan’s back in a dashing outfit! He’s doing what he
 does best by kicking up sandstorms with Flygon. He also
 is helping Lear celebrate his Friendiversary with Hoopa. 
+[10130100000] Serena’s dressed to impress in a chic sygna suit and
+updated her hairstyle for a more mature look. She and
+Zygarde are working together to protect all of Pasio.
+[10118410000] Lillie is back in a special costume with her partner
+Polteageist in its rare Antique Form. They’re trying to
+solve riddles so they can join a tea party.
+[10259400000] Sonia’s back in a special costume and has prepared a few
+riddles for some tea party fun. She’s been practicing her
+royal laugh by mimicking Tsareena.
+[10108400000] Ingo is back in a special costume and has prepared a few
+riddles for some tea party fun. He traded with Emmet for
+his partner Accelgor.
+[10109400000] Emmet is back in a special costume and has prepared a
+few riddles for some tea party fun. He traded with Ingo
+for his partner Escavalier.
 [10021900000] This highly skilled, powerhouse Trainer prominent in Kanto
 is the grandson of the famous Professor Oak. Red is both
 his lifelong rival and his best friend.
@@ -20408,6 +21199,25 @@ la amistad entre Alik y Hoopa.
 [10257400000] Roy viene hecho un pincel con motivo del aniversario de
 la amistad entre Alik y Hoopa. Está listo para desatar una
 tormenta de arena, la especialidad de su compi Flygon.
+[10130100000] Serena, en un Traje Summum muy refinado y con un
+peinado que le da un aire más formal, protege Passio
+de toda amenaza junto a su compi Zygarde.
+[10118410000] Lylia luce un lindo traje especial y se dispone a resolver
+rompecabezas para poder asistir a la velada del té. Su
+compi Polteageist ostenta su Forma Genuina, lo que lo
+convierte en un ejemplar muy poco común.
+[10259400000] Sonia luce un regio traje especial y ha preparado unos
+rompecabezas para divertir a los invitados de la velada
+del té. Ha estado practicado una sonora carcajada para
+emular la de Tsareena.
+[10108400000] Fero se atavía con un traje especial y ha preparado unos
+rompecabezas para divertir a los invitados de la velada
+del té. Su compi Accelgor procede de un intercambio con
+su hermano Caril.
+[10109400000] Caril se atavía con un traje especial y ha preparado unos
+rompecabezas para divertir a los invitados de la velada
+del té. Su compi Escavalier procede de un intercambio
+con su hermano Fero.
 [10021900000] Nieto del renombrado Profesor Oak y uno de los
 Entrenadores más diestros de Kanto. Gran amigo,
 a la par que eterno rival, de Rojo.
@@ -21091,6 +21901,29 @@ l'anniversaire de l'amitié entre Alexis et Hoopa.
 À cette occasion, son partenaire Libégon et lui
 exécutent leur spécialité : des tempêtes de sable
 à faire s'envoler le stade !
+[10130100000] Serena a revêtu un magnifique Look Ultime.
+Elle a décidé d'opter pour une coiffure lui donnant
+un air plus mature. Elle protège Passio aux côtés
+de son partenaire, Zygarde.
+[10118410000] Lilie est de retour dans une tenue spéciale. Elle est prête
+à résoudre les énigmes de la mystérieuse réception
+organisée pour l'heure du thé. Son partenaire Pokémon,
+Polthégeist, est l'un des rares à être
+de Forme Authentique.
+[10259400000] Sonya est de retour dans une tenue spéciale et prépare
+des énigmes pour divertir les invités lors de la réception
+organisée pour l'heure du thé. Elle s'entraîne à rire de
+façon théâtrale, en s'inspirant de Sucreine.
+[10108400000] Chammal est de retour dans une tenue spéciale
+et prépare des énigmes pour divertir les invités
+lors de la réception organisée pour l'heure du thé.
+Son partenaire, Limaspeed, lui vient d'un échange
+avec Chamsin.
+[10109400000] Chamsin est de retour dans une tenue spéciale
+et prépare des énigmes pour divertir les invités
+lors de la réception organisée pour l'heure du thé.
+Son partenaire, Lançargot, lui vient d'un échange
+avec Chammal.
 [10021900000] Un des plus puissants Dresseurs de Kanto, petit-fils
 du célèbre Professeur Chen et meilleur ami et éternel
 rival de Red.
@@ -21777,6 +22610,24 @@ dell'amicizia di Kelian e Hoopa.
 [10257400000] Laburno indossa un elegantissimo completo e festeggia
 l'anniversario dell'amicizia di Kelian e Hoopa scatenando
 tempeste di sabbia insieme a Flygon.
+[10130100000] Serena indossa un Costumax molto chic e sfoggia anche
+un taglio di capelli che le dona un'aria più elegante.
+Veglia su Pasio insieme al suo Pokémon, Zygarde.
+[10118410000] Lylia indossa un costume speciale ed è pronta a risolvere
+indovinelli e a bere tè assieme al suo raro Polteageist
+Forma Autentica.
+[10259400000] Sonia indossa un costume speciale e ha preparato
+rompicapi da risolvere per ravvivare l'evento del tè
+enigmatico. Sta cercando di perfezionare una sonora
+risata per imitare Tsareena.
+[10108400000] Andy indossa un costume speciale e ha preparato
+rompicapi da risolvere per ravvivare l'evento del tè
+enigmatico. Il suo Pokémon, Accelgor, proviene
+da uno scambio effettuato con Torn.
+[10109400000] Torn indossa un costume speciale e ha preparato
+rompicapi da risolvere per ravvivare l'evento del tè
+enigmatico. Il suo Pokémon, Escavalier, proviene
+da uno scambio effettuato con Andy.
 [10021900000] Nipote del celebre Professor Oak, nonché uno dei più forti
 Allenatori di Kanto. Rosso è per lui un amico e un rivale
 storico.
@@ -22402,6 +23253,21 @@ trainer_description_ja.lsd
 [10257400000] 華やかな　衣装を　身にまとった　キバナ。
 バディのフライゴンと　得意の　すなあらしを　起こし
 ライヤーとフーパの　ともだち記念日を　お祝いする。
+[10130100000] シックな　マジコスを　身にまとった　セレナ。
+髪型も　少し　大人っぽい　雰囲気に　チェンジ。
+バディの　ジガルデと　一緒に　パシオを　みまもる。
+[10118410000] スペシャルな　衣装を　身にまとった　リーリエ。
+ティーパーティーに　参加するため　謎解きに　挑む。
+バディの　ポットデスは　珍しい　しんさくフォルム。
+[10259400000] スペシャルな　衣装を　身にまとった　ソニア。
+楽しいティーパーティーのため　謎解きを　用意した。
+アマージョを　まねして　高笑いに　挑戦している。
+[10108400000] スペシャルな　衣装を　身にまとった　ノボリ。
+楽しいティーパーティーのため　謎解きを　用意した。
+バディのアギルダーは　クダリと交換した　ポケモン。
+[10109400000] スペシャルな　衣装を　身にまとった　クダリ。
+楽しいティーパーティーのため　謎解きを　用意した。
+バディのシュバルゴは　ノボリと交換した　ポケモン。
 [10021900000] 有名な　オーキド博士の孫で　カントー地方では
 指折りの　実力を持つ　強豪ポケモントレーナー。
 レッドという　終生のライバルにして　親友がいる。
@@ -23027,6 +23893,21 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10257400000] 화려한 의상을 입은 금랑.
 버디인 플라이곤과 특기인 모래바람을 일으켜
 라이어와 후파의 친구 기념일을 축하한다.
+[10130100000] 시크한 궁극코스를 입은 세레나.
+헤어스타일도 조금 어른스러운 분위기로 체인지.
+버디인 지가르데와 함께 파시오를 지켜본다.
+[10118410000] 스페셜 의상을 입은 릴리에.
+티 파티에 참가하기 위해 수수께끼 풀기에 도전한다.
+버디인 포트데스는 희귀한 진작폼.
+[10259400000] 스페셜 의상을 입은 소니아.
+즐거운 티 파티를 위해 수수께끼 풀기를 준비했다.
+달코퀸을 따라서 큰 웃음에 도전하고 있다.
+[10108400000] 스페셜 의상을 입은 상행.
+즐거운 티 파티를 위해 수수께끼 풀기를 준비했다.
+버디인 어지리더는 하행과 교환한 포켓몬이다.
+[10109400000] 스페셜 의상을 입은 하행.
+즐거운 티 파티를 위해 수수께끼 풀기를 준비했다.
+버디인 슈바르고는 상행과 교환한 포켓몬.
 [10021900000] 유명한 오박사의 손자이자 관동지방에서는
 손에 꼽힐만한 실력의 강호인 포켓몬 트레이너.
 레드라는 평생의 라이벌이자 친구가 있다.
@@ -23651,6 +24532,21 @@ trainer_description_zh-TW.lsd
 [10257400000] 身穿華麗服裝的奇巴納。
 他和拍檔沙漠蜻蜓使出拿手的沙暴，
 來祝賀鎯琊和胡帕的朋友紀念日。
+[10130100000] 身穿雅致風格美極套裝的莎莉娜。
+髮型也換成稍微成熟一點的風格。
+和拍檔基格爾德一起守護帕希歐。
+[10118410000] 身穿特別服裝的莉莉艾。
+為了參加茶會而挑戰解謎。
+她的拍檔怖思壺是稀有的真品形態。
+[10259400000] 身穿特別服裝的索妮亞。
+為了讓茶會更有趣而準備了謎題。
+她正在挑戰模仿甜冷美后的高聲大笑。
+[10108400000] 身穿特別服裝的北尚。
+為了讓茶會更有趣而準備了謎題。
+他的拍檔敏捷蟲是和南廈交換的寶可夢。
+[10109400000] 身穿特別服裝的南廈。
+為了讓茶會更有趣而準備了謎題。
+他的拍檔騎士蝸牛是和北尚交換的寶可夢。
 [10021900000] 著名的大木博士的孫子，關都地區
 屈指可數的實力派訓練家。赤紅是他
 永遠的勁敵，也是他最要好的朋友。
@@ -23763,6 +24659,7 @@ trainer_name_de.lsd
 [ch0104] Sasha
 [ch0105] Rika
 [ch0106] Kamilla
+[ch0107] Benny
 [ch0108] Hin
 [ch0109] Her
 [ch0110] Misty
@@ -23793,6 +24690,8 @@ trainer_name_de.lsd
 [ch0136] Platan
 [ch0137] Eich
 [ch0140] Giovanni
+[ch0145] Maik
+[ch0146] Colin
 [ch0148] Jens
 [ch0149] Kiawe
 [ch0150] Falk
@@ -23945,6 +24844,7 @@ trainer_name_en.lsd
 [ch0104] Trinnia
 [ch0105] Tina
 [ch0106] Elesa
+[ch0107] Cilan
 [ch0108] Ingo
 [ch0109] Emmet
 [ch0110] Misty
@@ -23975,6 +24875,8 @@ trainer_name_en.lsd
 [ch0136] Professor Sycamore
 [ch0137] Professor Oak
 [ch0140] Giovanni
+[ch0145] Chili
+[ch0146] Cress
 [ch0148] Morty
 [ch0149] Kiawe
 [ch0150] Falkner
@@ -24127,6 +25029,7 @@ trainer_name_es.lsd
 [ch0104] Trini
 [ch0105] Rina
 [ch0106] Camila
+[ch0107] Millo
 [ch0108] Fero
 [ch0109] Caril
 [ch0110] Misty
@@ -24157,6 +25060,8 @@ trainer_name_es.lsd
 [ch0136] Ciprés
 [ch0137] Oak
 [ch0140] Giovanni
+[ch0145] Zeo
+[ch0146] Maíz
 [ch0148] Morti
 [ch0149] Kiawe
 [ch0150] Pegaso
@@ -24309,6 +25214,7 @@ trainer_name_fr.lsd
 [ch0104] Euphrosyne
 [ch0105] Rika
 [ch0106] Inezia
+[ch0107] Rachid
 [ch0108] Chammal
 [ch0109] Chamsin
 [ch0110] Ondine
@@ -24339,6 +25245,8 @@ trainer_name_fr.lsd
 [ch0136] Platane
 [ch0137] Chen
 [ch0140] Giovanni
+[ch0145] Armando
+[ch0146] Noa
 [ch0148] Mortimer
 [ch0149] Kiawe
 [ch0150] Albert
@@ -24491,6 +25399,7 @@ trainer_name_it.lsd
 [ch0104] Tilia
 [ch0105] Lena
 [ch0106] Camelia
+[ch0107] Spighetto
 [ch0108] Andy
 [ch0109] Torn
 [ch0110] Misty
@@ -24521,6 +25430,8 @@ trainer_name_it.lsd
 [ch0136] Professor Platan
 [ch0137] Professor Oak
 [ch0140] Giovanni
+[ch0145] Chicco
+[ch0146] Maisello
 [ch0148] Angelo
 [ch0149] Kawe
 [ch0150] Valerio
@@ -24673,6 +25584,7 @@ trainer_name_ja.lsd
 [ch0104] サクサ
 [ch0105] リッカ
 [ch0106] カミツレ
+[ch0107] デント
 [ch0108] ノボリ
 [ch0109] クダリ
 [ch0110] カスミ
@@ -24703,6 +25615,8 @@ trainer_name_ja.lsd
 [ch0136] プラターヌ
 [ch0137] オーキド
 [ch0140] サカキ
+[ch0145] ポッド
+[ch0146] コーン
 [ch0148] マツバ
 [ch0149] カキ
 [ch0150] ハヤト
@@ -24855,6 +25769,7 @@ trainer_name_ko.lsd
 [ch0104] 사크사
 [ch0105] 리카
 [ch0106] 카밀레
+[ch0107] 덴트
 [ch0108] 상행
 [ch0109] 하행
 [ch0110] 이슬
@@ -24885,6 +25800,8 @@ trainer_name_ko.lsd
 [ch0136] 플라타느
 [ch0137] 오박사
 [ch0140] 비주기
+[ch0145] 팟
+[ch0146] 콘
 [ch0148] 유빈
 [ch0149] 키아웨
 [ch0150] 비상
@@ -25037,6 +25954,7 @@ trainer_name_zh-TW.lsd
 [ch0104] 綠菫
 [ch0105] 俐卡
 [ch0106] 小菊兒
+[ch0107] 天桐
 [ch0108] 北尚
 [ch0109] 南廈
 [ch0110] 小霞
@@ -25067,6 +25985,8 @@ trainer_name_zh-TW.lsd
 [ch0136] 布拉塔諾
 [ch0137] 大木
 [ch0140] 阪木
+[ch0145] 伯特
+[ch0146] 寇恩
 [ch0148] 松葉
 [ch0149] 卡奇
 [ch0150] 阿速
@@ -25189,7 +26109,7 @@ trainer_verbose_name_de.lsd
 [10120100000] MaMo-Samantha
 [10106800000] Kamilla
 (Blond)
-[10091200000] MaMo-Cynthia
+[10091200000] MaMo-Cynthia 
 (Version 2)
 [10114400000] Sabrina
 (Saison 2022)
@@ -25207,6 +26127,15 @@ trainer_verbose_name_de.lsd
 (Jubiläum)
 [10257400000] Roy
 (Jubiläum)
+[10130100000] MaMo-Serena
+[10118410000] Lilly 
+(Kostüm)
+[10259400000] Sania 
+(Kostüm)
+[10108400000] Hin 
+(Kostüm)
+[10109400000] Her 
+(Kostüm)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -25308,6 +26237,16 @@ Lusamine
 (Anniversary 2022)
 [10257400000] Raihan
 (Anniversary 2022)
+[10130100000] Sygna Suit
+Serena
+[10118410000] Lillie 
+(Special Costume)
+[10259400000] Sonia 
+(Special Costume)
+[10108400000] Ingo 
+(Special Costume)
+[10109400000] Emmet 
+(Special Costume)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -25379,7 +26318,7 @@ trainer_verbose_name_es.lsd
 (Temporada 21)
 [10120100000] Samina (Traje S)
 [10106800000] Camila (Original)
-[10091200000] Cintia (Traje S,
+[10091200000] Cintia (Traje S, 
 arqueóloga)
 [10114400000] Sabrina
 (Temporada 22)
@@ -25395,6 +26334,11 @@ arqueóloga)
 (Aniversario)
 [10126500000] Aura (Aniversario)
 [10257400000] Roy (Aniversario)
+[10130100000] Serena (Traje S)
+[10118410000] Lylia (Especial)
+[10259400000] Sonia (Especial)
+[10108400000] Fero (Especial)
+[10109400000] Caril (Especial)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -25471,7 +26415,7 @@ trainer_verbose_name_fr.lsd
 [10120100000] Elsa-Mina
 (Ultime)
 [10106800000] Inezia (Classique)
-[10091200000] Cynthia
+[10091200000] Cynthia 
 (Ultime 2)
 [10114400000] Morgane
 (Saison 2022)
@@ -25489,6 +26433,15 @@ trainer_verbose_name_fr.lsd
 (Anniversaire 2022)
 [10257400000] Roy
 (Anniversaire 2022)
+[10130100000] Serena (Ultime)
+[10118410000] Lilie 
+(Spécial)
+[10259400000] Sonya 
+(Spécial)
+[10108400000] Chammal 
+(Spécial)
+[10109400000] Chamsin 
+(Spécial)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -25569,7 +26522,7 @@ trainer_verbose_name_it.lsd
 [10120100000] Samina Costumax
 [10106800000] Camelia
 (classica)
-[10091200000] Camilla Costumax
+[10091200000] Camilla Costumax 
 (archeologa)
 [10114400000] Sabrina
 (feste 2022)
@@ -25587,6 +26540,15 @@ trainer_verbose_name_it.lsd
 (2,5 anni)
 [10257400000] Laburno
 (2,5 anni)
+[10130100000] Serena Costumax
+[10118410000] Lylia 
+(speciale)
+[10259400000] Sonia 
+(speciale)
+[10108400000] Andy 
+(speciale)
+[10109400000] Torn 
+(speciale)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -25685,6 +26647,15 @@ trainer_verbose_name_ja.lsd
 （２２アニバーサリー）
 [10257400000] キバナ
 （２２アニバーサリー）
+[10130100000] マジコスセレナ
+[10118410000] リーリエ
+（スペシャル）
+[10259400000] ソニア
+（スペシャル）
+[10108400000] ノボリ
+（スペシャル）
+[10109400000] クダリ
+（スペシャル）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -25783,6 +26754,15 @@ trainer_verbose_name_ko.lsd
 (22기념)
 [10257400000] 금랑
 (22기념)
+[10130100000] 궁극코스 세레나
+[10118410000] 릴리에
+(스페셜)
+[10259400000] 소니아
+(스페셜)
+[10108400000] 상행
+(스페셜)
+[10109400000] 하행
+(스페셜)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -25881,6 +26861,15 @@ trainer_verbose_name_zh-TW.lsd
 （2022週年慶）
 [10257400000] 奇巴納
 （2022週年慶）
+[10130100000] 美極套裝莎莉娜
+[10118410000] 莉莉艾
+（洋裝）
+[10259400000] 索妮亞
+（禮服）
+[10108400000] 北尚
+（禮服）
+[10109400000] 南廈
+（禮服）
 
 ===========
 common_widget_de.lsd
@@ -25936,6 +26925,9 @@ common_widget_de.lsd
 [common_widget/button_014] Noch mal
 [common_widget/button_015] Erhältlich!
 [common_widget/button_016] Siegesstraße
+[common_widget/button_017] Erhältliche Glücksfähigkeiten
+[common_widget/button_018] Detailliert
+[common_widget/button_019] Einfach
 [common_widget/loading_001] Ladevorgang...
 [common_widget/loading_002] Los!
 [common_widget/loading_003] Verbindet...
@@ -26082,6 +27074,12 @@ Legenden-Turnier zugewiesen sind.
 [common_widget/dialog_082] Erstes Geschenk
 [common_widget/dialog_083] Du hast noch nicht alle Gefährten abgeholt! Such dir Gefährten in der Gefährtensuche mit Tickets aus!
 [common_widget/dialog_084] Du hast noch nicht alle Gefährten abgeholt! Bitte such dir ein Gefährtengespann aus!
+[common_widget/dialog_085] Du kannst eine dieser Glücksfähigkeiten
+zufällig erlernen, indem du das folgende Item
+einsetzt: [Name:Item ].
+[common_widget/dialog_100] Du kannst diese Glücksfähigkeit erlernen,
+indem du das folgende Item einsetzt:
+[Name:Item ].
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -26546,6 +27544,9 @@ common_widget_en.lsd
 [common_widget/button_014] Learn Again
 [common_widget/button_015] Claimable!
 [common_widget/button_016] Victory Road
+[common_widget/button_017] Learnable Lucky Skills
+[common_widget/button_018] Detailed View
+[common_widget/button_019] Simple View
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] GO!
 [common_widget/loading_003] Loading...
@@ -26683,6 +27684,12 @@ the Ticket Scout!
 [common_widget/dialog_084] You haven’t chosen a sync pair
 to team up with yet. Please select
 a sync pair.
+[common_widget/dialog_085] Using a [Name:Item ]
+allows you to learn one of the following
+lucky skills below at random.
+[common_widget/dialog_100] Using a [Name:Item ]
+allows you to learn the following
+lucky skill.
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -27116,6 +28123,9 @@ common_widget_es.lsd
 [common_widget/button_015] ¡Disponible!
 [common_widget/button_016] Calle
 Victoria
+[common_widget/button_017] Habilidades fortuitas disponibles
+[common_widget/button_018] Detallada
+[common_widget/button_019] Simple
 [common_widget/loading_001] Cargando...
 [common_widget/loading_002] ¡Vamos!
 [common_widget/loading_003] Conectando...
@@ -27265,6 +28275,12 @@ reclutamiento billete!
 [common_widget/dialog_084] Tienes disponible una pareja de compis
 que aún no has recibido. Elige la
 pareja de compis que prefieras.
+[common_widget/dialog_085] Puedes desbloquear una de las siguientes
+habilidades fortuitas al azar utilizando la
+[Name:Item ]:
+[common_widget/dialog_100] Puedes desbloquear la siguiente 
+habilidad fortuita utilizando la
+[Name:Item ]:
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -27711,6 +28727,9 @@ common_widget_fr.lsd
 [common_widget/button_015] Disponible !
 [common_widget/button_016] Route
 Victoire
+[common_widget/button_017] Talents surprise disponibles
+[common_widget/button_018] Détaillé
+[common_widget/button_019] Simple
 [common_widget/loading_001] Chargement...
 [common_widget/loading_002] Allez !
 [common_widget/loading_003] Connexion...
@@ -27855,6 +28874,12 @@ l'Appel Duo avec Bons.
 à ajouter à votre équipe.
 Veuillez sélectionner le Duo
 de votre choix.
+[common_widget/dialog_085] Vous pouvez apprendre l'un des talents
+surprise suivants au hasard en utilisant :
+[Name:Item ].
+[common_widget/dialog_100] Vous pouvez apprendre le talent
+surprise suivant en utilisant :
+[Name:Item ].
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -28321,6 +29346,9 @@ common_widget_it.lsd
 [common_widget/button_014] Un'altra volta
 [common_widget/button_015] Disponibili
 [common_widget/button_016] Via Vittoria
+[common_widget/button_017] Talenti disponibili
+[common_widget/button_018] Dettagli
+[common_widget/button_019] Info di base
 [common_widget/loading_001] Caricamento
 [common_widget/loading_002] VIA!
 [common_widget/loading_003] Connessione...
@@ -28457,6 +29485,11 @@ Leggendaria.
 un'Unità tramite l'Unicerca con ticket!
 [common_widget/dialog_084] Puoi ancora ricevere un'Unità.
 Scegli quella che preferisci!
+[common_widget/dialog_085] Utilizzando un [Name:Item ],
+è possibile scoprire un talento casuale
+tra i seguenti:
+[common_widget/dialog_100] Utilizzando un [Name:Item ],
+è possibile scoprire il seguente talento:
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -28911,6 +29944,9 @@ common_widget_ja.lsd
 [common_widget/button_015] もらえる!
 [common_widget/button_016] チャンピオン
 ロード
+[common_widget/button_017] 習得できるポテンシャル
+[common_widget/button_018] 詳細表示
+[common_widget/button_019] 簡易表示
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出発
 [common_widget/loading_003] 通信中……
@@ -29046,6 +30082,11 @@ EXカラー衣装が　かくとくできます
 バディーズがいます
 
 好きなバディーズを1組選んでください
+[common_widget/dialog_085] [Name:Item ]を使用すると
+以下のポテンシャルの中からランダムで
+１つが習得できます
+[common_widget/dialog_100] [Name:Item ]を使用すると
+以下のポテンシャルが習得できます
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -29509,6 +30550,9 @@ common_widget_ko.lsd
 [common_widget/button_014] 한번 더
 [common_widget/button_015] 받을 수 있다!
 [common_widget/button_016] 챔피언로드
+[common_widget/button_017] 습득할 수 있는 포텐셜
+[common_widget/button_018] 상세 표시
+[common_widget/button_019] 간단 표시
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 출발
 [common_widget/loading_003] 통신 중...
@@ -29640,6 +30684,11 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_084] 아직 받지 않은
 버디즈가 있습니다
 원하는 버디즈를 하나 선택해 주십시오
+[common_widget/dialog_085] [Name:Item ][Kor:Particle char="wo" ] 사용하면
+아래의 포텐셜 중에서 랜덤으로
+1개를 습득할 수 있습니다
+[common_widget/dialog_100] [Name:Item ][Kor:Particle char="wo" ] 사용하면
+아래의 포텐셜을 습득할 수 있습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -30098,6 +31147,9 @@ common_widget_zh-TW.lsd
 [common_widget/button_014] 再來一次
 [common_widget/button_015] 可獲得！
 [common_widget/button_016] 冠軍之路
+[common_widget/button_017] 可學習的潛能
+[common_widget/button_018] 完整顯示
+[common_widget/button_019] 簡易顯示
 [common_widget/loading_001] Loading...
 [common_widget/loading_002] 出發
 [common_widget/loading_003] 正在連線……
@@ -30215,6 +31267,11 @@ common_widget_zh-TW.lsd
 選擇拍組吧
 [common_widget/dialog_084] 有尚未領取的拍組
 請選擇1對喜歡的拍組
+[common_widget/dialog_085] 使用[Name:Item ]後
+可從下列潛能中
+隨機學習１個潛能
+[common_widget/dialog_100] 使用[Name:Item ]後
+可學習下列潛能
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -33064,7 +34121,17 @@ Hinweis: Belohnungen sind wahrscheinlichkeitsabhängig. Es kann auch vorkommen, 
 [home/quest_detail_172] Stufe [Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_175] Möchtest du aufbrechen?
+[home/quest_detail_176] Hinweis: Diese Kämpfe verbrauchen keine Ausdauer.
+[home/quest_detail_177] Möchtest du die Tickets einsetzen, um aufzubrechen?
+[home/quest_detail_178] Teamfähigkeiten
+[home/quest_detail_179] Hinweis: Gewinne Kämpfe mit ausgewählten Gefährten,
+um zusätzliche Items zu erhalten. Erfüllt ein Gefährtengespann
+mehrere Bedingungen, gilt nur der höhere Bonus.
+[home/quest_detail_180] Belohnungen
+[home/quest_detail_181] Kraft
 [home/quest_detail_182] Hauptpreis
+[home/quest_detail_185] Kein Bonus
 [home/home_001] Laden
 [home/home_002] Abenteuer
 [home/home_003] Team
@@ -33964,7 +35031,19 @@ not be reset. Your drop rate level will be reset to 1.
 [home/quest_detail_172] Level [Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_175] Go!
+[home/quest_detail_176] Note: These battles do not use up stamina.
+[home/quest_detail_177] Start the battle using the skip tickets
+shown above?
+[home/quest_detail_178] Applicable Theme Skills
+[home/quest_detail_179] You can get additional featured items as rewards for
+completing certain battles with sync pairs that have
+bonuses on your team. If multiple bonuses apply to the
+same sync pair, the larger bonus will take effect.
+[home/quest_detail_180] Rewards
+[home/quest_detail_181] Strength
 [home/quest_detail_182] Featured Rewards
+[home/quest_detail_185] No Bonus
 [home/home_001] Shop
 [home/home_002] Explore
 [home/home_003] Team
@@ -34704,7 +35783,7 @@ seguir avanzando por este mapa.
 [home/quest_detail_083] Billete Victoria
 [home/quest_detail_084] Usa este objeto para pasar directamente a la
 pantalla de premios y resultados.
-[home/quest_detail_085] ¿Quieres usar aguante y el Billete Victoria
+[home/quest_detail_085] ¿Quieres usar aguante y Billetes Victoria
 para acceder a la ubicación?
 [home/quest_detail_086] ¿Quieres usar aguante para acceder a la
 ubicación?
@@ -34836,7 +35915,17 @@ Restablecer para reiniciar tu progreso.
 [home/quest_detail_172] Nivel [Digit:2digits ]
 [home/quest_detail_173] MÁX.
 [home/quest_detail_174] ∞
+[home/quest_detail_175] ¿Quieres acceder a la ubicación?
+[home/quest_detail_176] Nota: Estos combates no consumen aguante.
+[home/quest_detail_177] ¿Quieres usar Billetes Victoria para acceder a la ubicación?
+[home/quest_detail_178] Habilidades de equipo con bonus
+[home/quest_detail_179] Notas: Completa combates con los compis con bonus para
+conseguir más objetos con bonus. Si una pareja de compis
+cuenta con más de un bonus, solo se aplicará el más alto.
+[home/quest_detail_180] Premios
+[home/quest_detail_181] Fuerza
 [home/quest_detail_182] Premio especial
+[home/quest_detail_185] Sin bonus
 [home/home_001] Tienda
 [home/home_002] Aventura
 [home/home_003] Equipo
@@ -35739,7 +36828,20 @@ de ne pas en obtenir certains.
 [home/quest_detail_172] Niveau [Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_175] Voulez-vous participer à ce combat ?
+[home/quest_detail_176] Ces combats ne consomment pas de Vigueur.
+[home/quest_detail_177] Voulez-vous utiliser des Bons
+Saute-Combat pour participer
+à ce combat ?
+[home/quest_detail_178] Talents d'équipe en vedette
+[home/quest_detail_179] Vous pouvez recevoir plus d'objets en vedette en remportant
+certains combats avec des Duos ayant des bonus qui affectent
+toute l'équipe. Si de multiples bonus s'appliquent au même
+Duo, seul le bonus le plus important prendra effet.
+[home/quest_detail_180] Récompenses
+[home/quest_detail_181] Force
 [home/quest_detail_182] Grand prix
+[home/quest_detail_185] Pas de bonus disponible
 [home/home_001] Boutique
 [home/home_002] Aventure
 [home/home_003] Équipe
@@ -36716,7 +37818,18 @@ quanto segue:
 [home/quest_detail_172] Livello [Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_175] Vuoi partire?
+[home/quest_detail_176] Non consumerai Vitalità per affrontare questa lotta.
+[home/quest_detail_177] Vuoi partire usando i biglietti indicati?
+[home/quest_detail_178] Squadrabilità con bonus
+[home/quest_detail_179] Se inserisci in squadra le Unità con bonus e vinci in certe
+lotte, otterrai gli strumenti indicati in maggiore quantità.
+Se una delle Unità possiede più di uno dei bonus indicati,
+verrà applicato solo quello più alto.
+[home/quest_detail_180] Ricompense
+[home/quest_detail_181] Potenza
 [home/quest_detail_182] Premi principali
+[home/quest_detail_185] Nessun bonus
 [home/home_001] Negozio
 [home/home_002] Avventura
 [home/home_003] Squadra
@@ -37656,7 +38769,18 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_172] レベル[Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_175] 出発しますか？
+[home/quest_detail_176] ※このバトルではスタミナを消費しません
+[home/quest_detail_177] チケットを使って出発しますか？
+[home/quest_detail_178] 対象チームスキル
+[home/quest_detail_179] ※ボーナスがつくバディーズを編成して特定バトルに勝利すると
+対象どうぐの獲得数が増加します
+※複数の条件のボーナス対象となっている場合
+ボーナスは加算されずにより高い値が適用されます
+[home/quest_detail_180] 報酬
+[home/quest_detail_181] つよさ
 [home/quest_detail_182] 目玉報酬
+[home/quest_detail_185] ボーナス対象なし
 [home/home_001] ショップ
 [home/home_002] ぼうけん
 [home/home_003] チーム
@@ -38579,7 +39703,18 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_172] 레벨 [Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_175] 출발하겠습니까?
+[home/quest_detail_176] ※본 배틀에서는 스태미나를 소비하지 않습니다
+[home/quest_detail_177] 티켓을 사용하여 출발하겠습니까?
+[home/quest_detail_178] 대상 팀스킬
+[home/quest_detail_179] ※보너스가 생기는 버디즈를 편성하여 특정 배틀에서 승리하면
+대상 도구의 획득 수가 증가합니다
+※여러 조건의 보너스 대상이 된 경우
+보너스는 가산되지 않으며 더 높은 수치가 적용됩니다
+[home/quest_detail_180] 보상
+[home/quest_detail_181] 능력치
 [home/quest_detail_182] 주요 보상
+[home/quest_detail_185] 보너스 대상 없음
 [home/home_001] 숍
 [home/home_002] 모험
 [home/home_003] 팀
@@ -39470,7 +40605,18 @@ home_zh-TW.lsd
 [home/quest_detail_172] 等級[Digit:2digits ]
 [home/quest_detail_173] MAX
 [home/quest_detail_174] ∞
+[home/quest_detail_175] 確定要出發嗎？
+[home/quest_detail_176] ※此對戰不消耗活力
+[home/quest_detail_177] 要使用票券來出發嗎？
+[home/quest_detail_178] 指定隊伍技能
+[home/quest_detail_179] ※在特定對戰中編制附帶獎勵效果的拍組並取勝
+所獲得之指定道具的數量會增加
+※當指定拍組擁有多個獎勵效果時
+將適用數值較高的效果而不會重複累計
+[home/quest_detail_180] 報酬
+[home/quest_detail_181] 戰力
 [home/quest_detail_182] 特級報酬
+[home/quest_detail_185] 無獎勵對象
 [home/home_001] 商店
 [home/home_002] 冒險
 [home/home_003] 隊伍
@@ -40206,7 +41352,7 @@ um 10 Gefährtensuchen durchzuführen?
 [shop/scout_037] Wichtige Hinweise
 [shop/scout_039] Garantiert 5 ★!
 [shop/scout_040] Festival-Gefährten
-[shop/scout_042] Die Erscheinungsraten für ★ werden nach der vierten
+[shop/scout_042] Die Erscheinungsraten für ★ werden nach der dritten
 Dezimalstelle aufgerundet, es kann also sein, dass
 sie addiert nicht 100 % ergeben. Die tatsächliche
 Erscheinungsrate wird nicht auf- oder abgerundet.
@@ -40223,7 +41369,7 @@ Gefährtensuchen erhältst. Steht bei der Erscheinungsrate
 hinter dem Pokémon-Namen ein *, heißt das, dass sich
 das Pokémon durch eine Entwicklungs-Episode entwickeln
 kann.
-[shop/scout_043] Die Erscheinungsraten für ★ werden nach der vierten
+[shop/scout_043] Die Erscheinungsraten für ★ werden nach der dritten
 Dezimalstelle aufgerundet, es kann also sein, dass
 sie addiert nicht 100 % ergeben. Die tatsächliche
 Erscheinungsrate wird nicht auf- oder abgerundet.
@@ -40251,7 +41397,7 @@ Bonus wird die Anzahl der Boni, die du erhalten kannst,
 wiederhergestellt. Die Boni werden in deine Geschenkbox
 geschickt.
 [shop/scout_046] Hinweis: Die Erscheinungsraten für ★ werden nach der
-vierten Dezimalstelle aufgerundet, es kann also sein, dass
+dritten Dezimalstelle aufgerundet, es kann also sein, dass
 sie addiert nicht 100 % ergeben. Die tatsächliche
 Erscheinungsrate wird nicht auf- oder abgerundet. Die
 Erscheinungsrate gilt für jede durchgeführte Gefährtensuche.
@@ -40337,7 +41483,7 @@ wird das Pokémon vor der Entwicklung angezeigt,
 wenn du sie durch Gefährtensuchen erhältst.
 [shop/scout_074] Bonusübersicht
 [shop/scout_075] Hinweis: Die Erscheinungsraten für ★ werden nach der
-vierten Dezimalstelle aufgerundet, es kann also sein, dass
+dritten Dezimalstelle aufgerundet, es kann also sein, dass
 sie addiert nicht 100 % ergeben. Die tatsächliche
 Erscheinungsrate wird nicht auf- oder abgerundet.
 Die Erscheinungsrate gilt für jede durchgeführte
@@ -40393,7 +41539,7 @@ nicht mehr ändern.
 [shop/scout_089] Erhalte ein 5★-Gefährtengespann!
 [shop/scout_090] Saison-Gefährten
 [shop/scout_091] Hinweis: Die Erscheinungsraten für ★ werden nach der
-vierten Dezimalstelle aufgerundet, es kann also sein, dass
+dritten Dezimalstelle aufgerundet, es kann also sein, dass
 sie addiert nicht 100 % ergeben. Die tatsächliche
 Erscheinungsrate wird nicht auf- oder abgerundet.
 Die Erscheinungsrate gilt für jede durchgeführte
@@ -40485,7 +41631,7 @@ Wenn du die letzte Stufe beendet hast, endet diese Gefährtensuche.
 [shop/scout_140] Hinweis: Geschenke findest du in der
 Geschenkbox unter Abholen.
 [shop/scout_141] Hinweis: Die Erscheinungsraten für ★ werden nach der
-vierten Dezimalstelle aufgerundet, es kann also sein, dass
+dritten Dezimalstelle aufgerundet, es kann also sein, dass
 sie addiert nicht 100 % ergeben. Die tatsächliche
 Erscheinungsrate wird nicht auf- oder abgerundet.
 Die Erscheinungsrate gilt für jede durchgeführte
@@ -40514,7 +41660,7 @@ Entwicklungs-Episode entwickeln kann.
 [shop/scout_145] Meister-Gefährten
 [shop/scout_146] Meisterfestival-Gefährten
 [shop/scout_147] Hinweis: Die Erscheinungsraten für ★ werden nach der
-vierten Dezimalstelle aufgerundet, es kann also sein, dass
+dritten Dezimalstelle aufgerundet, es kann also sein, dass
 sie addiert nicht 100 % ergeben. Die tatsächliche
 Erscheinungsrate wird nicht auf- oder abgerundet.
 Die Erscheinungsrate gilt für jede durchgeführte
@@ -40559,12 +41705,18 @@ kostenlos Gefährten ins Team holen!
 [shop/scout_156] Gefährtensuche x10
 [shop/scout_157] Setze spezielle Tickets ein, um
 Gefährten zu erhalten!
-[shop/scout_159] Die Erscheinungsraten für ★ werden nach der vierten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
+[shop/scout_159] Die Erscheinungsraten für ★ werden nach der dritten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
 [shop/scout_160] Ticket-G-Suche mit 5★
 nach Wahl x10
 [shop/scout_161] Du kannst eines von drei Gefährtengespannen wählen!
 [shop/scout_162] Musik-
 Schlüssel
+[shop/scout_163] Kostümevent-Gefährten
+[shop/scout_164] Hinweis: Die Erscheinungsraten für ★ werden nach der dritten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Kostümevent-Gefährten sind Gefährten, die während dieses Kostümevents für begrenzte Zeit erscheinen. Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses Kostümevents erscheinen werden. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
+[shop/scout_165] [Digit:6digits ] % Chance auf [Name:TrainerNameAndType ]!
+[shop/scout_166] Erhalte garantiert [Name:TrainerNameAndType ]!
+[shop/scout_167] Stufe 5: [Digit:6digits ] % Chance auf Erhalt der genannten Gefährten.
+Stufe 10: Du kannst ein Garantie-G-Sucheticket erhalten!
 [shop/scout_179] Hinweis: Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann. Du kannst dir nach der Durchführung der Gefährtensuche × 10 ein Gefährtengespann aussuchen.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
@@ -41127,6 +42279,22 @@ When you see a * displayed after a Pokémon name in the offering rate, that mean
 [shop/scout_160] 5★-Select Ticket Scout ×10
 [shop/scout_161] You can pick one of three sync pairs!
 [shop/scout_162] Song Key
+[shop/scout_163] Costume Sync Pair
+[shop/scout_164] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+
+The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
+
+You may get sync pairs that you have already acquired when you scout.
+
+When you are scouting, you will see sync pairs with unevolved Pokémon even if you have previously acquired and evolved them.
+
+Costume sync pairs are sync pairs that will appear for a limited time during this costume scout. There is a possibility that they will appear outside of this costume scout in the future.
+
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
+[shop/scout_165] [Digit:6digits ]% chance to scout [Name:TrainerNameAndType ]!
+[shop/scout_166] [Name:TrainerNameAndType ] guaranteed!
+[shop/scout_167] At Tier 5, you can get a ticket with a [Digit:6digits ]% chance to scout
+the featured sync pair. At Tier 10, you can get a guaranteed scout ticket!
 [shop/scout_179] When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 You may select your additional sync pair after the initial scout is complete.
 [shop/deck_item_sale_001] Exchange Gear
@@ -41439,11 +42607,11 @@ que elijas.
 [shop/scout_037] Notas
 [shop/scout_039] 5★ garantizadas
 [shop/scout_040] Festicompis
-[shop/scout_042] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+[shop/scout_042] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del tercer decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
-[shop/scout_043] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+[shop/scout_043] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del tercer decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 En la décima sesión de reclutamiento aparecerán solo parejas de compis de 5★. Para comprobar las tasas de aparición que se aplican a este reclutamiento, toca "5★ garantizadas".
@@ -41451,7 +42619,7 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 [shop/scout_044] Información importante
 [shop/scout_045] El número de bonus que puedes obtener al realizar reclutamientos es limitado. Este se restablecerá cada vez que dé comienzo un nuevo período de reclutamiento con bonus.
 Los bonus se enviarán a la caja de regalos.
-[shop/scout_046] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+[shop/scout_046] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del tercer decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 Los festicompis son parejas de compis que aparecen durante los Pokéfestivales. Es posible que vuelvan a ofrecerse en el futuro, incluso fuera de un Pokéfestival.
@@ -41496,7 +42664,7 @@ en las preguntas frecuentes).
 [shop/scout_072] Nota: Se usarán joyas de pago. Aunque el Pokémon de una pareja de compis haya evolucionado, si reclutas una pareja de compis idéntica, el Pokémon aparecerá siempre en su primera fase evolutiva.
 [shop/scout_073] Nota: Se usarán primero las joyas sin coste. Aunque el Pokémon de una pareja de compis haya evolucionado, si reclutas una pareja de compis idéntica, el Pokémon aparecerá siempre en su primera fase evolutiva.
 [shop/scout_074] Lista de bonificaciones
-[shop/scout_075] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+[shop/scout_075] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del tercer decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
@@ -41518,7 +42686,7 @@ de compis?
 [shop/scout_088] Elige una pareja
 [shop/scout_089] ¡Elige una pareja de compis de 5★!
 [shop/scout_090] Compis de temporada
-[shop/scout_091] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+[shop/scout_091] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del tercer decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 Los compis de temporada son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de temporada, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de temporada.
@@ -41585,7 +42753,7 @@ El reclutamiento terminará cuando completes la última fase.
 [shop/scout_139] Regalo de la [Digit:2digits ].ª vez
 [shop/scout_140] Nota: Podrás encontrar tus regalos en el apartado
 Pendientes de la caja de regalos.
-[shop/scout_141] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+[shop/scout_141] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del tercer decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
@@ -41596,7 +42764,7 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 compis de 5★!
 [shop/scout_145] Compis maestros
 [shop/scout_146] Festicompis maestros
-[shop/scout_147] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+[shop/scout_147] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del tercer decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 Los festicompis maestros son parejas de compis que aparecen durante los Pokéfestivales maestros. Es posible que vuelvan a ofrecerse en el futuro, incluso fuera de un Pokéfestival maestro.
@@ -41624,7 +42792,7 @@ usando un Billete Reclutamiento ×10!
 [shop/scout_156] Reclutamiento billete ×10
 [shop/scout_157] ¡Puedes reclutar compis con los
 billetes especiales!
-[shop/scout_159] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del cuarto decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+[shop/scout_159] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del tercer decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
 Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
 Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
 La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
@@ -41636,6 +42804,16 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 de compis a tu elección!
 [shop/scout_162] Llave
 musical
+[shop/scout_163] Compis con traje especial
+[shop/scout_164] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del tercer decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
+Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
+Los compis con traje especial son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de trajes especiales, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de trajes especiales.
+Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
+[shop/scout_165] ¡[Name:TrainerNameAndType ] con un [Digit:6digits ]% de probabilidad!
+[shop/scout_166] ¡[Name:TrainerNameAndType ] con total garantía!
+[shop/scout_167] Fase 5: Billete con [Digit:6digits ]% de probabilidad de reclutar a los compis destacados.
+Fase 10: Billete para reclutarlos con total garantía.
 [shop/scout_179] Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
 Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis.
 [shop/deck_item_sale_001] Canjear accesorios
@@ -41955,11 +43133,11 @@ pour passer 10 Appels Duo ?
 [shop/scout_037] Avertissement
 [shop/scout_039] 5★ garanti !
 [shop/scout_040] Duo Festival
-[shop/scout_042] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Les Duos ayant une astérisque (*) après le nom de leur Pokémon à côté du pourcentage peuvent faire évoluer leur Pokémon si vous débloquez leur épisode d'évolution.
-[shop/scout_043] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dixième Appel Duo vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+[shop/scout_042] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Les Duos ayant une astérisque (*) après le nom de leur Pokémon à côté du pourcentage peuvent faire évoluer leur Pokémon si vous débloquez leur épisode d'évolution.
+[shop/scout_043] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dixième Appel Duo vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 [shop/scout_044] Avertissement
 [shop/scout_045] Le nombre de bonus pouvant être reçus lors de chaque Appel Duo est déterminé à l'avance. Il sera réinitialisé lorsque la prochaine période d'Appel Duo avec bonus inclus commencera. Les bonus seront envoyés sur la page « Cadeaux ».
-[shop/scout_046] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur.
+[shop/scout_046] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur.
 
 Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout.
 
@@ -42015,7 +43193,7 @@ montée au niveau [Digit:1digit ].
 [shop/scout_072] Remarque : vos Diamants payants seront utilisés. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
 [shop/scout_073] Remarque : les Diamants non payants seront utilisés en premier. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
 [shop/scout_074] Liste des bonus
-[shop/scout_075] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon grâce à un épisode d'évolution. À nombre d'★ égal, les Duos dont le type est à l'affiche en ce moment auront plus de chances d'être appelés que les autres Duos. Un type est à l'affiche quand des Duos possédant des capacités de ce type sont à l'affiche.
+[shop/scout_075] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon grâce à un épisode d'évolution. À nombre d'★ égal, les Duos dont le type est à l'affiche en ce moment auront plus de chances d'être appelés que les autres Duos. Un type est à l'affiche quand des Duos possédant des capacités de ce type sont à l'affiche.
 [shop/scout_077] Choisissez en plus un des Duos 5★
 proposés !
 [shop/scout_078] 10 Appels Duo (spécial)
@@ -42033,7 +43211,7 @@ une fois que vous l'aurez reçu.
 [shop/scout_088] Choisir un Duo
 [shop/scout_089] Recevez le Duo 5★ de votre choix !
 [shop/scout_090] Duos saisonniers
-[shop/scout_091] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages de chance réels ne sont ni arrondis au supérieur ni à l'inférieur. Les pourcentages de chance s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Un Duo saisonnier est un Duo apparaissant pendant une durée limitée, à l'occasion d'un Appel Duo saisonnier. Il est possible qu'un Duo saisonnier apparaisse à nouveau, même après la fin de leur Appel Duo saisonnier. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+[shop/scout_091] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages de chance réels ne sont ni arrondis au supérieur ni à l'inférieur. Les pourcentages de chance s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Un Duo saisonnier est un Duo apparaissant pendant une durée limitée, à l'occasion d'un Appel Duo saisonnier. Il est possible qu'un Duo saisonnier apparaisse à nouveau, même après la fin de leur Appel Duo saisonnier. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 [shop/scout_092] Les Duos affichés sur l'écran de pourcentages sont dans leur état initial.
 [shop/scout_093] Remarque : les Duos affichés sur l'écran des Duos sont montrés
 dans leur état initial.
@@ -42099,14 +43277,14 @@ Une fois le dernier palier franchi, cet Appel Duo ne sera plus accessible.
 [shop/scout_139] Cadeau n° [Digit:2digits ]
 [shop/scout_140] Les cadeaux ont été envoyés dans la section
 « Accepter » du menu « Cadeaux ».
-[shop/scout_141] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+[shop/scout_141] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur. Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout. Il est possible qu'un même Duo apparaisse plusieurs fois. Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats. Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages. Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 [shop/scout_142] [Digit:3digits ] Appel[FR:Qty P="s" ]
 [shop/scout_143] Appel Duo avec Bons
 [shop/scout_144] Choisissez en plus un des Duos 5★
 proposés !
 [shop/scout_145] Master Duos
 [shop/scout_146] Master Duos Festival
-[shop/scout_147] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la quatrième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur.
+[shop/scout_147] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur.
 
 Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout.
 
@@ -42148,6 +43326,22 @@ Bon 5★ au choix
 [shop/scout_161] Vous pouvez choisir un Duo parmi trois disponibles !
 [shop/scout_162] Clé
 Mélodie
+[shop/scout_163] Duo Look Spécial
+[shop/scout_164] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur.
+
+Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout.
+
+Il est possible qu'un même Duo apparaisse plusieurs fois.
+
+Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
+
+Les Duos Look Spécial sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo Look Spécial. À l'avenir, les Duos Look Spécial pourront aussi apparaître en dehors de cet Appel Duo Look Spécial.
+
+Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+[shop/scout_165] [Digit:6digits ] % de chances d'obtenir [Name:TrainerNameAndType ] !
+[shop/scout_166] 100 % de chances d'obtenir [Name:TrainerNameAndType ] !
+[shop/scout_167] Au palier 5, vous pourrez recevoir un bon vous octroyant [Digit:6digits ] % de chances d'obtenir
+ce Duo. Et au palier 10, vous pourrez obtenir un bon vous garantissant ce Duo !
 [shop/scout_179] Remarque : lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 Vous pourrez obtenir un Duo supplémentaire de votre choix après avoir passé l'Appel Duo.
 [shop/deck_item_sale_001] Échanger équipement
@@ -42478,13 +43672,13 @@ per fare dieci ricerche Unità di fila?
 [shop/scout_037] Informazioni importanti
 [shop/scout_039] Unità con 5★ garantita
 [shop/scout_040] Unità Masterparty
-[shop/scout_042] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+[shop/scout_042] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
 Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
 A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
 È possibile che la stessa Unità compaia più volte nella ricerca.
 Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identiche nella ricerca Unità saranno visualizzate con un Pokémon non ancora evoluto.
 I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
-[shop/scout_043] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+[shop/scout_043] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
 
 Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
 
@@ -42503,7 +43697,7 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 [shop/scout_045] - Il numero di bonus ricevuti da ogni ricerca Unità è prestabilito.
 - Il numero di volte in cui è possibile ricevere un bonus verrà ripristinato durante il periodo successivo di ricerche Unità che prevedono bonus.
 - I bonus appariranno nel menu Regali.
-[shop/scout_046] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+[shop/scout_046] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
 Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
 A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
 È possibile che la stessa Unità compaia più volte nella ricerca.
@@ -42564,7 +43758,7 @@ Nella ricerca Unità, le Unità sono mostrate con Pokémon
 non evoluti, anche se le hai già ottenute e ne hai fatto
 evolvere il Pokémon.
 [shop/scout_074] Lista bonus
-[shop/scout_075] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+[shop/scout_075] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
 
 Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
 
@@ -42605,7 +43799,7 @@ l'Unità.
 [shop/scout_088] Scegli un'Unità
 [shop/scout_089] Ottieni un'Unità 5★a piacere!
 [shop/scout_090] Unità festive
-[shop/scout_091] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+[shop/scout_091] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
 Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
 A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
 È possibile che la stessa Unità compaia più volte nella ricerca.
@@ -42683,7 +43877,7 @@ al completamento dell'ultimo gradino.
 [shop/scout_139] regalo [Digit:2digits ]ª volta
 [shop/scout_140] I regali saranno inviati alla sezione "Da accettare"
 dei Regali.
-[shop/scout_141] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+[shop/scout_141] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
 
 Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
 
@@ -42703,7 +43897,7 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 [shop/scout_144] Puoi anche scegliere un'Unità 5★!
 [shop/scout_145] Unità master
 [shop/scout_146] Unità Mastergala
-[shop/scout_147] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+[shop/scout_147] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
 Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
 A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
 È possibile che la stessa Unità compaia più volte nella ricerca.
@@ -42732,7 +43926,7 @@ utilizzando un Ticket 10 ricerche Unità!
 [shop/scout_156] Unicerca con ticket:
 10 ricerche Unità
 [shop/scout_157] Puoi ottenere delle Unità con dei ticket speciali!
-[shop/scout_159] Il tasso di comparsa per numero di ★ è arrotondato oltre la quarta cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+[shop/scout_159] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
 Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
 A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
 È possibile che la stessa Unità compaia più volte nella ricerca.
@@ -42747,6 +43941,19 @@ con un'Unità a scelta!
 [shop/scout_161] Puoi ottenere un'Unità a scelta tra tre!
 [shop/scout_162] Chiave
 musicale
+[shop/scout_163] Unità in costume
+[shop/scout_164] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
+A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
+È possibile che la stessa Unità compaia più volte nella ricerca.
+Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identiche nella ricerca Unità saranno visualizzate con un Pokémon non ancora evoluto.
+Le Unità in costume sono Unità che compaiono durante questa ricerca Unità in costume.
+È possibile che le Unità in costume compaiano anche in ricerche Unità successive, non necessariamente in costume.
+I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
+[shop/scout_165] Probabilità di ottenere [Name:TrainerNameAndType ]: [Digit:6digits ]%!
+[shop/scout_166] Ottenimento di [Name:TrainerNameAndType ] garantito!
+[shop/scout_167] Al gradino 5 riceverai un ticket con il [Digit:6digits ]% di probabilità di ottenere
+l'Unità in evidenza. Il ticket del gradino 10 ne garantisce l'ottenimento!
 [shop/scout_179] I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
 L'Unità aggiuntiva può essere scelta dopo aver completato la ricerca Unità iniziale.
 [shop/deck_item_sale_001] Scambio accessori
@@ -43333,6 +44540,20 @@ STEPによってはプレゼントが設定されている場合があります�
 [shop/scout_161] 3組のうちからさらに選んで1組獲得！
 [shop/scout_162] BGM
 解放条件
+[shop/scout_163] スペシャルコス限定バディーズ
+[shop/scout_164] ※★ごとの提供割合は、小数第4位以下がある場合に切捨てて表示しており、全てを合算しても100％にならない場合があります。
+※実際の提供割合は、小数第4位以下の四捨五入、切上げ、切捨て等を行っておりません。
+※バディーズサーチは1回ごとにその提供割合にもとづいて抽選を行います。
+そのため、バディーズサーチを特定回数繰り返しても、必ず特定のバディーズが出現するという仕組みではありません。
+※バディーズサーチからは同じバディーズが出現する場合がございます。
+※ポケモン進化後の同一バディーズを既に所持している場合でも、バディーズサーチでは進化前のバディーズが表示されます。
+※スペシャルコス限定バディーズとはこのスペシャルコス限定バディーズサーチの期間中に出現するバディーズです。
+※スペシャルコス限定バディーズは今後スペシャルコス限定バディーズサーチ以外でも出現する可能性があります。
+※提供割合にてポケモン名の後ろに(*)が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます。
+[shop/scout_165] [Name:TrainerNameAndType ]の出現率が[Digit:6digits ]%！
+[shop/scout_166] [Name:TrainerNameAndType ]が確定！
+[shop/scout_167] STEP5ではピックアップバディーズが[Digit:6digits ]％で出現するチケットがもらえ
+STEP10では確定で出現するチケットがもらえる！
 [shop/scout_179] ※提供割合にてポケモン名の後ろに（*）が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます
 ※バディーズはバディーズサーチ実行後に選ぶことができます
 [shop/deck_item_sale_001] 装備売却
@@ -43939,6 +45160,24 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 [shop/scout_161] 3 버디즈 중 하나를 선택해서 추가 획득!
 [shop/scout_162] BGM
 해방 조건
+[shop/scout_163] 스페셜 코스튬 한정 버디즈
+[shop/scout_164] ※★에 따른 제공 확률은 표기상 소수점 4자리 이하는 버려지므로
+총합해도 100%가 되지 않는 경우가 있습니다.
+※실제 제공 확률은 소수점 4자리 이하를 반올림, 올림, 내림 등을
+하지 않습니다.
+※버디즈서치는 1회마다 해당 제공 확률을 기반하여 추첨을 진행합니다.
+따라서 버디즈서치를 특정 횟수 반복하더라도,
+특정 버디즈가 반드시 출현하는 구조가 아닙니다.
+※버디즈서치에서는 같은 버디즈가 출현하는 경우가 있습니다.
+※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다.
+※스페셜 코스튬 한정 버디즈란 이 스페셜 코스튬 한정 버디즈서치 기간 중에 출현할 가능성이 있습니다.
+※스페셜 코스튬 한정 버디즈는 이후 스페셜 코스튬 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
+※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는
+진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
+[shop/scout_165] [Name:TrainerNameAndType ]의 출현율이 [Digit:6digits ]%!
+[shop/scout_166] [Name:TrainerNameAndType ] 확정!
+[shop/scout_167] STEP5에서는 픽업 버디즈가 [Digit:6digits ]%로 출현하는 티켓을,
+STEP10에서는 확정적으로 출현하는 티켓을 받을 수 있다!
 [shop/scout_179] ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다
 ※버디즈는 버디즈서치를 실행한 후에 선택할 수 있습니다
 [shop/deck_item_sale_001] 장비 판매
@@ -44470,6 +45709,20 @@ shop_zh-TW.lsd
 [shop/scout_161] 可從3對拍組中選擇1對來獲得！
 [shop/scout_162] BGM
 解鎖條件
+[shop/scout_163] 特別套裝限定拍組
+[shop/scout_164] ※各種★的提供比例於顯示時會無條件捨去小數點第三位後的餘數，因此合計所有提供比例後可能會有未達100%的情形
+※實際的提供比例並不會將小數點第三位後的餘數四捨五入、無條件捨去或無條件進位
+※每1次的拍組搜尋皆會根據提供比例進行抽選
+因此，即使反覆進行特定次數的拍組搜尋，也不保證會出現特定的拍組
+※拍組搜尋的結果有可能會出現相同的拍組
+※即使玩家持有的是寶可夢進化後的拍組，在拍組搜尋時仍只會顯示寶可夢進化前的該拍組
+※特別套裝限定拍組是會在特別套裝限定拍組搜尋期間出現的拍組
+※特別套裝限定拍組今後有可能也會在非特別套裝限定拍組搜尋期間出現
+※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
+[shop/scout_165] [Name:TrainerNameAndType ]的出現機率為[Digit:6digits ]%！
+[shop/scout_166] 必得[Name:TrainerNameAndType ]！
+[shop/scout_167] 在STEP5中可獲得精選拍組會以[Digit:6digits ]％的機率出現的票券
+在STEP10中可獲得拍組必定出現的票券！
 [shop/scout_179] ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
 ※可於拍組搜尋後自選1對拍組
 [shop/deck_item_sale_001] 出售裝備

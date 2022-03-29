@@ -292,4 +292,12 @@
     "28010800": "Liderazgo de Kalos",
     "13017200": "Impulso Psíquico +[Name:PassiveSkillNameDigit ]",
     "13050600": "Cambio Planta",
+    "18098200": "Acción de Estado Velocidad ↑ M +[Name:PassiveSkillNameDigit ]",
+    "18098300": "Acción de Estado Críticos ↑ M +[Name:PassiveSkillNameDigit ]",
+    "17047900": "Acc. de Estado Sig. Fís. ↑ Simple +[Name:PassiveSkillNameDigit ]",
+    "16014700": "Precisión ↑ Compimpulsora +[Name:PassiveSkillNameDigit ]",
+    "16014800": "Ataque ↑ Compimpulsor +[Name:PassiveSkillNameDigit ]",
+    "16014900": "Defensa ↑ Compimpulsora +[Name:PassiveSkillNameDigit ]",
+    "12011500": "Velocidad Zona Bicho +[Name:PassiveSkillNameDigit ]",
+    "17048000": "Daño Parálisis Rival +[Name:PassiveSkillNameDigit ]",
 }

@@ -414,5 +414,11 @@
     "999525": "This move’s power increases when the zone is Flying Zone.",
     "999524": "This move’s power increases when weather conditions are in effect.",
     "999523": "Transform into Complete Forme until the end of battle.",
+    "999522": "Changes a zone to a Bug Zone. (A Bug Zone powers up Bug-type attacks.)",
+    "999521": "Raises the accuracy and evasiveness of all allied sync pairs by [Digit:1digit Idx=\"1\" ] stat [EN:Qty Ref=\"1\" S=\"rank\" P=\"ranks\" ].",
+    "999520": "Raises the user’s [Name:ReferencedMessageTag Idx=\"2\" ] by [Digit:1digit Idx=\"3\" ] stat [EN:Qty Ref=\"3\" S=\"rank\" P=\"ranks\" ].",
+    "999519": "Applies the [Name:ReferencedMessageTag Idx=\"1\" ] to the user.",
+    "999518": "Activates one of several additional effects at random.",
+    "999517": "Applies the [Name:ReferencedMessageTag Idx=\"1\" ] to all allied sync pairs.",
     "999509": "Lowers the Attack of all opposing sync pairs by [Digit:1digit ] stat [EN:Qty S=\"rank\" P=\"ranks\" ].",
 }

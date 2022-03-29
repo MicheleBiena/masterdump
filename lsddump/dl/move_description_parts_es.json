@@ -414,5 +414,11 @@
     "999525": "La potencia de este movimiento aumenta cuando la zona es Voladora.",
     "999524": "La potencia de este movimiento aumenta cuando hay condiciones atmosféricas activas.",
     "999523": "Adopta la Forma Completa. Vuelve a la normalidad tras terminar el combate.",
+    "999522": "Crea una Zona Bicho. (La Zona Bicho potencia los ataques de tipo Bicho).",
+    "999521": "Aumenta la Precisión y la Evasión del bando del usuario en [Digit:1digit Idx=\"1\" ] [ES:Qty Ref=\"1\" S=\"nivel\" P=\"niveles\" ].",
+    "999520": "Aumenta el [Name:ReferencedMessageTag Idx=\"2\" ] del usuario en [Digit:1digit Idx=\"3\" ] [ES:Qty Ref=\"3\" S=\"nivel\" P=\"niveles\" ].",
+    "999519": "Aplica el [Name:ReferencedMessageTag Idx=\"1\" ] al usuario.",
+    "999518": "Activa un efecto secundario al azar.",
+    "999517": "Aplica el [Name:ReferencedMessageTag Idx=\"1\" ] al bando del usuario.",
     "999509": "Reduce el Ataque del bando rival en [Digit:1digit ] [ES:Qty S=\"nivel\" P=\"niveles\" ].",
 }

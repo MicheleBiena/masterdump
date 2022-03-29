@@ -292,4 +292,12 @@
     "28010800": "Kalos Flag Bearer",
     "13017200": "Psychic Power [Name:PassiveSkillNameDigit ]",
     "13050600": "Grass Shift",
+    "18098200": "Team Viral Haste [Name:PassiveSkillNameDigit ]",
+    "18098300": "Critical Affliction [Name:PassiveSkillNameDigit ]",
+    "17047900": "Mighty Affliction [Name:PassiveSkillNameDigit ]",
+    "16014700": "Locked-On Sync [Name:PassiveSkillNameDigit ]",
+    "16014800": "Brawn Sync [Name:PassiveSkillNameDigit ]",
+    "16014900": "Tough Sync [Name:PassiveSkillNameDigit ]",
+    "12011500": "Insect Acceleration [Name:PassiveSkillNameDigit ]",
+    "17048000": "Static Cling [Name:PassiveSkillNameDigit ]",
 }

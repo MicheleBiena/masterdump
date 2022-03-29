@@ -414,5 +414,11 @@
     "999525": "Questa mossa aumenta di potenza in presenza di una Zona Volante.",
     "999524": "Se ci sono condizioni atmosferiche attive, questa mossa aumenta di potenza.",
     "999523": "Permette a Zygarde di assumere la Forma Perfetta. L'effetto svanisce al termine della lotta.",
+    "999522": "Trasforma una zona in una Zona Coleottero. (La Zona Coleottero aumenta la potenza degli attacchi di tipo Coleottero.)",
+    "999521": "Aumenta la precisione e l'elusione di tutte le Unità alleate di [Digit:1digit Idx=\"1\" ] [IT:Qty Ref=\"1\" S=\"grado\" P=\"gradi\" ].",
+    "999520": "Aumenta l'[Name:ReferencedMessageTag Idx=\"2\" ] di chi la usa di [Digit:1digit Idx=\"3\" ] [IT:Qty Ref=\"3\" S=\"grado\" P=\"gradi\" ].",
+    "999519": "Applica l'[Name:ReferencedMessageTag Idx=\"1\" ] a chi la usa.",
+    "999518": "Attiva un effetto aggiuntivo a caso tra vari.",
+    "999517": "Applica l'[Name:ReferencedMessageTag Idx=\"1\" ] a tutte le Unità alleate.",
     "999509": "Riduce l'Attacco di tutte le Unità avversarie di [Digit:1digit ] [IT:Qty S=\"grado\" P=\"gradi\" ].",
 }
