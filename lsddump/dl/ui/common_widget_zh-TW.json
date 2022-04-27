@@ -131,6 +131,8 @@
     "common_widget/dialog_083": "有尚未領取的拍組\n到票券專用拍組搜尋\n選擇拍組吧",
     "common_widget/dialog_084": "有尚未領取的拍組\n請選擇1對喜歡的拍組",
     "common_widget/dialog_085": "使用[Name:Item ]後\n可從下列潛能中\n隨機學習１個潛能",
+    "common_widget/dialog_086": "獲得後將會超過持有上限\n故無法獲得下列道具",
+    "common_widget/dialog_087": "今後不再顯示",
     "common_widget/dialog_100": "使用[Name:Item ]後\n可學習下列潛能",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",

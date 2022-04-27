@@ -64,4 +64,5 @@
     "error_dialog_contents/BR_30109": "Há uma atualização do consentimento de seu representante legal.\nPara continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.\nReinicie o jogo\n",
     "error_dialog_contents/BR_30110": "Pedido de Aprovação Falhou",
     "error_dialog_contents/32100": "Trasferendo i dati di gioco a un dispositivo\ncon un sistema operativo diverso (come iOS\no Android) da quello del dispositivo utilizzato\nper l'acquisto di un pacchetto, non sarà possibile\nricevere le gemme a pagamento ottenute\nsoddisfacendo i requisiti. Per ricevere le gemme\na pagamento puoi trasferire nuovamente i dati\na un dispositivo dotato dello stesso sistema operativo\nutilizzato all'acquisto.",
+    "error_dialog_contents/30913": "Questa Unicerca non può essere\neffettuata per via di una manutenzione\nin corso. Ci scusiamo per il disagio.",
 }

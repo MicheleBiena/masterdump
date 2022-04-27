@@ -67,6 +67,8 @@
     "setting/system_018": "Maximum",
     "setting/system_019": "Limitbruch",
     "setting/system_020": "Bestätige, ob du zum Limitbruch-Menü\nwechseln willst, wenn Gefährten ihren\nmaximalen Level erreicht haben.",
+    "setting/system_023": "Speicherlimitwarnung",
+    "setting/system_024": "Erhalte eine Warnung, wenn das\nmaximale Speicherlimit für Items\nüberschritten wurde.",
     "setting/dialog_001": "Spitzname",
     "setting/dialog_002": "Bitte gib einen Spitznamen ein.",
     "setting/dialog_003": "Hinweis: Wird der Spitzname geändert, kann er erst\nnach 30 Tagen wieder bearbeitet werden.",

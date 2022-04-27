@@ -67,6 +67,8 @@
     "setting/system_018": "Máxima",
     "setting/system_019": "Mensaje de nivel máximo",
     "setting/system_020": "Muestra un mensaje para acceder al\nmenú Aumentar Nv. máx. cuando unos\ncompis alcanzan su nivel máximo.",
+    "setting/system_023": "Mensaje límite de objetos",
+    "setting/system_024": "Muestra un mensaje cuando superes\nla cantidad límite de objetos.",
     "setting/dialog_001": "Nombre del jugador",
     "setting/dialog_002": "Introduce tu apodo.",
     "setting/dialog_003": "Aviso: Una vez cambiado el apodo, deberás esperar un\nperíodo de 30 días para poder volver a cambiarlo.",

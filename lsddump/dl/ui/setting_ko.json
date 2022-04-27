@@ -67,6 +67,8 @@
     "setting/system_018": "매우 높음",
     "setting/system_019": "한계돌파 확인",
     "setting/system_020": "\"레벨업\"에 의해 버디즈의 레벨이 최대가 되었을 때 한계돌파 메뉴로 이동할 것인지 확인합니다",
+    "setting/system_023": "도구의 보유 상한 초과 알림",
+    "setting/system_024": "도구가 보유 상한을 초과했을 때 알립니다",
     "setting/dialog_001": "플레이어 이름 입력",
     "setting/dialog_002": "플레이어 이름을 입력해 주십시오",
     "setting/dialog_003": "※플레이어 이름을 변경하면\n30일 동안은 다시 변경할 수 없습니다",

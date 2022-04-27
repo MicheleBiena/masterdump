@@ -131,6 +131,8 @@
     "common_widget/dialog_083": "You haven’t chosen a sync pair to\nteam up with yet. Select a sync pair in\nthe Ticket Scout!",
     "common_widget/dialog_084": "You haven’t chosen a sync pair\nto team up with yet. Please select\na sync pair.",
     "common_widget/dialog_085": "Using a [Name:Item ]\nallows you to learn one of the following\nlucky skills below at random.",
+    "common_widget/dialog_086": "Maximum item limit exceeded. You were\nunable to claim the following items.",
+    "common_widget/dialog_087": "Don’t show this again.",
     "common_widget/dialog_100": "Using a [Name:Item ]\nallows you to learn the following\nlucky skill.",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",

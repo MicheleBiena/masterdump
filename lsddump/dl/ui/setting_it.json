@@ -67,6 +67,8 @@
     "setting/system_018": "Altissima",
     "setting/system_019": "Vai a Sblocco livello max",
     "setting/system_020": "Se un'Unità sale al livello massimo,\nti verrà chiesto se vuoi aprire\nla schermata \"Sblocco livello max\".",
+    "setting/system_023": "Notifica limite strumenti",
+    "setting/system_024": "Ricevi una notifica quando superi\nil limite massimo di strumenti.",
     "setting/dialog_001": "Nome giocatore",
     "setting/dialog_002": "Inserisci il tuo soprannome.",
     "setting/dialog_003": "Attenzione: una volta confermato il soprannome, dovrai\naspettare 30 giorni per poterlo cambiare.",

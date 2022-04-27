@@ -420,5 +420,12 @@
     "999519": "讓自己變成[Name:ReferencedMessageTag Idx=\"1\" ]狀態。",
     "999518": "從各種追加效果當中，發動其中一種追加效果。",
     "999517": "讓我方全體拍組變成[Name:ReferencedMessageTag Idx=\"1\" ]狀態。",
+    "999516": "讓對手場地變成[Name:ReferencedMessageTag ]。 \n（[Name:ReferencedMessageTag ]：此狀態會讓拍組在每次行動時受到[Name:ReferencedMessageTag Idx=\"1\" ]屬性的傷害。）",
+    "999515": "當天氣為沙暴時，還會再提高我方全體拍組的防禦和特防[Digit:1digit ]階段。",
+    "999514": "當天氣為沙暴時，威力會提高。",
+    "999513": "提高我方全體拍組的防禦、特防和速度[Digit:1digit ]階段。",
+    "999512": "當天氣為日照強烈時，還會再提高我方全體拍組的[Name:ReferencedMessageTag Idx=\"1\" ][Digit:1digit ]階段。",
+    "999511": "對手的特防降低得越多，威力就越大。",
+    "999510": "不攻擊對手，只是蹦蹦跳跳的，什麼事也不會發生……",
     "999509": "降低對手全體拍組的攻擊[Digit:1digit ]階段。",
 }

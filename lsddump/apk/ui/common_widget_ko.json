@@ -131,6 +131,8 @@
     "common_widget/dialog_083": "아직 받지 않은\n버디즈가 있습니다\n티켓 전용 버디즈서치에서\n버디즈를 선택해 봅시다",
     "common_widget/dialog_084": "아직 받지 않은\n버디즈가 있습니다\n원하는 버디즈를 하나 선택해 주십시오",
     "common_widget/dialog_085": "[Name:Item ][Kor:Particle char=\"wo\" ] 사용하면\n아래의 포텐셜 중에서 랜덤으로\n1개를 습득할 수 있습니다",
+    "common_widget/dialog_086": "보유 상한을 초과하여\n아래의 도구를 획득하지 못했습니다.",
+    "common_widget/dialog_087": "이후 표시하지 않는다",
     "common_widget/dialog_100": "[Name:Item ][Kor:Particle char=\"wo\" ] 사용하면\n아래의 포텐셜을 습득할 수 있습니다",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",

@@ -64,4 +64,5 @@
     "error_dialog_contents/BR_30109": "Há uma atualização do consentimento de seu representante legal.\nPara continuar jogando o jogo, você é obrigado a obter o consentimento de seu representante legal.\nReinicie o jogo\n",
     "error_dialog_contents/BR_30110": "Pedido de Aprovação Falhou\r",
     "error_dialog_contents/32100": "該当のパックを購入した端末と異なる\nOS（iOSやAndroidなど）の\n端末にデータを引き継いだ場合は\n条件達成による有償ダイヤを\n受け取ることはできません\n購入した端末と同じOSの端末に\n再度データを引き継いでお受け取りください",
+    "error_dialog_contents/30913": "本バディーズサーチはメンテナンスのため\nご利用いただけません\n\nご迷惑をおかけしております",
 }

@@ -131,6 +131,8 @@
     "common_widget/dialog_083": "Tienes disponible una pareja de compis\nque aún no has recibido. ¡Elígela en el\nreclutamiento billete!",
     "common_widget/dialog_084": "Tienes disponible una pareja de compis\nque aún no has recibido. Elige la\npareja de compis que prefieras.",
     "common_widget/dialog_085": "Puedes desbloquear una de las siguientes\nhabilidades fortuitas al azar utilizando la\n[Name:Item ]:",
+    "common_widget/dialog_086": "Has superado el máximo de objetos.\nNo has podido recibir los siguientes:",
+    "common_widget/dialog_087": "No volver a mostrar.",
     "common_widget/dialog_100": "Puedes desbloquear la siguiente \nhabilidad fortuita utilizando la\n[Name:Item ]:",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Nv.",

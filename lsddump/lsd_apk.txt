@@ -3024,6 +3024,88 @@ auszudrücken
 [quest_title_1030110000420200] Die Macht eines Teams
 [quest_title_1030403000601100] Rätselhafter Kampf
 [quest_title_1030440101008011] Vs. MaMo-Rot
+[quest_group_title_100103] Johto
+[quest_group_title_10140100000] MaMo-Giovanni
+[quest_group_title_10148100000] MaMo-Jens
+[quest_group_title_10152000000] Herbaro
+[quest_group_title_10154000000] Teresa
+[quest_group_title_10176000000] Lucian
+[quest_group_detail_100103] Team Rocket ist zurück
+[quest_title_1030110000450100] Eine neue Kraft
+[quest_title_1030110000450600] Vs. Lance 1
+[quest_title_1030110000450200] Der Pfad des weltbesten
+Trainers
+[quest_title_1030110000450700] Vs. Lance 2
+[quest_title_1030110000450300] Nicht zu unterschätzen
+[quest_title_1030110000450800] Vs. Lance 3
+[quest_title_1030110000450400] Das geheime Passwort
+[quest_title_1030110000450900] Vs. Atlas
+[quest_title_1030110000450500] Die Macht einer Organisation
+[quest_title_1030404000601010] Vs. Lambda 1
+[quest_title_1030404000601020] Vs. Lambda 2
+[quest_title_1030404000601030] Vs. Lambda 3
+[quest_title_1030404000601040] Täglicher schwerer Kampf
+[quest_title_1030404000601050] Herausforderungskampf 1
+[quest_title_1030404000601060] Herausforderungskampf 2
+[quest_title_1030220140100000] Ein Tag mit MaMo-Giovanni
+[quest_title_1030404000602010] Vs. Johtos Elite 1
+[quest_title_1030404000602020] Vs. Johtos Elite 2
+[quest_title_1030404000606010] Vertauschte Eier
+[quest_title_1030404000606020] Plitsch! Platsch! Platscher!
+[quest_title_1030404000606030] Finde alle Eier!
+[quest_title_1030404000603010] Eine rätselhafte Person...
+[quest_title_1030404000603030] Vs. Mysteriöse Wanderer 1
+[quest_title_1030404000603040] Vs. Mysteriöse Wanderer 2
+[quest_title_1030404000603050] Vs. Mysteriöse Wanderer 3
+[quest_title_1030404000603060] Vs. Mysteriöse Wanderer 4
+[quest_title_1030404000603070] Täglicher schwerer Kampf
+[quest_title_1030404000603020] Lüftung des Mysteriums
+[quest_title_1030220148100000] Ein Tag mit MaMo-Jens
+[quest_title_1030220152000000] Ein Tag mit Herbaro
+[quest_title_1030220154000000] Ein Tag mit Teresa
+[quest_title_1030220176000000] Ein Tag mit Lucian
+[quest_title_1030440400301010] Vs. Tali 1
+[quest_title_1030440400302010] Vs. Tali 2
+[quest_title_1030440400303010] Vs. Tali 3
+[quest_title_1030440400304010] Vs. Tali 4
+[quest_title_1030440400305010] Täglicher Bonus-Kampf
+[quest_title_1030404000605010] Das Tor zur Sinnoh-Region
+[quest_title_1030404000605020] Trainiere mit Herbaro! 1
+[quest_title_1030404000605030] Trainiere mit Herbaro! 2
+[quest_title_1030404000605040] Trainiere mit Teresa! 1
+[quest_title_1030404000605050] Trainiere mit Teresa! 2
+[quest_title_1030404000605060] Trainiere mit Lucian! 1
+[quest_title_1030404000605070] Trainiere mit Lucian! 2
+[quest_title_1030404000605080] Tägliches Training mit
+Herbaro
+[quest_title_1030404000605090] Tägliches Training mit Teresa
+[quest_title_1030404000605100] Tägliches Training mit Lucian
+[quest_title_1030404000605110] Herausforderungskampf:
+Ignaz 1
+[quest_title_1030404000605120] Herausforderungskampf:
+Ignaz 2
+[quest_title_1030404000605130] Herausforderungskampf:
+Teresa 1
+[quest_title_1030404000605140] Herausforderungskampf:
+Teresa 2
+[quest_title_1030404000604010] Jens und die Legende
+[quest_title_1030404000604020] Regenbogengefieder
+[quest_title_1030404000604060] Vs. Trainer aus Passio 1
+[quest_title_1030404000604030] Ho-Ohs Schatten
+[quest_title_1030404000604070] Vs. Trainer aus Passio 2
+[quest_title_1030404000604040] Fortlaufendes Training
+[quest_title_1030404000604080] Vs. Trainer aus Passio 3
+[quest_title_1030404000604050] Eine neue Zukunft
+[quest_title_1030404000604090] Vs. Trainer aus Passio 4
+[quest_title_1030404000604100] Täglicher schwerer Kampf
+[quest_title_1030404000604110] Herausforderungskampf 1
+[quest_title_1030404000604120] Herausforderungskampf 2
+[quest_title_1030440400201010] Vs. Herbaro
+[quest_title_1030440400204010] Vs. Teresa
+[quest_title_1030440400207010] Vs. Ignaz
+[quest_title_1030440400210010] Vs. Lucian
+[quest_title_1030440400101010] Vs. Cynthia
+[quest_title_1030206000602010] Ein glorreiches Morgen
 
 ===========
 story_quest_name_en.lsd
@@ -5249,6 +5331,82 @@ story_quest_name_en.lsd
 [quest_title_1030110000420200] Justice without Power
 [quest_title_1030403000601100] Riddle Mission Battle
 [quest_title_1030440101008011] Challenge Sygna Suit Red
+[quest_group_title_100103] Johto
+[quest_group_title_10140100000] Sygna Suit Giovanni
+[quest_group_title_10148100000] Sygna Suit Morty
+[quest_group_title_10152000000] Aaron
+[quest_group_title_10154000000] Bertha
+[quest_group_title_10176000000] Lucian
+[quest_group_detail_100103] Team Rocket’s Revival
+[quest_title_1030110000450100] Resuming Operations
+[quest_title_1030110000450600] Challenge Proton: Part 1
+[quest_title_1030110000450200] On My Own
+[quest_title_1030110000450700] Challenge Proton: Part 2
+[quest_title_1030110000450300] The Cruelest and Scariest
+[quest_title_1030110000450800] Challenge Proton: Part 3
+[quest_title_1030110000450400] Infiltrate the Rocket Hideout
+[quest_title_1030110000450900] Challenge Archer: Part 1
+[quest_title_1030110000450500] One or Many
+[quest_title_1030404000601010] Challenge Petrel: Part 1
+[quest_title_1030404000601020] Challenge Petrel: Part 2
+[quest_title_1030404000601030] Challenge Petrel: Part 3
+[quest_title_1030404000601040] Daily Extreme Battle 1
+[quest_title_1030404000601050] Battle Challenge! Round 1
+[quest_title_1030404000601060] Battle Challenge! Round 2
+[quest_title_1030220140100000] A Day with Sygna Suit Giovanni
+[quest_title_1030404000602010] Take on Johto’s Best! Round 1
+[quest_title_1030404000602020] Take on Johto’s Best! Round 2
+[quest_title_1030404000606010] The Egg Swap
+[quest_title_1030404000606020] Spectacular Splash
+[quest_title_1030404000606030] Retrieve the Eggs!
+[quest_title_1030404000603010] The Mysterious Hikers
+[quest_title_1030404000603030] Battle the Hikers: Part 1
+[quest_title_1030404000603040] Battle the Hikers: Part 2
+[quest_title_1030404000603050] Battle the Hikers: Part 3
+[quest_title_1030404000603060] Battle the Hikers: Part 4
+[quest_title_1030404000603070] Daily Extreme Battle 1
+[quest_title_1030404000603020] Familiar Faces
+[quest_title_1030220148100000] A Day with Sygna Suit Morty
+[quest_title_1030220152000000] A Day with Aaron
+[quest_title_1030220154000000] A Day with Bertha
+[quest_title_1030220176000000] A Day with Lucian
+[quest_title_1030440400301010] Challenge Hau: Part 1
+[quest_title_1030440400302010] Challenge Hau: Part 2
+[quest_title_1030440400303010] Challenge Hau: Part 3
+[quest_title_1030440400304010] Challenge Hau: Part 4
+[quest_title_1030440400305010] Daily Bonus Battle 1
+[quest_title_1030404000605010] Sinnoh Summit
+[quest_title_1030404000605020] Train with Aaron: Part 1
+[quest_title_1030404000605030] Train with Aaron: Part 2
+[quest_title_1030404000605040] Train with Bertha: Part 1
+[quest_title_1030404000605050] Train with Bertha: Part 2
+[quest_title_1030404000605060] Train with Lucian: Part 1
+[quest_title_1030404000605070] Train with Lucian: Part 2
+[quest_title_1030404000605080] Aaron’s Daily Training
+[quest_title_1030404000605090] Bertha’s Daily Training
+[quest_title_1030404000605100] Lucian’s Daily Training
+[quest_title_1030404000605110] Flint’s Battle Challenge! Round 1
+[quest_title_1030404000605120] Flint’s Battle Challenge! Round 2
+[quest_title_1030404000605130] Bertha’s Battle Challenge! Round 1
+[quest_title_1030404000605140] Bertha’s Battle Challenge! Round 2
+[quest_title_1030404000604010] Morty’s Legendary Encounter
+[quest_title_1030404000604020] Rainbow Feathers
+[quest_title_1030404000604060] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030404000604030] Traces of Ho-Oh
+[quest_title_1030404000604070] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030404000604040] Training Mentality
+[quest_title_1030404000604080] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030404000604050] Into the Future
+[quest_title_1030404000604090] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030404000604100] Daily Extreme Battle 1
+[quest_title_1030404000604110] Battle Challenge! Round 1
+[quest_title_1030404000604120] Battle Challenge! Round 2
+[quest_title_1030440400201010] Aaron
+[quest_title_1030440400204010] Bertha
+[quest_title_1030440400207010] Flint
+[quest_title_1030440400210010] Lucian
+[quest_title_1030440400101010] Cynthia
+[quest_title_1030206000602010] The Secret to Victory
 
 ===========
 story_quest_name_es.lsd
@@ -7670,6 +7828,94 @@ de Nerio!
 [quest_title_1030110000420200] No hay justicia sin poder
 [quest_title_1030403000601100] Combate con rompecabezas
 [quest_title_1030440101008011] VS. Rojo (Traje S)
+[quest_group_title_100103] Trama de Johto
+[quest_group_title_10140100000] Giovanni (Traje S)
+[quest_group_title_10148100000] Morti (Traje S)
+[quest_group_title_10152000000] Alecrán
+[quest_group_title_10154000000] Gaia
+[quest_group_title_10176000000] Delos
+[quest_group_detail_100103] El retorno del Team Rocket
+[quest_title_1030110000450100] Vuelta a empezar
+[quest_title_1030110000450600] VS. Protón
+[quest_title_1030110000450200] El Entrenador solitario
+[quest_title_1030110000450700] VS. Protón (2)
+[quest_title_1030110000450300] El miembro más retorcido del
+Team Rocket
+[quest_title_1030110000450800] VS. Protón (3)
+[quest_title_1030110000450400] Infiltración en la guarida
+[quest_title_1030110000450900] VS. Atlas
+[quest_title_1030110000450500] La fuerza del grupo contra
+la del individuo
+[quest_title_1030404000601010] VS. Petrel
+[quest_title_1030404000601020] VS. Petrel (2)
+[quest_title_1030404000601030] VS. Petrel (3)
+[quest_title_1030404000601040] ¡Un combate difícil al día!
+[quest_title_1030404000601050] ¡Un combate desafiante!
+[quest_title_1030404000601060] ¡Un combate desafiante! (2)
+[quest_title_1030220140100000] Un día con Giovanni
+(Traje S)
+[quest_title_1030404000602010] ¡Enfréntate a la flor y nata
+de Johto!
+[quest_title_1030404000602020] ¡Enfréntate a la flor y nata
+de Johto! (2)
+[quest_title_1030404000606010] Huevos desaparecidos
+[quest_title_1030404000606020] ¡Salpicando aquí y allí!
+[quest_title_1030404000606030] ¡Recupera los Huevos!
+[quest_title_1030404000603010] Un enigma errante
+[quest_title_1030404000603030] VS. Montañeros misteriosos
+[quest_title_1030404000603040] VS. Montañeros misteriosos (2)
+[quest_title_1030404000603050] VS. Montañeros misteriosos (3)
+[quest_title_1030404000603060] VS. Montañeros misteriosos (4)
+[quest_title_1030404000603070] ¡Un combate difícil al día!
+[quest_title_1030404000603020] Su verdadera identidad
+[quest_title_1030220148100000] Un día con Morti (Traje S)
+[quest_title_1030220152000000] Un día con Alecrán
+[quest_title_1030220154000000] Un día con Gaia
+[quest_title_1030220176000000] Un día con Delos
+[quest_title_1030440400301010] VS. Tilo
+[quest_title_1030440400302010] VS. Tilo (2)
+[quest_title_1030440400303010] VS. Tilo (3)
+[quest_title_1030440400304010] VS. Tilo (4)
+[quest_title_1030440400305010] ¡Un combate extra al día!
+[quest_title_1030404000605010] La puerta a Sinnoh
+[quest_title_1030404000605020] ¡A entrenar con Alecrán!
+[quest_title_1030404000605030] ¡A entrenar con Alecrán! (2)
+[quest_title_1030404000605040] ¡A entrenar con Gaia!
+[quest_title_1030404000605050] ¡A entrenar con Gaia! (2)
+[quest_title_1030404000605060] ¡A entrenar con Delos!
+[quest_title_1030404000605070] ¡A entrenar con Delos! (2)
+[quest_title_1030404000605080] ¡Un entrenamiento al día con
+Alecrán!
+[quest_title_1030404000605090] ¡Un entrenamiento al día con
+Gaia!
+[quest_title_1030404000605100] ¡Un entrenamiento al día con
+Delos!
+[quest_title_1030404000605110] ¡Un combate desafiante
+contra Fausto!
+[quest_title_1030404000605120] ¡Un combate desafiante
+contra Fausto! (2)
+[quest_title_1030404000605130] ¡Un combate desafiante
+contra Gaia!
+[quest_title_1030404000605140] ¡Un combate desafiante
+contra Gaia! (2)
+[quest_title_1030404000604010] Morti y la leyenda
+[quest_title_1030404000604020] Plumas arcoíris
+[quest_title_1030404000604060] VS. Entrenadores de Passio
+[quest_title_1030404000604030] La sombra de Ho-Oh
+[quest_title_1030404000604070] VS. Entrenadores de Passio (2)
+[quest_title_1030404000604040] El entrenamiento continúa
+[quest_title_1030404000604080] VS. Entrenadores de Passio (3)
+[quest_title_1030404000604050] Forjar un nuevo destino
+[quest_title_1030404000604090] VS. Entrenadores de Passio (4)
+[quest_title_1030404000604100] ¡Un combate difícil al día!
+[quest_title_1030404000604110] ¡Un combate desafiante!
+[quest_title_1030404000604120] ¡Un combate desafiante! (2)
+[quest_title_1030440400201010] VS. Alecrán
+[quest_title_1030440400204010] VS. Gaia
+[quest_title_1030440400207010] VS. Fausto
+[quest_title_1030440400210010] VS. Delos
+[quest_title_1030440400101010] VS. Cintia
+[quest_title_1030206000602010] Hacia un porvenir brillante
 
 ===========
 story_quest_name_fr.lsd
@@ -10260,6 +10506,101 @@ de Peterson !
 [quest_title_1030110000420200] Justice sans pouvoir
 [quest_title_1030403000601100] Combat de mission à énigme
 [quest_title_1030440101008011] Combat : Red (Look Ultime)
+[quest_group_title_100103] Johto
+[quest_group_title_10140100000] Giovanni (Look Ultime)
+[quest_group_title_10148100000] Mortimer (Look Ultime)
+[quest_group_title_10152000000] Aaron
+[quest_group_title_10154000000] Terry
+[quest_group_title_10176000000] Lucio
+[quest_group_detail_100103] Le retour de la Team Rocket
+[quest_title_1030110000450100] L'organisation reprend
+du service
+[quest_title_1030110000450600] Combat : Lance
+[quest_title_1030110000450200] Dresseur solitaire
+[quest_title_1030110000450700] Combat : Lance II
+[quest_title_1030110000450300] Le plus impitoyable
+des hommes
+[quest_title_1030110000450800] Combat : Lance III
+[quest_title_1030110000450400] Infiltration du repaire
+[quest_title_1030110000450900] Combat : Amos
+[quest_title_1030110000450500] Seul contre une organisation
+[quest_title_1030404000601010] Combat : Lambda
+[quest_title_1030404000601020] Combat : Lambda II
+[quest_title_1030404000601030] Combat : Lambda III
+[quest_title_1030404000601040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030404000601050] Combat difficile
+[quest_title_1030404000601060] Combat difficile II
+[quest_title_1030220140100000] Une journée avec Giovanni
+(Look Ultime)
+[quest_title_1030404000602010] Combattez l'élite de Johto !
+[quest_title_1030404000602020] Combattez l'élite de Johto ! II
+[quest_title_1030404000606010] Échange d'Œufs
+[quest_title_1030404000606020] Trempette spectaculaire !
+[quest_title_1030404000606030] À la recherche des Œufs !
+[quest_title_1030404000603010] De mystérieuses personnes
+[quest_title_1030404000603030] Combattez les Montagnards !
+[quest_title_1030404000603040] Combattez
+les Montagnards ! II
+[quest_title_1030404000603050] Combattez
+les Montagnards ! III
+[quest_title_1030404000603060] Combattez
+les Montagnards ! IV
+[quest_title_1030404000603070] Combat difficile limité
+à une fois par jour !
+[quest_title_1030404000603020] Des têtes connues
+[quest_title_1030220148100000] Une journée avec Mortimer
+(Look Ultime)
+[quest_title_1030220152000000] Une journée avec Aaron
+[quest_title_1030220154000000] Une journée avec Terry
+[quest_title_1030220176000000] Une journée avec Lucio
+[quest_title_1030440400301010] Combat : Tili
+[quest_title_1030440400302010] Combat : Tili II
+[quest_title_1030440400303010] Combat : Tili III
+[quest_title_1030440400304010] Combat : Tili IV
+[quest_title_1030440400305010] Combat bonus limité
+à une fois par jour !
+[quest_title_1030404000605010] Sommet de Sinnoh
+[quest_title_1030404000605020] Entraînement avec Aaron
+[quest_title_1030404000605030] Entraînement avec Aaron II
+[quest_title_1030404000605040] Entraînement avec Terry
+[quest_title_1030404000605050] Entraînement avec Terry II
+[quest_title_1030404000605060] Entraînement avec Lucio
+[quest_title_1030404000605070] Entraînement avec Lucio II
+[quest_title_1030404000605080] Entraînement avec Aaron
+limité à une fois par jour !
+[quest_title_1030404000605090] Entraînement avec Terry
+limité à une fois par jour !
+[quest_title_1030404000605100] Entraînement avec Lucio
+limité à une fois par jour !
+[quest_title_1030404000605110] Combat difficile : Adrien
+[quest_title_1030404000605120] Combat difficile : Adrien II
+[quest_title_1030404000605130] Combat difficile : Terry
+[quest_title_1030404000605140] Combat difficile : Terry II
+[quest_title_1030404000604010] Mortimer et le Pokémon
+légendaire
+[quest_title_1030404000604020] Des plumes arc-en-ciel
+[quest_title_1030404000604060] Combat : Dresseurs de Passio
+[quest_title_1030404000604030] L'ombre de Ho-Oh
+[quest_title_1030404000604070] Combat :
+Dresseurs de Passio II
+[quest_title_1030404000604040] Un entraînement continu
+[quest_title_1030404000604080] Combat :
+Dresseurs de Passio III
+[quest_title_1030404000604050] Un nouvel avenir
+[quest_title_1030404000604090] Combat :
+Dresseurs de Passio IV
+[quest_title_1030404000604100] Combat difficile limité
+à une fois par jour !
+[quest_title_1030404000604110] Combat difficile
+[quest_title_1030404000604120] Combat difficile II
+[quest_title_1030440400201010] Combat : Aaron
+[quest_title_1030440400204010] Combat : Terry
+[quest_title_1030440400207010] Combat : Adrien
+[quest_title_1030440400210010] Combat : Lucio
+[quest_title_1030440400101010] Combat : Cynthia
+[quest_title_1030206000602010] Le secret de mes nombreuses
+victoires ?
 
 ===========
 story_quest_name_it.lsd
@@ -12441,6 +12782,82 @@ story_quest_name_it.lsd
 [quest_title_1030110000420200] Giustizia senza forza
 [quest_title_1030403000601100] Lotta per la missione enigmatica!
 [quest_title_1030440101008011] VS Rosso Costumax
+[quest_group_title_100103] Johto
+[quest_group_title_10140100000] Giovanni Costumax
+[quest_group_title_10148100000] Angelo Costumax
+[quest_group_title_10152000000] Aaron
+[quest_group_title_10154000000] Terrie
+[quest_group_title_10176000000] Luciano
+[quest_group_detail_100103] Il ritorno del Team Rocket
+[quest_title_1030110000450100] L'organizzazione si rimette in moto
+[quest_title_1030110000450600] VS Milas
+[quest_title_1030110000450200] Un Allenatore solitario
+[quest_title_1030110000450700] VS Milas 2
+[quest_title_1030110000450300] L'uomo più spietato
+[quest_title_1030110000450800] VS Milas 3
+[quest_title_1030110000450400] Al covo del Team Rocket!
+[quest_title_1030110000450900] VS Archer
+[quest_title_1030110000450500] La forza di un gruppo e di un individuo
+[quest_title_1030404000601010] VS Maxus
+[quest_title_1030404000601020] VS Maxus 2
+[quest_title_1030404000601030] VS Maxus 3
+[quest_title_1030404000601040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030404000601050] Sfida ad alta difficoltà
+[quest_title_1030404000601060] Sfida ad alta difficoltà 2
+[quest_title_1030220140100000] Un giorno con Giovanni Costumax
+[quest_title_1030404000602010] Contro potenti avversari di Johto
+[quest_title_1030404000602020] Contro potenti avversari di Johto 2
+[quest_title_1030404000606010] Le Uova sostituite
+[quest_title_1030404000606020] Facciamo un bello Splash!
+[quest_title_1030404000606030] Ritrova le Uova!
+[quest_title_1030404000603010] I Montanari misteriosi
+[quest_title_1030404000603030] Sfida contro i Montanari 1
+[quest_title_1030404000603040] Sfida contro i Montanari 2
+[quest_title_1030404000603050] Sfida contro i Montanari 3
+[quest_title_1030404000603060] Sfida contro i Montanari 4
+[quest_title_1030404000603070] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030404000603020] L'identità dei Montanari
+[quest_title_1030220148100000] Un giorno con Angelo Costumax
+[quest_title_1030220152000000] Un giorno con Aaron
+[quest_title_1030220154000000] Un giorno con Terrie
+[quest_title_1030220176000000] Un giorno con Luciano
+[quest_title_1030440400301010] VS Hau
+[quest_title_1030440400302010] VS Hau 2
+[quest_title_1030440400303010] VS Hau 3
+[quest_title_1030440400304010] VS Hau 4
+[quest_title_1030440400305010] Lotta bonus (una al giorno)!
+[quest_title_1030404000605010] Allenatori temibili di Sinnoh
+[quest_title_1030404000605020] Allenamento con Aaron
+[quest_title_1030404000605030] Allenamento con Aaron 2
+[quest_title_1030404000605040] Allenamento con Terrie
+[quest_title_1030404000605050] Allenamento con Terrie 2
+[quest_title_1030404000605060] Allenamento con Luciano
+[quest_title_1030404000605070] Allenamento con Luciano 2
+[quest_title_1030404000605080] Allenamento con Aaron (una volta al giorno)!
+[quest_title_1030404000605090] Allenamento con Terrie (una volta al giorno)!
+[quest_title_1030404000605100] Allenamento con Luciano (una volta al giorno)!
+[quest_title_1030404000605110] Sfida ad alta difficoltà: Vulcano
+[quest_title_1030404000605120] Sfida ad alta difficoltà: Vulcano 2
+[quest_title_1030404000605130] Sfida ad alta difficoltà: Terrie
+[quest_title_1030404000605140] Sfida ad alta difficoltà: Terrie 2
+[quest_title_1030404000604010] Angelo e il Pokémon leggendario
+[quest_title_1030404000604020] Piume color arcobaleno
+[quest_title_1030404000604060] VS Allenatori di Pasio
+[quest_title_1030404000604030] L'ombra di Ho-Oh
+[quest_title_1030404000604070] VS Allenatori di Pasio 2
+[quest_title_1030404000604040] Un allenamento continuo
+[quest_title_1030404000604080] VS Allenatori di Pasio 3
+[quest_title_1030404000604050] Un nuovo avvenire
+[quest_title_1030404000604090] VS Allenatori di Pasio 4
+[quest_title_1030404000604100] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030404000604110] Sfida ad alta difficoltà
+[quest_title_1030404000604120] Sfida ad alta difficoltà 2
+[quest_title_1030440400201010] VS Aaron
+[quest_title_1030440400204010] VS Terrie
+[quest_title_1030440400207010] VS Vulcano
+[quest_title_1030440400210010] VS Luciano
+[quest_title_1030440400101010] VS Camilla
+[quest_title_1030206000602010] Il segreto del mio successo
 
 ===========
 story_quest_name_ja.lsd
@@ -14667,6 +15084,82 @@ story_quest_name_ja.lsd
 [quest_title_1030110000420200] 力なき正義
 [quest_title_1030403000601100] 謎解きミッションバトル！
 [quest_title_1030440101008011] ＶＳ　マジコスレッド
+[quest_group_title_100103] ジョウト編
+[quest_group_title_10140100000] マジコスサカキ
+[quest_group_title_10148100000] マジコスマツバ
+[quest_group_title_10152000000] リョウ
+[quest_group_title_10154000000] キクノ
+[quest_group_title_10176000000] ゴヨウ
+[quest_group_detail_100103] 再動のロケット団
+[quest_title_1030110000450100] 再始動
+[quest_title_1030110000450600] ＶＳ　ランス
+[quest_title_1030110000450200] 孤高のトレーナー
+[quest_title_1030110000450700] ＶＳ　ランス２
+[quest_title_1030110000450300] 最も冷酷な男
+[quest_title_1030110000450800] ＶＳ　ランス３
+[quest_title_1030110000450400] アジト潜入
+[quest_title_1030110000450900] ＶＳ　アポロ
+[quest_title_1030110000450500] 組織と個の力
+[quest_title_1030404000601010] ＶＳ　ラムダ
+[quest_title_1030404000601020] ＶＳ　ラムダ２
+[quest_title_1030404000601030] ＶＳ　ラムダ３
+[quest_title_1030404000601040] １日１回限定・高難度バトル！
+[quest_title_1030404000601050] チャレンジバトルで勝負！
+[quest_title_1030404000601060] チャレンジバトルで勝負！２
+[quest_title_1030220140100000] とある日のマジコスサカキ
+[quest_title_1030404000602010] ジョウトの強敵に挑戦
+[quest_title_1030404000602020] ジョウトの強敵に挑戦２
+[quest_title_1030404000606010] すり替わったタマゴ
+[quest_title_1030404000606020] スペシャルに　はねよう！
+[quest_title_1030404000606030] タマゴを　回収しよう！
+[quest_title_1030404000603010] 謎のおじさんたち
+[quest_title_1030404000603030] おじさんたちと勝負だ！
+[quest_title_1030404000603040] おじさんたちと勝負だ！２
+[quest_title_1030404000603050] おじさんたちと勝負だ！３
+[quest_title_1030404000603060] おじさんたちと勝負だ！４
+[quest_title_1030404000603070] １日１回限定・高難度バトル！
+[quest_title_1030404000603020] おじさんたちの正体
+[quest_title_1030220148100000] とある日のマジコスマツバ
+[quest_title_1030220152000000] とある日のリョウ
+[quest_title_1030220154000000] とある日のキクノ
+[quest_title_1030220176000000] とある日のゴヨウ
+[quest_title_1030440400301010] ＶＳ　ハウ
+[quest_title_1030440400302010] ＶＳ　ハウ２
+[quest_title_1030440400303010] ＶＳ　ハウ３
+[quest_title_1030440400304010] ＶＳ　ハウ４
+[quest_title_1030440400305010] １日１回限定・ボーナスバトル！
+[quest_title_1030404000605010] シンオウ地方の関門たち
+[quest_title_1030404000605020] リョウと一緒に修行しよう！
+[quest_title_1030404000605030] リョウと一緒に修行しよう！２
+[quest_title_1030404000605040] キクノと一緒に修行しよう！
+[quest_title_1030404000605050] キクノと一緒に修行しよう！２
+[quest_title_1030404000605060] ゴヨウと一緒に修行しよう！
+[quest_title_1030404000605070] ゴヨウと一緒に修行しよう！２
+[quest_title_1030404000605080] １日１回限定　リョウと修行！
+[quest_title_1030404000605090] １日１回限定　キクノと修行！
+[quest_title_1030404000605100] １日１回限定　ゴヨウと修行！
+[quest_title_1030404000605110] チャレンジバトル！　オーバ
+[quest_title_1030404000605120] チャレンジバトル！　オーバ２
+[quest_title_1030404000605130] チャレンジバトル！　キクノ
+[quest_title_1030404000605140] チャレンジバトル！　キクノ２
+[quest_title_1030404000604010] 伝説のポケモンとマツバ
+[quest_title_1030404000604020] 虹色の羽根
+[quest_title_1030404000604060] ＶＳ　パシオのトレーナー
+[quest_title_1030404000604030] ホウオウの影
+[quest_title_1030404000604070] ＶＳ　パシオのトレーナー２
+[quest_title_1030404000604040] 修行を続けるのは
+[quest_title_1030404000604080] ＶＳ　パシオのトレーナー３
+[quest_title_1030404000604050] 新しい未来
+[quest_title_1030404000604090] ＶＳ　パシオのトレーナー４
+[quest_title_1030404000604100] １日１回限定・高難度バトル！
+[quest_title_1030404000604110] チャレンジバトルで勝負！
+[quest_title_1030404000604120] チャレンジバトルで勝負！２
+[quest_title_1030440400201010] ＶＳ　リョウ
+[quest_title_1030440400204010] ＶＳ　キクノ
+[quest_title_1030440400207010] ＶＳ　オーバ
+[quest_title_1030440400210010] ＶＳ　ゴヨウ
+[quest_title_1030440400101010] ＶＳ　シロナ
+[quest_title_1030206000602010] 勝利の秘けつは……？
 
 ===========
 story_quest_name_ko.lsd
@@ -16892,6 +17385,82 @@ story_quest_name_ko.lsd
 [quest_title_1030110000420200] 힘없는 정의
 [quest_title_1030403000601100] 수수께끼 풀기 미션 배틀!
 [quest_title_1030440101008011] VS 궁극코스 레드
+[quest_group_title_100103] 성도 편
+[quest_group_title_10140100000] 궁극코스 비주기
+[quest_group_title_10148100000] 궁극코스 유빈
+[quest_group_title_10152000000] 충호
+[quest_group_title_10154000000] 들국화
+[quest_group_title_10176000000] 오엽
+[quest_group_detail_100103] 다시 움직이는 로켓단
+[quest_title_1030110000450100] 재시동
+[quest_title_1030110000450600] VS 랜스
+[quest_title_1030110000450200] 고고한 트레이너
+[quest_title_1030110000450700] VS 랜스2
+[quest_title_1030110000450300] 제일 냉혹한 남자
+[quest_title_1030110000450800] VS 랜스3
+[quest_title_1030110000450400] 아지트 잠입
+[quest_title_1030110000450900] VS 아폴로
+[quest_title_1030110000450500] 조직과 개인의 힘
+[quest_title_1030404000601010] VS 람다
+[quest_title_1030404000601020] VS 람다2
+[quest_title_1030404000601030] VS 람다3
+[quest_title_1030404000601040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030404000601050] 챌린지배틀로 승부!
+[quest_title_1030404000601060] 챌린지배틀로 승부!2
+[quest_title_1030220140100000] 궁극코스 비주기의 어느 날
+[quest_title_1030404000602010] 성도지방의 강적에게 도전
+[quest_title_1030404000602020] 성도지방의 강적에게 도전2
+[quest_title_1030404000606010] 바꿔치기된 알
+[quest_title_1030404000606020] 스페셜하게 튀어오르자!
+[quest_title_1030404000606030] 알을 회수하자!
+[quest_title_1030404000603010] 수수께끼의 아저씨들
+[quest_title_1030404000603030] 아저씨들과 승부!
+[quest_title_1030404000603040] 아저씨들과 승부!2
+[quest_title_1030404000603050] 아저씨들과 승부!3
+[quest_title_1030404000603060] 아저씨들과 승부!4
+[quest_title_1030404000603070] 1일 1회 한정 고난도 배틀!
+[quest_title_1030404000603020] 아저씨들의 정체
+[quest_title_1030220148100000] 궁극코스 유빈의 어느 날
+[quest_title_1030220152000000] 충호의 어느 날
+[quest_title_1030220154000000] 들국화의 어느 날
+[quest_title_1030220176000000] 오엽의 어느 날
+[quest_title_1030440400301010] VS 하우
+[quest_title_1030440400302010] VS 하우2
+[quest_title_1030440400303010] VS 하우3
+[quest_title_1030440400304010] VS 하우4
+[quest_title_1030440400305010] 1일 1회 한정 보너스 배틀!
+[quest_title_1030404000605010] 신오지방의 관문들
+[quest_title_1030404000605020] 충호와 함께 수행하자!
+[quest_title_1030404000605030] 충호와 함께 수행하자!2
+[quest_title_1030404000605040] 들국화와 함께 수행하자!
+[quest_title_1030404000605050] 들국화와 함께 수행하자!2
+[quest_title_1030404000605060] 오엽과 함께 수행하자!
+[quest_title_1030404000605070] 오엽과 함께 수행하자!2
+[quest_title_1030404000605080] 1일 1회 한정 충호와 수행!
+[quest_title_1030404000605090] 1일 1회 한정 들국화와 수행!
+[quest_title_1030404000605100] 1일 1회 한정 오엽과 수행!
+[quest_title_1030404000605110] 챌린지배틀! 대엽
+[quest_title_1030404000605120] 챌린지배틀! 대엽2
+[quest_title_1030404000605130] 챌린지배틀! 들국화
+[quest_title_1030404000605140] 챌린지배틀! 들국화2
+[quest_title_1030404000604010] 전설의 포켓몬과 유빈
+[quest_title_1030404000604020] 무지갯빛날개
+[quest_title_1030404000604060] VS 파시오의 트레이너
+[quest_title_1030404000604030] 칠색조의 그림자
+[quest_title_1030404000604070] VS 파시오의 트레이너2
+[quest_title_1030404000604040] 수행을 계속하는 건
+[quest_title_1030404000604080] VS 파시오의 트레이너3
+[quest_title_1030404000604050] 새로운 미래
+[quest_title_1030404000604090] VS 파시오의 트레이너4
+[quest_title_1030404000604100] 1일 1회 한정 고난도 배틀!
+[quest_title_1030404000604110] 챌린지배틀로 승부!
+[quest_title_1030404000604120] 챌린지배틀로 승부!2
+[quest_title_1030440400201010] VS 충호
+[quest_title_1030440400204010] VS 들국화
+[quest_title_1030440400207010] VS 대엽
+[quest_title_1030440400210010] VS 오엽
+[quest_title_1030440400101010] VS 난천
+[quest_title_1030206000602010] 승리의 비결이란...?
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -19117,6 +19686,82 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030110000420200] 無力的正義
 [quest_title_1030403000601100] 解謎任務對戰！
 [quest_title_1030440101008011] ＶＳ　美極套裝赤紅
+[quest_group_title_100103] 城都篇
+[quest_group_title_10140100000] 美極套裝阪木
+[quest_group_title_10148100000] 美極套裝松葉
+[quest_group_title_10152000000] 阿柳
+[quest_group_title_10154000000] 菊野
+[quest_group_title_10176000000] 悟松
+[quest_group_detail_100103] 再度開始活動的火箭隊
+[quest_title_1030110000450100] 再度開始活動
+[quest_title_1030110000450600] ＶＳ　蘭斯
+[quest_title_1030110000450200] 孤高的訓練家
+[quest_title_1030110000450700] ＶＳ　蘭斯２
+[quest_title_1030110000450300] 最冷酷的男人
+[quest_title_1030110000450800] ＶＳ　蘭斯３
+[quest_title_1030110000450400] 潛入據點
+[quest_title_1030110000450900] ＶＳ　阿波羅
+[quest_title_1030110000450500] 組織與個人的力量
+[quest_title_1030404000601010] ＶＳ　拉姆達
+[quest_title_1030404000601020] ＶＳ　拉姆達２
+[quest_title_1030404000601030] ＶＳ　拉姆達３
+[quest_title_1030404000601040] １天僅限１次的高難度對戰！
+[quest_title_1030404000601050] 用挑戰對戰決勝負！
+[quest_title_1030404000601060] 用挑戰對戰決勝負！２
+[quest_title_1030220140100000] 某日的美極套裝阪木
+[quest_title_1030404000602010] 挑戰城都的強敵
+[quest_title_1030404000602020] 挑戰城都的強敵２
+[quest_title_1030404000606010] 被掉包的蛋
+[quest_title_1030404000606020] 閃亮亮跳高高！
+[quest_title_1030404000606030] 收回蛋吧！
+[quest_title_1030404000603010] 神秘的大叔們
+[quest_title_1030404000603030] 和大叔們對戰！
+[quest_title_1030404000603040] 和大叔們對戰！２
+[quest_title_1030404000603050] 和大叔們對戰！３
+[quest_title_1030404000603060] 和大叔們對戰！４
+[quest_title_1030404000603070] １天僅限１次的高難度對戰！
+[quest_title_1030404000603020] 大叔們的真實身分
+[quest_title_1030220148100000] 某日的美極套裝松葉
+[quest_title_1030220152000000] 某日的阿柳
+[quest_title_1030220154000000] 某日的菊野
+[quest_title_1030220176000000] 某日的悟松
+[quest_title_1030440400301010] ＶＳ　哈烏
+[quest_title_1030440400302010] ＶＳ　哈烏２
+[quest_title_1030440400303010] ＶＳ　哈烏３
+[quest_title_1030440400304010] ＶＳ　哈烏４
+[quest_title_1030440400305010] １天僅限１次的獎勵對戰！
+[quest_title_1030404000605010] 神奧地區的把關者們
+[quest_title_1030404000605020] 和阿柳一起修行吧！
+[quest_title_1030404000605030] 和阿柳一起修行吧！２
+[quest_title_1030404000605040] 和菊野一起修行吧！
+[quest_title_1030404000605050] 和菊野一起修行吧！２
+[quest_title_1030404000605060] 和悟松一起修行吧！
+[quest_title_1030404000605070] 和悟松一起修行吧！２
+[quest_title_1030404000605080] １天僅限１次　與阿柳一起修行！
+[quest_title_1030404000605090] １天僅限１次　與菊野一起修行！
+[quest_title_1030404000605100] １天僅限１次　與悟松一起修行！
+[quest_title_1030404000605110] 挑戰對戰！　大葉
+[quest_title_1030404000605120] 挑戰對戰！　大葉２
+[quest_title_1030404000605130] 挑戰對戰！　菊野
+[quest_title_1030404000605140] 挑戰對戰！　菊野２
+[quest_title_1030404000604010] 傳說的寶可夢和松葉
+[quest_title_1030404000604020] 七彩羽毛
+[quest_title_1030404000604060] ＶＳ　帕希歐的訓練家
+[quest_title_1030404000604030] 鳳王的身影
+[quest_title_1030404000604070] ＶＳ　帕希歐的訓練家２
+[quest_title_1030404000604040] 持續修行的理由
+[quest_title_1030404000604080] ＶＳ　帕希歐的訓練家３
+[quest_title_1030404000604050] 新的未來
+[quest_title_1030404000604090] ＶＳ　帕希歐的訓練家４
+[quest_title_1030404000604100] １天僅限１次的高難度對戰！
+[quest_title_1030404000604110] 用挑戰對戰決勝負！
+[quest_title_1030404000604120] 用挑戰對戰決勝負！２
+[quest_title_1030440400201010] ＶＳ　阿柳
+[quest_title_1030440400204010] ＶＳ　菊野
+[quest_title_1030440400207010] ＶＳ　大葉
+[quest_title_1030440400210010] ＶＳ　悟松
+[quest_title_1030440400101010] ＶＳ　竹蘭
+[quest_title_1030206000602010] 致勝秘訣是……？
 
 ===========
 trainer_description_de.lsd
@@ -19825,6 +20470,26 @@ erhalten.
 [10021900000] Der Enkel des berühmten Professor Eich ist einer der
 stärksten Trainer in ganz Kanto. Rot ist für ihn zugleich
 ewiger Rivale und enger Freund.
+[10152000000] Herbaro ist ein Mitglied der Top Vier in Sinnoh. In seinen
+Augen ist nichts so schön und perfekt wie seine geliebten
+Käfer-Pokémon. Sein Ziel ist es, als Trainer genauso
+perfekt zu werden.
+[10154000000] Ein Mitglied der Top Vier in Sinnoh und eine Spezialistin
+im Umgang mit Boden-Pokémon. Sie verfügt über ein
+ruhiges und herzliches Gemüt, doch in Kämpfen strebt sie
+hartnäckig nach dem Sieg.
+[10176000000] Ein eloquenter junger Mann, der sich auf Psycho-Pokémon
+spezialisiert hat. Er ist zudem ein Mitglied der Top Vier in
+Sinnoh und liebt Bücher. Oftmals vertreibt er sich die Zeit
+mit Lesen, bis ein Herausforderer auftaucht.
+[10148100000] Jens trägt eine farbenfrohe Machtmontur. Sein ständiges
+Training hat sich endlich ausgezahlt und gemeinsam mit
+seinem neuen Partner Ho-Oh macht er sich auf in eine
+glorreiche Zukunft.
+[10140100000] Giovanni ist in einer eleganten Machtmontur zurück. An
+seiner Seite befindet sich Nidoking, ein Pokémon mit einer
+breiten Palette an Attacken. Gemeinsam haben sie zudem
+die Fähigkeit der Dynamaximierung erlangt.
 
 ===========
 trainer_description_en.lsd
@@ -20467,6 +21132,21 @@ for his partner Escavalier.
 [10021900000] This highly skilled, powerhouse Trainer prominent in Kanto
 is the grandson of the famous Professor Oak. Red is both
 his lifelong rival and his best friend.
+[10152000000] Aaron, a member of the Sinnoh Elite Four, aims to
+become a perfect Trainer who is as strong and
+beautiful as his beloved Bug-type Pokémon.
+[10154000000] Bertha is a mild-mannered Ground-type user and a
+member of the Sinnoh Elite Four. She aims for victory with
+her specialty—a steady, unyielding battle style. 
+[10176000000] This polite and soft-spoken fellow is the Psychic-type
+user of the Sinnoh Elite Four. He spends his time enjoying
+a good book as he awaits his next challenger. 
+[10148100000] Morty is back in a sygna suit that shines. His dedication to
+training has finally paid off as he soars into a new future
+together with his partner, Ho-Oh.
+[10140100000] Giovanni’s back with a slick new outfit and a newfound
+understanding of Dynamaxing. He’s teamed up with
+Nidoking, which can use a large repertoire of moves.
 
 ===========
 trainer_description_es.lsd
@@ -21221,6 +21901,22 @@ con su hermano Fero.
 [10021900000] Nieto del renombrado Profesor Oak y uno de los
 Entrenadores más diestros de Kanto. Gran amigo,
 a la par que eterno rival, de Rojo.
+[10152000000] Miembro del Alto Mando de Sinnoh. Aspira a ser tan
+perfecto como sus amados Pokémon insecto.
+[10154000000] Entrenadora afable y comprensiva que forma parte del
+Alto Mando de Sinnoh. Combate con tenacidad por la
+victoria junto a sus queridos Pokémon de tipo Tierra.
+[10176000000] Miembro del Alto Mando de Sinnoh especializado en
+Pokémon de tipo Psíquico. Este joven bien leído y de
+modales impecables suele estar absorto en algún libro
+hasta que algún Entrenador lo desafía a un combate.
+[10148100000] Morti con un radiante Traje Summum. Su entrenamiento
+continuo ha dado sus frutos y está listo para emprender el
+vuelo hacia un nuevo porvenir junto a su compi, Ho-Oh.
+[10140100000] Giovanni ha vuelto haciendo gala de un estiloso traje.
+Su compi de fechorías Nidoking cuenta con un amplio
+abanico de ataques y el recién adquirido poder del
+fenómeno Dinamax.
 
 ===========
 trainer_description_fr.lsd
@@ -21927,6 +22623,26 @@ avec Chammal.
 [10021900000] Un des plus puissants Dresseurs de Kanto, petit-fils
 du célèbre Professeur Chen et meilleur ami et éternel
 rival de Red.
+[10152000000] Un membre du Conseil 4 de Sinnoh. Il aspire à devenir
+un Dresseur parfait, aussi fort et beau que ses chers
+Pokémon de type Insecte.
+[10154000000] Une membre du Conseil 4 de Sinnoh et spécialiste
+des Pokémon de type Sol. Une vieille dame douce
+et chaleureuse qui vise la victoire grâce à la ténacité
+de son style de combat.
+[10176000000] Un membre du Conseil 4 de Sinnoh qui se spécialise
+dans les Pokémon de type Psy. Un jeune homme qui
+s'exprime de manière calme et élégante. Grand
+amateur de lecture, il aime se plonger dans
+un roman entre deux combats.
+[10148100000] Mortimer est de retour dans un Look Ultime éblouissant.
+Son entraînement ayant enfin porté ses fruits,
+il s'élance vers un nouvel avenir aux côtés
+de son partenaire, Ho-Oh.
+[10140100000] Giovanni est de retour dans un costume élégant.
+Il fait équipe avec Nidoking, ce qui lui permet d'utiliser
+le phénomène Dynamax dont il a récemment percé
+le secret, ainsi qu'un grand nombre de capacités.
 
 ===========
 trainer_description_it.lsd
@@ -22631,6 +23347,21 @@ da uno scambio effettuato con Andy.
 [10021900000] Nipote del celebre Professor Oak, nonché uno dei più forti
 Allenatori di Kanto. Rosso è per lui un amico e un rivale
 storico.
+[10152000000] Membro dei Superquattro della Lega Pokémon di Sinnoh,
+Aaron aspira a diventare l'Allenatore perfetto, forte
+e affascinante come i suoi adorati Pokémon Coleottero.
+[10154000000] Superquattro di Sinnoh dal carattere allegro e dall'animo
+gentile, ha una predilezione per i Pokémon di tipo Terra.
+Punta sempre alla vittoria con grande tenacia.
+[10176000000] Superquattro di Sinnoh esperto di Pokémon di tipo Psico.
+Si esprime in modo pacato ed elegante, e ama leggere
+mentre attende i suoi sfidanti.
+[10148100000] Angelo indossa un Costumax nuovo fiammante.
+Il suo allenamento segreto ha infine dato i suoi frutti,
+e ora mira a un nuovo avvenire assieme a Ho-Oh.
+[10140100000] Giovanni sfoggia un abito molto chic. Assieme
+al suo fidato Nidoking, può utilizzare varie mosse
+diverse e sfruttare il potere del fenomeno Dynamax.
 
 ===========
 trainer_description_ja.lsd
@@ -23271,6 +24002,21 @@ trainer_description_ja.lsd
 [10021900000] 有名な　オーキド博士の孫で　カントー地方では
 指折りの　実力を持つ　強豪ポケモントレーナー。
 レッドという　終生のライバルにして　親友がいる。
+[10152000000] シンオウ地方　ポケモンリーグの　四天王。
+愛する　むしポケモンたちの　ように
+強くて美しい　パーフェクトなトレーナーを　目指す。
+[10154000000] シンオウ地方　四天王の　じめん使いで
+ほがらかで　おだやかな　性格の　女性。
+粘り強く　勝利を　狙う　戦い方が　得意。
+[10176000000] シンオウ地方　四天王の　エスパー使い。
+温厚で　丁寧な　口調の　青年。
+挑戦者が　訪れるまで　読書を　楽しんでいる。
+[10148100000] 輝く　マジコスを　身にまとった　マツバ。
+ずっと　続けてきた　修行が　実を　結び
+バディの　ホウオウと　新しい未来へ　はばたく。
+[10140100000] シックな　衣装を　身にまとった　サカキ。
+多彩な技を　使う　ニドキングを　バディとして
+ダイマックスを　会得した。
 
 ===========
 trainer_description_ko.lsd
@@ -23911,6 +24657,21 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10021900000] 유명한 오박사의 손자이자 관동지방에서는
 손에 꼽힐만한 실력의 강호인 포켓몬 트레이너.
 레드라는 평생의 라이벌이자 친구가 있다.
+[10152000000] 신오지방 포켓몬리그의 사천왕.
+사랑하는 벌레포켓몬처럼
+강하고 아름답고 퍼펙트한 트레이너를 목표한다.
+[10154000000] 신오지방 사천왕인 땅타입 전문가로
+평온하며 차분한 성격의 여성.
+끈기 있게 승리를 노리는 싸움 방식이 특기다.
+[10176000000] 신오지방 사천왕인 에스퍼 전문가.
+온화하며 정중한 말투의 청년.
+도전자가 나타날 때까지 독서를 즐긴다.
+[10148100000] 빛나는 궁극코스를 몸에 두른 유빈.
+계속해 온 수행이 결실을 맺어
+버디인 칠색조와 새로운 미래로 날갯짓한다.
+[10140100000] 시크한 의상을 몸에 두른 비주기.
+다채로운 기술을 사용하는 니드킹을 버디로
+다이맥스를 얻었다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -24550,6 +25311,21 @@ trainer_description_zh-TW.lsd
 [10021900000] 著名的大木博士的孫子，關都地區
 屈指可數的實力派訓練家。赤紅是他
 永遠的勁敵，也是他最要好的朋友。
+[10152000000] 神奧地區寶可夢聯盟的四天王。
+目標是像心愛的蟲寶可夢一樣，
+成為一位強大亮麗的完美訓練家。
+[10154000000] 神奧地區的四天王，地面屬性的高手。
+她是一位性格開朗且沉穩的女性，
+擅長以頑強不屈的毅力贏得勝利。
+[10176000000] 神奧地區的四天王，超能力屬性的高手。
+他是一位性情溫和且說話彬彬有禮的青年，
+總是沉浸於書海之中，等待挑戰者的到訪。
+[10148100000] 身穿耀眼的美極套裝的松葉。
+他一路持續過來的修行開花結果，
+和拍檔鳳王一同振翅迎向新的未來。
+[10140100000] 身穿雅致風格服裝的阪木。
+他的拍檔是會使用多種招式，
+且領略了極巨化的尼多王。
 
 ===========
 trainer_name_de.lsd
@@ -24690,13 +25466,19 @@ trainer_name_de.lsd
 [ch0136] Platan
 [ch0137] Eich
 [ch0140] Giovanni
+[ch0141] Atlas
+[ch0142] Athena
+[ch0143] Lambda
+[ch0144] Lance
 [ch0145] Maik
 [ch0146] Colin
 [ch0148] Jens
 [ch0149] Kiawe
 [ch0150] Falk
 [ch0151] Lamina
+[ch0152] Herbaro
 [ch0153] Frosina
+[ch0154] Teresa
 [ch0157] Valerie
 [ch9000] 
 [ch0158] Diantha
@@ -24705,6 +25487,7 @@ trainer_name_de.lsd
 [ch0161] Hala
 [ch0162] Lucius
 [ch0170] Artie
+[ch0176] Lucian
 [ch0183] Marlon
 [ch0190] Ryuki
 [ch0192] Marc
@@ -24716,6 +25499,10 @@ trainer_name_de.lsd
 [ch0205] Soir
 [ch0215] Xenia
 [ch0217] LeBelle
+[ch0221] Kalle
+[ch0222] Jördis
+[ch0223] Wolfgang
+[ch0224] Kordula
 [ch0225] Mars
 [ch0226] Jupiter
 [ch0227] Saturn
@@ -24733,6 +25520,11 @@ trainer_name_de.lsd
 [ch0259] Sania
 [ch0640] Rüpel von Team Rocket
 [ch0641] Rüpel von Team Rocket
+[ch0614] Veteranin
+[ch0613] Veteran
+[ch0522] Lady
+[ch0552] Gentleman
+[ch0623] Pokémon-Züchterin
 [ch0538] Galaktik Rüpel
 [ch0539] Galaktik Rüpel
 
@@ -24875,13 +25667,19 @@ trainer_name_en.lsd
 [ch0136] Professor Sycamore
 [ch0137] Professor Oak
 [ch0140] Giovanni
+[ch0141] Archer
+[ch0142] Ariana
+[ch0143] Petrel
+[ch0144] Proton
 [ch0145] Chili
 [ch0146] Cress
 [ch0148] Morty
 [ch0149] Kiawe
 [ch0150] Falkner
 [ch0151] Fantina
+[ch0152] Aaron
 [ch0153] Glacia
+[ch0154] Bertha
 [ch0157] Valerie
 [ch9000] 
 [ch0158] Diantha
@@ -24890,6 +25688,7 @@ trainer_name_en.lsd
 [ch0161] Hala
 [ch0162] Lucas
 [ch0170] Burgh
+[ch0176] Lucian
 [ch0183] Molayne
 [ch0190] Ryuki
 [ch0192] Maxie
@@ -24901,6 +25700,10 @@ trainer_name_en.lsd
 [ch0205] Evelyn
 [ch0215] Lisia
 [ch0217] Looker
+[ch0221] Tabitha
+[ch0222] Courtney
+[ch0223] Matt
+[ch0224] Shelly
 [ch0225] Mars
 [ch0226] Jupiter
 [ch0227] Saturn
@@ -24918,6 +25721,11 @@ trainer_name_en.lsd
 [ch0259] Sonia
 [ch0640] Team Rocket Grunt
 [ch0641] Team Rocket Grunt
+[ch0614] Veteran
+[ch0613] Veteran
+[ch0522] Lady
+[ch0552] Gentleman
+[ch0623] Pokémon Breeder
 [ch0538] Team Galactic Grunt
 [ch0539] Team Galactic Grunt
 
@@ -25060,13 +25868,19 @@ trainer_name_es.lsd
 [ch0136] Ciprés
 [ch0137] Oak
 [ch0140] Giovanni
+[ch0141] Atlas
+[ch0142] Atenea
+[ch0143] Petrel
+[ch0144] Protón
 [ch0145] Zeo
 [ch0146] Maíz
 [ch0148] Morti
 [ch0149] Kiawe
 [ch0150] Pegaso
 [ch0151] Fantina
+[ch0152] Alecrán
 [ch0153] Nívea
+[ch0154] Gaia
 [ch0157] Valeria
 [ch9000] 
 [ch0158] Dianta
@@ -25075,6 +25889,7 @@ trainer_name_es.lsd
 [ch0161] Kaudan
 [ch0162] León
 [ch0170] Camus
+[ch0176] Delos
 [ch0183] Lario
 [ch0190] Olano
 [ch0192] Magno
@@ -25086,6 +25901,10 @@ trainer_name_es.lsd
 [ch0205] Vésper
 [ch0215] Ariana
 [ch0217] Handsome
+[ch0221] Tatiano
+[ch0222] Carola
+[ch0223] Matías
+[ch0224] Silvina
 [ch0225] Venus
 [ch0226] Ceres
 [ch0227] Saturno
@@ -25103,6 +25922,11 @@ trainer_name_es.lsd
 [ch0259] Sonia
 [ch0640] Recluta del Team Rocket
 [ch0641] Recluta del Team Rocket
+[ch0614] Veterana
+[ch0613] Veterano
+[ch0522] Damisela
+[ch0552] Aristócrata
+[ch0623] Criapokémon
 [ch0538] Recluta del Equipo Galaxia
 [ch0539] Recluta del Equipo Galaxia
 
@@ -25245,13 +26069,19 @@ trainer_name_fr.lsd
 [ch0136] Platane
 [ch0137] Chen
 [ch0140] Giovanni
+[ch0141] Amos
+[ch0142] Ariane
+[ch0143] Lambda
+[ch0144] Lance
 [ch0145] Armando
 [ch0146] Noa
 [ch0148] Mortimer
 [ch0149] Kiawe
 [ch0150] Albert
 [ch0151] Kiméra
+[ch0152] Aaron
 [ch0153] Glacia
+[ch0154] Terry
 [ch0157] Valériane
 [ch9000] 
 [ch0158] Dianthéa
@@ -25260,6 +26090,7 @@ trainer_name_fr.lsd
 [ch0161] Pectorius
 [ch0162] Louka
 [ch0170] Artie
+[ch0176] Lucio
 [ch0183] Molène
 [ch0190] Solane
 [ch0192] Max
@@ -25271,6 +26102,10 @@ trainer_name_fr.lsd
 [ch0205] Vesper
 [ch0215] Atalante
 [ch0217] Beladonis
+[ch0221] Kelvin
+[ch0222] Courtney
+[ch0223] Matthieu
+[ch0224] Sarah
 [ch0225] Mars
 [ch0226] Jupiter
 [ch0227] Saturne
@@ -25288,6 +26123,11 @@ trainer_name_fr.lsd
 [ch0259] Sonya
 [ch0640] Sbire Team Rocket
 [ch0641] Sbire Team Rocket
+[ch0614] Vénérable
+[ch0613] Vénérable
+[ch0522] Mademoiselle
+[ch0552] Gentleman
+[ch0623] Éleveur
 [ch0538] Sbire Team Galaxie
 [ch0539] Sbire Team Galaxie
 
@@ -25430,13 +26270,19 @@ trainer_name_it.lsd
 [ch0136] Professor Platan
 [ch0137] Professor Oak
 [ch0140] Giovanni
+[ch0141] Archer
+[ch0142] Atena
+[ch0143] Maxus
+[ch0144] Milas
 [ch0145] Chicco
 [ch0146] Maisello
 [ch0148] Angelo
 [ch0149] Kawe
 [ch0150] Valerio
 [ch0151] Fannie
+[ch0152] Aaron
 [ch0153] Frida
+[ch0154] Terrie
 [ch0157] Valérie
 [ch9000] 
 [ch0158] Diantha
@@ -25445,6 +26291,7 @@ trainer_name_it.lsd
 [ch0161] Hala
 [ch0162] Lucas
 [ch0170] Artemisio
+[ch0176] Luciano
 [ch0183] Tapso
 [ch0190] Morel
 [ch0192] Max
@@ -25456,6 +26303,10 @@ trainer_name_it.lsd
 [ch0205] Vespera
 [ch0215] Orthilla
 [ch0217] Bellocchio
+[ch0221] Ottavio
+[ch0222] Rossella
+[ch0223] Alan
+[ch0224] Ada
 [ch0225] Martes
 [ch0226] Giovia
 [ch0227] Saturno
@@ -25473,6 +26324,11 @@ trainer_name_it.lsd
 [ch0259] Sonia
 [ch0640] Recluta del Team Rocket
 [ch0641] Recluta del Team Rocket
+[ch0614] Veterana
+[ch0613] Veterano
+[ch0522] Lady
+[ch0552] Gentiluomo
+[ch0623] Allevapokémon
 [ch0538] Recluta del Team Galassia
 [ch0539] Recluta del Team Galassia
 
@@ -25615,13 +26471,19 @@ trainer_name_ja.lsd
 [ch0136] プラターヌ
 [ch0137] オーキド
 [ch0140] サカキ
+[ch0141] アポロ
+[ch0142] アテナ
+[ch0143] ラムダ
+[ch0144] ランス
 [ch0145] ポッド
 [ch0146] コーン
 [ch0148] マツバ
 [ch0149] カキ
 [ch0150] ハヤト
 [ch0151] メリッサ
+[ch0152] リョウ
 [ch0153] プリム
+[ch0154] キクノ
 [ch0157] マーシュ
 [ch9000] 
 [ch0158] カルネ
@@ -25630,6 +26492,7 @@ trainer_name_ja.lsd
 [ch0161] ハラ
 [ch0162] コウキ
 [ch0170] アーティ
+[ch0176] ゴヨウ
 [ch0183] マーレイン
 [ch0190] リュウキ
 [ch0192] マツブサ
@@ -25641,6 +26504,10 @@ trainer_name_ja.lsd
 [ch0205] ルスワール
 [ch0215] ルチア
 [ch0217] ハンサム
+[ch0221] ホムラ
+[ch0222] カガリ
+[ch0223] ウシオ
+[ch0224] イズミ
 [ch0225] マーズ
 [ch0226] ジュピター
 [ch0227] サターン
@@ -25658,6 +26525,11 @@ trainer_name_ja.lsd
 [ch0259] ソニア
 [ch0640] ロケットだんの　したっぱ
 [ch0641] ロケットだんの　したっぱ
+[ch0614] ベテラントレーナー
+[ch0613] ベテラントレーナー
+[ch0522] おじょうさま
+[ch0552] ジェントルマン
+[ch0623] ポケモンブリーダー
 [ch0538] ギンガだんの　したっぱ
 [ch0539] ギンガだんの　したっぱ
 
@@ -25800,13 +26672,19 @@ trainer_name_ko.lsd
 [ch0136] 플라타느
 [ch0137] 오박사
 [ch0140] 비주기
+[ch0141] 아폴로
+[ch0142] 아테나
+[ch0143] 람다
+[ch0144] 랜스
 [ch0145] 팟
 [ch0146] 콘
 [ch0148] 유빈
 [ch0149] 키아웨
 [ch0150] 비상
 [ch0151] 멜리사
+[ch0152] 충호
 [ch0153] 미혜
+[ch0154] 들국화
 [ch0157] 마슈
 [ch9000] 
 [ch0158] 카르네
@@ -25815,6 +26693,7 @@ trainer_name_ko.lsd
 [ch0161] 할라
 [ch0162] 광휘
 [ch0170] 아티
+[ch0176] 오엽
 [ch0183] 멀레인
 [ch0190] 용규
 [ch0192] 마적
@@ -25826,6 +26705,10 @@ trainer_name_ko.lsd
 [ch0205] 르수아르
 [ch0215] 루티아
 [ch0217] 핸섬
+[ch0221] 호걸
+[ch0222] 구열
+[ch0223] 해조
+[ch0224] 이연
 [ch0225] 마스
 [ch0226] 주피터
 [ch0227] 새턴
@@ -25843,6 +26726,11 @@ trainer_name_ko.lsd
 [ch0259] 소니아
 [ch0640] 로켓단의 조무래기
 [ch0641] 로켓단의 조무래기
+[ch0614] 베테랑 트레이너
+[ch0613] 베테랑 트레이너
+[ch0522] 아기씨
+[ch0552] 신사
+[ch0623] 포켓몬 브리더
 [ch0538] 갤럭시단의 조무래기
 [ch0539] 갤럭시단의 조무래기
 
@@ -25985,13 +26873,19 @@ trainer_name_zh-TW.lsd
 [ch0136] 布拉塔諾
 [ch0137] 大木
 [ch0140] 阪木
+[ch0141] 阿波羅
+[ch0142] 雅典娜
+[ch0143] 拉姆達
+[ch0144] 蘭斯
 [ch0145] 伯特
 [ch0146] 寇恩
 [ch0148] 松葉
 [ch0149] 卡奇
 [ch0150] 阿速
 [ch0151] 梅麗莎
+[ch0152] 阿柳
 [ch0153] 波妮
+[ch0154] 菊野
 [ch0157] 瑪綉
 [ch9000] 
 [ch0158] 卡露妮
@@ -26000,6 +26894,7 @@ trainer_name_zh-TW.lsd
 [ch0161] 哈拉
 [ch0162] 明輝
 [ch0170] 亞堤
+[ch0176] 悟松
 [ch0183] 馬睿因
 [ch0190] 龍葵
 [ch0192] 赤焰松
@@ -26011,6 +26906,10 @@ trainer_name_zh-TW.lsd
 [ch0205] 夕絲
 [ch0215] 琉琪亞
 [ch0217] 帥哥
+[ch0221] 火村
+[ch0222] 火雁
+[ch0223] 阿潮
+[ch0224] 阿泉
 [ch0225] 夥星
 [ch0226] 歲星
 [ch0227] 鎮星
@@ -26028,6 +26927,11 @@ trainer_name_zh-TW.lsd
 [ch0259] 索妮亞
 [ch0640] 火箭隊手下
 [ch0641] 火箭隊手下
+[ch0614] 資深訓練家
+[ch0613] 資深訓練家
+[ch0522] 千金小姐
+[ch0552] 紳士
+[ch0623] 寶可夢培育家
 [ch0538] 銀河隊手下
 [ch0539] 銀河隊手下
 
@@ -26136,6 +27040,8 @@ trainer_verbose_name_de.lsd
 (Kostüm)
 [10109400000] Her 
 (Kostüm)
+[10148100000] MaMo-Jens
+[10140100000] MaMo-Giovanni
 
 ===========
 trainer_verbose_name_en.lsd
@@ -26247,6 +27153,9 @@ Serena
 (Special Costume)
 [10109400000] Emmet 
 (Special Costume)
+[10148100000] Sygna Suit Morty
+[10140100000] Sygna Suit
+Giovanni
 
 ===========
 trainer_verbose_name_es.lsd
@@ -26339,6 +27248,9 @@ arqueóloga)
 [10259400000] Sonia (Especial)
 [10108400000] Fero (Especial)
 [10109400000] Caril (Especial)
+[10148100000] Morti (Traje S)
+[10140100000] Giovanni 
+(Traje S)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -26442,6 +27354,8 @@ trainer_verbose_name_fr.lsd
 (Spécial)
 [10109400000] Chamsin 
 (Spécial)
+[10148100000] Mortimer (Ultime)
+[10140100000] Giovanni (Ultime)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -26549,6 +27463,8 @@ trainer_verbose_name_it.lsd
 (speciale)
 [10109400000] Torn 
 (speciale)
+[10148100000] Angelo Costumax
+[10140100000] Giovanni Costumax
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -26656,6 +27572,8 @@ trainer_verbose_name_ja.lsd
 （スペシャル）
 [10109400000] クダリ
 （スペシャル）
+[10148100000] マジコスマツバ
+[10140100000] マジコスサカキ
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -26763,6 +27681,8 @@ trainer_verbose_name_ko.lsd
 (스페셜)
 [10109400000] 하행
 (스페셜)
+[10148100000] 궁극코스 유빈
+[10140100000] 궁극코스 비주기
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -26870,6 +27790,8 @@ trainer_verbose_name_zh-TW.lsd
 （禮服）
 [10109400000] 南廈
 （禮服）
+[10148100000] 美極套裝松葉
+[10140100000] 美極套裝阪木
 
 ===========
 common_widget_de.lsd
@@ -27077,6 +27999,9 @@ Legenden-Turnier zugewiesen sind.
 [common_widget/dialog_085] Du kannst eine dieser Glücksfähigkeiten
 zufällig erlernen, indem du das folgende Item
 einsetzt: [Name:Item ].
+[common_widget/dialog_086] Speicherlimit überschritten. Folgende
+Items konnten nicht abgeholt werden:
+[common_widget/dialog_087] Hinweis nicht mehr anzeigen.
 [common_widget/dialog_100] Du kannst diese Glücksfähigkeit erlernen,
 indem du das folgende Item einsetzt:
 [Name:Item ].
@@ -27687,6 +28612,9 @@ a sync pair.
 [common_widget/dialog_085] Using a [Name:Item ]
 allows you to learn one of the following
 lucky skills below at random.
+[common_widget/dialog_086] Maximum item limit exceeded. You were
+unable to claim the following items.
+[common_widget/dialog_087] Don’t show this again.
 [common_widget/dialog_100] Using a [Name:Item ]
 allows you to learn the following
 lucky skill.
@@ -28278,6 +29206,9 @@ pareja de compis que prefieras.
 [common_widget/dialog_085] Puedes desbloquear una de las siguientes
 habilidades fortuitas al azar utilizando la
 [Name:Item ]:
+[common_widget/dialog_086] Has superado el máximo de objetos.
+No has podido recibir los siguientes:
+[common_widget/dialog_087] No volver a mostrar.
 [common_widget/dialog_100] Puedes desbloquear la siguiente 
 habilidad fortuita utilizando la
 [Name:Item ]:
@@ -28877,6 +29808,10 @@ de votre choix.
 [common_widget/dialog_085] Vous pouvez apprendre l'un des talents
 surprise suivants au hasard en utilisant :
 [Name:Item ].
+[common_widget/dialog_086] La limite du nombre d'objets possédés
+a été dépassée. Vous n'avez donc pas
+reçu les objets suivants :
+[common_widget/dialog_087] Ne plus afficher ce message.
 [common_widget/dialog_100] Vous pouvez apprendre le talent
 surprise suivant en utilisant :
 [Name:Item ].
@@ -29488,6 +30423,9 @@ Scegli quella che preferisci!
 [common_widget/dialog_085] Utilizzando un [Name:Item ],
 è possibile scoprire un talento casuale
 tra i seguenti:
+[common_widget/dialog_086] Limite strumenti raggiunto. Non è stato
+possibile ottenere i seguenti strumenti:
+[common_widget/dialog_087] Non mostrare più
 [common_widget/dialog_100] Utilizzando un [Name:Item ],
 è possibile scoprire il seguente talento:
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -30085,6 +31023,9 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_085] [Name:Item ]を使用すると
 以下のポテンシャルの中からランダムで
 １つが習得できます
+[common_widget/dialog_086] 所持上限を超えたため
+以下のどうぐを獲得できませんでした
+[common_widget/dialog_087] 今後表示しない
 [common_widget/dialog_100] [Name:Item ]を使用すると
 以下のポテンシャルが習得できます
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -30687,6 +31628,9 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_085] [Name:Item ][Kor:Particle char="wo" ] 사용하면
 아래의 포텐셜 중에서 랜덤으로
 1개를 습득할 수 있습니다
+[common_widget/dialog_086] 보유 상한을 초과하여
+아래의 도구를 획득하지 못했습니다.
+[common_widget/dialog_087] 이후 표시하지 않는다
 [common_widget/dialog_100] [Name:Item ][Kor:Particle char="wo" ] 사용하면
 아래의 포텐셜을 습득할 수 있습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -31270,6 +32214,9 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_085] 使用[Name:Item ]後
 可從下列潛能中
 隨機學習１個潛能
+[common_widget/dialog_086] 獲得後將會超過持有上限
+故無法獲得下列道具
+[common_widget/dialog_087] 今後不再顯示
 [common_widget/dialog_100] 使用[Name:Item ]後
 可學習下列潛能
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -31932,6 +32879,10 @@ Reinicie o jogo
 
 [error_dialog_contents/BR_30110] Pedido de Aprovação Falhou
 [error_dialog_contents/32100] Beim Übertragen von Daten von einem Gerät mit einem anderen Betriebssystem (z. B. iOS, Android, usw.) als dem Gerät, mit dem das entsprechende Set gekauft wurde, kannst du gekaufte Juwelen, die nach der Erfüllung von Bedingungen erhalten wurden, nicht beanspruchen. Bitte übertrage die Daten erneut auf ein Gerät mit demselben Betriebssystem wie das für den Kauf verwendete Gerät, um die Juwelen in Anspruch nehmen zu können.
+[error_dialog_contents/30913] Die Gefährtensuche ist aufgrund von
+Wartungsarbeiten derzeit nicht
+verfügbar. Wir entschuldigen uns für
+die Unannehmlichkeiten.
 
 ===========
 error_dialog_contents_en.lsd
@@ -32159,6 +33110,9 @@ obtained for fulfilling requirements cannot be
 claimed. In order to claim paid gems, try transferring
 data to a device with the same OS as the one used to
 purchase the bundle.
+[error_dialog_contents/30913] This sync pair scout is currently
+unavailable due to maintenance.
+We apologize for any inconvenience.
 
 ===========
 error_dialog_contents_es.lsd
@@ -32411,6 +33365,9 @@ Para poder obtenerlas, vuelve a
 transferir los datos a un dispositivo con
 el mismo sistema operativo que el
 que utilices durante la compra.
+[error_dialog_contents/30913] El reclutamiento no está disponible
+debido a labores de mantenimiento.
+Lamentamos las molestias.
 
 ===========
 error_dialog_contents_fr.lsd
@@ -32662,6 +33619,11 @@ Pour les obtenir, transférez à nouveau
 les données vers un appareil doté
 du même système d'exploitation
 que celui utilisé lors de l'achat.
+[error_dialog_contents/30913] En raison d'une opération de
+maintenance, vous ne pouvez
+pas passer cet Appel Duo.
+Veuillez nous excuser pour
+la gêne occasionnée.
 
 ===========
 error_dialog_contents_it.lsd
@@ -32918,6 +33880,9 @@ soddisfacendo i requisiti. Per ricevere le gemme
 a pagamento puoi trasferire nuovamente i dati
 a un dispositivo dotato dello stesso sistema operativo
 utilizzato all'acquisto.
+[error_dialog_contents/30913] Questa Unicerca non può essere
+effettuata per via di una manutenzione
+in corso. Ci scusiamo per il disagio.
 
 ===========
 error_dialog_contents_ja.lsd
@@ -33205,6 +34170,10 @@ OS（iOSやAndroidなど）の
 受け取ることはできません
 購入した端末と同じOSの端末に
 再度データを引き継いでお受け取りください
+[error_dialog_contents/30913] 本バディーズサーチはメンテナンスのため
+ご利用いただけません
+
+ご迷惑をおかけしております
 
 ===========
 error_dialog_contents_ko.lsd
@@ -33462,6 +34431,9 @@ OS(iOS 또는 Android 등)의
 받을 수 없습니다
 구입한 단말기와 같은 OS 단말기로
 다시 데이터 이어받기를 진행하여 주십시오
+[error_dialog_contents/30913] 본 버디즈서치는 점검 중이므로
+이용하실 수 없습니다
+추후에 다시 시도하여 주십시오
 
 ===========
 error_dialog_contents_zh-TW.lsd
@@ -33685,6 +34657,9 @@ Reinicie o jogo
 將無法領取達成條件時發放的付費鑽石
 請再次將資料轉移到與購買組合包時
 相同OS的裝置，以便領取鑽石
+[error_dialog_contents/30913] 此拍組搜尋正在進行系統維護
+因此無法使用
+敬請見諒
 
 ===========
 home_de.lsd
@@ -34131,6 +35106,8 @@ mehrere Bedingungen, gilt nur der höhere Bonus.
 [home/quest_detail_180] Belohnungen
 [home/quest_detail_181] Kraft
 [home/quest_detail_182] Hauptpreis
+[home/quest_detail_183] Erhältliche Fragmente
+[home/quest_detail_184] Fragmente
 [home/quest_detail_185] Kein Bonus
 [home/home_001] Laden
 [home/home_002] Abenteuer
@@ -34583,6 +35560,10 @@ MaMo-Leaf & Bisaflor
 [home/champion_battle_086] Zur Siegesstraße
 [home/champion_battle_087] Freischaltbedingung
 [home/champion_battle_088] Freischaltbedingung
+[home/champion_battle_089] Nach dem Sieg über den Champ werden die Fragmente entsprechend den Pokémon-Typen der Gefährten gefüllt, die gegen die Top Vier und den Champ eingesetzt wurden. Versuche, dein Emblem zu vervollständigen!
+[home/champion_battle_090] Fragmente aus noch laufenden Kämpfen werden dem Emblem nach dem Sieg über den Champ hinzugefügt.
+[home/champion_battle_091] Fragmente
+[home/champion_battle_092] Im Gang
 [home/battle_villa_001] Ebenensprung
 [home/battle_villa_002] Da du in der letzten Kampfvilla-Veranstaltung die finale Ebene abgeschlossen hast, kannst du jetzt zu deiner gewünschten Ebene springen. Du kannst bis zu der Ebene, zu der du springst, Erstboni erhalten.
 [home/battle_villa_003] Hinweis: Du kannst nur zu Beginn des Veranstaltungszeitraums Ebenen überspringen. Später ist die Funktion nicht mehr verfügbar.
@@ -35043,6 +36024,8 @@ same sync pair, the larger bonus will take effect.
 [home/quest_detail_180] Rewards
 [home/quest_detail_181] Strength
 [home/quest_detail_182] Featured Rewards
+[home/quest_detail_183] Obtainable Pieces
+[home/quest_detail_184] Pieces
 [home/quest_detail_185] No Bonus
 [home/home_001] Shop
 [home/home_002] Explore
@@ -35459,6 +36442,10 @@ You can also get other amazing rewards, including up to 5,000 gems!
 [home/champion_battle_086] Victory Road
 [home/champion_battle_087] Unlock Requirements
 [home/champion_battle_088] Unlock Requirements
+[home/champion_battle_089] Defeating the Champion will fill in the pieces of your medal that correspond with the main types of the sync pairs that were on your team during the Champion and Elite Four battles. Try to fill them all in to complete your medal!
+[home/champion_battle_090] Pieces from a challenge that is still in progress will be added to your medal once you defeat the Champion.
+[home/champion_battle_091] Pieces
+[home/champion_battle_092] In progress
 [home/battle_villa_001] Hall Skip
 [home/battle_villa_002] Because you completed all halls during the last Battle Villa challenge, you can skip to a hall of your choice. You can still receive first-time rewards for any halls you skip.
 [home/battle_villa_003] Note: If you don’t skip any halls at this point, you will not be able to do so later during this Battle Villa challenge.
@@ -35925,6 +36912,8 @@ cuenta con más de un bonus, solo se aplicará el más alto.
 [home/quest_detail_180] Premios
 [home/quest_detail_181] Fuerza
 [home/quest_detail_182] Premio especial
+[home/quest_detail_183] Piezas que puedes conseguir
+[home/quest_detail_184] Piezas
 [home/quest_detail_185] Sin bonus
 [home/home_001] Tienda
 [home/home_002] Aventura
@@ -36362,6 +37351,15 @@ en la Calle Victoria.
 Victoria
 [home/champion_battle_087] Cómo desbloquear
 [home/champion_battle_088] Cómo desbloquear
+[home/champion_battle_089] Tras vencer al Campeón o Campeona, recibirás
+las piezas del emblema de los tipos de compis
+que hayan participado en los combates contra
+el Alto Mando y el Campeón o Campeona.
+¡Consíguelas todas para completar el emblema!
+[home/champion_battle_090] Nota: Podrás conseguir las piezas que aparezcan como
+"En curso" después de vencer al Campeón o Campeona.
+[home/champion_battle_091] Piezas
+[home/champion_battle_092] En curso
 [home/battle_villa_001] Saltar planta
 [home/battle_villa_002] Dado que anteriormente completaste la última
 planta, ahora tienes la posibilidad de avanzar
@@ -36841,6 +37839,8 @@ Duo, seul le bonus le plus important prendra effet.
 [home/quest_detail_180] Récompenses
 [home/quest_detail_181] Force
 [home/quest_detail_182] Grand prix
+[home/quest_detail_183] Morceaux récupérables
+[home/quest_detail_184] Morceaux
 [home/quest_detail_185] Pas de bonus disponible
 [home/home_001] Boutique
 [home/home_002] Aventure
@@ -37347,6 +38347,10 @@ aux défis de la Route Victoire !
 [home/champion_battle_086] Route Victoire
 [home/champion_battle_087] Pour débloquer
 [home/champion_battle_088] Pour débloquer
+[home/champion_battle_089] En remportant un combat contre le Maître, vous récupérez des morceaux d'emblème. Ceux-ci dépendront du type principal des Duos de votre équipe lors de votre victoire contre les membres du Conseil 4 et contre le Maître. Utilisez des Duos de tous les types pour compléter votre emblème !
+[home/champion_battle_090] Vous pourrez obtenir les morceaux d'un défi en cours pour les ajouter à votre emblème après avoir gagné contre le Maître.
+[home/champion_battle_091] Morceaux
+[home/champion_battle_092] En cours
 [home/battle_villa_001] Saut d'échelon
 [home/battle_villa_002] Vous avez battu le dernier échelon lors
 de la précédente session de la Villa de
@@ -37829,6 +38833,8 @@ verrà applicato solo quello più alto.
 [home/quest_detail_180] Ricompense
 [home/quest_detail_181] Potenza
 [home/quest_detail_182] Premi principali
+[home/quest_detail_183] Pezzi ottenibili
+[home/quest_detail_184] Pezzi
 [home/quest_detail_185] Nessun bonus
 [home/home_001] Negozio
 [home/home_002] Avventura
@@ -38310,6 +39316,15 @@ in Via Vittoria!
 [home/champion_battle_086] Verso Via Vittoria
 [home/champion_battle_087] Requisiti sblocco
 [home/champion_battle_088] Requisiti sblocco
+[home/champion_battle_089] Se sconfiggi il Campione o la Campionessa,
+i pezzi dell'emblema verranno aggiunti in base
+al tipo primario delle Unità in squadra nelle
+lotte contro i Superquattro e nella lotta finale.
+Ottieni tutti i pezzi per completare l'emblema!
+[home/champion_battle_090] I pezzi delle lotte in corso saranno aggiunti
+una volta sconfitto il Campione.
+[home/champion_battle_091] Pezzi
+[home/champion_battle_092] In corso
 [home/battle_villa_001] Salta una sala
 [home/battle_villa_002] Visto che la volta scorsa hai completato
 l'ultima sala, puoi decidere di iniziare da una
@@ -38780,6 +39795,8 @@ Lv.[Digit:2digits ]で解放
 [home/quest_detail_180] 報酬
 [home/quest_detail_181] つよさ
 [home/quest_detail_182] 目玉報酬
+[home/quest_detail_183] 獲得できるピース
+[home/quest_detail_184] ピース
 [home/quest_detail_185] ボーナス対象なし
 [home/home_001] ショップ
 [home/home_002] ぼうけん
@@ -39209,7 +40226,7 @@ GRADE一覧に戻ります
 毎週変わる　特殊ルールで戦う　高難度バトルです
 [home/champion_battle_071] HARD Lv.1 [Name:ChampionBattleRegion ]
 [home/champion_battle_072] 推奨Lv.[Digit:3digits ]
-[home/champion_battle_073] メイとリーリエと　いっしょに　バトルの勝ち方を学べます
+[home/champion_battle_073] メイ　リーリエと　いっしょに　バトルの勝ち方を学べます
 ストーリーをクリアして　豪華な報酬を　獲得しましょう
 [home/champion_battle_074] チャンピオンロード
 [home/champion_battle_075] 育てたバディーズで　カントー地方の四天王と
@@ -39248,6 +40265,15 @@ GRADE一覧に戻ります
 ロードへ
 [home/champion_battle_087] 解放条件
 [home/champion_battle_088] 解放条件
+[home/champion_battle_089] チャンピオンに勝利すると
+四天王戦とチャンピオン戦で
+編成したバディーズの
+メインのタイプのピースが埋まります
+すべて埋めて　エンブレムを完成させましょう！
+[home/champion_battle_090] ※「挑戦中」のピースは
+チャンピオンに勝利すると埋まります
+[home/champion_battle_091] ピース
+[home/champion_battle_092] 挑戦中
 [home/battle_villa_001] GRADEスキップ
 [home/battle_villa_002] 前回最終GRADEをクリアしたので
 指定のGRADEまでスキップできます
@@ -39714,6 +40740,8 @@ Lv.[Digit:2digits ]에서 해방
 [home/quest_detail_180] 보상
 [home/quest_detail_181] 능력치
 [home/quest_detail_182] 주요 보상
+[home/quest_detail_183] 획득 가능한 피스
+[home/quest_detail_184] 피스
 [home/quest_detail_185] 보너스 대상 없음
 [home/home_001] 숍
 [home/home_002] 모험
@@ -40122,7 +41150,7 @@ WPM배지를 모두 모으면
 매주 바뀌는 특수 규칙으로 승부하는 고난도 배틀입니다
 [home/champion_battle_071] HARD Lv.1 [Name:ChampionBattleRegion ]
 [home/champion_battle_072] 권장 Lv.[Digit:3digits ]
-[home/champion_battle_073] 명희와 릴리에와 함께 배틀에서 이기는 방법을 배웁니다
+[home/champion_battle_073] 명희, 릴리에와 함께 배틀에서 이기는 방법을 배웁니다
 스토리를 클리어하고 호화로운 보상을 획득합시다
 [home/champion_battle_074] 챔피언로드
 [home/champion_battle_075] 육성한 버디즈로 관동지방의 사천왕과
@@ -40159,6 +41187,14 @@ WPM배지를 모두 모으면
 [home/champion_battle_086] 챔피언로드로
 [home/champion_battle_087] 해방 조건
 [home/champion_battle_088] 해방 조건
+[home/champion_battle_089] 챔피언에게 승리하면
+사천왕전과 챔피언전 때
+편성한 버디즈의 메인 타입의 피스가 채워집니다
+모두 채워서 엠블럼을 완성합시다!
+[home/champion_battle_090] ※"도전 중"인 피스는
+챔피언에게 승리하면 채워집니다
+[home/champion_battle_091] 피스
+[home/champion_battle_092] 도전 중
 [home/battle_villa_001] GRADE 스킵
 [home/battle_villa_002] 지난 회 최종 GRADE를 클리어했으므로
 지정된 GRADE까지 스킵할 수 있습니다
@@ -40616,6 +41652,8 @@ home_zh-TW.lsd
 [home/quest_detail_180] 報酬
 [home/quest_detail_181] 戰力
 [home/quest_detail_182] 特級報酬
+[home/quest_detail_183] 可獲得的勳章結晶
+[home/quest_detail_184] 勳章結晶
 [home/quest_detail_185] 無獎勵對象
 [home/home_001] 商店
 [home/home_002] 冒險
@@ -41034,6 +42072,15 @@ home_zh-TW.lsd
 [home/champion_battle_086] 前往冠軍之路
 [home/champion_battle_087] 開放條件：
 [home/champion_battle_088] 開放條件：
+[home/champion_battle_089] 戰勝冠軍時，勳章結晶
+會根據四天王戰和冠軍戰
+編制中拍組的主要屬性
+來填入相應的位置
+填滿所有位置將勳章完成吧！
+[home/champion_battle_090] ※「挑戰中」的勳章結晶
+會在戰勝冠軍後填入勳章
+[home/champion_battle_091] 勳章結晶
+[home/champion_battle_092] 挑戰中
 [home/battle_villa_001] 跳過GRADE
 [home/battle_villa_002] 上期已成功過關最高GRADE
 因此可跳至指定的GRADE
@@ -41717,7 +42764,20 @@ Schlüssel
 [shop/scout_166] Erhalte garantiert [Name:TrainerNameAndType ]!
 [shop/scout_167] Stufe 5: [Digit:6digits ] % Chance auf Erhalt der genannten Gefährten.
 Stufe 10: Du kannst ein Garantie-G-Sucheticket erhalten!
+[shop/scout_174] Saison-Gefährten sind Gefährten, die während dieser saisonalen Gefährtensuche für begrenzte Zeit erscheinen.
+Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieser saisonalen Gefährtensuche erscheinen werden.
+[shop/scout_175] Festival-Gefährten sind Gefährten, die während dieses PokéFestivals für begrenzte Zeit erscheinen.
+Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses PokéFestivals erscheinen werden.
+[shop/scout_176] Meisterfestival-Gefährten sind Gefährten, die während dieses Meisterfestivals für begrenzte Zeit erscheinen.
+Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses Meisterfestivals erscheinen werden.
+[shop/scout_177] Kostümevent-Gefährten sind Gefährten, die während dieses Kostümevents für begrenzte Zeit erscheinen.
+Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses Kostümevents erscheinen werden.
+[shop/scout_178] Rabatt (max. [Digit:3digits ] Mal)
 [shop/scout_179] Hinweis: Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann. Du kannst dir nach der Durchführung der Gefährtensuche × 10 ein Gefährtengespann aussuchen.
+[shop/scout_180] Die Erscheinungsraten für ★ werden nach der dritten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
+[shop/scout_182] Wenn du die Gefährtensuche [Digit:3digits ] Mal durchführst, kannst
+du ein Garantie-G-Sucheticket erhalten.
+[shop/scout_183] In der letzten Gefährtensuche (die 10. bei 10 Gefährtensuchen und die 11. bei 11 Gefährtensuchen) wird nur aus Gefährten mit 5 ★ gezogen. Die Erscheinungsrate für die Ziehung aus Gefährten mit 5 ★ findest du bei der Erscheinungsratenanzeige unter „Garantiert 5 ★!“.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -42039,7 +43099,7 @@ to scout 10 sync pairs?
 to scout 10 sync pairs?
 [shop/scout_036] Offering Rate
 [shop/scout_037] Notes
-[shop/scout_039] 5★Guaranteed
+[shop/scout_039] 5★ Guaranteed
 [shop/scout_040] Fair-Exclusive Sync Pairs
 [shop/scout_042] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
 
@@ -42077,7 +43137,8 @@ When you see a * displayed after a Pokémon name in the offering rate, that mean
 [shop/scout_047] Sync Pair Scout Result
 [shop/scout_048] Bonus
 [shop/scout_049] Again
-[shop/scout_051] Your scout points are at max. Choose the sync pair you want.
+[shop/scout_051] Your scout points are at max.
+Choose the sync pair you want.
 [shop/scout_052] Do you want to use [Digit:3digits ] gems to scout one sync pair?
 [shop/scout_053] Do you want to use [Digit:3digits ] paid gems to scout one sync pair?
 [shop/scout_054] Insufficient Gems
@@ -42295,8 +43356,25 @@ When you see a * displayed after a Pokémon name in the offering rate, that mean
 [shop/scout_166] [Name:TrainerNameAndType ] guaranteed!
 [shop/scout_167] At Tier 5, you can get a ticket with a [Digit:6digits ]% chance to scout
 the featured sync pair. At Tier 10, you can get a guaranteed scout ticket!
+[shop/scout_174] Seasonal sync pairs are sync pairs that will appear for a limited time during this seasonal scout. There is a possibility that they will appear outside of this seasonal scout in the future.
+[shop/scout_175] Fair-exclusive sync pairs are sync pairs that will appear for a limited time during this Poké Fair scout. There is a possibility that they will appear outside of this Poké Fair scout in the future.
+[shop/scout_176] Master Fair sync pairs are sync pairs that will appear for a limited time during this Master Fair. There is a possibility that they will appear outside of this Master Fair in the future.
+[shop/scout_177] Costume sync pairs are sync pairs that will appear for a limited time during this costume scout. There is a possibility that they will appear outside of this costume scout in the future.
+[shop/scout_178] Discount (Limit [Digit:3digits ])
 [shop/scout_179] When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 You may select your additional sync pair after the initial scout is complete.
+[shop/scout_180] The offering rate displayed for each ★ is cut to three decimal places, so adding them all up may not equal 100%. We do not round the actual offering rate up or down.
+
+The offering rate applies to each instance of sync pair scouting, so there is no guarantee that you will get any one sync pair, even if you scout many times in a row.
+
+You may get sync pairs that you have already acquired when you scout.
+
+When you are scouting, you will see sync pairs with unevolved Pokémon even if you have previously acquired and evolved them.
+
+When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
+
+[shop/scout_182] If you use the scout [Digit:3digits ] [EN:Qty S="time" P="times" ], you can get a guaranteed scout ticket!
+[shop/scout_183] The final sync pair scouted (the tenth sync pair for ×10 scouts and the eleventh sync pair for ×11 scouts) is selected from a pool of featured 5★ sync pairs. You can see the offering rate for these draws by tapping the 5★-Guaranteed Pool button on the offering rate screen.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -42814,8 +43892,21 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 [shop/scout_166] ¡[Name:TrainerNameAndType ] con total garantía!
 [shop/scout_167] Fase 5: Billete con [Digit:6digits ]% de probabilidad de reclutar a los compis destacados.
 Fase 10: Billete para reclutarlos con total garantía.
+[shop/scout_174] Los compis de temporada son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de temporada, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de temporada.
+[shop/scout_175] Los festicompis son parejas de compis que aparecen durante un tiempo limitado en este Pokéfestival, aunque es posible que vuelvan a aparecer en un futuro fuera de un Pokéfestival.
+[shop/scout_176] Los festicompis maestros son parejas de compis que aparecen durante un tiempo limitado en este Pokéfestival maestro, aunque es posible que vuelvan a aparecer en un futuro fuera de un Pokéfestival maestro.
+
+[shop/scout_177] Los compis con traje especial son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de trajes especiales, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de trajes especiales.
+[shop/scout_178] ¡Chollo ([Digit:3digits ] [ES:Qty S="vez" P="veces" ])!
 [shop/scout_179] Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
 Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis.
+[shop/scout_180] Ten en cuenta que las tasas de aparición de las ★ mostradas se redondean a partir del tercer decimal; por ello, las cantidades no siempre suman un 100%. Las tasas de aparición no se redondean al efectuar el reclutamiento.
+Las tasas de aparición de cada pareja de compis se aplican cada vez que se efectúa un reclutamiento, de modo que realizarlo de forma consecutiva no garantiza la obtención de dicha pareja de compis.
+Es posible obtener una pareja de compis repetida en un reclutamiento. Aunque el Pokémon de la pareja de compis ya obtenida haya evolucionado, en la pantalla de reclutamiento aparecerá siempre la primera fase evolutiva.
+Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
+[shop/scout_182] Tras [Digit:3digits ] reclutamiento[ES:Qty P="s" ], puedes obtener un billete con el
+que reclutar con total garantía a los compis destacados.
+[shop/scout_183] La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★ destacadas. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -42995,7 +44086,8 @@ seront récupérables pendant une période limitée.
 [shop/shop_medal_058] Aucun produit n'est disponible
 à l'achat actuellement.
 [shop/shop_medal_059] Diamants reçus
-[shop/shop_medal_060] Vous avez reçu les Diamants suivants :
+[shop/shop_medal_060] Vous avez reçu
+les Diamants suivants :
 [shop/shop_medal_061] Nouveaux joueurs
 [shop/shop_medal_062] Bonus de connexion
 [shop/shop_medal_063] Œufs
@@ -43342,8 +44434,25 @@ Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran 
 [shop/scout_166] 100 % de chances d'obtenir [Name:TrainerNameAndType ] !
 [shop/scout_167] Au palier 5, vous pourrez recevoir un bon vous octroyant [Digit:6digits ] % de chances d'obtenir
 ce Duo. Et au palier 10, vous pourrez obtenir un bon vous garantissant ce Duo !
+[shop/scout_174] Les Duos saisonniers sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo saisonnier. À l'avenir, les Duos saisonniers pourront aussi apparaître en dehors de cet Appel Duo saisonnier.
+[shop/scout_175] Les Duos festival sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo festival. À l'avenir, les Duos festival pourront aussi apparaître en dehors de cet Appel Duo festival.
+[shop/scout_176] Les Master Duos festival sont des Duos qui apparaissent pendant la durée limitée du Master festival. À l'avenir, les Master Duos festival pourront aussi apparaître en dehors de ce Master festival.
+[shop/scout_177] Les Duos Look Spécial sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo Look Spécial. À l'avenir, les Duos Look Spécial pourront aussi apparaître en dehors de cet Appel Duo Look Spécial.
+[shop/scout_178] Promo (limitée à [Digit:3digits ] fois)
 [shop/scout_179] Remarque : lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 Vous pourrez obtenir un Duo supplémentaire de votre choix après avoir passé l'Appel Duo.
+[shop/scout_180] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur.
+
+Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout.
+
+Il est possible qu'un même Duo apparaisse plusieurs fois.
+
+Si vous appelez un Duo que vous avez déjà et dont vous avez fait évoluer le Pokémon, le Pokémon avant évolution apparaîtra dans le Duo affiché dans les résultats.
+
+Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
+[shop/scout_182] Si vous passez cet Appel [Digit:3digits ] fois, vous pourrez obtenir
+un bon vous garantissant ce Duo !
+[shop/scout_183] Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★ à l'affiche. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★ à l'affiche, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -43710,7 +44819,7 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 [shop/scout_049] Nuova ricerca
 [shop/scout_051] Hai raggiunto il massimo dei punti
 Unicerca.
-Scegli l'Unità che preferisci.
+Puoi scegliere l'Unità che preferisci.
 [shop/scout_052] Vuoi usare [Digit:3digits ] gemm[IT:Qty S="a" P="e" ] per fare
 una ricerca Unità?
 [shop/scout_053] Vuoi usare [Digit:3digits ] gemm[IT:Qty S="a" P="e" ] a pagamento
@@ -43874,7 +44983,7 @@ Il numero di gradini completati verrà azzerato al termine
 del periodo di questa ricerca Unità e non verrà trasferito
 ad altre ricerche Unità. Questa ricerca Unità termina
 al completamento dell'ultimo gradino.
-[shop/scout_139] regalo [Digit:2digits ]ª volta
+[shop/scout_139] Regali [Digit:2digits ]ª volta
 [shop/scout_140] I regali saranno inviati alla sezione "Da accettare"
 dei Regali.
 [shop/scout_141] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
@@ -43954,8 +45063,27 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 [shop/scout_166] Ottenimento di [Name:TrainerNameAndType ] garantito!
 [shop/scout_167] Al gradino 5 riceverai un ticket con il [Digit:6digits ]% di probabilità di ottenere
 l'Unità in evidenza. Il ticket del gradino 10 ne garantisce l'ottenimento!
+[shop/scout_174] Le Unità festive sono Unità che compariranno durante questa ricerca Unità festiva.
+È possibile che compaiano anche in ricerche Unità successive, non necessariamente festive.
+[shop/scout_175] Le Unità Masterparty sono Unità che compariranno durante questo Masterparty.
+È possibile che in futuro compaiano al di fuori del Masterparty.
+[shop/scout_176] Le Unità Mastergala sono Unità che compariranno durante questo Mastergala.
+È possibile che in futuro compaiano al di fuori del Mastergala.
+[shop/scout_177] Le Unità in costume sono Unità che compariranno durante questa ricerca Unità in costume.
+È possibile che compaiano anche in ricerche Unità successive, non necessariamente in costume.
+[shop/scout_178] Offerta (solo [Digit:3digits ] volt[IT:Qty S="a" P="e" ])
 [shop/scout_179] I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
 L'Unità aggiuntiva può essere scelta dopo aver completato la ricerca Unità iniziale.
+[shop/scout_180] Il tasso di comparsa per numero di ★ viene visualizzato fino alla terza cifra decimale, perciò è possibile che la somma delle percentuali non sia 100%.
+Il tasso di comparsa effettivo non viene arrotondato per eccesso o per difetto.
+A ogni ricerca Unità si applica lo stesso tasso di comparsa, pertanto ripetere la ricerca Unità più volte di seguito non garantisce la comparsa di una determinata Unità.
+È possibile che la stessa Unità compaia più volte nella ricerca.
+Anche se il Pokémon di un'Unità già ottenuta si è evoluto, le Unità identiche nella ricerca Unità saranno visualizzate con un Pokémon non ancora evoluto.
+I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
+[shop/scout_182] Effettuando [Digit:3digits ] ricerc[IT:Qty S="a" P="he" ] Unità, potrai ottenere un ticket
+che garantisce l'ottenimento dell'Unità in evidenza!
+[shop/scout_183] Nell'ultima estrazione (la decima per un'Unicerca ×10, l'undicesima per un'Unicerca ×11), la selezione avverrà solo tra Unità con 5★.
+Per consultare il tasso di comparsa delle estrazioni che selezionano solo Unità con 5★, tocca il pulsante "Unità con 5★ garantita" nella schermata del tasso di comparsa.
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -44315,7 +45443,7 @@ SP報酬が解放されるおとくなパック！
 [shop/scout_051] バディーズサーチポイントが
 マックスになりました
 
-好きなバディーズを１体選んでください
+好きなバディーズを１組選んでください
 [shop/scout_052] ダイヤを[Digit:3digits ]個消費して
 バディーズサーチを１回します
 
@@ -44554,8 +45682,27 @@ STEPによってはプレゼントが設定されている場合があります�
 [shop/scout_166] [Name:TrainerNameAndType ]が確定！
 [shop/scout_167] STEP5ではピックアップバディーズが[Digit:6digits ]％で出現するチケットがもらえ
 STEP10では確定で出現するチケットがもらえる！
+[shop/scout_174] ※シーズン限定バディーズとはこのシーズン限定バディーズサーチの期間中に出現するバディーズです。
+※シーズン限定バディーズは今後シーズン限定バディーズサーチ以外でも出現する可能性があります。
+[shop/scout_175] ※フェス限定バディーズとはこのポケマスフェスの期間中に出現するバディーズです。
+※フェス限定バディーズは今後ポケマスフェス以外でも出現する可能性があります。
+[shop/scout_176] ※マスターフェス限定バディーズとはこのマスターフェスの期間中に出現するバディーズです。
+※マスターフェス限定バディーズは今後マスターフェス以外でも出現する可能性があります。
+[shop/scout_177] ※スペシャルコス限定バディーズとはこのスペシャルコス限定バディーズサーチの期間中に出現するバディーズです。
+※スペシャルコス限定バディーズは今後スペシャルコス限定バディーズサーチ以外でも出現する可能性があります。
+[shop/scout_178] [Digit:3digits ]回限定割引！
 [shop/scout_179] ※提供割合にてポケモン名の後ろに（*）が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます
 ※バディーズはバディーズサーチ実行後に選ぶことができます
+[shop/scout_180] ※★ごとの提供割合は、小数第4位以下がある場合に切捨てて表示しており、全てを合算しても100％にならない場合があります。
+※実際の提供割合は、小数第4位以下の四捨五入、切上げ、切捨て等を行っておりません。
+※バディーズサーチは1回ごとにその提供割合にもとづいて抽選を行います。
+そのため、バディーズサーチを特定回数繰り返しても、必ず特定のバディーズが出現するという仕組みではありません。
+※バディーズサーチからは同じバディーズが出現する場合がございます。
+※ポケモン進化後の同一バディーズを既に所持している場合でも、バディーズサーチでは進化前のバディーズが表示されます。
+※提供割合にてポケモン名の後ろに(*)が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます。
+[shop/scout_182] [Digit:3digits ]回実行するとピックアップバディーズが確定で
+出現するチケットがもらえる！
+[shop/scout_183] ※最後の抽選（10連の場合は10回目の抽選、11連の場合は11回目の抽選）では★5のバディーズのみで抽選を行います。★5のみの抽選個別出現割合は提供割合画面の「★5確定」ボタンをタップして確認できます。
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -45178,8 +46325,31 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 [shop/scout_166] [Name:TrainerNameAndType ] 확정!
 [shop/scout_167] STEP5에서는 픽업 버디즈가 [Digit:6digits ]%로 출현하는 티켓을,
 STEP10에서는 확정적으로 출현하는 티켓을 받을 수 있다!
+[shop/scout_174] ※시즌 한정 버디즈는 본 시즌 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
+※시즌 한정 버디즈는 이후 시즌 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
+[shop/scout_175] ※페스티벌 한정 버디즈는 본 PM페스티벌 기간 중에 출현하는 버디즈를 말합니다.
+※페스티벌 한정 버디즈는 이후 PM페스티벌 이외에서도 출현할 가능성이 있습니다.
+[shop/scout_176] ※마스터페스티벌 한정 버디즈는 본 마스터페스티벌 기간 중에 출현하는 버디즈를 말합니다.
+※마스터페스티벌 한정 버디즈는 이후 마스터페스티벌 이외에서도 출현할 가능성이 있습니다.
+[shop/scout_177] ※스페셜 코스튬 한정 버디즈는 본 스페셜 코스튬 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
+※스페셜 코스튬 한정 버디즈는 이후 스페셜 코스튬 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
+[shop/scout_178] [Digit:3digits ]회 한정 할인!
 [shop/scout_179] ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다
 ※버디즈는 버디즈서치를 실행한 후에 선택할 수 있습니다
+[shop/scout_180] ※★에 따른 제공 확률은 표기상 소수점 4자리 이하는 버려지므로
+총합해도 100%가 되지 않는 경우가 있습니다.
+※실제 제공 확률은 소수점 4자리 이하를 반올림, 올림, 내림 등을
+하지 않습니다.
+※버디즈서치는 1회마다 해당 제공 확률을 기반하여 추첨을 진행합니다.
+따라서 버디즈서치를 특정 횟수 반복하더라도,
+특정 버디즈가 반드시 출현하는 구조가 아닙니다.
+※버디즈서치에서는 같은 버디즈가 출현하는 경우가 있습니다.
+※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다.
+※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는
+진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
+[shop/scout_182] [Digit:3digits ]회 실행하면 픽업 버디즈가 확정적으로
+출현하는 티켓을 받을 수 있다!
+[shop/scout_183] ※마지막 추첨(10연속의 경우에는 10번째 추첨, 11연속의 경우에는 11번째 추첨)에서는 ★5의 버디즈로만 추첨을 진행합니다. ★5만으로 진행되는 추첨 개별 출현 확률은 제공 비율 화면의 "★5 확정" 버튼을 눌러서 확인할 수 있습니다.
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -45723,8 +46893,27 @@ shop_zh-TW.lsd
 [shop/scout_166] 必得[Name:TrainerNameAndType ]！
 [shop/scout_167] 在STEP5中可獲得精選拍組會以[Digit:6digits ]％的機率出現的票券
 在STEP10中可獲得拍組必定出現的票券！
+[shop/scout_174] ※季節限定拍組是會在季節限定拍組搜尋期間出現的拍組
+※季節限定拍組今後也有可能在非季節限定拍組搜尋以外出現
+[shop/scout_175] ※盛典限定拍組是會在群星盛典期間出現的拍組
+※盛典限定拍組今後也有可能在群星盛典以外出現
+[shop/scout_176] ※大師盛典限定拍組是會在大師盛典期間出現的拍組
+※大師盛典限定拍組今後有可能也會在非大師盛典期間出現
+[shop/scout_177] ※特別套裝限定拍組是會在特別套裝限定拍組搜尋期間出現的拍組
+※特別套裝限定拍組今後也有可能在非特別套裝限定拍組搜尋以外出現
+[shop/scout_178] 僅限[Digit:3digits ]次折扣！
 [shop/scout_179] ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
 ※可於拍組搜尋後自選1對拍組
+[shop/scout_180] ※各種★的提供比例於顯示時會無條件捨去小數點第三位後的餘數，因此合計所有提供比例後可能會有未達100%的情形
+※實際的提供比例並不會將小數點第三位後的餘數四捨五入、無條件捨去或無條件進位
+※每1次的拍組搜尋皆會根據提供比例進行抽選
+因此，即使反覆進行特定次數的拍組搜尋，也不保證會出現特定的拍組
+※拍組搜尋的結果有可能會出現相同的拍組
+※即使玩家持有的是寶可夢進化後的拍組，在拍組搜尋時仍只會顯示寶可夢進化前的該拍組
+※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
+[shop/scout_182] 進行[Digit:3digits ]次拍組搜尋後
+可獲得精選拍組必定出現的票券！
+[shop/scout_183] ※最後一次的搜尋（連續10次時指第10次的搜尋，連續11次時指第11次的搜尋）會僅對★5的拍組進行。各對★5拍組的提供比例可由提供比例的畫面點選「必得★5」確認
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選

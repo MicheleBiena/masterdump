@@ -131,6 +131,8 @@
     "common_widget/dialog_083": "Puoi ancora selezionare e ricevere\nun'Unità tramite l'Unicerca con ticket!",
     "common_widget/dialog_084": "Puoi ancora ricevere un'Unità.\nScegli quella che preferisci!",
     "common_widget/dialog_085": "Utilizzando un [Name:Item ],\nè possibile scoprire un talento casuale\ntra i seguenti:",
+    "common_widget/dialog_086": "Limite strumenti raggiunto. Non è stato\npossibile ottenere i seguenti strumenti:",
+    "common_widget/dialog_087": "Non mostrare più",
     "common_widget/dialog_100": "Utilizzando un [Name:Item ],\nè possibile scoprire il seguente talento:",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "L.",

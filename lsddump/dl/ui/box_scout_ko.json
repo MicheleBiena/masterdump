@@ -12,5 +12,5 @@
     "box_scout/box_scout_011": "박스코인을 [Digit:4digits ]개 사용해서\n박스서치를 [Digit:3digits Idx=\"1\" ]회 진행합니다\n괜찮겠습니까?",
     "box_scout/box_scout_013": "주요 보상을 획득했습니다!",
     "box_scout/box_scout_021": "결과",
-    "box_scout/box_scout_022": "[Name:Item ](을)를\n[Digit:4digits ]개 사용해서\n박스서치를 [Digit:3digits Idx=\"1\" ]회 진행합니다\n괜찮겠습니까?",
+    "box_scout/box_scout_022": "[Name:Item ][Kor:Particle char=\"wo\" ]\n[Digit:4digits ]개 사용해서\n박스서치를 [Digit:3digits Idx=\"1\" ]회 진행합니다\n괜찮겠습니까?",
 }

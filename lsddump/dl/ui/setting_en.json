@@ -67,6 +67,8 @@
     "setting/system_018": "Very High",
     "setting/system_019": "Level Cap Pop-Up",
     "setting/system_020": "If a sync pair reaches its current max\nlevel, gives the option to jump directly\nto the Unlock Level Cap menu.",
+    "setting/system_023": "Item Limit Notifications",
+    "setting/system_024": "Receive a notification when held items\nexceed the maximum limit.",
     "setting/dialog_001": "Player Nickname",
     "setting/dialog_002": "Please enter a nickname for the player.",
     "setting/dialog_003": "Note: You must wait 30 days before you can change\nyour nickname again.",

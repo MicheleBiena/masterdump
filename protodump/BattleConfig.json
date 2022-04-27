@@ -65,6 +65,7 @@
 { "battleParameterId": "knockback.distance_scale", "value": "700", "coords": "" },
 { "battleParameterId": "monster_monster.min_distance", "value": "0", "coords": "0.2" },
 { "battleParameterId": "monster_trainer.min_distance", "value": "0", "coords": "0.5" },
+{ "battleParameterId": "obstacle_effect_interval", "value": "100000", "coords": "" },
 { "battleParameterId": "player1.monster.position", "value": "0", "coords": "0,0,3.7" },
 { "battleParameterId": "player1.monster.rotation", "value": "0", "coords": "0,180,0" },
 { "battleParameterId": "player1.trainer.position", "value": "0", "coords": "0,0,6.65" },

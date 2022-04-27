@@ -67,6 +67,8 @@
     "setting/system_018": "最高",
     "setting/system_019": "突破界限通知",
     "setting/system_020": "當拍組達到最高等級時\n會確認是否要直接前往突破界限選單",
+    "setting/system_023": "道具超過持有上限通知",
+    "setting/system_024": "當道具超過持有上限時會發送通知",
     "setting/dialog_001": "輸入玩家名稱",
     "setting/dialog_002": "請輸入玩家名稱",
     "setting/dialog_003": "※更改玩家名稱後\n30天內無法再次更改",

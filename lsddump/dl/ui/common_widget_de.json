@@ -131,6 +131,8 @@
     "common_widget/dialog_083": "Du hast noch nicht alle Gefährten abgeholt! Such dir Gefährten in der Gefährtensuche mit Tickets aus!",
     "common_widget/dialog_084": "Du hast noch nicht alle Gefährten abgeholt! Bitte such dir ein Gefährtengespann aus!",
     "common_widget/dialog_085": "Du kannst eine dieser Glücksfähigkeiten\nzufällig erlernen, indem du das folgende Item\neinsetzt: [Name:Item ].",
+    "common_widget/dialog_086": "Speicherlimit überschritten. Folgende\nItems konnten nicht abgeholt werden:",
+    "common_widget/dialog_087": "Hinweis nicht mehr anzeigen.",
     "common_widget/dialog_100": "Du kannst diese Glücksfähigkeit erlernen,\nindem du das folgende Item einsetzt:\n[Name:Item ].",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",

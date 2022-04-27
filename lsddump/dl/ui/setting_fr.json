@@ -67,6 +67,8 @@
     "setting/system_018": "Maximale",
     "setting/system_019": "Repousser la limite",
     "setting/system_020": "Quand un Duo atteint sa limite de\nniveau, permet de sauter au menu\npour repousser cette limite.",
+    "setting/system_023": "Alerte de limite d'objets",
+    "setting/system_024": "Recevez une alerte lorsque vous\ndépassez la limite d'objets\npouvant être stockés.",
     "setting/dialog_001": "Nom du joueur",
     "setting/dialog_002": "Veuillez entrer votre surnom.",
     "setting/dialog_003": "Vous pouvez changer de surnom tous les 30 jours.",
