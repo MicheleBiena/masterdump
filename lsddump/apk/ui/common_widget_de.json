@@ -133,6 +133,8 @@
     "common_widget/dialog_085": "Du kannst eine dieser Glücksfähigkeiten\nzufällig erlernen, indem du das folgende Item\neinsetzt: [Name:Item ].",
     "common_widget/dialog_086": "Speicherlimit überschritten. Folgende\nItems konnten nicht abgeholt werden:",
     "common_widget/dialog_087": "Hinweis nicht mehr anzeigen.",
+    "common_widget/dialog_088": "Möchtest du das erste Kapitel der Hauptgeschichte (Tutorial) überspringen?",
+    "common_widget/dialog_089": "Hinweis: Du erhältst alle Erstboni des übersprungenen Kapitels und jedes Gefährtengespann erhält Erfahrungspunkte für die übersprungenen Kämpfe. Du kannst zudem jederzeit zur übersprungenen Geschichte zurückkehren.",
     "common_widget/dialog_100": "Du kannst diese Glücksfähigkeit erlernen,\nindem du das folgende Item einsetzt:\n[Name:Item ].",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",

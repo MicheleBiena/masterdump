@@ -32,7 +32,7 @@
     "26": "Learn a move with the following\nsync pair(s) ×[Digit:3digits ]",
     "27": "Learn a passive skill with the\nfollowing sync pair(s) ×[Digit:3digits ]",
     "28": "Unlock a level cap for the following\nsync pair(s) ×[Digit:3digits ]",
-    "32": "Complete a [Name:QuestPlayType ] area\nin the following chapter ×[Digit:6digits ]:\n[Name:QuestGroupTitle ]",
+    "32": "Complete a [Name:QuestPlayType ] area\nin the following area ×[Digit:6digits ]:\n[Name:QuestGroupTitle ]",
     "34": "Create a preset team ×[Digit:3digits ] ",
     "35": "Edit your favorite sync pair ×[Digit:3digits ]",
     "36": "Talk to a Trainer in the\nPokémon Center ×[Digit:6digits ]",
@@ -152,6 +152,7 @@
     "100": "Complete a battle after missing with\nattacks [Digit:6digits ] times in a row in that\nsame battle",
     "101": "Complete an area with a battle\nusing a team of three [Name:Role ]\nsync pairs ×[Digit:6digits ]",
     "102": "Achieve [Name:TimeAttackClearRank ] or higher\nin [Name:EventName ] ×[Digit:6digits ]",
+    "104": "Complete [Name:QuestTitle ]\nin less than [Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ]",
     "105": "Complete [Name:QuestTitle ]\nor [Name:QuestTitle ]\nin less than [Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ]",
     "time_attack_clear_rank_20": "Grade B",
     "106": "Complete [Name:QuestTitle ]\nor [Name:QuestTitle ]\nwith [Digit:2digits Idx=\"1\" ] or more sync pairs that share\nthe following theme in under [Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ]",
@@ -192,4 +193,6 @@
     "136": "Striking at your opponent’s weakness\ndoesn’t make you a mean person.\nIt’s battle strategy, pure and simple!\nShow me some strategic maneuvers\nin a Riddle Mission Battle! Osu!",
     "137": "Use the following move ×[Digit:6digits ]\n(counts only if the battle\nis completed):",
     "137_element": "• [Name:Move ]",
+    "138": "Complete [Name:QuestTitle ]\nwith [Digit:2digits Idx=\"1\" ] or more sync pairs that share\nthe following theme in under [Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ]",
+    "138_element": "• [Name:TeamSkillTag ]",
 }

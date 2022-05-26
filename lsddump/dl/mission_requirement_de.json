@@ -90,6 +90,7 @@
     "100": "Treffe mehrfach in Folge mit\neinem Angriff daneben",
     "101": "Schließe ein Gebiet, in dem\ngekämpft wird, mit dem\nvorgegebenen Team ab",
     "102": "Schließe mehrere Gebiete des\nEilkampfevents auf mindestens\ndem vorgegebenen Rang ab",
+    "104": "Schließe ein bestimmtes Gebiet\nin weniger als der vorgegebenen\nZeit ab",
     "105": "Schließe mehrere bestimmte\nGebiete in weniger als der\nvorgegebenen Zeit ab",
     "106": "Schließe eines der vorgegebenen\nGebiete unter bestimmten\nBedingungen ab",
     "107": "Nutze Item-Tausch",
@@ -123,4 +124,5 @@
     "135": "Rätselmission:\nAuf in den Rätselhaften Kampf!",
     "136": "Rätselmission:\nEine Schwäche für den Sieg",
     "137": "Setze eine bestimmte Attacke ein",
+    "138": "Schließe eines der vorgegebenen\nGebiete unter bestimmten\nBedingungen ab",
 }

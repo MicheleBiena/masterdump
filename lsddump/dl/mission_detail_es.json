@@ -152,6 +152,7 @@
     "100": "Completa una ubicación después de haber fallado al menos [Digit:6digits ] ataque[ES:Qty P=\"s seguidos\" ].",
     "101": "Completa [Digit:6digits ] ubicaci[ES:Qty S=\"ón\" P=\"ones\" ] con combates con un equipo de tres parejas de compis con función de [Name:Role ].",
     "102": "Completa [Digit:6digits ] ubicaci[ES:Qty S=\"ón\" P=\"ones\" ] de [Name:EventName ] con [Name:TimeAttackClearRank ] o superior.",
+    "104": "Completa [Name:QuestTitle ] en menos de [Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ].",
     "105": "Completa [Name:QuestTitle ] o [Name:QuestTitle ] en menos de [Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ].",
     "time_attack_clear_rank_20": "rango B",
     "106": "Completa [Name:QuestTitle ] o [Name:QuestTitle ] en menos de [Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ] con al menos [Digit:2digits Idx=\"1\" ] pareja[ES:Qty Ref=\"1\" P=\"s\" ] de compis con el siguiente distintivo:",
@@ -192,4 +193,6 @@
     "136": "Aprovechar las debilidades de tu rival\nno es de cobardes. ¡Es estrategia,\npura y dura! Venga, quiero ver unos\ncuantos ataques de estratega en\n\"Combate con rompecabezas\". ¡Kiaaa!",
     "137": "Utiliza los siguientes movimientos un total de [Digit:6digits ] [ES:Qty S=\"vez\" P=\"veces\" ] (solo cuentan los combates ganados):",
     "137_element": "• [Name:Move ]",
+    "138": "Completa [Name:QuestTitle ] en menos de [Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ] con al menos [Digit:2digits Idx=\"1\" ] pareja[ES:Qty Ref=\"1\" P=\"s\" ] de compis con el siguiente distintivo:",
+    "138_element": "• [Name:TeamSkillTag ]",
 }

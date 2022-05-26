@@ -164,7 +164,7 @@
     "cafe/rarityup_026": "Après [Digit:4digits ] échange[FR:Qty P=\"s\" ] :",
     "cafe/rarityup_027": "Vous avez atteint le nombre maximal\nd'échanges.\nLe nombre de Bons Duo-Ticket\nnécessaires est passé à [Digit:4digits ].",
     "cafe/rarityup_028": "Vous avez déjà utilisé 20 Duo-Tickets\nou vous possédez déjà le nombre de\nDuo-Tickets Personnels nécessaires.",
-    "cafe/rarityup_029": "Une fois par combat,\naprès l'utilisation d'une\ncapacité Duo, les hausses\nde stats sont multipliées\npar deux.",
+    "cafe/rarityup_029": "La première fois qu'une\ncapacité Duo est utilisée\nà chaque combat, la\ndétermination augmente\nde deux rangs.",
     "cafe/deck_item_002": "Vide",
     "cafe/deck_item_003": "Changer d'équipement",
     "cafe/deck_item_004": "OK",

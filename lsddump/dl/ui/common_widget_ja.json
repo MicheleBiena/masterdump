@@ -133,6 +133,8 @@
     "common_widget/dialog_085": "[Name:Item ]を使用すると\n以下のポテンシャルの中からランダムで\n１つが習得できます",
     "common_widget/dialog_086": "所持上限を超えたため\n以下のどうぐを獲得できませんでした",
     "common_widget/dialog_087": "今後表示しない",
+    "common_widget/dialog_088": "メインストーリー第１章（チュートリアル）をスキップしますか？",
+    "common_widget/dialog_089": "※スキップしたストーリーの初回報酬は全て付与されます\n※スキップしたバトルで得られる経験値は各バディーズに付与されます\n※スキップしたストーリーはあとから遊ぶことができます",
     "common_widget/dialog_100": "[Name:Item ]を使用すると\n以下のポテンシャルが習得できます",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",

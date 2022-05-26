@@ -416,7 +416,7 @@
     "999523": "Transform into Complete Forme until the end of battle.",
     "999522": "Turns the field of play’s zone into a Bug Zone. (A Bug Zone powers up Bug-type attacks.)",
     "999521": "Raises the accuracy and evasiveness of all allied sync pairs by [Digit:1digit Idx=\"1\" ] stat [EN:Qty Ref=\"1\" S=\"rank\" P=\"ranks\" ].",
-    "999520": "Raises the user’s [Name:ReferencedMessageTag Idx=\"2\" ] by [Digit:1digit Idx=\"3\" ] stat [EN:Qty Ref=\"3\" S=\"rank\" P=\"ranks\" ].",
+    "999520": "Increases the user’s [Name:ReferencedMessageTag Idx=\"2\" ] by [Digit:1digit Idx=\"3\" ] [EN:Qty Ref=\"3\" S=\"rank\" P=\"ranks\" ].",
     "999519": "Applies the [Name:ReferencedMessageTag Idx=\"1\" ] to the user.",
     "999518": "Activates one of several additional effects at random.",
     "999517": "Applies the [Name:ReferencedMessageTag Idx=\"1\" ] to all allied sync pairs.",
@@ -428,4 +428,9 @@
     "999511": "The more the target’s Sp. Def is lowered, the greater the power of this attack.",
     "999510": "It's just a splash... Has no effect whatsoever.",
     "999509": "Lowers the Attack of all opposing sync pairs by [Digit:1digit ] stat [EN:Qty S=\"rank\" P=\"ranks\" ].",
+    "999508": "Will not consume the move gauge when the terrain is [Name:ReferencedMessageTag ].",
+    "999507": "Leaves all opposing sync pairs confused.",
+    "999506": "In addition, raises the [Name:ReferencedMessageTag Idx=\"2\" ] of all allied sync pairs by [Digit:1digit Idx=\"1\" ] [EN:Qty Ref=\"1\" S=\"rank\" P=\"ranks\" ] when the weather is rainy.",
+    "999505": "Has a chance ([Digit:2digits ]%) of reducing the user’s sync move countdown by one.",
+    "999504": "This attack’s power increases when the terrain is [Name:ReferencedMessageTag ].",
 }

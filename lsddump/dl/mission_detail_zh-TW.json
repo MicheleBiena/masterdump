@@ -152,6 +152,7 @@
     "100": "在一場對戰中連續攻擊落空[Digit:6digits ]次後，成功過關",
     "101": "以編制3對[Name:Role ]拍組的隊伍，在有對戰的區域成功過關[Digit:6digits ]次",
     "102": "在「[Name:EventName ]」中以[Name:TimeAttackClearRank ]以上等級成功過關[Digit:6digits ]次",
+    "104": "在[Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ]內成功過關「[Name:QuestTitle ]」",
     "105": "在[Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ]內成功過關「[Name:QuestTitle ]」或「[Name:QuestTitle ]」",
     "time_attack_clear_rank_20": "B等級",
     "106": "編制[Digit:2digits Idx=\"1\" ]對以上擁有下列標籤的拍組，\n並在[Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ]內\n成功過關「[Name:QuestTitle ]」或「[Name:QuestTitle ]」",
@@ -192,4 +193,6 @@
     "136": "攻擊對手的弱點\n絕不是卑鄙的手段！\n這叫做戰術！\n我希望能在「解謎任務對戰！」\n見識一下[SC:Gen Ref=\"255\" M=\"你\" F=\"妳\" ]的戰術！嘿啊！",
     "137": "使用下列招式總計[Digit:6digits ]次（僅有對戰過關時列入計算）",
     "137_element": "・[Name:Move ]",
+    "138": "編制[Digit:2digits Idx=\"1\" ]對以上擁有下列標籤的拍組，\n並在[Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ]內\n成功過關「[Name:QuestTitle ]」",
+    "138_element": "・[Name:TeamSkillTag ]",
 }

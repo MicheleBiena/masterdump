@@ -152,6 +152,7 @@
     "100": "Gewinne einen Kampf, nachdem einer deiner Angriffe [Digit:6digits ] Mal in Folge nicht getroffen hat.",
     "101": "Schließe [Digit:6digits ] Mal ein Gebiet mit einem Kampf ab, bei dem dein Team vollständig aus [Name:Role ] Gefährtengespannen besteht.",
     "102": "Schließe [Digit:6digits ] Mal\n„[Name:EventName ]“\nmindestens auf [Name:TimeAttackClearRank ] ab.",
+    "104": "Schließe „[Name:QuestTitle ]“\nin weniger als [Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ] ab.",
     "105": "Schließe „[Name:QuestTitle ]“\noder „[Name:QuestTitle ]“\nin weniger als [Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ] ab.",
     "time_attack_clear_rank_20": "Rang B",
     "106": "Schließe „[Name:QuestTitle ]“\noder „[Name:QuestTitle ]“ \nmit mindestens [Digit:2digits Idx=\"1\" ] Gefährten mit dem\nfolgenden Attribut in weniger als\n[Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ] ab",
@@ -192,4 +193,6 @@
     "136": "Es ist nicht feige, die Schwächen\ndeines Gegners auszunutzen. Es ist\neine schlaue Strategie! Sehr effektiv\nnoch dazu! Zeig mir deine Strategie\nim Rätselhaften Kampf!",
     "137": "Setze folgende Attacke [Digit:6digits ] Mal\nein (nur gewonnene Kämpfe zählen):",
     "137_element": "• [Name:Move ]",
+    "138": "Schließe „[Name:QuestTitle ]“\nmit mindestens [Digit:2digits Idx=\"1\" ] Gefährten mit dem\nfolgenden Attribut in weniger als\n[Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ] ab",
+    "138_element": "• [Name:TeamSkillTag ]",
 }

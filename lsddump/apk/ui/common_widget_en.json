@@ -133,6 +133,8 @@
     "common_widget/dialog_085": "Using a [Name:Item ]\nallows you to learn one of the following\nlucky skills below at random.",
     "common_widget/dialog_086": "Maximum item limit exceeded. You were\nunable to claim the following items.",
     "common_widget/dialog_087": "Don’t show this again.",
+    "common_widget/dialog_088": "Skip Chapter 1 (tutorial) of the\nmain story?",
+    "common_widget/dialog_089": "First-time rewards from skipped stories will all be received. XP from skipped battles will be granted to each sync pair. Skipped stories can be played through later.",
     "common_widget/dialog_100": "Using a [Name:Item ]\nallows you to learn the following\nlucky skill.",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",

@@ -152,6 +152,7 @@
     "100": "Completa una lotta dopo avere\nmancato il bersaglio con un attacco\n[Digit:6digits ] volte di seguito.",
     "101": "Completa [Digit:6digits ] Guid[IT:Qty S=\"a\" P=\"e\" ] area\nche preved[IT:Qty S=\"e\" P=\"ono\" ] delle lotte.\nDevi avere in squadra tre Unità\ncon ruolo di [Name:Role ].",
     "102": "Completa una Guida area\nin [Name:TimeAttackClearRank ] o superiore [Digit:6digits ]\nvolt[IT:Qty S=\"a\" P=\"e\" ] in:\n• [Name:EventName ]",
+    "104": "Completa con un tempo inferiore\na [Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ]\n• [Name:QuestTitle ]",
     "105": "Completa con un tempo inferiore\na [Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ] una delle seguenti Guide\narea:\n• [Name:QuestTitle ]\n• [Name:QuestTitle ]",
     "time_attack_clear_rank_20": "categoria B",
     "106": "Completa in meno di [Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ] una\ndelle seguenti Guide area:\n• [Name:QuestTitle ]\n• [Name:QuestTitle ]\nDevi avere in squadra [Digit:2digits Idx=\"1\" ] o più Unità\nappartenenti al seguente gruppo:",
@@ -192,4 +193,6 @@
     "136": "Sfruttare i punti deboli degli avversari\nnon è affatto codardia, ma astuzia!\nE tu che strategia utilizzerai\nnella Lotta per la missione\nenigmatica?",
     "137": "Usa la seguente mossa per [Digit:6digits ]\nvolt[IT:Qty S=\"a\" P=\"e\" ] in totale (utilizzi conteggiati solo\nin caso di vittoria):",
     "137_element": "• [Name:Move ]",
+    "138": "Completa in meno di [Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ]:\n• [Name:QuestTitle ]\nDevi avere in squadra [Digit:2digits Idx=\"1\" ] o più Unità\nappartenenti al seguente gruppo:",
+    "138_element": "• [Name:TeamSkillTag ]",
 }

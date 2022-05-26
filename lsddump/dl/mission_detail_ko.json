@@ -152,6 +152,7 @@
     "100": "한 번의 배틀 중에 공격을 [Digit:6digits ]회\n연속으로 빗맞히고 배틀을 클리어하자",
     "101": "[Name:Role ]인 버디즈를 3 편성한 팀으로\n배틀이 있는 에리어를 [Digit:6digits ]회 클리어하자",
     "102": "\"[Name:EventName ]\"에서\n[Name:TimeAttackClearRank ] 이상으로\n[Digit:6digits ]회 클리어하자",
+    "104": "\"[Name:QuestTitle ]\"[Kor:Particle char=\"wo\" ]\n[Digit:2digits Idx=\"1\" ] : [Digit:2digits Idx=\"2\" ] 이내에 클리어하자",
     "105": "\"[Name:QuestTitle ]\" 혹은\n\"[Name:QuestTitle ]\"[Kor:Particle char=\"wo\" ]\n[Digit:2digits Idx=\"1\" ] : [Digit:2digits Idx=\"2\" ] 이내에 클리어하자",
     "time_attack_clear_rank_20": "B랭크",
     "106": "아래 태그를 가진 버디즈를 [Digit:2digits Idx=\"1\" ] 이상 편성하여\n\"[Name:QuestTitle ]\"[Kor:Particle char=\"ya\" ]나\n\"[Name:QuestTitle ]\"[Kor:Particle char=\"wo\" ]\n[Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ] 미만으로 클리어하자",
@@ -192,4 +193,6 @@
     "136": "상대의 약점을 찌르는 건 비겁한 게 아닙니다!\n그게 전략이라는 거죠!\n당신의 전략을\n\"수수께끼 풀기 미션 배틀!\"에서\n보여주시길 바랍니다! 잘 부탁드립니다!",
     "137": "아래의 기술을 합계 [Digit:6digits ]회 사용하자\n(배틀을 클리어했을 때만 카운트)",
     "137_element": "・[Name:Move ]",
+    "138": "아래 태그를 가진 버디즈를 [Digit:2digits Idx=\"1\" ] 이상 편성하여\n\"[Name:QuestTitle ]\"[Kor:Particle char=\"wo\" ]\n[Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ] 미만으로 클리어하자",
+    "138_element": "・[Name:TeamSkillTag ]",
 }

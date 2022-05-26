@@ -133,6 +133,8 @@
     "common_widget/dialog_085": "[Name:Item ][Kor:Particle char=\"wo\" ] 사용하면\n아래의 포텐셜 중에서 랜덤으로\n1개를 습득할 수 있습니다",
     "common_widget/dialog_086": "보유 상한을 초과하여\n아래의 도구를 획득하지 못했습니다.",
     "common_widget/dialog_087": "이후 표시하지 않는다",
+    "common_widget/dialog_088": "메인 스토리 제1장(튜토리얼)을\n건너뛰겠습니까?",
+    "common_widget/dialog_089": "※건너뛴 스토리의 첫 클리어 보상은 모두 지급됩니다\n※건너뛴 배틀에서 얻는 경험치는 각 버디즈에 부여됩니다\n※건너뛴 스토리는 나중에 다시 플레이할 수 있습니다",
     "common_widget/dialog_100": "[Name:Item ][Kor:Particle char=\"wo\" ] 사용하면\n아래의 포텐셜을 습득할 수 있습니다",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Lv.",

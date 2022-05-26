@@ -133,6 +133,8 @@
     "common_widget/dialog_085": "Puedes desbloquear una de las siguientes\nhabilidades fortuitas al azar utilizando la\n[Name:Item ]:",
     "common_widget/dialog_086": "Has superado el máximo de objetos.\nNo has podido recibir los siguientes:",
     "common_widget/dialog_087": "No volver a mostrar.",
+    "common_widget/dialog_088": "¿Quieres omitir el capítulo 1 de la\nhistoria principal (es decir, el tutorial)?",
+    "common_widget/dialog_089": "Aviso: Recibirás todos los premios por primera vez de las ubicaciones que omitas, así como la experiencia de los combates correspondientes. Además, podrás volver a jugar más tarde en las ubicaciones que hayas omitido.",
     "common_widget/dialog_100": "Puedes desbloquear la siguiente \nhabilidad fortuita utilizando la\n[Name:Item ]:",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "Nv.",

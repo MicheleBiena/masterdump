@@ -703,6 +703,2170 @@ error_dialog_title_zh-TW.lsd
 [BR_30110] Aprovação Falhou
 
 ===========
+loading_tips_description_de.lsd
+===========
+[100001] Die Attackenleiste kann im Laden
+unter „Item-Tausch“ dauerhaft
+erweitert werden!
+[100002] Vorsicht! Wenn im Kampf dieses
+Symbol erscheint, ist der nächste
+Angriff des Gegners sehr effektiv!
+[100003] Unter „Einstellungen“ im Poryfon
+kannst du die Benutzeroberfläche
+im Kampf (Anzeige der KP-Leiste
+des Gegners, der Reihenfolge etc.)
+ändern.
+[100004] Die Rolle von Gefährten verrät dir,
+worin sie im Kampf besonders gut
+sind. Je nach Rolle unterscheiden
+sich Statuswerte und Strategien.
+[100005] Gefährten mit der Rolle „Angreifer“
+sind gut im Angriff. Sie werden
+unterteilt in physische (Bild 1) und
+Spezial-Angreifer (Bild 2).
+[100006] Gefährten mit der Rolle „Taktiker“
+sind gut darin, den Gegner zu
+stören.
+[100007] Gefährten mit der Rolle „Helfer“
+sind gut darin, ihre Mitstreiter zu
+unterstützen und können viel
+einstecken.
+[100008] Sammle im Zusatzgebiet
+„Verstärkungstraining“ Items für
+den Levelaufstieg und setze sie
+im Menü unter „Level erhöhen“
+ein!
+[100009] Wenn Gefährten ihren maximalen
+Level erreicht haben, sammle in
+Zusatzgebieten Items, um den
+maximalen Level durch „Limitbruch“
+zu erhöhen.
+[100011] Unter „Att./Fähigk. erlernen“ kannst
+du bestimmte Items einsetzen,
+um Gefährten neue Attacken und
+Passivfähigkeiten beizubringen.
+[100012] Durch sehr effektive Angriffe
+während einer „Harmoniechance“
+wird der Sehr-effektiv-Bonus
+aktiviert und ihre Wirkungszeit
+verlängert.
+[100013] Veränderungen der Statuswerte
+(maximal +/- 6 möglich, bei der
+Volltrefferquote +/- 3 mit einem
+Minimalwert von 0) werden beim
+Gefährtenwechsel zurückgesetzt.
+[100014] Schau dir vor einem Kampf die
+Details zum Gebiet an! Dort siehst
+du, welchen Abschlussbonus es gibt
+und bekommst Tipps zum Boss.
+[100015] Beim Statusproblem „Vergiftet“
+verliert das Pokémon nach jeder
+Aktion KP. Bei „Schwer vergiftet“
+verliert es noch mehr KP.
+[100016] Beim Statusproblem „Paralysiert“
+sinkt die Initiative und es kommt
+vor, dass Attacken fehlschlagen.
+[100017] Beim Statusproblem „Verbrennung“
+verliert das Pokémon nach jeder
+Aktion KP und sein Angriff sinkt.
+[100018] Bei den Statusproblemen „Schläft“
+und „Gefroren“ kann das Pokémon
+keine Attacken einsetzen.
+Sie werden nach einer Weile
+oder alternativ durch den Einsatz
+einer G-Dynamax-Attacke oder
+Gefährtenattacke aufgehoben.
+[100019] Statusprobleme bleiben auch nach
+dem Auswechseln bestehen.
+Man kann immer nur von einem
+Statusproblem auf einmal betroffen
+sein.
+[100020] Bei der Statusveränderung
+„Verwirrung“ kommt es vor, dass
+das Pokémon sich selbst verletzt,
+wenn es eine Attacke einsetzt.
+Sie wird nach dem Einsatz
+mehrerer Attacken oder durch
+Auswechseln aufgehoben.
+[100021] Bei der Statusveränderung
+„Zurückgeschreckt“ können keine
+Attacken eingesetzt werden und
+die Attackenleiste füllt sich
+langsamer. Sie wird nach einer
+Weile, durch Auswechseln, eine
+G-Dynamax-Attacke oder eine
+Gefährtenattacke aufgehoben.
+[100022] Bei der Statusveränderung
+„Umschlingung“ verliert das
+Pokémon nach jeder Aktion KP und
+kann nicht ausgewechselt werden.
+Sie wird nach dem Einsatz
+mehrerer Attacken aufgehoben.
+[100023] Angriffe durch Gefährtenattacken
+des Gegners treffen dein ganzes
+Team und setzen vorübergehend
+erhöhte Statuswerte zurück.
+[100024] Die Pokémon in einigen der
+Gefährtengespanne entwickeln
+sich, wenn du ihre Entwicklungs-
+Gefährtenepisode abschließt.
+[100025] Entwicklungs-Gebietsinfos findest
+du unter „Gefährtenepisoden“,
+nachdem du Gefährten erhalten
+hast.
+[100026] Um dich an Entwicklungs-
+Gefährtenepisoden zu versuchen,
+brauchst du Entwicklungssteine, die
+du im Laden unter „Item-Tausch“
+erhalten kannst.
+[100027] Sammle Perlen im Zusatzgebiet
+„Goldtraining+“! Du kannst sie im
+Laden unter „Item-Tausch“ gegen
+jede Menge Münzen eintauschen.
+[100028] Bei Events erhaltene Items und
+gesammelte Münzen kannst du im
+Laden unter „Item-Tausch“ gegen
+andere Items eintauschen.
+[100029] Die Art und Anzahl der Items, die
+du im Laden unter „Item-Tausch“
+eintauschen kannst, ändert sich in
+festgelegten Zeiträumen.
+[100030] Der Wert „Kraft“ misst die Stärke
+deines Teams. Er steigt, wenn du
+Gefährten mit hohen Statuswerten
+in dein Team aufnimmst.
+[100031] Wenn du Gefährten mit Attacken
+des empfohlenen Typs im Team
+hast, erhöht sich die „Kraft“-Zahl,
+die die Stärke des Teams anzeigt.
+[100032] Unter „Zusatzgebiete“ kannst du
+dich an Gebietsinfos versuchen,
+bei denen du Verstärkungsitems
+leichter sammeln kannst.
+[100033] Im Einzelmodus teilt sich das ganze
+Team eine Attackenleiste.
+Konzentriere dich auf sehr effektive
+Attacken!
+[100034] Achte beim Zusammenstellen
+deines Teams darauf, Gefährten
+mit Attacken des für das Abenteuer
+empfohlenen Typs zu wählen!
+[100035] Setze Gefährtenattacken entweder
+gegen starke Gegner ein oder
+gegen Gegner, bei denen sie sehr
+effektiv sind! Ihr Einsatz kann den
+Kampf entscheiden!
+[100036] Der Gefährtenattacken-Countdown
+wird in jedem Kampf zurückgesetzt,
+also heb ihn dir nicht auf, sondern
+nutze ihn!
+[100037] Die Reihenfolge, in der du Gegner
+im Kampf besiegst, ist wichtig!
+Erledige zuerst Gegner, gegen die
+du im Nachteil bist oder die starke
+Attacken einsetzen!
+[100038] Setzt du eine Gefährtenattacke im
+Multimodus ein, machst du dich
+zum Ziel der Gegner. Nutze das,
+wenn deine Freunde in Not sind!
+[100039] An manchen Gebietsinfos wie
+Trainings mit einem + kannst du
+dich nur für bestimmte Zeit oder
+nur begrenzt oft versuchen. Prüfe
+alle Gebietsinfos, um keine zu
+verpassen!
+[100042] Wenn du Gefährtendrops erhältst,
+kannst du mit ihnen Felder auf dem
+Gefährtensteinbrett aktivieren!
+So kannst du deine Gefährten
+auf verschiedene Weise stärker
+machen!
+[100044] Wenn du in Einzelkämpfen in der
+Teamauswahl die Position deiner
+Gefährten änderst, kannst du damit
+die Reihenfolge beeinflussen, nach
+der sie der Gegner angreift!
+[100045] Gibst du Pokémon, die aus einem
+Ei geschlüpft sind, Süßigkeiten,
+steigt ihr Freundschaftslevel!
+[100046] Gewinne in Kämpfen, um von
+Professor Daisy Eier zu erhalten.
+[100047] Lege die von Professor Daisy
+erhaltenen Eier in Brutmaschinen
+im Pokémon-Labor ab.
+[100048] Lade die Brutleiste der
+Brutmaschine auf, indem du
+Kämpfe gewinnst.
+[100049] Ist ein Ei in der Brutmaschine
+abgelegt, heißt es warten, bis ein
+Pokémon daraus schlüpft.
+[100050] Auf der Ranch von Daisys 
+Pokémon-Labor kannst du
+Pokémon, die aus Eiern geschlüpft
+sind, zu deinen Partnern machen.
+[100051] Sammle in Levelaufstiegsgebieten
+Items für den Levelaufstieg und
+setze sie dann im Team-Menü
+unter „Level erhöhen“ ein!
+[100052] Wenn Gefährtengespanne ihren
+maximalen Level erreichen, kannst
+du in Limitbruchgebieten Items
+sammeln, um ihre Levelobergrenze
+per Limitbruch zu erhöhen.
+[100053] Du brauchst Entwicklungssteine, um
+dich an Entwicklungs-Gebietsinfos
+zu versuchen. Diese kannst du in
+Entwicklungsgebieten erhalten.
+[100054] In Trainingsgebieten kannst du dich
+an Gebietsinfos versuchen, wo es
+leichter ist, Verstärkungsitems zu
+sammeln.
+[100056] Im Gefährtendropsgebiet kannst du
+Gefährtendrops M erhalten!
+[100057] Sammle in Levelaufstiegsgebieten
+Items für den Levelaufstieg und
+setze sie dann im Gefährten-Menü
+unter „Level erhöhen“ ein!
+
+===========
+loading_tips_description_en.lsd
+===========
+[100001] You can increase the max number
+of slots in your move gauge by
+exchanging items in the shop.
+[100002] Look out for this warning during
+battles—it means your opponent
+can pull off a supereffective attack!
+[100003] You can change elements of the
+HUD, such as your opponent’s
+HP bar and action order, in the
+Settings menu in your Poryphone.
+[100004] Roles refer to the function each
+sync pair excels at. You can
+change your play style and
+strategy based on which roles you
+choose to make up your team.
+[100005] Strike sync pairs excel in offense.
+There are two types of sync pairs
+in this role—physical (image 1)
+and special (image 2).
+[100006] Tech sync pairs are best at
+disrupting opponents.
+[100007] You can count on support sync
+pairs to help your allies. Many in
+this role also know how to take
+a punch for the good of the team.
+[100008] Gather items in level-up courses in
+the EX Plaza, then level up your
+sync pairs in the Team menu.
+[100009] Once your sync pair’s level is
+maxed out, gather items in the
+EX Plaza to unlock their level cap.
+[100011] From the Moves & Skills menu, you
+can learn new moves and passive
+skills by using specific items.
+[100012] If you use a supereffective attack
+during a unity bonus, this will
+activate an extra boost to your
+unity bonus time.
+[100013] Stats reset when sync pairs switch
+out. Each stat can be raised or
+lowered from its base by up to 6
+stat ranks (except critical-hit rate,
+which can only be raised up to 3).
+[100014] Check area details before trying
+battles in order to check rewards
+and hints about bosses.
+[100015] When your Pokémon is poisoned,
+it will take damage after each
+action. If badly poisoned, it will
+take even more damage!
+[100016] When your Pokémon is paralyzed,
+its Speed falls and there’s a chance
+it may be unable to act at all!
+[100017] When your Pokémon is burned,
+it will take damage after each
+action. Being burned also
+decreases its Attack stat!
+[100018] When your Pokémon are asleep or
+frozen, they are prevented from
+using moves. These status
+conditions are removed in time or
+by using a sync move or a
+max move.
+[100019] Most status conditions do not go
+away even if you switch out your
+sync pair, but status conditions
+do not stack.
+[100020] When your Pokémon is confused,
+it may attack itself! You can cure it
+by using moves repeatedly or by
+switching out your Pokémon.
+[100021] While your Pokémon is flinching,
+it cannot use moves and your
+move gauge fills up more slowly.
+To get out of the condition, use
+a sync move or max move, switch
+out your Pokémon, or wait it out.
+[100022] While your Pokémon is trapped,
+it cannot switch out and its HP 
+is reduced after every action.
+The condition will disappear
+after using several
+Pokémon moves.
+[100023] Your opponents’ sync moves target
+your entire team! In addition to
+taking damage, your team’s
+temporary stat increases will go
+back to normal.
+[100024] You can evolve some Pokémon by
+completing their Evolution sync
+pair stories.
+[100025] If a teammate has a Pokémon
+that is ready to evolve, check out
+their Evolution sync pair story.
+[100026] You need to gather Evolution
+materials to complete Evolution
+sync pair stories. They can be
+acquired by exchanging items in
+the shop.
+[100027] Get pearls by completing the
+Coin Supercourse. You can
+exchange them for tons of coins
+in the shop.
+[100028] Take the items you earn from
+events to the shop and exchange
+them for other items or coins.
+[100029] The items and how often you can
+exchange them differ depending
+on when you try.
+[100030] Your team’s strength is the best
+indicator of how powerful it is.
+The higher your sync pairs’ stats, 
+the higher your team’s strength.
+[100031] When editing your team, choose
+sync pairs with the recommended
+move types to gain a type bonus,
+which boosts your team’s strength
+estimate for that area.
+[100032] You can battle in the EX Plaza to
+gather items to further strengthen
+your sync pairs.
+[100033] Your entire team shares the move
+gauge in single-player battles.
+Try to focus your strategy around
+supereffective moves!
+[100034] Each area has different
+recommended types. Make sure
+you edit your team to match
+those recommendations!
+[100035] Choose your targets wisely!
+Whether you win or lose may
+come down to how you use
+your sync moves.
+[100036] The sync move countdown resets
+after every battle. Unused sync
+moves don’t carry over, so try to
+use them while you have them!
+[100037] Be mindful of the order you knock
+out your opponents. Target the
+sync pairs who are weakest
+against your attacks or strongest
+against your team.
+[100038] When you use your sync move in a
+co-op battle, your opponents will
+target you. Use it wisely to save a
+teammate in need!
+[100039] Some areas are only playable for a
+limited time—or you can only
+attempt them a limited number of
+times, like supercourses. Be sure to
+check often so you don’t miss any!
+[100042] Use sync orbs that are specific to a
+sync pair to activate tiles on their
+sync grid. Raise stats, enhance
+moves, improve skills, and more!
+[100044] In single-player battles, you can
+choose the order opponents will
+target your team members using
+the Edit Team screen.
+[100045] Giving goodies to a Pokémon you
+hatched from an Egg will raise
+your affinity with it!
+[100046] You can receive Eggs from
+Professor Bellis after
+completing battles!
+[100047] Place Eggs received from
+Professor Bellis in the incubators in
+Bellis’s Lab.
+[100048] Winning battles fills up the
+incubator’s hatch gauge. Rack up
+victories to hatch your Eggs faster!
+[100049] Once you place an Egg into an
+incubator, it’s only a matter of time
+before the Egg hatches!
+[100050] At the day care in Bellis’s lab,
+you can form sync pairs with the
+Pokémon you hatch from Eggs!
+[100051] Collect items for leveling up in the
+Level-Up Area, then head over to
+the Level Up section of the
+Team menu!
+[100052] Sync pairs at their max level?
+Collect items in the Cap-Unlock
+Area and use the Unlock Level Cap
+feature to raise their level caps!
+[100053] You need to gather Evolution
+materials to complete Evolution
+sync pair stories. They can be
+acquired in the Evolution
+Material Area.
+[100054] The Training Area has area info
+suited for collecting a variety of
+items used in upgrades.
+[100056] You can get co-op sync orbs in
+the Sync Orb Area!
+[100057] Collect level-up items in the
+Level-Up Area, then head over to
+Level Up in the Sync Pairs menu!
+
+===========
+loading_tips_description_es.lsd
+===========
+[100001] Es posible aumentar la barra de
+movimientos desde el menú
+Canjear objetos de la tienda.
+[100002] Este símbolo indica que el rival
+tiene movimientos de un tipo
+supereficaz contra tu Pokémon.
+¡Ten mucho cuidado!
+[100003] En la sección de ajustes del menú
+del Porygófono puedes acceder a
+varias opciones de interfaz de
+combate que te permiten, por
+ejemplo, mostrar la barra de PS
+de los rivales o el orden de las
+acciones.
+[100004] Cada pareja de compis posee una
+función, es decir, una especialidad
+concreta durante los combates.
+Esta influye en el crecimiento de
+sus características, así como en
+las tácticas que emplean durante
+los combates.
+[100005] La función de ataque está
+especializada en la ofensiva.
+Algunos compis atacantes se
+especializan en ataques físicos (1)
+y otros, en ataques especiales (2).
+[100006] La función de sabotaje está
+especializada en poner trabas
+a las acciones de los rivales.
+[100007] La función de apoyo está
+especializada en ayudar a los
+demás compañeros de equipo.
+¡Muchos de ellos resisten bien
+los golpes!
+[100008] Si ves que no consigues avanzar,
+aventúrate en las pruebas mejora
+de las ubicaciones especiales.
+Podrás agenciarte objetos para
+hacer subir de nivel a tus compis
+desde el menú de equipo.
+[100009] Cuando tus compis alcancen el
+nivel máximo, ve a las ubicaciones
+especiales para conseguir objetos
+que te permitan aumentarlo con
+la opción "Aumentar Nv. máx.".
+[100011] Selecciona "Aprender mov./hab."
+para enseñar nuevos movimientos
+y habilidades pasivas a tus compis
+a cambio de determinados objetos.
+[100012] Si usas movimientos supereficaces
+durante el frenesí combo,
+conseguirás un bonus de eficacia,
+que alarga ligeramente la duración
+del frenesí combo.
+[100013] Los cambios en las características
+que se produzcan durante el
+combate desaparecerán tras
+relevar a los compis. Estas pueden
+aumentar o disminuir hasta seis
+niveles, salvo la probabilidad de
+críticos, limitada a tres niveles y
+que nunca puede ser negativa.
+[100014] Antes de proceder a los combates,
+puedes comprobar algunos detalles
+de cada ubicación, como los
+premios que obtendrás al
+completarla o, si se trata de un
+jefe, pistas para vencerlo más
+fácilmente.
+[100015] Cuando un Pokémon está
+envenenado, pierde PS tras
+cada acción que realiza. Si
+está envenenado gravemente,
+el daño que recibe tras cada
+acción aumenta cada vez más.
+[100016] Cuando un Pokémon está
+paralizado, es más probable que
+sus movimientos fallen y que su
+Velocidad se vea reducida.
+[100017] Cuando un Pokémon está
+quemado, pierde PS tras cada
+acción que realiza y su Ataque
+se ve reducido.
+[100018] Cuando un Pokémon está dormido
+o congelado no puede utilizar
+movimientos. Los efectos
+desaparecerán pasado un tiempo o
+si se utiliza un movimiento compi o
+un movimiento compi Dinamax.
+[100019] Los problemas de estado no
+desaparecen tras relevar a los
+compis que los sufren.
+No es posible infligir un problema
+de estado a un Pokémon que ya
+sufre uno.
+[100020] Cuando un Pokémon está confuso
+y utiliza un movimiento, puede
+acabar hiriéndose a sí mismo.
+Los efectos desaparecerán pasado
+un tiempo, tras utilizar varios
+movimientos o tras relevar a los
+compis.
+[100021] Cuando un Pokémon retrocede,
+ni puede utilizar movimientos ni
+se carga la barra de movimientos.
+Los efectos desaparecen pasado un
+tiempo, si se utiliza un movimiento
+compi o un movimiento compi
+Dinamax, o tras relevar a los
+compis.
+[100022] Cuando un Pokémon está bajo
+ataduras, pierde PS tras cada
+acción y no puede ser relevado.
+Los efectos desaparecen tras
+utilizar varios movimientos.
+[100023] ¡Los movimientos compi de los
+rivales afectan a todos tus aliados
+y además restablecen todos los
+aumentos en las características
+de tu equipo!
+[100024] Los Pokémon de algunas parejas
+de compis pueden evolucionar al
+completar su episodio compi de
+evolución.
+[100025] Los episodios compi de evolución
+aparecen junto a los demás
+episodios compi cuando reclutas
+a una pareja con un Pokémon que
+puede evolucionar.
+[100026] Para acceder a los episodios compi
+de evolución, hace falta utilizar
+gemas evolutivas. Estas se pueden
+canjear en la tienda.
+[100027] Puedes conseguir Perlas al
+completar las superpruebas
+lucrativas de las ubicaciones
+especiales y luego canjearlas
+por montones de monedas en
+la tienda.
+[100028] En la tienda puedes canjear los
+objetos y las monedas obtenidos
+en eventos por otros objetos.
+[100029] Los objetos y las cantidades que
+se pueden canjear en la tienda
+pueden variar según el periodo.
+[100030] La fuerza te indica lo potente que
+es un equipo. Cuanto más altas
+sean las características de los
+compis que añadas, mayor será
+la fuerza del equipo.
+[100031] Si tu formación incluye a compis
+que tengan movimientos de los
+tipos recomendados, el indicador
+de fuerza del equipo aumentará.
+[100032] En las ubicaciones especiales se
+pueden conseguir multitud de
+objetos que sirven para fortalecer
+a los compis.
+[100033] En el modo un jugador, todo el
+equipo comparte la misma barra
+de movimientos. ¡Céntrate en usar
+tantos movimientos supereficaces
+como puedas!
+[100034] ¡Es fundamental prestar atención
+a los tipos recomendados de cada
+ubicación para elegir la formación
+adecuada!
+[100035] Utiliza los movimientos compi
+contra los rivales más fuertes o
+los que sean débiles ante el tipo
+del movimiento. ¡Pueden resultar
+decisivos durante el combate!
+[100036] El contador de movimientos compi
+se restablece tras cada combate,
+así que no tengas reparos en
+utilizar un movimiento compi
+cargado siempre que tengas
+la ocasión.
+[100037] ¡El orden en el que afrontas a
+tus rivales es muy importante!
+Céntrate en derribar antes a los
+Entrenadores más fuertes o a los
+que estén en desventaja.
+[100038] Utiliza un movimiento compi para
+atraer la atención del rival hacia
+ti cuando uno de tus compañeros
+se encuentre en un apuro en el
+modo multijugador.
+[100039] Hay algunas ubicaciones, como las
+superpruebas, a las que solo se
+puede acceder durante un tiempo
+limitado o un número máximo de
+veces. ¡Asegúrate de que no se te
+escapa ninguna!
+[100042] Usa los Orbes Compi para
+desbloquear casillas del
+Tablero de la Piedra Compi
+de cada pareja de compis.
+¡Hay un sinfín de maneras de
+hacer que se vuelvan más fuertes!
+[100044] Accede a "Cambiar formación" en
+un combate de un jugador para
+elegir en qué orden atacan los
+enemigos a tu equipo.
+[100045] Dale Dulces a los Pokémon que
+nazcan de un Huevo y aumentará
+su nivel de afinidad.
+[100046] Gana combates y recibe Huevos
+de parte de la Profesora Margarita.
+[100047] Coloca los Huevos que te entregue
+la Profesora Margarita en las
+Incubadoras de su laboratorio.
+[100048] Gana combates para llenar la barra
+de eclosión de la Incubadora.
+[100049] Una vez hayas colocado un Huevo
+en una incubadora, ¡solo tienes
+que ser paciente y esperar a que
+eclosione!
+[100050] En el Rancho del Laboratorio
+Pokémon de la Profesora Margarita
+puedes hacerte compi de los
+Pokémon que nazcan de un Huevo.
+[100051] Obtén objetos en el área de
+aumento de nivel y accede a la
+opción Aumentar nivel, dentro del
+menú Equipo, para incrementar el
+nivel de las parejas de compis.
+[100052] Obtén objetos en el área de nivel
+máximo y úsalos desde la opción
+Aumentar Nv. máx., dentro del
+menú Compis, para aumentar el
+nivel máximo que pueden alcanzar
+las parejas de compis.
+[100053] Para completar un episodio compi
+de evolución son necesarias Gemas
+Evolutivas, las cuales puedes
+obtener en el área de Gemas
+Evolutivas.
+[100054] Desde el área de entrenamiento
+puedes acceder a numerosas
+ubicaciones que te permiten
+conseguir todo tipo de objetos para
+mejorar a tus parejas de compis.
+[100056] ¡En el área de Orbes Compi
+puedes obtener Orbes Compi Multi!
+[100057] Obtén objetos en el área de
+aumento de nivel y úsalos desde
+la opción Aumentar nivel, en el
+menú Compis, para aumentar el
+nivel de tus compis.
+
+===========
+loading_tips_description_fr.lsd
+===========
+[100001] Vous pouvez ajouter des segments
+à la Jauge Capacité en échangeant
+des objets dans la boutique !
+[100002] Ce symbole indique que l'ennemi
+peut utiliser une capacité super
+efficace contre vous !
+Faites attention !
+[100003] Pour modifier l'interface en combat,
+comme l'affichage de la jauge de
+PV des ennemis ou l'ordre des
+actions, rendez-vous dans le menu
+« Paramètres » du Porygophone.
+[100004] Le rôle d'un Duo indique son
+domaine de prédilection en
+combat. La répartition des stats
+et les stratégies en combat sont
+différentes d'un rôle à l'autre.
+[100005] Les Duos dont le rôle est
+« Attaquant » sont particulièrement
+doués pour infliger des dégâts !
+Certains préfèrent les capacités
+physiques (image 1), d'autres
+les capacités spéciales (image 2).
+[100006] Les Duos dont le rôle est
+« Tacticien » connaissent des
+capacités empêchant l'ennemi
+de déployer toute sa puissance !
+[100007] Les Duos dont le rôle est
+« Soutien » viennent en renfort
+du reste de leur équipe.
+La plupart de ces Duos sont
+très résistants !
+[100008] Tentez votre chance dans la zone
+bonus « Test Renforcement » pour
+obtenir des objets que vous pourrez
+utiliser dans le menu « Équipe »
+afin de monter de niveau.
+[100009] Quand un Duo a atteint le niveau
+maximum, rendez-vous dans
+les zones bonus pour accumuler
+des objets permettant de repousser
+cette limite de niveau.
+[100011] Le menu « Capacités et talents »
+permet d'utiliser certains objets
+pour apprendre de nouveaux
+talents et capacités à vos Duos.
+[100012] Pendant le Bonus Synchro, utiliser
+des attaques super efficaces vous
+donnera un bonus d'efficacité. Ce
+bonus rallonge légèrement la durée
+du Bonus Synchro.
+[100013] Pendant un combat, les stats
+peuvent être augmentées ou
+baissées jusqu'à un maximum
+de 6 rangs. Le taux de critiques
+ne peut quant à lui que gagner
+3 rangs.
+Ces changements sont tous annulés
+quand un Duo est remplacé.
+[100014] Avant de vous lancer dans un
+combat, consultez les détails de
+la zone ! Vous pourrez notamment
+y voir les récompenses en cas de
+victoire, et des conseils pour
+vaincre le boss.
+[100015] Un Pokémon empoisonné perd
+des PV à chaque action.
+S'il est gravement empoisonné,
+le nombre de PV perdus par action
+augmentera progressivement.
+[100016] Un Pokémon paralysé risque de
+rater ses capacités, et voit sa
+Vitesse baisser.
+[100017] Un Pokémon brûlé voit son Attaque
+baisser et perd des PV à chaque
+action.
+[100018] Un Pokémon endormi ou gelé
+ne peut plus utiliser de capacité.
+Il se rétablit après un certain
+temps ou en utilisant
+une capacité Duo ou
+une capacité Duo Dynamax.
+[100019] En combat, les altérations de statut
+de vos Pokémon persistent même si
+vous changez de Duo.
+Notez que les Pokémon ne peuvent
+subir qu'une altération de statut
+à la fois !
+[100020] Un Pokémon confus risque
+de se blesser lui-même
+lorsqu'il utilise une capacité.
+Il revient à son état normal
+après avoir utilisé un certain
+nombre de capacités ou si
+son Duo est remplacé.
+[100021] Un Pokémon apeuré ne peut plus
+utiliser de capacité, et sa Jauge
+Capacité se remplit plus
+difficilement. Il revient à son état
+normal après un certain temps,
+en utilisant une capacité Duo
+ou une capacité Duo Dynamax,
+ou bien si son Duo est remplacé.
+[100022] Un Pokémon ligoté perd des PV à
+chaque action, et ne peut plus être
+remplacé par un autre Duo. Il se
+libère après avoir utilisé un certain
+nombre de capacités.
+[100023] Une capacité Duo ennemie
+touche tous les membres de
+votre équipe, et réinitialise
+toutes les augmentations
+de stats.
+[100024] Certains Duos ont un Pokémon
+pouvant évoluer. Pour le faire
+évoluer, il faut terminer l'épisode
+Duo d'évolution lui correspondant.
+[100025] Si vous obtenez un Duo dont
+le Pokémon peut évoluer, vous
+trouverez son épisode d'évolution
+dans ses épisodes Duo.
+[100026] Pour accéder à un épisode Duo
+d'évolution, vous aurez besoin
+de Minerai d'Évolution.
+Pour en obtenir, faites des
+échanges dans la boutique !
+[100027] La zone bonus « Épreuve Pièces »
+permet d'obtenir des Perles.
+Vous pourrez les échanger à la
+boutique pour obtenir une grande
+quantité de Pièces !
+[100028] Vous pouvez échanger les Pièces
+et objets obtenus lors de certains
+évènements contre d'autres objets
+en vous rendant à la boutique. 
+[100029] Certains objets ne peuvent être
+échangés à la boutique qu'un
+nombre de fois limité, ou
+seulement pendant une période
+donnée.
+[100030] La Force est une estimation de
+l'efficacité de votre équipe.
+Plus les stats de vos Duos sont
+élevées, plus l'équipe est forte.
+[100031] Si vous mettez dans votre équipe
+un Duo ayant le même type que le
+type recommandé, vous verrez le
+chiffre indiquant la Force de votre
+équipe augmenter.
+[100032] Les zones bonus vous permettent
+d'obtenir des objets utiles pour
+renforcer votre équipe.
+[100033] Lorsque vous jouez en solo,
+la Jauge Capacité est commune
+à toute votre équipe.
+Concentrez-vous sur les
+adversaires contre lesquels
+vous avez l'avantage de type !
+[100034] La base d'une bonne équipe,
+c'est d'avoir des Duos ayant des
+capacités du type recommandé
+pour l'aventure dans laquelle
+vous souhaitez vous lancer !
+[100035] Utilisez vos capacités Duos sur
+les adversaires faibles face au
+type de la capacité !
+L'utilisation judicieuse des
+capacités Duos suffit à gagner
+certains combats.
+[100036] Inutile d'économiser vos capacités
+Duo : le compteur est réinitialisé
+à chaque combat !
+Utilisez-les donc sans modération !
+[100037] Réfléchissez bien à l'ordre dans
+lequel éliminer vos adversaires !
+Est-il préférable de battre l'ennemi
+le plus faible en premier, ou celui
+qui possède les capacités les plus
+dévastatrices ?
+[100038] En coop, utiliser une capacité Duo
+forcera les ennemis à vous
+attaquer en priorité !
+Utilisez-les donc pour sauver
+un allié en danger !
+[100039] Certaines zones comme celles des
+épreuves ne peuvent être visitées
+qu'un nombre de fois limité, ou
+seulement pendant une période
+donnée. Ne ratez pas votre
+chance !
+[100042] Déposez les Duo-Sphères que
+vous avez obtenues dans les
+cases du Plateau Duo-Gemme.
+Chacune renforcera le Duo
+d'une façon différente !
+[100044] En combat Solo, vous pouvez
+changer la position de vos Duos
+dans le menu « Modifier équipe »,
+et ainsi changer l'ordre dans
+lequel l'ennemi vous attaquera !
+[100045] En donnant des Friandises
+à un Pokémon sorti d'un Œuf,
+vous pouvez augmenter son niveau
+d'affinité envers vous !
+[100046] En remportant des combats, vous
+pourrez recevoir des Œufs de
+la part de la Professeure Bellis !
+[100047] Mettez les Œufs que la Professeure
+Bellis vous a confiés dans
+les Incubateurs du Laboratoire
+Pokémon Bellis.
+[100048] Remportez des combats pour
+remplir la Jauge d'Éclosion de
+l'Incubateur !
+[100049] Une fois qu'un Œuf est placé dans
+l'Incubateur, il suffit d'attendre
+qu'il éclose !
+[100050] Au Ranch du Laboratoire Pokémon
+Bellis, vous pouvez faire équipe
+avec les Pokémon nouvellement
+éclos !
+[100051] Testez la zone niveau ↑ pour
+obtenir des objets que vous pourrez
+utiliser dans le menu « Équipe »
+afin de monter de niveau !
+[100052] Testez la zone repousse-limite
+pour récupérer des objets qui
+vous permettront de repousser
+la limite de vos Duos !
+[100053] Visitez la zone Minerai d'Évolution
+pour récupérer le Minerai
+d'Évolution nécessaire afin de
+débloquer un épisode d'évolution.
+[100054] Les zones d'entraînement sont des
+endroits où l'on peut facilement
+récolter des objets permettant de
+renforcer les Duos.
+[100056] La zone Duo-Sphères permet de
+recevoir des Duo-Sphères Coop.
+[100057] Testez la zone niveau ↑ pour
+obtenir des objets que vous pourrez
+utiliser dans le menu « Duos » afin
+de monter de niveau !
+
+===========
+loading_tips_description_it.lsd
+===========
+[100001] Puoi aumentare il numero massimo
+di barrette nella barra mosse
+tramite lo scambio strumenti
+nel menu del negozio!
+[100002] Quando compare questo simbolo
+durante la lotta, fai attenzione!
+L'avversario ha in serbo un attacco
+superefficace!
+[100003] Puoi decidere se visualizzare alcuni
+elementi dell'interfaccia di lotta,
+come la barra dei PS degli
+avversari o l'ordine delle azioni,
+selezionando "Impostazioni" nel
+Porygofono!
+[100004] I ruoli indicano ciò in cui
+ciascuna Unità riesce meglio
+durante la lotta e influenzano
+la crescita delle statistiche e
+le strategie più indicate!
+[100005] Le Unità con il ruolo di Attaccanti
+sono specializzate nell'attacco!
+Si dividono in due categorie:
+fisiche (fig. 1) e speciali (fig. 2).
+[100006] Le Unità con il ruolo di Tecnici
+sono specializzate in mosse
+che ostacolano gli avversari!
+[100007] Le Unità con il ruolo di Aiutanti
+sono specializzate in mosse che
+aiutano gli alleati!
+Molte di loro sono resistentissime!
+[100008] Affronta i training rinforzo
+nelle aree extra per raccogliere
+strumenti con cui salire di livello,
+poi seleziona "Aumento livello"
+nel menu Squadra!
+[100009] Quando un'Unità raggiunge il livello
+massimo, raccogli gli strumenti
+appositi nelle aree extra
+e seleziona "Sblocco livello max"!
+Il livello massimo raggiungibile
+aumenterà!
+[100011] Tramite "Mosse e abilità pass.",
+puoi far imparare alle tue Unità
+nuove mosse o abilità passive
+usando determinati strumenti!
+[100012] Durante la Combichance,
+gli attacchi superefficaci acquistano
+un bonus efficacia che allunga
+brevemente la durata
+della Combichance!
+[100013] Durante la lotta, le statistiche
+possono aumentare o diminuire
+di massimo sei gradi (la probabilità
+di sferrare brutti colpi, però, può
+aumentare di massimo tre gradi e
+non può avere un valore negativo).
+Le statistiche tornano alla normalità
+con la sostituzione.
+[100014] Prima di affrontare una lotta,
+controlla le "Info area" per scoprire
+quali ricompense riceverai
+completandola e i consigli
+per sconfiggere il boss!
+[100015] L'avvelenamento è un problema
+di stato che fa perdere PS
+al Pokémon dopo ogni azione!
+Con l'iperavvelenamento, invece,
+la quantità di PS persi aumenta
+progressivamente!
+[100016] La paralisi è un problema di stato
+che a volte impedisce al Pokémon
+di sferrare mosse e ne riduce
+la Velocità!
+[100017] La scottatura è un problema
+di stato che fa perdere PS
+al Pokémon dopo ogni azione
+e ne riduce l'Attacco!
+[100018] Il sonno e il congelamento sono
+problemi di stato che impediscono
+al Pokémon di sferrare mosse,
+ma guariscono col tempo, oppure
+quando vengono usate un'Unimossa
+o una mossa UniDynamax.
+[100019] La sostituzione non cura i problemi
+di stato. Si può essere affetti
+da un solo problema di stato
+per volta!
+[100020] La confusione è una variazione
+di stato che, a volte, fa sì che
+il Pokémon si colpisca da solo
+quando sferra una mossa!
+Svanisce dopo un certo numero
+di azioni del Pokémon oppure
+con la sostituzione!
+[100021] Il tentennamento è una variazione
+di stato che impedisce al Pokémon
+di sferrare le mosse e rende più
+difficile riempire la barra mosse!
+Svanisce usando un'Unimossa
+o una mossa UniDynamax, facendo
+passare del tempo oppure
+con la sostituzione!
+[100022] L'imprigionamento è una variazione
+di stato che fa perdere PS
+al Pokémon dopo ogni azione e
+non ne permette la sostituzione!
+Svanisce dopo un certo numero
+di azioni del Pokémon!
+[100023] Le Unimosse avversarie colpiscono
+tutte le Unità alleate e azzerano
+i loro aumenti delle statistiche!
+[100024] I Pokémon di alcune Unità
+si evolvono al completamento
+dei propri episodi Unità evolutivi!
+[100025] Se l'Unità con cui hai fatto amicizia
+ha un Pokémon che si può
+evolvere, i suoi "Episodi Unità"
+comprenderanno anche
+delle Guide area evolutive!
+[100026] Per accedere alle Guide area
+evolutive sono necessari dei
+minerali evolutivi, ottenibili tramite
+lo scambio strumenti nel menu
+del negozio!
+[100027] Il Training dorato SP nelle aree
+extra permette di raccogliere
+delle perle di grandissimo valore!
+Puoi convertirle in monete
+tramite lo scambio strumenti
+nel menu del negozio!
+[100028] Lo scambio strumenti nel menu
+del negozio permette di convertire
+le monete o gli strumenti ottenuti
+durante un evento in strumenti
+diversi!
+[100029] Il tipo e il numero di certi strumenti
+che si possono scambiare tramite
+lo scambio strumenti nel menu
+del negozio può variare
+in determinati periodi!
+[100030] Con "Potenza" si indica la potenza
+complessiva della squadra.
+Più le statistiche dei componenti
+della squadra sono alte, più lo sarà
+anche la potenza!
+[100031] Se metti in squadra Unità con
+mosse dei tipi consigliati, vedrai
+aumentare il numero che indica
+la potenza della squadra!
+[100032] Nelle aree extra puoi accedere
+a Guide area utili per rinforzarti
+o per accumulare vari strumenti.
+[100033] Quando giochi in modalità singola,
+la barra mosse è condivisa tra tutti
+i membri della squadra!
+Sferra mosse superefficaci verso
+gli avversari!
+[100034] È fondamentale mettere in squadra
+Unità con mosse dei tipi consigliati
+per ogni avventura!
+[100035] L'uso dell'Unimossa può decidere
+l'esito della lotta! Sferrala quando
+fronteggi nemici fortissimi o
+avversari che dispongono
+di attacchi superefficaci!
+[100036] Non rimandare l'occasione di
+sferrare un'Unimossa, perché
+il contatore riparte da capo
+ad ogni lotta!
+[100037] Anche l'ordine in cui si mandano
+KO gli avversari è importante!
+Punta a sconfiggere per primi
+quelli che usano le mosse più forti!
+[100038] Quando sferri un'Unimossa in
+modalità multigiocatore, diventerai
+il bersaglio degli avversari!
+Usala anche per aiutare i tuoi
+amici in difficoltà!
+[100039] Ad alcune Guide area, come quelle
+dei training SP, si può accedere
+per un periodo di tempo limitato o
+solo per un certo numero di volte!
+Non fartele sfuggire e controlla
+bene tutte le Guide area che hai!
+[100042] Usa gli Uniciondoli per sbloccare
+le caselle delle Teche Pietra Unità!
+Potrai così rinforzare ogni Unità
+in modi diversi!
+[100044] Nelle lotte Monosquadra, puoi
+toccare "Modifica squadra"
+per cambiare la priorità, vale
+a dire l'ordine in cui le tue Unità
+saranno prese di mira
+dall'avversario!
+[100045] Se dai dei dolci ai Pokémon nati
+dalle Uova, il loro livello amicizia
+aumenterà!
+[100046] Vinci le lotte per ricevere
+delle Uova dalla Professoressa
+Bellisperia!
+[100047] Inserisci le Uova ricevute
+nelle Incubatrici del Laboratorio
+Pokémon.
+[100048] Vinci le lotte per riempire
+la barra schiusa delle Incubatrici!
+[100049] Una volta inserito un Uovo
+in un'Incubatrice, basta attendere
+che si schiuda!
+[100050] Nella Tenuta del Laboratorio
+Pokémon puoi formare Unità
+con i Pokémon nati dalle Uova!
+[100051] Visita le aree aumento di livello
+per raccogliere gli strumenti
+con cui salire di livello, poi
+seleziona "Aumento livello"
+nel menu Squadra!
+[100052] Quando un'Unità raggiunge il livello
+massimo, raccogli gli strumenti
+appositi nelle aree sblocco livello
+max e seleziona "Sblocco livello
+max"! Il livello massimo
+raggiungibile aumenterà!
+[100053] Per accedere alle Guide area
+evolutive sono necessari dei
+minerali evolutivi, ottenibili
+nelle aree minerali evolutivi!
+[100054] Nelle aree allenamento puoi
+accedere a Guide area dove
+raccogliere vari strumenti utili
+per rinforzarti.
+[100056] Nelle aree Uniciondoli puoi
+ottenere Uniciondoli Multi!
+[100057] Visita le aree aumento di livello
+per raccogliere gli strumenti
+con cui salire di livello, poi
+seleziona "Aumento livello"
+nel menu Unità!
+
+===========
+loading_tips_description_ja.lsd
+===========
+[100001] わざゲージの最大値は
+「ショップ」の「どうぐ交換」で
+増やすことができるぞ！
+[100002] バトル中に　このマークが
+出ていたら　要注意！
+相手に　こうかばつぐんを
+取られてしまうぞ！
+[100003] ポリゴンフォンの「せってい」から
+相手のＨＰゲージや　行動順など
+バトルＵＩ表示の　切り替えが
+設定できるぞ！
+[100004] 「ロール」は　バディーズが
+バトルで得意な　役割を示している
+ロールによって　ステータスの傾向や
+得意な戦法が　異なるぞ！
+[100005] ロール「アタッカー」は
+攻撃が　得意な　バディーズだ！
+物理（画像１）・特殊（画像２）の
+２種類に　分かれているぞ！
+[100006] ロール「テクニカル」は
+相手の　妨害をする　わざが
+得意な　バディーズだ！
+[100007] ロール「サポート」は
+味方を　助ける　わざが
+得意な　バディーズだ！
+打たれ強い　バディーズが多いぞ！
+[100008] エクストラエリアの「強化の修練」で
+レベルアップ用のどうぐを　集めて
+チームメニューから
+「レベルアップ」してみよう！
+[100009] バディーズのレベルが最大になったら
+エクストラエリアで　どうぐを集めて
+「ゲンカイ突破」してみよう！
+レベルの　上限が　上昇するぞ！
+[100011] 「わざ・スキル習得」では
+特定の　どうぐを　素材にすることで
+新しいわざや　パッシブスキルを
+おぼえることが　できるぞ！
+[100012] 「イッセイチャンス」の　時間中に
+こうかばつぐんの　攻撃をすると
+「ばつぐんボーナス！！」発生！
+効果時間が　少し延長されるぞ！
+[100013] バトル中の　ステータス変化は
+バディーズの交代で　リセットされる
+上下ともに　６段階まで　変化する
+（急所率は　上に３段階のみ）
+[100014] バトルに挑む前に
+エリア詳細を　チェックしてみよう！
+「クリア報酬」や「ボスのヒント」を
+確認できるぞ！
+[100015] 状態異常「どく」は　ポケモンが
+行動するごとにＨＰが減ってしまう！
+状態異常「もうどく」は
+ＨＰの減る量がだんだん増えていく！
+[100016] 状態異常「まひ」は　ポケモンが
+わざを　失敗することがある！
+「すばやさ」も下がってしまうぞ！
+[100017] 状態異常「やけど」は　ポケモンが
+行動するごとにＨＰが減ってしまう！
+「こうげき」も下がってしまうぞ！
+[100018] 状態異常「ねむり」「こおり」は
+ポケモンが　わざを　出せなくなる！
+Ｂ技・ＢＤ技の使用や　時間経過で
+解除されるぞ！
+[100019] 状態異常は　交代しても　解除されず
+状態異常の　効果中は　別の状態異常に
+かかることは　ないぞ！
+[100020] 状態変化「こんらん」は　ポケモンが
+わざを使うと　自分を攻撃してしまう
+ことがある！　ポケモンのわざを
+何度か使うか　交代で　解除されるぞ！
+[100021] 状態変化「ひるみ」は　ポケモンが
+わざを　出せなくなり　わざゲージも
+たまりにくくなる！　Ｂ技・ＢＤ技の
+使用や時間経過　交代で解除されるぞ！
+[100022] 状態変化「バインド」は　ポケモンが
+行動するごとに　ＨＰが減り　交代
+できなくなってしまう！　ポケモンの
+わざを　何度か使うと　解除されるぞ！
+[100023] 相手のバディーズわざは
+攻撃が　味方全体に　あたる！
+一時的にあがった能力も
+元に　戻されてしまうぞ！
+[100024] 一部のバディーズの　ポケモンは
+進化のバディーズエピソードを
+クリアすることで　進化をするぞ！
+[100025] 進化のエリア情報は　進化可能な
+バディーズを　仲間にしたあとの
+バディーズエピソードで　確認できる！
+[100026] 進化のエリア情報に　挑戦するには
+進化石が　必要だ！
+進化石は　ショップの「どうぐ交換」で
+交換できるぞ！
+[100027] エクストラエリアの「金の大修練」で
+しんじゅを　集めてみよう！
+ショップの「どうぐ交換」で
+大量のコインと　交換できるぞ！
+[100028] イベントなどで　手に入れた
+どうぐや　コインが集まったら
+ショップの　「どうぐ交換」から
+他のどうぐと　交換できるぞ！
+[100029] ショップの　「どうぐ交換」で
+交換できる　どうぐや　回数は
+特定の期間で　変わるものもあるぞ！
+[100030] 「つよさ」は　チームの強さの目安！
+ステータスが高い　バディーズを
+編成するほど　「つよさ」の値が
+高くなっていくぞ！
+[100031] おすすめタイプと　同じタイプの
+わざをもつ　バディーズを編成すると
+チームの　強さの　目安をあらわす
+「つよさ」の数字が　高くなるぞ！
+[100032] 「エクストラエリア」では
+強化に役立つ　様々などうぐを
+集めやすいエリア情報に　挑戦できるぞ
+[100033] ソロプレイ時の　わざゲージは
+チーム全員で　共通だ！
+相手に　こうかばつぐんが取れる
+わざを　中心に　戦ってみよう！
+[100034] ぼうけんごとの　おすすめタイプに
+一致したわざを持つ　バディーズで
+チームを作るのが　編成の基本だ！
+[100035] バディーズわざでの　攻撃は　強敵や
+こうかばつぐんをとれる相手に使おう！
+バディーズわざの　使い方次第で
+勝負が決まることもあるぞ！
+[100036] バディーズわざの　カウントは
+バトルごとに　リセットされる！
+温存しても　意味がないので
+積極的に　使おう！
+[100037] バトルでは　相手を倒す順番も
+大切だ！　打たれ弱い相手や
+強いわざを使う相手から
+先に　狙ってみよう！
+[100038] マルチプレイで
+バディーズわざを　使うと
+相手のターゲットを　引きつけられる！
+仲間のピンチなどで　うまく使おう！
+[100039] 大修練のエリア情報など　時間限定や
+回数限定で遊べる　エリア情報もある！
+見逃さないように　各エリア情報を
+こまめに　確認してみよう！
+[100042] バディドロップを手に入れたら
+バディストーンボードの　パネルを
+解放しよう！　バディーズごとに
+様々な強化ができるぞ！
+[100044] ソロバトルでは　「チーム編成」で
+相手から狙われる順番を　変えられるぞ！
+[100045] タマゴからかえったポケモンは
+おかしを　あげると
+友情レベルが　あがるぞ！
+[100046] バトルに勝利して　ヒナギク博士から
+タマゴを預かろう！
+[100047] ヒナギクポケモン研究所の
+ふかそうちにヒナギク博士から
+預かったタマゴを　セットしよう
+[100048] ふかそうちの「ふかゲージ」を
+ためよう！
+「ふかゲージ」はバトルに
+勝利することでたまるぞ！
+[100049] タマゴをふかそうちに　セットしたら
+あとはかえるまで待とう！
+[100050] ヒナギクポケモン研究所の
+ファームでは　タマゴからかえった
+ポケモンとバディになることが
+できるぞ！
+[100051] レベルアップエリアでレベルアップ用の
+どうぐを集めて　チームメニューから
+「レベルアップ」してみよう！
+[100052] バディーズのレベルが最大になったら
+ゲンカイ突破エリアで　どうぐを集めて
+「ゲンカイ突破」してみよう！
+レベルの　上限が　上昇するぞ！
+[100053] 進化のエリア情報に　挑戦するには
+進化石が　必要だ！
+進化石は　進化石エリアで
+獲得できるぞ！
+[100054] 「トレーニングエリア」では
+強化に役立つ　様々などうぐを
+集めやすいエリア情報に　挑戦できるぞ
+[100056] バディドロップエリアでは
+バディドロップＭが獲得できるぞ！
+[100057] レベルアップエリアでレベルアップ用の
+どうぐを集めてバディーズメニューから
+「レベルアップ」してみよう！
+
+===========
+loading_tips_description_ko.lsd
+===========
+[100001] 기술게이지의 최대치는
+"숍"의 "도구 교환"에서
+늘릴 수 있습니다!
+[100002] 배틀 중에 이 마크가
+표시된다면 주의합시다!
+상대가 효과가 굉장한 공격을
+준비하고 있습니다!
+[100003] 폴리곤폰의 "설정"에서
+상대의 HP 게이지나 행동 순서 등
+배틀 UI 표시를 바꿀 수 있습니다!
+[100004] "롤"은 배틀에서 버디즈가
+특기로 하는 역할을 표시합니다
+롤에 따라서 능력의 성향이나
+특기로 하는 전법이 달라집니다!
+[100005] 롤 "어태커"는
+공격을 특기로 하는 버디즈입니다!
+물리(그림 1)와 특수(그림 2)
+2종류로 나눠집니다!
+[100006] 롤 "테크니컬"은
+상대를 방해하는 기술이
+특기인 버디즈입니다!
+[100007] 롤 "서포트"는
+같은 편을 돕는 기술이
+특기인 버디즈입니다!
+맷집이 강한 버디즈가 많습니다!
+[100008] 엑스트라 에리어의 강화의 수련에서
+레벨업용 도구를 모아
+팀 메뉴에서 "레벨업"을 해봅시다!
+[100009] 버디즈의 레벨이 최대가 되었다면
+엑스트라 에리어에서 도구를 모아
+"한계돌파" 해봅시다!
+레벨의 상한이 상승합니다!
+[100011] "기술・스킬 습득"에서는
+특정 도구를 소재로 사용하여
+새로운 기술이나 패시브스킬을
+배울 수 있습니다!
+[100012] "동시찬스"가 유지될 때에
+효과가 굉장한 공격을 하면
+"발군 보너스!!"가 발생하여
+효과 시간이 조금 연장됩니다!
+[100013] 배틀 중에 일어난 능력 변화는 버디즈의
+교체로 초기화되며 오르거나 떨어지는
+수치는 6단계까지 변화합니다
+(급소율은 상승만 3단계까지 변화)
+[100014] 배틀에 도전하기 전에
+에리어 상세를 체크해봅시다!
+"클리어 보상"이나 "보스 힌트"를
+확인할 수 있습니다!
+[100015] 상태 이상 "독"은 포켓몬이
+행동할 때마다 HP가 줄어듭니다!
+상태 이상 "맹독"은
+HP가 줄어드는 양이 점점 늘어납니다!
+[100016] 상태 이상 "마비"는 포켓몬이
+기술을 실패할 수 있습니다!
+"스피드"도 떨어집니다!
+[100017] 상태 이상 "화상"은 포켓몬이
+행동할 때마다 HP가 줄어듭니다!
+"공격"도 떨어집니다!
+[100018] 상태 이상 "잠듦"과 "얼음"은 포켓몬이
+기술을 사용할 수 없게 됩니다!
+버디즈기술 혹은
+버디즈다이맥스기술을 사용하거나
+시간이 지나면 해제됩니다!
+[100019] 상태 이상은 교체해도 해제되지 않으며
+상태 이상에 걸린 동안에는
+다른 상태 이상에 걸리지 않습니다!
+[100020] 상태 변화 "혼란"은 포켓몬이
+기술을 사용하면 스스로를 공격하는
+경우가 있습니다! 포켓몬의 기술을
+몇 번 사용하거나 교체하면 해제됩니다!
+[100021] 상태 변화 "풀죽음"은 포켓몬이
+기술을 사용할 수 없게 되며 기술게이지도
+느리게 쌓입니다! 버디즈기술 혹은
+버디즈다이맥스기술을 사용하거나
+시간이 지나거나 교체하면 해제됩니다!
+[100022] 상태 변화 "바인드"는 포켓몬이
+행동할 때마다 HP가 줄어들며
+교체할 수 없게 됩니다! 포켓몬의 
+기술을 몇 번 사용하면 해제됩니다!
+[100023] 상대의 버디즈기술은
+같은 편 전원을 공격합니다!
+일시적으로 올라간 능력도
+원래대로 되돌아옵니다!
+[100024] 일부 버디즈의 포켓몬은
+진화와 관련된 버디즈 에피소드를
+클리어하면 진화합니다!
+[100025] 진화 에리어 정보는 진화할 수 있는
+버디즈를 동료로 만든 뒤
+버디즈 에피소드에서 확인할 수 있습니다!
+[100026] 진화 에리어 정보에 도전하기 위해서는
+진화석이 필요합니다!
+진화석은 숍의 "도구 교환"에서
+교환할 수 있습니다!
+[100027] 엑스트라 에리어의 "재화의 대수련"에서
+진주를 모아봅시다!
+숍의 "도구 교환"에서
+대량의 코인과 교환할 수 있습니다!
+[100028] 이벤트 등을 통해 입수한
+도구나 코인을 모아
+숍의 "도구 교환"에서 다른 도구와
+교환할 수 있습니다!
+[100029] 숍의 "도구 교환"에서
+교환할 수 있는 도구나 횟수는
+특정 기간에 바뀌는 것도 있습니다!
+[100030] "능력치"는 팀이 얼마나 강한지
+나타내는 수치입니다!
+능력이 높은 버디즈를 편성할수록
+"능력치"의 수치가 높아집니다!
+[100031] 추천타입과 같은 타입의
+기술을 가진 버디즈를 편성하면
+팀의 강함을 나타내는 수치인
+"능력치"가 높아집니다!
+[100032] "엑스트라 에리어"에서는 강화에 필요한 
+다양한 도구를 모으기 쉬운
+에리어 정보에 도전할 수 있습니다
+[100033] 싱글플레이에서 기술게이지는
+팀 전원이 공유합니다!
+상대에게 효과가 굉장한 공격을 할 수 있는
+기술을 중심으로 싸워봅시다!
+[100034] 모험마다 있는 추천타입과
+같은 타입의 기술을 가진 버디즈로
+팀을 만드는 것이 편성의 기본입니다!
+[100035] 버디즈기술로 공격할 때는 강한 상대나
+효과가 굉장한 공격으로 사용합시다!
+버디즈기술을 어떻게 사용하느냐에 따라
+승부가 결정지어지기도 합니다!
+[100036] 버디즈기술의 카운트는
+배틀할 때마다 초기화됩니다!
+보존하여도 쓸 수 없으므로
+적극적으로 사용합시다!
+[100037] 배틀에서는 상대를 쓰러트리는 순서도
+중요합니다! 맷집이 약한 상대나
+강한 기술을 사용하는 상대부터
+먼저 노려봅시다!
+[100038] 멀티플레이에서
+버디즈기술을 사용하면
+상대의 타깃을 유도할 수 있습니다!
+동료의 위기 등에 잘 사용해 봅시다!
+[100039] 대수련의 에리어 정보처럼 시간제한이나
+횟수 제한이 있는 에리어 정보도 있습니다!
+놓치지 않도록 각 에리어 정보를
+틈틈이 확인해 봅시다!
+[100042] 버디드롭을 얻었다면
+버디스톤보드의 패널을 해방합시다!
+각 버디즈를 다양하게
+강화할 수 있습니다!
+[100044] 싱글배틀에서는 "팀 편성"으로 상대에게
+노려지는 순서를 바꿀 수 있습니다! 
+[100045] 알에서 부화한 포켓몬은
+과자를 주면
+우정레벨이 상승합니다!
+[100046] 배틀에서 승리하고 데이지박사에게
+알을 받아봅시다!
+[100047] 데이지 포켓몬 연구소에 있는 부화장치에
+데이지박사에게 받은 알을 세팅합시다
+[100048] 부화장치의 "부화게이지"를 모아봅시다!
+"부화게이지"는 배틀에서 승리하면
+모을 수 있습니다!
+[100049] 알을 부화장치에 세팅했다면
+부화할 때까지 기다리자!
+[100050] 데이지 포켓몬 연구소에 있는 팜에서는
+알에서 부화한 포켓몬과
+버디가 될 수 있습니다!
+[100051] 레벨업 에리어에서 레벨업용 도구를 모아
+팀 메뉴에서 "레벨업"을 해봅시다!
+[100052] 버디즈의 레벨이 최대가 되었다면
+한계돌파 에리어에서 도구를 모아
+"한계돌파" 해봅시다!
+레벨의 상한이 상승합니다!
+[100053] 진화 에리어 정보에 도전하기 위해서는
+진화석이 필요합니다!
+진화석은 진화석 에리어에서
+획득할 수 있습니다!
+[100054] "트레이닝 에리어"에서는 강화에 필요한 
+다양한 도구를 모으기 쉬운
+에리어 정보에 도전할 수 있습니다
+[100056] 버디드롭 에리어에서는
+버디드롭M을 획득할 수 있습니다!
+[100057] 레벨업 에리어에서 레벨업용 도구를 모아
+버디즈 메뉴에서 "레벨업"을 해봅시다!
+
+===========
+loading_tips_description_zh-TW.lsd
+===========
+[100001] 可以從「商店」的「交換道具」
+來增加招式計量槽的最大值喔！
+[100002] 對戰中出現這個標記，
+就要當心了！
+拍組會遭到對手
+效果絕佳的攻擊喔！
+[100003] 從多邊手機的「設定」可以切換
+對手ＨＰ計量槽、行動順序等
+對戰ＵＩ顯示的內容喔！
+[100004] 「體系」顯示每對拍組
+在對戰中擅長的領域。
+不同體系會有不同的
+能力傾向、戰術特徵喔！
+[100005] 「攻擊型」體系的拍組擅長攻擊！
+此類型可分為物理攻擊型（圖片１）
+及特殊攻擊型（圖片２）喔！
+[100006] 「技術型」體系的拍組
+擅長使用妨礙對手行動的招式！
+[100007] 「輔助型」體系的拍組
+擅長使用協助隊友的招式！
+此類型的拍組
+大多較能承受對手的攻擊喔！
+[100008] 到其他區域的「強化之修練」
+收集可用於升級的道具，
+再從隊伍選單幫拍組「升級」吧！
+[100009] 如果拍組已達最高等級，
+可以到其他區域收集道具，
+並進行「突破界限」！
+這樣就能提升等級上限囉！
+[100011] 在「學習招式／技能」中，
+可以將特定的道具作為材料，
+讓拍組學會新的招式或被動技能喔！
+[100012] 在「一齊機會」的效果時間內
+成功使出效果絕佳的招式，
+就會有效果絕佳獎勵！！
+一齊機會的效果時間也會稍微延長喔！
+[100013] 對戰時的能力變化
+會因為替換拍組而歸零。
+能力提升或下降皆最多變化６階段。
+（擊中要害率只會提升，且限３階段）
+[100014] 在挑戰對戰之前，
+看一看區域詳情吧！
+可以確認「過關報酬」
+以及「頭目的提示」喔！
+[100015] 異常狀態「中毒」
+會讓寶可夢在每次行動時HP減少！
+異常狀態「劇毒」
+會讓HP的減少量逐漸增加！
+[100016] 異常狀態「麻痺」
+可能會讓寶可夢無法成功使出招式！
+「速度」也會降低喔！
+[100017] 異常狀態「灼傷」
+會讓寶可夢在每次行動時HP減少！
+「攻擊」也會降低喔！
+[100018] 異常狀態「睡眠」和「冰凍」
+會讓寶可夢無法使出招式！
+但這些狀態會隨著時間經過，
+或藉由使用拍組招式／
+拍組極巨化招式而解除！
+[100019] 即使進行替換也無法解除異常狀態，
+但是一旦陷入異常狀態，
+就不會受到其他的異常狀態影響！
+[100020] 「混亂」狀態的寶可夢
+可能會在使出招式時攻擊到自己！
+但在使用數次寶可夢的招式
+或替換拍組後，即會解除！
+[100021] 狀態變化「畏縮」
+會讓寶可夢無法使出招式，
+招式計量槽增加的速度也會變慢！
+但在使用拍組招式／拍組極巨化招式，
+或經過一定時間，
+或替換拍組後，即會解除！
+[100022] 狀態變化「束縛」
+會讓寶可夢在每次行動時HP減少，
+而且無法替換拍組！
+使用數次寶可夢的招式後，即會解除！
+[100023] 對手的拍組招式攻擊
+會擊中我方全體拍組！
+暫時提升的能力也會被復原喔！
+[100024] 部分拍組的寶可夢在成功過關
+關於進化的拍組劇情後，
+就會進化喔！
+[100025] 當寶可夢會進化的拍組加入夥伴時，
+就可以從他們的拍組劇情中
+確認進化的區域資訊！
+[100026] 需要有「進化石」才能挑戰
+進化的區域資訊！
+進化石可以在商店透過
+「交換道具」獲得喔！
+[100027] 到其他區域的「財富之大修練」
+收集珍珠吧！
+珍珠可以在商店透過「交換道具」
+兌換成大量的金幣喔！
+[100028] 在活動等區域收集到的道具和金幣，
+可以在商店透過「交換道具」
+兌換成其他的道具喔！
+[100029] 在商店的「交換道具」中
+有些可以交換的道具及次數
+會在特定期間後變更喔！
+[100030] 「戰力」表示隊伍的強度！
+選擇越多能力值較高的拍組，
+隊伍的「戰力」數值也就會越高喔！
+[100031] 當編制到隊伍的拍組擁有
+符合冒險推薦屬性的招式時，
+表示隊伍強度的「戰力」
+數值就會提升喔！
+[100032] 在「其他區域」可以挑戰
+容易收集道具的區域資訊，
+獲得有助於強化的各種道具喔。
+[100033] 單隊模式時的招式計量槽
+是我方全體拍組共用的！
+對戰時，盡量使用能達到
+效果絕佳的招式吧！
+[100034] 編制隊伍的基本方式，
+就是依照每個冒險的推薦屬性，
+選擇擁有合適招式的拍組！
+[100035] 將拍組招式的攻擊用在強敵
+或能取得效果絕佳的對手身上吧！
+勝負的關鍵有時候就在於
+拍組招式的用法喔！
+[100036] 發動拍組招式時所需的行動數
+會在每次對戰開始時歸零！
+保留拍組招式並沒多少好處，
+不如就積極地出招吧！
+[100037] 對戰時，打倒對手的順序也很重要！
+先鎖定較無法承受攻擊的對手，
+或瞄準會使用強大招式的對手吧！
+[100038] 在多隊模式時，使用拍組招式
+就能夠讓對手的目標集中於自己！
+在隊友陷入危機時，
+好好運用拍組招式吧！
+[100039] 大修練等某些區域資訊
+有限制挑戰的時間或次數！
+不時去查看一下各個區域資訊，
+以免錯過機會喔！
+[100042] 獲得拍檔滴晶後
+就去開放拍檔石盤的格子吧！
+您可以幫每一對拍組
+分別進行各式各樣的強化喔！
+[100044] 在單隊模式中從「編制隊伍」
+可以改變迎擊順位喔！
+[100045] 從蛋孵出來的寶可夢
+只要餵點心給牠吃
+就能提升友情等級喔！
+[100046] 在對戰中獲勝
+從雛菊博士那裡
+取得蛋吧！
+[100047] 將雛菊博士給的蛋設置在
+雛菊寶可夢研究所的
+孵化器裡吧。
+[100048] 累積孵化器的「孵化計量槽」吧！
+「孵化計量槽」可透過
+贏得對戰來累積喔！
+[100049] 只要將蛋設置在孵化器
+之後就等著蛋孵化吧！
+[100050] 在雛菊寶可夢研究所的牧場，
+可以和從蛋裡孵出來的
+寶可夢成為拍檔喔！
+[100051] 在升級區域
+收集可用於升級的道具，
+再從隊伍選單幫拍組「升級」吧！
+[100052] 如果拍組已達最高等級，
+可以到突破界限區域收集道具，
+並進行「突破界限」！
+這樣就能提升等級上限囉！
+[100053] 需要有「進化石」才能挑戰
+進化的區域資訊！
+進化石可以在
+「進化石區域」取得喔！
+[100054] 在「訓練區域」可以挑戰
+容易收集道具的區域資訊，
+獲得有助於強化的各種道具喔。
+[100056] 在「拍檔滴晶區域」可以
+獲得拍檔滴晶Ｍ喔！
+[100057] 在升級區域
+收集可用於升級的道具，
+再從拍組選單幫拍組「升級」吧！
+
+===========
+loading_tips_title_de.lsd
+===========
+[100001] Erweitern der Attackenleiste
+[100002] Sehr-effektiv-Warnung
+[100003] Kampf-Benutzeroberfläche
+[100004] Rollen
+[100005] Die Angreifer-Rolle
+[100006] Die Taktiker-Rolle
+[100007] Die Helfer-Rolle
+[100008] Bei Problemen im Kampf 1
+[100009] Erhöhe den Level weiter
+[100011] Attacken und Fähigkeiten
+[100012] Der Sehr-effektiv-Bonus
+[100013] Veränderung der Statuswerte
+[100014] Details zu Gebieten
+[100015] Vergiftet und Schwer vergiftet
+[100016] Paralysiert
+[100017] Verbrennung
+[100018] Schläft und Gefroren
+[100019] Statusprobl. und Auswechseln
+[100020] Verwirrung
+[100021] Zurückgeschreckt
+[100022] Umschlingung
+[100023] Gegner-Gefährtenattacken
+[100024] Pokémon-Entwicklung
+[100025] Entwicklungs-Gebietsinfos
+[100026] Entwicklungs-Items
+[100027] Münzen sammeln
+[100028] Item-Tausch
+[100029] Zeitl. begrenzter Item-Tausch
+[100030] Kraft
+[100031] Typenbonus
+[100032] Zusatzgebiete
+[100033] Attackenleiste im Einzelmodus
+[100034] Teamauswahl-Tipp
+[100035] Gefährtenattacken-Tipp 1
+[100036] Der GA-Countdown
+[100037] Bei Problemen im Kampf 2
+[100038] Gefährtenattacken-Tipp 2
+[100039] Begrenzte Gebietsinfos
+[100042] Gefährtensteinbrett
+[100044] Positionen
+[100045] Freundschaftslevel
+[100046] Eier erhalten
+[100047] Eier ausbrüten 1
+[100048] Eier ausbrüten 2
+[100049] Eier ausbrüten 3
+[100050] Eier-Pokémon als Partner
+[100051] Bei Problemen im Kampf 1
+[100052] Erhöhe den Level weiter
+[100053] Entwicklungs-Items
+[100054] Trainingsgebiete
+[100056] Sammle Gefährtendrops M
+
+===========
+loading_tips_title_en.lsd
+===========
+[100001] Extending Your Move Gauge
+[100002] Mind Your Weaknesses!
+[100003] Changing the Battle HUD
+[100004] What Is a Role?
+[100005] Strike Sync Pairs
+[100006] Tech Sync Pairs
+[100007] Support Sync Pairs
+[100008] Having Trouble? Try This!
+[100009] Leveling Up Your Team
+[100011] Learning Moves & Skills
+[100012] Supereffective Bonus!
+[100013] Stat Changes in Battle
+[100014] Check Area Details
+[100015] Poisoned & Badly Poisoned
+[100016] Paralyzed
+[100017] Burned
+[100018] Asleep & Frozen
+[100019] Removing Status Conditions
+[100020] Confused
+[100021] Flinching
+[100022] Trapped
+[100023] Opponent Sync Moves
+[100024] Pokémon Evolution
+[100025] Evolution Area Info
+[100026] What You Need to Evolve
+[100027] Collecting Coins
+[100028] Exchanging Items
+[100029] Limited-Time Exchanges
+[100030] What Is Team Strength?
+[100031] Type Bonuses
+[100032] EX Plaza
+[100033] Single-Player Move Gauge
+[100034] Editing Your Team
+[100035] Sync Move Tips
+[100036] Sync Move Countdown
+[100037] Having Trouble? Try This!
+[100038] Sync Move Tips
+[100039] Area Info Limitations
+[100042] Sync Grid
+[100044] Tactics
+[100045] Increasing Affinity
+[100046] Obtaining Eggs
+[100047] Hatching Eggs: Step 1
+[100048] Hatching Eggs: Step 2
+[100049] Hatching Eggs: Step 3
+[100050] Forming Sync Pairs
+[100051] Having Trouble? Try This!
+[100052] Leveling Up Your Team
+[100053] What You Need to Evolve
+[100054] The Training Area
+[100056] Getting Co-op Sync Orbs
+
+===========
+loading_tips_title_es.lsd
+===========
+[100001] Ampliar la barra mov.
+[100002] Ataques rivales supereficaces
+[100003] Interfaz de combate
+[100004] Las funciones
+[100005] La función de ataque
+[100006] La función de sabotaje
+[100007] La función de apoyo
+[100008] Consejos para vencer
+[100009] Aumentar el nivel máximo
+[100011] El menú Aprender mov./hab.
+[100012] ¡Bonus de eficacia!
+[100013] Cambios en las características
+[100014] Detalles de las ubicaciones
+[100015] Envenenamiento
+[100016] Parálisis
+[100017] Quemaduras
+[100018] Dormido y congelado
+[100019] Probl. de estado y relevos
+[100020] Confusión
+[100021] Retroceso
+[100022] Ataduras
+[100023] Movimientos compi enemigos
+[100024] Evolución Pokémon
+[100025] Episodios compi de evolución
+[100026] Objetos para evolucionar
+[100027] Conseguir monedas
+[100028] Canjear objetos
+[100029] Canjes limitados
+[100030] La fuerza
+[100031] El bonus de tipo
+[100032] Ubicaciones especiales
+[100033] Barra mov. (un jugador)
+[100034] Formación recomendada
+[100035] Movimientos compi
+[100036] Contador de mov. compi
+[100037] Consejos para vencer (2)
+[100038] Movimientos compi (2)
+[100039] Ubicaciones limitadas
+[100042] El Tablero de la Piedra Compi
+[100044] Orden de ataque
+[100045] Aumentar nivel de afinidad
+[100046] Obtener Huevos
+[100047] Eclosión de los Huevos
+[100048] Eclosión de los Huevos (2)
+[100049] Eclosión de los Huevos (3)
+[100050] Compi de Pokémon de Huevo
+[100051] Consejos para vencer
+[100052] Aumentar el nivel máximo
+[100053] Objetos para evolucionar
+[100054] Área de entrenamiento
+[100056] Reúne Orbes Compi Multi
+
+===========
+loading_tips_title_fr.lsd
+===========
+[100001] Allonger la Jauge Capacité
+[100002] Attention aux faiblesses
+[100003] L'interface en combat
+[100004] Qu'est-ce qu'un rôle ?
+[100005] Le rôle d'attaquant
+[100006] Le rôle de tacticien
+[100007] Le rôle de soutien
+[100008] Les combats difficiles (1)
+[100009] Le niveau maximum
+[100011] Capacités et talents
+[100012] Le bonus d'efficacité
+[100013] Les changements de stats
+[100014] Les détails de la zone
+[100015] L'empoisonnement
+[100016] La paralysie
+[100017] La brûlure
+[100018] Le sommeil et le gel
+[100019] Altération et changement
+[100020] La confusion
+[100021] La peur
+[100022] Le ligotage
+[100023] Les capacités Duo ennemies
+[100024] L'évolution des Pokémon
+[100025] Les épisodes d'évolution
+[100026] Objets pour évoluer
+[100027] Gagner plus de Pièces
+[100028] L'échange d'objets
+[100029] Les échanges limités
+[100030] Qu'est-ce que la Force ?
+[100031] Le bonus de type
+[100032] Les zones bonus
+[100033] La Jauge Capacité en solo
+[100034] Créer une bonne équipe
+[100035] Les capacités Duo (1)
+[100036] Compteur de capacités Duo
+[100037] Les combats difficiles (2)
+[100038] Les capacités Duo (2)
+[100039] Les zones limitées
+[100042] Le Plateau Duo-Gemme
+[100044] Position
+[100045] Augmenter le niveau d'affinité
+[100046] Recevoir des Œufs
+[100047] Faire éclore les Œufs 1
+[100048] Faire éclore les Œufs 2
+[100049] Faire éclore les Œufs 3
+[100050] Duo avec un Pokémon éclos
+[100051] Les combats difficiles 1
+[100052] Le niveau maximum
+[100053] Objets pour évoluer
+[100054] Les zones d'entraînement
+[100056] Trouver des Duo-Sphères Coop
+
+===========
+loading_tips_title_it.lsd
+===========
+[100001] Espandere la barra mosse
+[100002] Occhio alla superefficacia!
+[100003] Cambiare interfaccia di lotta
+[100004] I ruoli
+[100005] Il ruolo di Attaccante
+[100006] Il ruolo di Tecnico
+[100007] Il ruolo di Aiutante
+[100008] Se non riesci a vincere (1)
+[100009] Salire di livello ulteriormente
+[100011] Mosse e abilità passive
+[100012] Il bonus efficacia
+[100013] Le modifiche alle statistiche
+[100014] Leggi le informazioni sull'area
+[100015] L'avvelenamento
+[100016] La paralisi
+[100017] La scottatura
+[100018] Il sonno e il congelamento
+[100019] Problemi di stato e cambio
+[100020] La confusione
+[100021] Il tentennamento
+[100022] L'imprigionamento
+[100023] Le Unimosse avversarie
+[100024] L'evoluzione dei Pokémon
+[100025] Le Guide area evolutive
+[100026] Strumenti per l'evoluzione
+[100027] Accumulare monete
+[100028] Lo scambio strumenti
+[100029] Lo scambio strumenti limitato
+[100030] Cos'è la potenza?
+[100031] Cos'è il bonus di tipo?
+[100032] Cosa sono le aree extra?
+[100033] Barra mosse in Monosquadra
+[100034] Consigli sulla squadra
+[100035] Consigli sulle Unimosse (1)
+[100036] Il contatore dell'Unimossa
+[100037] Se non riesci a vincere (2)
+[100038] Consigli sulle Unimosse (2)
+[100039] Guide area limitate
+[100042] Le Teche delle Pietre Unità
+[100044] La priorità
+[100045] Aumentare il livello amicizia
+[100046] Ottenere le Uova
+[100047] Fare schiudere le Uova 1
+[100048] Fare schiudere le Uova 2
+[100049] Fare schiudere le Uova 3
+[100050] Unità coi Pokémon delle Uova
+[100051] Se non riesci a vincere (1)
+[100052] Salire di livello ulteriormente
+[100053] Strumenti per l'evoluzione
+[100054] Le aree allenamento
+[100056] Raccogliere Uniciondoli Multi
+
+===========
+loading_tips_title_ja.lsd
+===========
+[100001] わざゲージの増やしかた
+[100002] こうかばつぐんに要注意！
+[100003] バトルＵＩ表示の切り替え
+[100004] 「ロール」とは
+[100005] ロール「アタッカー」
+[100006] ロール「テクニカル」
+[100007] ロール「サポート」
+[100008] バトルに勝てない時は・１
+[100009] もっとレベルをあげてみよう
+[100011] 「わざ・スキル習得」について
+[100012] ばつぐんボーナス！！
+[100013] バトル中のステータス変化
+[100014] エリア詳細をみてみよう
+[100015] 状態異常「どく・もうどく」
+[100016] 状態異常「まひ」
+[100017] 状態異常「やけど」
+[100018] 状態異常「ねむり・こおり」
+[100019] 状態異常と交代について
+[100020] 状態変化「こんらん」
+[100021] 状態変化「ひるみ」
+[100022] 状態変化「バインド」
+[100023] 相手のバディーズわざ
+[100024] ポケモンの進化
+[100025] 進化のエリア情報
+[100026] 進化に必要などうぐ
+[100027] コインを集めるには
+[100028] 「どうぐ交換」について
+[100029] 期間限定の「どうぐ交換」
+[100030] 「つよさ」とは
+[100031] 「タイプボーナス」とは
+[100032] 「エクストラエリア」とは
+[100033] ソロプレイ中のわざゲージ
+[100034] チーム編成のコツ
+[100035] バディーズわざのコツ・１
+[100036] バディーズわざのカウント
+[100037] バトルに勝てない時は・２
+[100038] バディーズわざのコツ・２
+[100039] 制限のあるエリア情報
+[100042] バディストーンボード
+[100044] 狙われる順番
+[100045] 友情レベルアップのコツ
+[100046] タマゴを預かるには？
+[100047] タマゴをかえす方法１
+[100048] タマゴをかえす方法２
+[100049] タマゴをかえす方法３
+[100050] タマゴポケモンとバディになる
+[100051] バトルに勝てない時は・１
+[100052] もっとレベルをあげてみよう
+[100053] 進化に必要などうぐ
+[100054] 「トレーニングエリア」とは
+[100056] バディドロップＭを集めよう
+
+===========
+loading_tips_title_ko.lsd
+===========
+[100001] 기술게이지를 늘리는 방법
+[100002] 효과가 굉장한 공격을 주의!
+[100003] 배틀 UI 표시를 바꾸는 방법
+[100004] "롤"이란?
+[100005] 롤 "어태커"
+[100006] 롤 "테크니컬"
+[100007] 롤 "서포트"
+[100008] 배틀에서 이기지 못할 때1
+[100009] 좀 더 레벨을 올려봅시다
+[100011] "기술・스킬 습득"에 대하여
+[100012] 발군 보너스!!
+[100013] 배틀 중 능력 변화
+[100014] 에리어 상세를 체크해 봅시다!
+[100015] 상태 이상 "독・맹독"
+[100016] 상태 이상 "마비"
+[100017] 상태 이상 "화상"
+[100018] 상태 이상 "잠듦・얼음"
+[100019] 상태 이상과 교체에 대하여
+[100020] 상태 변화 "혼란"
+[100021] 상태 변화 "풀죽음"
+[100022] 상태 변화 "바인드"
+[100023] 상대의 버디즈기술
+[100024] 포켓몬의 진화
+[100025] 진화 에리어 정보
+[100026] 진화에 필요한 도구
+[100027] 코인을 모으기 위해서는?
+[100028] "도구 교환"에 대하여
+[100029] 기한이 있는 "도구 교환"
+[100030] "능력치"란?
+[100031] "타입 보너스"란?
+[100032] "엑스트라 에리어"란?
+[100033] 싱글플레이의 기술게이지
+[100034] 팀 편성의 기본
+[100035] 버디즈기술의 기본1
+[100036] 버디즈기술의 카운트
+[100037] 배틀에서 이기지 못할 때2
+[100038] 버디즈기술의 기본2
+[100039] 제한이 있는 에리어 정보
+[100042] 버디스톤보드
+[100044] 노려지는 순서
+[100045] 우정레벨업의 기본
+[100046] 알을 받으려면?
+[100047] 알을 부화시키는 방법1
+[100048] 알을 부화시키는 방법2
+[100049] 알을 부화시키는 방법3
+[100050] 알 포켓몬과 버디가 되자
+[100051] 배틀에서 이기지 못할 때1
+[100052] 좀 더 레벨을 올려봅시다
+[100053] 진화에 필요한 도구
+[100054] "트레이닝 에리어"란?
+[100056] 버디드롭M을 모아보자!
+
+===========
+loading_tips_title_zh-TW.lsd
+===========
+[100001] 如何增加招式計量槽
+[100002] 當心效果絕佳！
+[100003] 切換對戰ＵＩ
+[100004] 什麼是「體系」
+[100005] 「攻擊型」體系
+[100006] 「技術型」體系
+[100007] 「輔助型」體系
+[100008] 打不贏對戰嗎？（１）
+[100009] 讓拍組達到更高等級吧
+[100011] 關於「學習招式／技能」
+[100012] 效果絕佳獎勵！！
+[100013] 對戰中的能力變化
+[100014] 確認區域詳情吧
+[100015] 異常狀態「中毒／劇毒」
+[100016] 異常狀態「麻痺」
+[100017] 異常狀態「灼傷」
+[100018] 異常狀態「睡眠／冰凍」
+[100019] 關於異常狀態和替換拍組
+[100020] 狀態變化「混亂」
+[100021] 狀態變化「畏縮」
+[100022] 狀態變化「束縛」
+[100023] 對手的拍組招式
+[100024] 寶可夢的進化
+[100025] 關於進化的區域資訊
+[100026] 進化所需的道具
+[100027] 如何收集金幣
+[100028] 關於「交換道具」
+[100029] 期間限定的「交換道具」
+[100030] 什麼是「戰力」
+[100031] 什麼是「屬性加成」
+[100032] 什麼是「其他區域」
+[100033] 單隊模式時的招式計量槽
+[100034] 編制隊伍的訣竅
+[100035] 拍組招式的訣竅（１）
+[100036] 拍組招式所需的行動數
+[100037] 打不贏對戰嗎？（２）
+[100038] 拍組招式的訣竅（２）
+[100039] 有條件限制的區域資訊
+[100042] 拍檔石盤
+[100044] 迎擊順位
+[100045] 提升友情等級的訣竅
+[100046] 如何得到蛋？
+[100047] 如何孵化蛋１
+[100048] 如何孵化蛋２
+[100049] 如何孵化蛋３
+[100050] 與蛋裡孵出來的寶可夢成為拍檔
+[100051] 打不贏對戰嗎？（１）
+[100052] 讓拍組達到更高等級吧
+[100053] 進化所需的道具
+[100054] 什麼是「訓練區域」
+[100056] 收集拍檔滴晶Ｍ吧
+
+===========
 story_quest_name_de.lsd
 ===========
 [quest_title_1030100000000100] Das Abenteuer beginnt
@@ -3106,6 +5270,62 @@ Teresa 2
 [quest_title_1030440400210010] Vs. Lucian
 [quest_title_1030440400101010] Vs. Cynthia
 [quest_title_1030206000602010] Ein glorreiches Morgen
+[quest_group_title_10112100000] MaMo-Klarin
+[quest_group_title_10002100000] MaMo-Lyra
+[quest_group_title_10018100000] MaMo-Krista
+[quest_group_title_10246000000] Betys
+[quest_title_1030220112100000] Ein Tag mit MaMo-Klarin
+[quest_title_1030220002100000] Ein Tag mit MaMo-Lyra
+[quest_title_1030220018100000] Ein Tag mit MaMo-Krista
+[quest_title_1030220246000000] Ein Tag mit Betys
+[quest_title_1030405000601010] Vs. Athena 1
+[quest_title_1030405000601020] Vs. Athena 2
+[quest_title_1030405000601030] Vs. Athena 3
+[quest_title_1030405000601040] Täglicher schwerer Kampf
+[quest_title_1030405000601050] Herausforderungskampf 1
+[quest_title_1030405000601060] Herausforderungskampf 2
+[quest_title_1030405000606010] Gewisse Gründe
+[quest_title_1030405000606020] Vs. Trainer aus Passio 1
+[quest_title_1030405000606030] Vs. Trainer aus Passio 2
+[quest_title_1030405000606040] Vs. Trainer aus Passio 3
+[quest_title_1030405000606050] Vs. Trainer aus Passio 4
+[quest_title_1030405000606060] Täglicher schwerer Kampf
+[quest_title_1030405000606070] Anders ist auch gut
+[quest_title_1030405000605130] Kollektivkampf 1
+[quest_title_1030405000605140] Kollektivkampf 2
+[quest_title_1030405000602010] Vs. Lyra 1
+[quest_title_1030405000602020] Vs. Lyra 2
+[quest_title_1030405000602030] Vs. Krista 1
+[quest_title_1030405000602040] Vs. Krista 2
+[quest_title_1030405000602050] Vs. Klarin 1
+[quest_title_1030405000602060] Vs. Klarin 2
+[quest_title_1030405000604010] Kampf gegen die Uhr
+[quest_title_1030405000605010] Eine gewisse Schwachstelle
+[quest_title_1030405000605020] Betys und sein Team
+[quest_title_1030405000605030] Ein gemeinsames Ziel
+[quest_title_1030405000605040] Aller Anfang ist schwer
+[quest_title_1030405000605050] Mit vereinten Kräften
+[quest_title_1030405000605060] Vs. Team Break 1
+[quest_title_1030405000605070] Vs. Team Break 2
+[quest_title_1030405000605080] Vs. Team Break 3
+[quest_title_1030405000605090] Vs. Team Break 4
+[quest_title_1030405000605100] Täglicher schwerer Kampf
+[quest_title_1030405000605110] Herausforderungskampf 1
+[quest_title_1030405000605120] Herausforderungskampf 2
+[quest_title_1030110000460100] Alte Freunde
+[quest_title_1030110000460600] Vs. Atlas 2
+[quest_title_1030110000460200] Ein weiser Ratschlag
+[quest_title_1030110000460700] Vs. Atlas 3
+[quest_title_1030110000460300] Im Herzen vereint
+[quest_title_1030110000460800] Vs. Atlas 4
+[quest_title_1030110000460400] Der größte aller Trainer
+[quest_title_1030110000460900] Vs. MaMo-Giovanni
+[quest_title_1030110000460500] Ein Ende und ein Neubeginn
+[quest_title_1030110000030000] Der Erbauer von Passio
+[quest_title_1030440500301010] Vs. Trainer aus Passio 1
+[quest_title_1030440500302010] Vs. Trainer aus Passio 2
+[quest_title_1030440500303010] Vs. Trainer aus Passio 3
+[quest_title_1030440500304010] Vs. Trainer aus Passio 4
 
 ===========
 story_quest_name_en.lsd
@@ -5407,6 +7627,62 @@ story_quest_name_en.lsd
 [quest_title_1030440400210010] Lucian
 [quest_title_1030440400101010] Cynthia
 [quest_title_1030206000602010] The Secret to Victory
+[quest_group_title_10112100000] Sygna Suit Ethan
+[quest_group_title_10002100000] Sygna Suit Lyra
+[quest_group_title_10018100000] Sygna Suit Kris
+[quest_group_title_10246000000] Bede
+[quest_title_1030220112100000] A Day with Sygna Suit Ethan
+[quest_title_1030220002100000] A Day with Sygna Suit Lyra
+[quest_title_1030220018100000] A Day with Sygna Suit Kris
+[quest_title_1030220246000000] A Day with Bede
+[quest_title_1030405000601010] Challenge Ariana: Part 1
+[quest_title_1030405000601020] Challenge Ariana: Part 2
+[quest_title_1030405000601030] Challenge Ariana: Part 3
+[quest_title_1030405000601040] Daily Extreme Battle 1
+[quest_title_1030405000601050] Battle Challenge! Round 1
+[quest_title_1030405000601060] Battle Challenge! Round 2
+[quest_title_1030405000606010] Troubled Trainers
+[quest_title_1030405000606020] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030405000606030] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030405000606040] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030405000606050] Challenge Pasio’s Trainers: Part 4
+[quest_title_1030405000606060] Daily Extreme Battle 1
+[quest_title_1030405000606070] Being Different
+[quest_title_1030405000605130] Full-Force Battle! Round 1
+[quest_title_1030405000605140] Full-Force Battle! Round 2
+[quest_title_1030405000602010] Take On Lyra! Part 1
+[quest_title_1030405000602020] Take On Lyra! Part 2
+[quest_title_1030405000602030] Take On Kris! Part 1
+[quest_title_1030405000602040] Take On Kris! Part 2
+[quest_title_1030405000602050] Take On Ethan! Part 1
+[quest_title_1030405000602060] Take On Ethan! Part 2
+[quest_title_1030405000604010] Speed Challenge
+[quest_title_1030405000605010] Something Missing
+[quest_title_1030405000605020] Bede’s Team
+[quest_title_1030405000605030] A Proper Goal
+[quest_title_1030405000605040] The Starting Line
+[quest_title_1030405000605050] All Together
+[quest_title_1030405000605060] Challenge Team Break: Part 1
+[quest_title_1030405000605070] Challenge Team Break: Part 2
+[quest_title_1030405000605080] Challenge Team Break: Part 3
+[quest_title_1030405000605090] Challenge Team Break: Part 4
+[quest_title_1030405000605100] Daily Extreme Battle 1
+[quest_title_1030405000605110] Battle Challenge! Round 1
+[quest_title_1030405000605120] Battle Challenge! Round 2
+[quest_title_1030110000460100] As Your Friend
+[quest_title_1030110000460600] Challenge Archer: Part 2
+[quest_title_1030110000460200] In My Heart
+[quest_title_1030110000460700] Challenge Archer: Part 3
+[quest_title_1030110000460300] Hearts Aligned
+[quest_title_1030110000460800] Challenge Archer: Part 4
+[quest_title_1030110000460400] Battle against Evil
+[quest_title_1030110000460900] Challenge Sygna Suit Giovanni
+[quest_title_1030110000460500] Endings and Beginnings
+[quest_title_1030110000030000] The Creator of Pasio
+[quest_title_1030440500301010] Challenge Pasio’s Trainers: Part 1
+[quest_title_1030440500302010] Challenge Pasio’s Trainers: Part 2
+[quest_title_1030440500303010] Challenge Pasio’s Trainers: Part 3
+[quest_title_1030440500304010] Challenge Pasio’s Trainers: Part 4
 
 ===========
 story_quest_name_es.lsd
@@ -7916,6 +10192,62 @@ contra Gaia! (2)
 [quest_title_1030440400210010] VS. Delos
 [quest_title_1030440400101010] VS. Cintia
 [quest_title_1030206000602010] Hacia un porvenir brillante
+[quest_group_title_10112100000] Eco (Traje S)
+[quest_group_title_10002100000] Lira (Traje S)
+[quest_group_title_10018100000] Cristi (Traje S)
+[quest_group_title_10246000000] Berto
+[quest_title_1030220112100000] Un día con Eco (Traje S)
+[quest_title_1030220002100000] Un día con Lira (Traje S)
+[quest_title_1030220018100000] Un día con Cristi (Traje S)
+[quest_title_1030220246000000] Un día con Berto
+[quest_title_1030405000601010] VS. Atenea
+[quest_title_1030405000601020] VS. Atenea (2)
+[quest_title_1030405000601030] VS. Atenea (3)
+[quest_title_1030405000601040] ¡Un combate difícil al día!
+[quest_title_1030405000601050] ¡Un combate desafiante!
+[quest_title_1030405000601060] ¡Un combate desafiante! (2)
+[quest_title_1030405000606010] El juego de Aza
+[quest_title_1030405000606020] VS. Entrenadores de Passio
+[quest_title_1030405000606030] VS. Entrenadores de Passio (2)
+[quest_title_1030405000606040] VS. Entrenadores de Passio (3)
+[quest_title_1030405000606050] VS. Entrenadores de Passio (4)
+[quest_title_1030405000606060] ¡Un combate difícil al día!
+[quest_title_1030405000606070] Únicos e irrepetibles
+[quest_title_1030405000605130] ¡Un combate colectivo!
+[quest_title_1030405000605140] ¡Un combate colectivo! (2)
+[quest_title_1030405000602010] ¡Enfréntate a Lira!
+[quest_title_1030405000602020] ¡Enfréntate a Lira! (2)
+[quest_title_1030405000602030] ¡Enfréntate a Cristi!
+[quest_title_1030405000602040] ¡Enfréntate a Cristi! (2)
+[quest_title_1030405000602050] ¡Enfréntate a Eco!
+[quest_title_1030405000602060] ¡Enfréntate a Eco! (2)
+[quest_title_1030405000604010] Combate supersónico
+[quest_title_1030405000605010] La carencia de Berto
+[quest_title_1030405000605020] El equipo de Berto
+[quest_title_1030405000605030] Un objetivo mayor
+[quest_title_1030405000605040] Línea de salida
+[quest_title_1030405000605050] ¡Todos juntos!
+[quest_title_1030405000605060] VS. Team Break
+[quest_title_1030405000605070] VS. Team Break (2)
+[quest_title_1030405000605080] VS. Team Break (3)
+[quest_title_1030405000605090] VS. Team Break (4)
+[quest_title_1030405000605100] ¡Un combate difícil al día!
+[quest_title_1030405000605110] ¡Un combate desafiante!
+[quest_title_1030405000605120] ¡Un combate desafiante! (2)
+[quest_title_1030110000460100] Somos amigos
+[quest_title_1030110000460600] VS. Atlas (2)
+[quest_title_1030110000460200] Lo que siento de verdad
+[quest_title_1030110000460700] VS. Atlas (3)
+[quest_title_1030110000460300] Corazones juntos
+[quest_title_1030110000460800] VS. Atlas (4)
+[quest_title_1030110000460400] Combate contra el mal
+[quest_title_1030110000460900] VS. Giovanni (Traje S)
+[quest_title_1030110000460500] Finales y comienzos
+[quest_title_1030110000030000] El creador de Passio
+[quest_title_1030440500301010] VS. Entrenadores de Passio
+[quest_title_1030440500302010] VS. Entrenadores de Passio (2)
+[quest_title_1030440500303010] VS. Entrenadores de Passio (3)
+[quest_title_1030440500304010] VS. Entrenadores de Passio (4)
 
 ===========
 story_quest_name_fr.lsd
@@ -10601,6 +12933,77 @@ Dresseurs de Passio IV
 [quest_title_1030440400101010] Combat : Cynthia
 [quest_title_1030206000602010] Le secret de mes nombreuses
 victoires ?
+[quest_group_title_10112100000] Luth (Look Ultime)
+[quest_group_title_10002100000] Célesta (Look Ultime)
+[quest_group_title_10018100000] Christy (Look Ultime)
+[quest_group_title_10246000000] Travis
+[quest_title_1030220112100000] Une journée avec Luth
+(Look Ultime)
+[quest_title_1030220002100000] Une journée avec Célesta
+(Look Ultime)
+[quest_title_1030220018100000] Une journée avec Christy
+(Look Ultime)
+[quest_title_1030220246000000] Une journée avec Travis
+[quest_title_1030405000601010] Combat : Ariane
+[quest_title_1030405000601020] Combat : Ariane II
+[quest_title_1030405000601030] Combat : Ariane III
+[quest_title_1030405000601040] Combat difficile limité
+à une fois par jour !
+[quest_title_1030405000601050] Combat difficile
+[quest_title_1030405000601060] Combat difficile II
+[quest_title_1030405000606010] Dresseurs dans la tourmente
+[quest_title_1030405000606020] Combat : Dresseurs de Passio
+[quest_title_1030405000606030] Combat :
+Dresseurs de Passio II
+[quest_title_1030405000606040] Combat :
+Dresseurs de Passio III
+[quest_title_1030405000606050] Combat :
+Dresseurs de Passio IV
+[quest_title_1030405000606060] Combat difficile limité
+à une fois par jour !
+[quest_title_1030405000606070] Être différent
+[quest_title_1030405000605130] Combat Collectif :
+l'affrontement !
+[quest_title_1030405000605140] Combat Collectif :
+l'affrontement ! II
+[quest_title_1030405000602010] Combat : Célesta
+[quest_title_1030405000602020] Combat : Célesta II
+[quest_title_1030405000602030] Combat : Christy
+[quest_title_1030405000602040] Combat : Christy II
+[quest_title_1030405000602050] Combat : Luth
+[quest_title_1030405000602060] Combat : Luth II
+[quest_title_1030405000604010] Défi à grande vitesse
+[quest_title_1030405000605010] La faiblesse de Travis
+[quest_title_1030405000605020] Combat : équipe de Travis
+[quest_title_1030405000605030] Une ambition d'envergure
+[quest_title_1030405000605040] La ligne de départ
+[quest_title_1030405000605050] Tous ensemble !
+[quest_title_1030405000605060] Combat : Team Break
+[quest_title_1030405000605070] Combat : Team Break II
+[quest_title_1030405000605080] Combat : Team Break III
+[quest_title_1030405000605090] Combat : Team Break IV
+[quest_title_1030405000605100] Combat difficile limité
+à une fois par jour !
+[quest_title_1030405000605110] Combat difficile
+[quest_title_1030405000605120] Combat difficile II
+[quest_title_1030110000460100] Amis et égaux
+[quest_title_1030110000460600] Combat : Amos II
+[quest_title_1030110000460200] Ce que je ressens
+[quest_title_1030110000460700] Combat : Amos III
+[quest_title_1030110000460300] Esprits unis
+[quest_title_1030110000460800] Combat : Amos IV
+[quest_title_1030110000460400] Combat contre le mal
+[quest_title_1030110000460900] Combat : Giovanni
+(Look Ultime)
+[quest_title_1030110000460500] Fins et commencements
+[quest_title_1030110000030000] Le créateur de Passio
+[quest_title_1030440500301010] Combat : Dresseurs de Passio
+[quest_title_1030440500302010] Combat :
+Dresseurs de Passio II
+[quest_title_1030440500303010] Combat :
+Dresseurs de Passio III
+[quest_title_1030440500304010] Combat :
+Dresseurs de Passio IV
 
 ===========
 story_quest_name_it.lsd
@@ -12858,6 +15261,62 @@ story_quest_name_it.lsd
 [quest_title_1030440400210010] VS Luciano
 [quest_title_1030440400101010] VS Camilla
 [quest_title_1030206000602010] Il segreto del mio successo
+[quest_group_title_10112100000] Armonio Costumax
+[quest_group_title_10002100000] Cetra Costumax
+[quest_group_title_10018100000] Kristy Costumax
+[quest_group_title_10246000000] Beet
+[quest_title_1030220112100000] Un giorno con Armonio Costumax
+[quest_title_1030220002100000] Un giorno con Cetra Costumax
+[quest_title_1030220018100000] Un giorno con Kristy Costumax
+[quest_title_1030220246000000] Un giorno con Beet
+[quest_title_1030405000601010] VS Atena
+[quest_title_1030405000601020] VS Atena 2
+[quest_title_1030405000601030] VS Atena 3
+[quest_title_1030405000601040] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030405000601050] Sfida ad alta difficoltà
+[quest_title_1030405000601060] Sfida ad alta difficoltà 2
+[quest_title_1030405000606010] Allenatori turbati
+[quest_title_1030405000606020] VS Allenatori di Pasio
+[quest_title_1030405000606030] VS Allenatori di Pasio 2
+[quest_title_1030405000606040] VS Allenatori di Pasio 3
+[quest_title_1030405000606050] VS Allenatori di Pasio 4
+[quest_title_1030405000606060] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030405000606070] Essere diversi
+[quest_title_1030405000605130] Una Lotta Collettiva!
+[quest_title_1030405000605140] Una Lotta Collettiva! 2
+[quest_title_1030405000602010] Sfida un avversario potente: Cetra
+[quest_title_1030405000602020] Sfida un avversario potente: Cetra 2
+[quest_title_1030405000602030] Sfida un avversario potente: Kristy
+[quest_title_1030405000602040] Sfida un avversario potente: Kristy 2
+[quest_title_1030405000602050] Sfida un avversario potente: Armonio
+[quest_title_1030405000602060] Sfida un avversario potente: Armonio 2
+[quest_title_1030405000604010] Sfida per il record
+[quest_title_1030405000605010] I punti deboli di Beet
+[quest_title_1030405000605020] Una sfida per la squadra di Beet
+[quest_title_1030405000605030] Allargare gli orizzonti
+[quest_title_1030405000605040] Linea di partenza
+[quest_title_1030405000605050] Tutti insieme
+[quest_title_1030405000605060] VS Team Break
+[quest_title_1030405000605070] VS Team Break 2
+[quest_title_1030405000605080] VS Team Break 3
+[quest_title_1030405000605090] VS Team Break 4
+[quest_title_1030405000605100] Lotta ad alta difficoltà (una al giorno)
+[quest_title_1030405000605110] Sfida ad alta difficoltà
+[quest_title_1030405000605120] Sfida ad alta difficoltà 2
+[quest_title_1030110000460100] Come amici
+[quest_title_1030110000460600] VS Archer 2
+[quest_title_1030110000460200] I sentimenti più profondi
+[quest_title_1030110000460700] VS Archer 3
+[quest_title_1030110000460300] Spiriti uniti
+[quest_title_1030110000460800] VS Archer 4
+[quest_title_1030110000460400] Una sfida contro il male
+[quest_title_1030110000460900] VS Giovanni Costumax
+[quest_title_1030110000460500] La fine e l'inizio
+[quest_title_1030110000030000] Il creatore dell'isola di Pasio
+[quest_title_1030440500301010] VS Allenatori di Pasio
+[quest_title_1030440500302010] VS Allenatori di Pasio 2
+[quest_title_1030440500303010] VS Allenatori di Pasio 3
+[quest_title_1030440500304010] VS Allenatori di Pasio 4
 
 ===========
 story_quest_name_ja.lsd
@@ -15160,6 +17619,62 @@ story_quest_name_ja.lsd
 [quest_title_1030440400210010] ＶＳ　ゴヨウ
 [quest_title_1030440400101010] ＶＳ　シロナ
 [quest_title_1030206000602010] 勝利の秘けつは……？
+[quest_group_title_10112100000] マジコスヒビキ
+[quest_group_title_10002100000] マジコスコトネ
+[quest_group_title_10018100000] マジコスクリス
+[quest_group_title_10246000000] ビート
+[quest_title_1030220112100000] とある日のマジコスヒビキ
+[quest_title_1030220002100000] とある日のマジコスコトネ
+[quest_title_1030220018100000] とある日のマジコスクリス
+[quest_title_1030220246000000] とある日のビート
+[quest_title_1030405000601010] ＶＳ　アテナ
+[quest_title_1030405000601020] ＶＳ　アテナ２
+[quest_title_1030405000601030] ＶＳ　アテナ３
+[quest_title_1030405000601040] １日１回限定・高難度バトル！
+[quest_title_1030405000601050] チャレンジバトルで勝負！
+[quest_title_1030405000601060] チャレンジバトルで勝負！２
+[quest_title_1030405000606010] 訳ありなトレーナーたち
+[quest_title_1030405000606020] ＶＳ　パシオのトレーナー
+[quest_title_1030405000606030] ＶＳ　パシオのトレーナー２
+[quest_title_1030405000606040] ＶＳ　パシオのトレーナー３
+[quest_title_1030405000606050] ＶＳ　パシオのトレーナー４
+[quest_title_1030405000606060] １日１回限定・高難度バトル！
+[quest_title_1030405000606070] みんなと違うということ
+[quest_title_1030405000605130] ソウリョクバトルで勝負！
+[quest_title_1030405000605140] ソウリョクバトルで勝負！２
+[quest_title_1030405000602010] 強敵に挑戦！　ＶＳ　コトネ
+[quest_title_1030405000602020] 強敵に挑戦！　ＶＳ　コトネ２
+[quest_title_1030405000602030] 強敵に挑戦！　ＶＳ　クリス
+[quest_title_1030405000602040] 強敵に挑戦！　ＶＳ　クリス２
+[quest_title_1030405000602050] 強敵に挑戦！　ＶＳ　ヒビキ
+[quest_title_1030405000602060] 強敵に挑戦！　ＶＳ　ヒビキ２
+[quest_title_1030405000604010] 最速への挑戦
+[quest_title_1030405000605010] ビートに足りないもの
+[quest_title_1030405000605020] チームビートの挑戦
+[quest_title_1030405000605030] 大きな目標
+[quest_title_1030405000605040] スタートライン
+[quest_title_1030405000605050] 総力戦！
+[quest_title_1030405000605060] ＶＳ　ブレイク団
+[quest_title_1030405000605070] ＶＳ　ブレイク団２
+[quest_title_1030405000605080] ＶＳ　ブレイク団３
+[quest_title_1030405000605090] ＶＳ　ブレイク団４
+[quest_title_1030405000605100] １日１回限定・高難度バトル！
+[quest_title_1030405000605110] チャレンジバトルで勝負！
+[quest_title_1030405000605120] チャレンジバトルで勝負！２
+[quest_title_1030110000460100] ともだちとして
+[quest_title_1030110000460600] ＶＳ　アポロ２
+[quest_title_1030110000460200] 心と想い
+[quest_title_1030110000460700] ＶＳ　アポロ３
+[quest_title_1030110000460300] 想いをつないで
+[quest_title_1030110000460800] ＶＳ　アポロ４
+[quest_title_1030110000460400] 悪をうつための戦い
+[quest_title_1030110000460900] ＶＳ　マジコスサカキ
+[quest_title_1030110000460500] 終わりと始まり
+[quest_title_1030110000030000] 人工島の創造主
+[quest_title_1030440500301010] ＶＳ　パシオのトレーナー
+[quest_title_1030440500302010] ＶＳ　パシオのトレーナー２
+[quest_title_1030440500303010] ＶＳ　パシオのトレーナー３
+[quest_title_1030440500304010] ＶＳ　パシオのトレーナー４
 
 ===========
 story_quest_name_ko.lsd
@@ -17385,7 +19900,7 @@ story_quest_name_ko.lsd
 [quest_title_1030110000420200] 힘없는 정의
 [quest_title_1030403000601100] 수수께끼 풀기 미션 배틀!
 [quest_title_1030440101008011] VS 궁극코스 레드
-[quest_group_title_100103] 성도 편
+[quest_group_title_100103] 성도지방 편
 [quest_group_title_10140100000] 궁극코스 비주기
 [quest_group_title_10148100000] 궁극코스 유빈
 [quest_group_title_10152000000] 충호
@@ -17461,6 +19976,62 @@ story_quest_name_ko.lsd
 [quest_title_1030440400210010] VS 오엽
 [quest_title_1030440400101010] VS 난천
 [quest_title_1030206000602010] 승리의 비결이란...?
+[quest_group_title_10112100000] 궁극코스 심향
+[quest_group_title_10002100000] 궁극코스 금선
+[quest_group_title_10018100000] 궁극코스 크리스
+[quest_group_title_10246000000] 비트
+[quest_title_1030220112100000] 궁극코스 심향의 어느 날
+[quest_title_1030220002100000] 궁극코스 금선의 어느 날
+[quest_title_1030220018100000] 궁극코스 크리스의 어느 날
+[quest_title_1030220246000000] 비트의 어느 날
+[quest_title_1030405000601010] VS 아테나
+[quest_title_1030405000601020] VS 아테나2
+[quest_title_1030405000601030] VS 아테나3
+[quest_title_1030405000601040] 1일 1회 한정 고난도 배틀!
+[quest_title_1030405000601050] 챌린지배틀로 승부!
+[quest_title_1030405000601060] 챌린지배틀로 승부!2
+[quest_title_1030405000606010] 사정이 있는 트레이너들
+[quest_title_1030405000606020] VS 파시오의 트레이너
+[quest_title_1030405000606030] VS 파시오의 트레이너2
+[quest_title_1030405000606040] VS 파시오의 트레이너3
+[quest_title_1030405000606050] VS 파시오의 트레이너4
+[quest_title_1030405000606060] 1일 1회 한정 고난도 배틀!
+[quest_title_1030405000606070] 모두와 다르다는 것
+[quest_title_1030405000605130] 총력배틀로 승부!
+[quest_title_1030405000605140] 총력배틀로 승부!2
+[quest_title_1030405000602010] 강적에게 도전! VS 금선
+[quest_title_1030405000602020] 강적에게 도전! VS 금선2
+[quest_title_1030405000602030] 강적에게 도전! VS 크리스
+[quest_title_1030405000602040] 강적에게 도전! VS 크리스2
+[quest_title_1030405000602050] 강적에게 도전! VS 심향
+[quest_title_1030405000602060] 강적에게 도전! VS 심향2
+[quest_title_1030405000604010] 최속으로의 도전
+[quest_title_1030405000605010] 비트에게 부족한 것
+[quest_title_1030405000605020] 팀 비트의 도전
+[quest_title_1030405000605030] 커다란 목표
+[quest_title_1030405000605040] 출발선
+[quest_title_1030405000605050] 총력전!
+[quest_title_1030405000605060] VS 브레이크단
+[quest_title_1030405000605070] VS 브레이크단2
+[quest_title_1030405000605080] VS 브레이크단3
+[quest_title_1030405000605090] VS 브레이크단4
+[quest_title_1030405000605100] 1일 1회 한정 고난도 배틀!
+[quest_title_1030405000605110] 챌린지배틀로 승부!
+[quest_title_1030405000605120] 챌린지배틀로 승부!2
+[quest_title_1030110000460100] 친구로서
+[quest_title_1030110000460600] VS 아폴로2
+[quest_title_1030110000460200] 마음과 마음
+[quest_title_1030110000460700] VS 아폴로3
+[quest_title_1030110000460300] 마음을 이어 나가서
+[quest_title_1030110000460800] VS 아폴로4
+[quest_title_1030110000460400] 악을 쓰러뜨리기 위한 싸움
+[quest_title_1030110000460900] VS 궁극코스 비주기
+[quest_title_1030110000460500] 끝과 시작
+[quest_title_1030110000030000] 인공섬의 창조주
+[quest_title_1030440500301010] VS 파시오의 트레이너
+[quest_title_1030440500302010] VS 파시오의 트레이너2
+[quest_title_1030440500303010] VS 파시오의 트레이너3
+[quest_title_1030440500304010] VS 파시오의 트레이너4
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -19762,6 +22333,62 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030440400210010] ＶＳ　悟松
 [quest_title_1030440400101010] ＶＳ　竹蘭
 [quest_title_1030206000602010] 致勝秘訣是……？
+[quest_group_title_10112100000] 美極套裝阿響
+[quest_group_title_10002100000] 美極套裝琴音
+[quest_group_title_10018100000] 美極套裝克麗絲
+[quest_group_title_10246000000] 彼特
+[quest_title_1030220112100000] 某日的美極套裝阿響
+[quest_title_1030220002100000] 某日的美極套裝琴音
+[quest_title_1030220018100000] 某日的美極套裝克麗絲
+[quest_title_1030220246000000] 某日的彼特
+[quest_title_1030405000601010] ＶＳ　雅典娜
+[quest_title_1030405000601020] ＶＳ　雅典娜２
+[quest_title_1030405000601030] ＶＳ　雅典娜３
+[quest_title_1030405000601040] １天僅限１次的高難度對戰！
+[quest_title_1030405000601050] 用挑戰對戰決勝負！
+[quest_title_1030405000601060] 用挑戰對戰決勝負！２
+[quest_title_1030405000606010] 有狀況的訓練家們
+[quest_title_1030405000606020] ＶＳ　帕希歐的訓練家
+[quest_title_1030405000606030] ＶＳ　帕希歐的訓練家２
+[quest_title_1030405000606040] ＶＳ　帕希歐的訓練家３
+[quest_title_1030405000606050] ＶＳ　帕希歐的訓練家４
+[quest_title_1030405000606060] １天僅限１次的高難度對戰！
+[quest_title_1030405000606070] 和別人不同
+[quest_title_1030405000605130] 用大對戰決勝負！
+[quest_title_1030405000605140] 用大對戰決勝負！２
+[quest_title_1030405000602010] 挑戰強敵！　ＶＳ　琴音
+[quest_title_1030405000602020] 挑戰強敵！　ＶＳ　琴音２
+[quest_title_1030405000602030] 挑戰強敵！　ＶＳ　克麗絲
+[quest_title_1030405000602040] 挑戰強敵！　ＶＳ　克麗絲２
+[quest_title_1030405000602050] 挑戰強敵！　ＶＳ　阿響
+[quest_title_1030405000602060] 挑戰強敵！　ＶＳ　阿響２
+[quest_title_1030405000604010] 挑戰最快速度
+[quest_title_1030405000605010] 彼特的不足之處
+[quest_title_1030405000605020] 彼特隊的挑戰
+[quest_title_1030405000605030] 遠大的目標
+[quest_title_1030405000605040] 出發點
+[quest_title_1030405000605050] 全體戰！
+[quest_title_1030405000605060] ＶＳ　破壞隊
+[quest_title_1030405000605070] ＶＳ　破壞隊２
+[quest_title_1030405000605080] ＶＳ　破壞隊３
+[quest_title_1030405000605090] ＶＳ　破壞隊４
+[quest_title_1030405000605100] １天僅限１次的高難度對戰！
+[quest_title_1030405000605110] 用挑戰對戰決勝負！
+[quest_title_1030405000605120] 用挑戰對戰決勝負！２
+[quest_title_1030110000460100] 身為朋友
+[quest_title_1030110000460600] ＶＳ　阿波羅２
+[quest_title_1030110000460200] 心和心意
+[quest_title_1030110000460700] ＶＳ　阿波羅３
+[quest_title_1030110000460300] 心意相連
+[quest_title_1030110000460800] ＶＳ　阿波羅４
+[quest_title_1030110000460400] 為擊敗邪惡而戰
+[quest_title_1030110000460900] ＶＳ　美極套裝阪木
+[quest_title_1030110000460500] 結束與開始
+[quest_title_1030110000030000] 人工島的創造者
+[quest_title_1030440500301010] ＶＳ　帕希歐的訓練家
+[quest_title_1030440500302010] ＶＳ　帕希歐的訓練家２
+[quest_title_1030440500303010] ＶＳ　帕希歐的訓練家３
+[quest_title_1030440500304010] ＶＳ　帕希歐的訓練家４
 
 ===========
 trainer_description_de.lsd
@@ -20490,6 +23117,26 @@ glorreiche Zukunft.
 seiner Seite befindet sich Nidoking, ein Pokémon mit einer
 breiten Palette an Attacken. Gemeinsam haben sie zudem
 die Fähigkeit der Dynamaximierung erlangt.
+[10246000000] Betys ist ein angehender Arenaleiter aus Galar. Trotz
+seiner zynischen Art und der Meinung, dass er bereits zur
+absoluten Elite gehört, verfügt er über enormes Potenzial.
+Tagtäglich nur von Pink umgeben zu sein könnte seine
+Einstellung aber vielleicht ändern...
+[10002100000] Lyra ist in einer Machtmontur zurück, die von der Natur
+inspiriert wurde. Mit Celebi, das durch die Zeit reisen
+kann, verbindet sie eine immer enger werdende
+Freundschaft, die auch Lyras Interesse an der Geschichte
+der Johto-Region geweckt hat.
+[10112100000] In seiner Machtmontur ist Klarin für jede noch so große
+Herausforderung bereit. Bei ihrer ersten Begegnung zeigte
+sich sein Partner Lugia ihm gegenüber eher reserviert.
+Diesen Charakterzug teilt es mit einem von Klarins
+Freunden.
+[10018100000] Krista trägt eine Machtmontur, die von der Kraft des
+Wassers inspiriert wurde. Sie verbringt ihre Zeit auf Passio
+in der Gesellschaft ihres Partner-Pokémon, nachdem sie
+zuvor erfolglos einem anderen Suicune in Johto
+hinterhergejagt war.
 
 ===========
 trainer_description_en.lsd
@@ -20574,8 +23221,8 @@ cooler as an Ice-type Pokémon user.
 [10026000000] A lively, talkative, trend-following Gym Leader who’s
 proud of her cute Pokémon, she cries in disappointment
 when she loses a battle.
-[10027000000] This bold Gym Leader uses Grass-type  Pokémon and is
-quite scared of ghosts and anything that surprises her. 
+[10027000000] This bold Gym Leader uses Grass-type Pokémon and is
+quite scared of ghosts and anything that surprises her.
 Her fear sometimes keeps her up at night.
 [10028000000] She is a proud, confident Gym Leader who uses
 Dragon-type Pokémon. Her cousin Lance is also a
@@ -21147,6 +23794,18 @@ together with his partner, Ho-Oh.
 [10140100000] Giovanni’s back with a slick new outfit and a newfound
 understanding of Dynamaxing. He’s teamed up with
 Nidoking, which can use a large repertoire of moves.
+[10246000000] Bede is a Gym Leader candidate from Galar with a cynical
+personality who calls himself one of the elite, but his
+heart is changing as he spends his days engulfed in pink.
+[10002100000] Lyra’s back in a forest-inspired sygna suit. Her partner
+Celebi can travel across time, and their friendship has
+made her even more interested in the history of Johto.
+[10112100000] Ethan’s ready to soar in his sygna suit and take on some
+epic battles with Lugia—a Pokémon with an independent 
+streak that somehow resembles another friend of his.
+[10018100000] Kris is in a sygna suit inspired by the power of water. As
+she explores Pasio with her current partner, she thinks
+about the times she spent chasing after Suicune in Johto.
 
 ===========
 trainer_description_es.lsd
@@ -21917,6 +24576,23 @@ vuelo hacia un nuevo porvenir junto a su compi, Ho-Oh.
 Su compi de fechorías Nidoking cuenta con un amplio
 abanico de ataques y el recién adquirido poder del
 fenómeno Dinamax.
+[10246000000] Entrenador y candidato a Líder de Gimnasio originario de
+Galar. Es un joven con potencial de carácter mordaz que
+fanfarronea sobre formar parte de la élite, aunque su
+actitud parece haber cambiado tras pasar su día a día
+engullido por un huracán rosa.
+[10002100000] Lira luce un Traje Summum que vibra con el poder del
+Encinar. Su curiosidad por la historia de Johto se ha
+acrecentado todavía más tras hacerse amiga de Celebi,
+que es capaz de viajar en el tiempo.
+[10112100000] Eco lleva un Traje Summum que representa el poder de
+los cielos. Hace de cada combate una exhibición épica
+junto a su compi Lugia, que a veces prefiere mantener
+las distancias como hace otro de sus amigos.
+[10018100000] Cristi se ha ataviado con un Traje Summum que rezuma
+la energía del agua. Explora Passio junto a Suicune,
+rememorando la época en la que recorrió Johto con el
+fin de encontrarlo.
 
 ===========
 trainer_description_fr.lsd
@@ -22643,6 +25319,23 @@ de son partenaire, Ho-Oh.
 Il fait équipe avec Nidoking, ce qui lui permet d'utiliser
 le phénomène Dynamax dont il a récemment percé
 le secret, ainsi qu'un grand nombre de capacités.
+[10246000000] Prétendant au titre de Champion d'Arène, Travis vit dans
+la région de Galar. Élite auto-proclamée et souvent
+sarcastique, il a toutefois beaucoup de potentiel.
+Vivre entouré de rose amène petit à petit un changement
+dans son cœur auquel même lui ne s'attendait pas.
+[10002100000] Vêtue de son Look Ultime, Célesta semble incarner
+la magie de la forêt. Grâce à son amitié avec Celebi,
+qui a le pouvoir de transcender le temps, elle est plus
+que jamais intéressée par l'histoire de Johto.
+[10112100000] Luth a revêtu son Look Ultime qui évoque la puissance
+du ciel. Il semble s'être inspiré d'une amie qui a tendance
+à cacher ses émotions... Aux côtés de Lugia,
+Luth mène des batailles spectaculaires.
+[10018100000] Christy a revêtu son Look Ultime, qui honore la puissance
+de l'eau. Elle parcourt Passio aux côtés de son partenaire
+Pokémon, Suicune, tout en se remémorant l'époque
+où elle le poursuivait à Johto.
 
 ===========
 trainer_description_it.lsd
@@ -23362,6 +26055,21 @@ e ora mira a un nuovo avvenire assieme a Ho-Oh.
 [10140100000] Giovanni sfoggia un abito molto chic. Assieme
 al suo fidato Nidoking, può utilizzare varie mosse
 diverse e sfruttare il potere del fenomeno Dynamax.
+[10246000000] Aspirante Capopalestra originario della regione di Galar,
+è un ragazzo scontroso che si autodefinisce il top dei top,
+e il suo talento è innegabile. In una vita circondata
+dal rosa potrebbe aspettarlo un cambiamento...
+[10002100000] Cetra indossa un Costumax che simboleggia il potere
+della foresta. La sua amicizia con Celebi, che può
+viaggiare attraverso il tempo, l'ha resa ancora più
+interessata alla storia della regione di Johto.
+[10112100000] Armonio indossa un Costumax che rappresenta il potere
+dei cieli. Il suo aspetto ricorda quello di un amico non
+particolarmente diretto riguardo ai propri sentimenti.
+Con Lugia al suo fianco, prende parte a sfide spettacolari.
+[10018100000] Kristy indossa un Costumax ispirato al potere dell'acqua.
+Esplora l'isola di Pasio assieme al suo compagno,
+ricordandosi di quando inseguiva Suicune a Johto.
 
 ===========
 trainer_description_ja.lsd
@@ -24017,6 +26725,18 @@ trainer_description_ja.lsd
 [10140100000] シックな　衣装を　身にまとった　サカキ。
 多彩な技を　使う　ニドキングを　バディとして
 ダイマックスを　会得した。
+[10246000000] ガラル地方で　暮らす　ジムリーダー候補の　少年。
+自称エリートの　皮肉屋だが　確かな　実力もある。
+そんな彼も　ピンク漬けの毎日で　心に　変化が……。
+[10002100000] 森の力を感じる　マジコスを　身にまとった　コトネ。
+時間をこえられる　セレビィと　仲良くなったことで
+ジョウト地方の　歴史に　もっと　興味がでてきた。
+[10112100000] 空の力を感じる　マジコスを　身にまとった　ヒビキ。
+どこか　素直じゃない　ともだちに　似ている
+ルギアと　共に　大迫力の　勝負を　くり広げる。
+[10018100000] 水の力を感じる　マジコスを　身にまとった　クリス。
+ジョウトで　追いかけた　スイクンを　思いだしながら
+バディのスイクンと　一緒に　パシオを　駆け巡る。
 
 ===========
 trainer_description_ko.lsd
@@ -24672,6 +27392,18 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10140100000] 시크한 의상을 몸에 두른 비주기.
 다채로운 기술을 사용하는 니드킹을 버디로
 다이맥스를 얻었다.
+[10246000000] 가라르지방에 사는 체육관 관장 후보인 소년.
+자칭 엘리트에 타인을 비아냥거리는 성격이지만 충분한 실력을 지녔다.
+그러한 그도 핑크에 둘러싸인 나날을 보내며 마음에 변화가...
+[10002100000] 숲의 힘이 느껴지는 궁극코스를 몸에 두른 금선.
+시간을 넘는 세레비와 친해지면서
+성도지방의 역사에 흥미가 더 생겼다.
+[10112100000] 하늘의 힘이 느껴지는 궁극코스를 몸에 두른 심향.
+어딘가 솔직하지 못한 친구를 닮은 루기아와 함께
+박력 넘치는 승부를 펼친다.
+[10018100000] 물의 힘이 느껴지는 궁극코스를 몸에 두른 크리스.
+성도지방에서 쫓던 스이쿤을 떠올리며
+버디인 스이쿤과 함께 파시오를 뛰어다닌다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -25326,6 +28058,18 @@ trainer_description_zh-TW.lsd
 [10140100000] 身穿雅致風格服裝的阪木。
 他的拍檔是會使用多種招式，
 且領略了極巨化的尼多王。
+[10246000000] 生活在伽勒爾地區的少年，是道館館主的候選人。
+雖然自稱精英又愛嘲諷人，但實力也是貨真價實。
+這樣的他也在日復一日沉浸於粉紅色後，心境有了變化……
+[10002100000] 身穿能感受到森林之力的美極套裝的琴音。
+她因著和能穿越時光的時拉比變成了好朋友，
+對城都地區的歷史也更加有興趣了。
+[10112100000] 身穿能感受到天空之力的美極套裝的阿響。
+拍檔的洛奇亞和他一個不是很坦率的朋友很相似。
+他們將一起展現震撼人心的對戰。
+[10018100000] 身穿能感受到水之力的美極套裝的克麗絲。
+她一邊回憶著在城都追尋的水君，
+一邊和拍檔的水君一起在帕希歐四處冒險。
 
 ===========
 trainer_name_de.lsd
@@ -25472,6 +28216,7 @@ trainer_name_de.lsd
 [ch0144] Lance
 [ch0145] Maik
 [ch0146] Colin
+[ch0147] Matisse
 [ch0148] Jens
 [ch0149] Kiawe
 [ch0150] Falk
@@ -25511,6 +28256,7 @@ trainer_name_de.lsd
 [ch0243] Gloria
 [ch0244] Hop
 [ch0245] Mary
+[ch0246] Betys
 [ch0247] Delion
 [ch0249] Kate
 [ch0250] Saida
@@ -25673,6 +28419,7 @@ trainer_name_en.lsd
 [ch0144] Proton
 [ch0145] Chili
 [ch0146] Cress
+[ch0147] Hugh
 [ch0148] Morty
 [ch0149] Kiawe
 [ch0150] Falkner
@@ -25712,6 +28459,7 @@ trainer_name_en.lsd
 [ch0243] Gloria
 [ch0244] Hop
 [ch0245] Marnie
+[ch0246] Bede
 [ch0247] Leon
 [ch0249] Nessa
 [ch0250] Bea
@@ -25874,6 +28622,7 @@ trainer_name_es.lsd
 [ch0144] Protón
 [ch0145] Zeo
 [ch0146] Maíz
+[ch0147] Matís
 [ch0148] Morti
 [ch0149] Kiawe
 [ch0150] Pegaso
@@ -25913,6 +28662,7 @@ trainer_name_es.lsd
 [ch0243] Gloria
 [ch0244] Paul
 [ch0245] Roxy
+[ch0246] Berto
 [ch0247] Lionel
 [ch0249] Cathy
 [ch0250] Judith
@@ -26075,6 +28825,7 @@ trainer_name_fr.lsd
 [ch0144] Lance
 [ch0145] Armando
 [ch0146] Noa
+[ch0147] Matis
 [ch0148] Mortimer
 [ch0149] Kiawe
 [ch0150] Albert
@@ -26114,6 +28865,7 @@ trainer_name_fr.lsd
 [ch0243] Gloria
 [ch0244] Nabil
 [ch0245] Rosemary
+[ch0246] Travis
 [ch0247] Tarak
 [ch0249] Donna
 [ch0250] Faïza
@@ -26276,6 +29028,7 @@ trainer_name_it.lsd
 [ch0144] Milas
 [ch0145] Chicco
 [ch0146] Maisello
+[ch0147] Toni
 [ch0148] Angelo
 [ch0149] Kawe
 [ch0150] Valerio
@@ -26315,6 +29068,7 @@ trainer_name_it.lsd
 [ch0243] Gloria
 [ch0244] Hop
 [ch0245] Mary
+[ch0246] Beet
 [ch0247] Dandel
 [ch0249] Azzurra
 [ch0250] Fabia
@@ -26477,6 +29231,7 @@ trainer_name_ja.lsd
 [ch0144] ランス
 [ch0145] ポッド
 [ch0146] コーン
+[ch0147] ヒュウ
 [ch0148] マツバ
 [ch0149] カキ
 [ch0150] ハヤト
@@ -26516,6 +29271,7 @@ trainer_name_ja.lsd
 [ch0243] ユウリ
 [ch0244] ホップ
 [ch0245] マリィ
+[ch0246] ビート
 [ch0247] ダンデ
 [ch0249] ルリナ
 [ch0250] サイトウ
@@ -26678,6 +29434,7 @@ trainer_name_ko.lsd
 [ch0144] 랜스
 [ch0145] 팟
 [ch0146] 콘
+[ch0147] 휴이
 [ch0148] 유빈
 [ch0149] 키아웨
 [ch0150] 비상
@@ -26717,6 +29474,7 @@ trainer_name_ko.lsd
 [ch0243] 우리
 [ch0244] 호브
 [ch0245] 마리
+[ch0246] 비트
 [ch0247] 단델
 [ch0249] 야청
 [ch0250] 채두
@@ -26879,6 +29637,7 @@ trainer_name_zh-TW.lsd
 [ch0144] 蘭斯
 [ch0145] 伯特
 [ch0146] 寇恩
+[ch0147] 阿修
 [ch0148] 松葉
 [ch0149] 卡奇
 [ch0150] 阿速
@@ -26918,6 +29677,7 @@ trainer_name_zh-TW.lsd
 [ch0243] 小優
 [ch0244] 赫普
 [ch0245] 瑪俐
+[ch0246] 彼特
 [ch0247] 丹帝
 [ch0249] 露璃娜
 [ch0250] 彩豆
@@ -27042,6 +29802,9 @@ trainer_verbose_name_de.lsd
 (Kostüm)
 [10148100000] MaMo-Jens
 [10140100000] MaMo-Giovanni
+[10002100000] MaMo-Lyra
+[10112100000] MaMo-Klarin
+[10018100000] MaMo-Krista
 
 ===========
 trainer_verbose_name_en.lsd
@@ -27156,6 +29919,9 @@ Serena
 [10148100000] Sygna Suit Morty
 [10140100000] Sygna Suit
 Giovanni
+[10002100000] Sygna Suit Lyra
+[10112100000] Sygna Suit Ethan
+[10018100000] Sygna Suit Kris
 
 ===========
 trainer_verbose_name_es.lsd
@@ -27251,6 +30017,9 @@ arqueóloga)
 [10148100000] Morti (Traje S)
 [10140100000] Giovanni 
 (Traje S)
+[10002100000] Lira (Traje S)
+[10112100000] Eco (Traje S)
+[10018100000] Cristi (Traje S)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -27356,6 +30125,9 @@ trainer_verbose_name_fr.lsd
 (Spécial)
 [10148100000] Mortimer (Ultime)
 [10140100000] Giovanni (Ultime)
+[10002100000] Célesta (Ultime)
+[10112100000] Luth (Ultime)
+[10018100000] Christy (Ultime)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -27465,6 +30237,9 @@ trainer_verbose_name_it.lsd
 (speciale)
 [10148100000] Angelo Costumax
 [10140100000] Giovanni Costumax
+[10002100000] Cetra Costumax
+[10112100000] Armonio Costumax
+[10018100000] Kristy Costumax
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -27574,6 +30349,9 @@ trainer_verbose_name_ja.lsd
 （スペシャル）
 [10148100000] マジコスマツバ
 [10140100000] マジコスサカキ
+[10002100000] マジコスコトネ
+[10112100000] マジコスヒビキ
+[10018100000] マジコスクリス
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -27683,6 +30461,9 @@ trainer_verbose_name_ko.lsd
 (스페셜)
 [10148100000] 궁극코스 유빈
 [10140100000] 궁극코스 비주기
+[10002100000] 궁극코스 금선
+[10112100000] 궁극코스 심향
+[10018100000] 궁극코스 크리스
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -27792,6 +30573,9 @@ trainer_verbose_name_zh-TW.lsd
 （禮服）
 [10148100000] 美極套裝松葉
 [10140100000] 美極套裝阪木
+[10002100000] 美極套裝琴音
+[10112100000] 美極套裝阿響
+[10018100000] 美極套裝克麗絲
 
 ===========
 common_widget_de.lsd
@@ -28002,6 +30786,8 @@ einsetzt: [Name:Item ].
 [common_widget/dialog_086] Speicherlimit überschritten. Folgende
 Items konnten nicht abgeholt werden:
 [common_widget/dialog_087] Hinweis nicht mehr anzeigen.
+[common_widget/dialog_088] Möchtest du das erste Kapitel der Hauptgeschichte (Tutorial) überspringen?
+[common_widget/dialog_089] Hinweis: Du erhältst alle Erstboni des übersprungenen Kapitels und jedes Gefährtengespann erhält Erfahrungspunkte für die übersprungenen Kämpfe. Du kannst zudem jederzeit zur übersprungenen Geschichte zurückkehren.
 [common_widget/dialog_100] Du kannst diese Glücksfähigkeit erlernen,
 indem du das folgende Item einsetzt:
 [Name:Item ].
@@ -28615,6 +31401,9 @@ lucky skills below at random.
 [common_widget/dialog_086] Maximum item limit exceeded. You were
 unable to claim the following items.
 [common_widget/dialog_087] Don’t show this again.
+[common_widget/dialog_088] Skip Chapter 1 (tutorial) of the
+main story?
+[common_widget/dialog_089] First-time rewards from skipped stories will all be received. XP from skipped battles will be granted to each sync pair. Skipped stories can be played through later.
 [common_widget/dialog_100] Using a [Name:Item ]
 allows you to learn the following
 lucky skill.
@@ -29209,6 +31998,9 @@ habilidades fortuitas al azar utilizando la
 [common_widget/dialog_086] Has superado el máximo de objetos.
 No has podido recibir los siguientes:
 [common_widget/dialog_087] No volver a mostrar.
+[common_widget/dialog_088] ¿Quieres omitir el capítulo 1 de la
+historia principal (es decir, el tutorial)?
+[common_widget/dialog_089] Aviso: Recibirás todos los premios por primera vez de las ubicaciones que omitas, así como la experiencia de los combates correspondientes. Además, podrás volver a jugar más tarde en las ubicaciones que hayas omitido.
 [common_widget/dialog_100] Puedes desbloquear la siguiente 
 habilidad fortuita utilizando la
 [Name:Item ]:
@@ -29812,6 +32604,11 @@ surprise suivants au hasard en utilisant :
 a été dépassée. Vous n'avez donc pas
 reçu les objets suivants :
 [common_widget/dialog_087] Ne plus afficher ce message.
+[common_widget/dialog_088] Souhaitez-vous passer le chapitre 1 (tutoriel) du scénario principal ?
+[common_widget/dialog_089] Vous recevrez toutes les récompenses de première fois
+de chaque épisode passé. Tous les Duos recevront
+l'expérience acquise de chaque combat passé.
+Vous pourrez rejouer ces épisodes à tout moment.
 [common_widget/dialog_100] Vous pouvez apprendre le talent
 surprise suivant en utilisant :
 [Name:Item ].
@@ -30426,6 +33223,12 @@ tra i seguenti:
 [common_widget/dialog_086] Limite strumenti raggiunto. Non è stato
 possibile ottenere i seguenti strumenti:
 [common_widget/dialog_087] Non mostrare più
+[common_widget/dialog_088] Vuoi saltare il capitolo 1 (tutorial)
+della storia?
+[common_widget/dialog_089] Otterrai comunque tutte le prime ricompense,
+e le tue Unità riceveranno Punti Esperienza per le lotte
+saltate. Potrai rivedere e giocare le sequenze saltate
+in qualsiasi momento.
 [common_widget/dialog_100] Utilizzando un [Name:Item ],
 è possibile scoprire il seguente talento:
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -31026,6 +33829,10 @@ EXカラー衣装が　かくとくできます
 [common_widget/dialog_086] 所持上限を超えたため
 以下のどうぐを獲得できませんでした
 [common_widget/dialog_087] 今後表示しない
+[common_widget/dialog_088] メインストーリー第１章（チュートリアル）をスキップしますか？
+[common_widget/dialog_089] ※スキップしたストーリーの初回報酬は全て付与されます
+※スキップしたバトルで得られる経験値は各バディーズに付与されます
+※スキップしたストーリーはあとから遊ぶことができます
 [common_widget/dialog_100] [Name:Item ]を使用すると
 以下のポテンシャルが習得できます
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -31631,6 +34438,11 @@ EX컬러 의상을 획득할 수 있습니다
 [common_widget/dialog_086] 보유 상한을 초과하여
 아래의 도구를 획득하지 못했습니다.
 [common_widget/dialog_087] 이후 표시하지 않는다
+[common_widget/dialog_088] 메인 스토리 제1장(튜토리얼)을
+건너뛰겠습니까?
+[common_widget/dialog_089] ※건너뛴 스토리의 첫 클리어 보상은 모두 지급됩니다
+※건너뛴 배틀에서 얻는 경험치는 각 버디즈에 부여됩니다
+※건너뛴 스토리는 나중에 다시 플레이할 수 있습니다
 [common_widget/dialog_100] [Name:Item ][Kor:Particle char="wo" ] 사용하면
 아래의 포텐셜을 습득할 수 있습니다
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -32217,6 +35029,10 @@ common_widget_zh-TW.lsd
 [common_widget/dialog_086] 獲得後將會超過持有上限
 故無法獲得下列道具
 [common_widget/dialog_087] 今後不再顯示
+[common_widget/dialog_088] 要跳過主線劇情第１章（新手教學）嗎？
+[common_widget/dialog_089] ※跳過劇情仍會賦予所有的首次過關報酬
+※跳過的對戰中可獲得的經驗值仍會賦予給各對拍組
+※跳過的劇情以後仍可遊玩
 [common_widget/dialog_100] 使用[Name:Item ]後
 可學習下列潛能
 [common_widget/trainer_detail_001] [Name:TrainerName ]
@@ -42764,14 +45580,10 @@ Schlüssel
 [shop/scout_166] Erhalte garantiert [Name:TrainerNameAndType ]!
 [shop/scout_167] Stufe 5: [Digit:6digits ] % Chance auf Erhalt der genannten Gefährten.
 Stufe 10: Du kannst ein Garantie-G-Sucheticket erhalten!
-[shop/scout_174] Saison-Gefährten sind Gefährten, die während dieser saisonalen Gefährtensuche für begrenzte Zeit erscheinen.
-Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieser saisonalen Gefährtensuche erscheinen werden.
 [shop/scout_175] Festival-Gefährten sind Gefährten, die während dieses PokéFestivals für begrenzte Zeit erscheinen.
 Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses PokéFestivals erscheinen werden.
 [shop/scout_176] Meisterfestival-Gefährten sind Gefährten, die während dieses Meisterfestivals für begrenzte Zeit erscheinen.
 Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses Meisterfestivals erscheinen werden.
-[shop/scout_177] Kostümevent-Gefährten sind Gefährten, die während dieses Kostümevents für begrenzte Zeit erscheinen.
-Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses Kostümevents erscheinen werden.
 [shop/scout_178] Rabatt (max. [Digit:3digits ] Mal)
 [shop/scout_179] Hinweis: Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann. Du kannst dir nach der Durchführung der Gefährtensuche × 10 ein Gefährtengespann aussuchen.
 [shop/scout_180] Die Erscheinungsraten für ★ werden nach der dritten Dezimalstelle aufgerundet, es kann also sein, dass sie addiert nicht 100 % ergeben. Die tatsächliche Erscheinungsrate wird nicht auf- oder abgerundet. Die Erscheinungsrate gilt für jede durchgeführte Gefährtensuche. Selbst wenn du eine Gefährtensuche mehrmals hintereinander durchführst, heißt das also nicht notwendigerweise, dass du ein bestimmtes Gefährtengespann erhalten wirst. Es ist möglich, dass du durch die Gefährtensuche die gleichen Gefährten erhältst. Selbst wenn du Gefährten schon hast und sich bei ihnen das Pokémon schon entwickelt hat, wird das Pokémon vor der Entwicklung angezeigt, wenn du sie durch Gefährtensuchen erhältst. Steht bei der Erscheinungsrate hinter dem Pokémon-Namen ein *, heißt das, dass sich das Pokémon durch eine Entwicklungs-Episode entwickeln kann.
@@ -43356,10 +46168,8 @@ When you see a * displayed after a Pokémon name in the offering rate, that mean
 [shop/scout_166] [Name:TrainerNameAndType ] guaranteed!
 [shop/scout_167] At Tier 5, you can get a ticket with a [Digit:6digits ]% chance to scout
 the featured sync pair. At Tier 10, you can get a guaranteed scout ticket!
-[shop/scout_174] Seasonal sync pairs are sync pairs that will appear for a limited time during this seasonal scout. There is a possibility that they will appear outside of this seasonal scout in the future.
 [shop/scout_175] Fair-exclusive sync pairs are sync pairs that will appear for a limited time during this Poké Fair scout. There is a possibility that they will appear outside of this Poké Fair scout in the future.
 [shop/scout_176] Master Fair sync pairs are sync pairs that will appear for a limited time during this Master Fair. There is a possibility that they will appear outside of this Master Fair in the future.
-[shop/scout_177] Costume sync pairs are sync pairs that will appear for a limited time during this costume scout. There is a possibility that they will appear outside of this costume scout in the future.
 [shop/scout_178] Discount (Limit [Digit:3digits ])
 [shop/scout_179] When you see a * displayed after a Pokémon name in the offering rate, that means the sync pair’s Pokémon can evolve through an Evolution sync pair story.
 You may select your additional sync pair after the initial scout is complete.
@@ -43892,11 +46702,9 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 [shop/scout_166] ¡[Name:TrainerNameAndType ] con total garantía!
 [shop/scout_167] Fase 5: Billete con [Digit:6digits ]% de probabilidad de reclutar a los compis destacados.
 Fase 10: Billete para reclutarlos con total garantía.
-[shop/scout_174] Los compis de temporada son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de temporada, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de temporada.
 [shop/scout_175] Los festicompis son parejas de compis que aparecen durante un tiempo limitado en este Pokéfestival, aunque es posible que vuelvan a aparecer en un futuro fuera de un Pokéfestival.
 [shop/scout_176] Los festicompis maestros son parejas de compis que aparecen durante un tiempo limitado en este Pokéfestival maestro, aunque es posible que vuelvan a aparecer en un futuro fuera de un Pokéfestival maestro.
 
-[shop/scout_177] Los compis con traje especial son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de trajes especiales, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de trajes especiales.
 [shop/scout_178] ¡Chollo ([Digit:3digits ] [ES:Qty S="vez" P="veces" ])!
 [shop/scout_179] Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantalla de las tasas de aparición podrán evolucionar tras completar el episodio de evolución correspondiente.
 Podrás obtener una pareja de compis a tu elección tras realizar el reclutamiento de compis.
@@ -44434,10 +47242,8 @@ Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran 
 [shop/scout_166] 100 % de chances d'obtenir [Name:TrainerNameAndType ] !
 [shop/scout_167] Au palier 5, vous pourrez recevoir un bon vous octroyant [Digit:6digits ] % de chances d'obtenir
 ce Duo. Et au palier 10, vous pourrez obtenir un bon vous garantissant ce Duo !
-[shop/scout_174] Les Duos saisonniers sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo saisonnier. À l'avenir, les Duos saisonniers pourront aussi apparaître en dehors de cet Appel Duo saisonnier.
 [shop/scout_175] Les Duos festival sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo festival. À l'avenir, les Duos festival pourront aussi apparaître en dehors de cet Appel Duo festival.
 [shop/scout_176] Les Master Duos festival sont des Duos qui apparaissent pendant la durée limitée du Master festival. À l'avenir, les Master Duos festival pourront aussi apparaître en dehors de ce Master festival.
-[shop/scout_177] Les Duos Look Spécial sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo Look Spécial. À l'avenir, les Duos Look Spécial pourront aussi apparaître en dehors de cet Appel Duo Look Spécial.
 [shop/scout_178] Promo (limitée à [Digit:3digits ] fois)
 [shop/scout_179] Remarque : lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran des pourcentages, le Duo peut faire évoluer le Pokémon à travers un épisode d'évolution.
 Vous pourrez obtenir un Duo supplémentaire de votre choix après avoir passé l'Appel Duo.
@@ -45063,14 +47869,10 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 [shop/scout_166] Ottenimento di [Name:TrainerNameAndType ] garantito!
 [shop/scout_167] Al gradino 5 riceverai un ticket con il [Digit:6digits ]% di probabilità di ottenere
 l'Unità in evidenza. Il ticket del gradino 10 ne garantisce l'ottenimento!
-[shop/scout_174] Le Unità festive sono Unità che compariranno durante questa ricerca Unità festiva.
-È possibile che compaiano anche in ricerche Unità successive, non necessariamente festive.
 [shop/scout_175] Le Unità Masterparty sono Unità che compariranno durante questo Masterparty.
 È possibile che in futuro compaiano al di fuori del Masterparty.
 [shop/scout_176] Le Unità Mastergala sono Unità che compariranno durante questo Mastergala.
 È possibile che in futuro compaiano al di fuori del Mastergala.
-[shop/scout_177] Le Unità in costume sono Unità che compariranno durante questa ricerca Unità in costume.
-È possibile che compaiano anche in ricerche Unità successive, non necessariamente in costume.
 [shop/scout_178] Offerta (solo [Digit:3digits ] volt[IT:Qty S="a" P="e" ])
 [shop/scout_179] I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa dell'Unità, possono evolversi tramite episodio evolutivo.
 L'Unità aggiuntiva può essere scelta dopo aver completato la ricerca Unità iniziale.
@@ -45682,14 +48484,10 @@ STEPによってはプレゼントが設定されている場合があります�
 [shop/scout_166] [Name:TrainerNameAndType ]が確定！
 [shop/scout_167] STEP5ではピックアップバディーズが[Digit:6digits ]％で出現するチケットがもらえ
 STEP10では確定で出現するチケットがもらえる！
-[shop/scout_174] ※シーズン限定バディーズとはこのシーズン限定バディーズサーチの期間中に出現するバディーズです。
-※シーズン限定バディーズは今後シーズン限定バディーズサーチ以外でも出現する可能性があります。
 [shop/scout_175] ※フェス限定バディーズとはこのポケマスフェスの期間中に出現するバディーズです。
 ※フェス限定バディーズは今後ポケマスフェス以外でも出現する可能性があります。
 [shop/scout_176] ※マスターフェス限定バディーズとはこのマスターフェスの期間中に出現するバディーズです。
 ※マスターフェス限定バディーズは今後マスターフェス以外でも出現する可能性があります。
-[shop/scout_177] ※スペシャルコス限定バディーズとはこのスペシャルコス限定バディーズサーチの期間中に出現するバディーズです。
-※スペシャルコス限定バディーズは今後スペシャルコス限定バディーズサーチ以外でも出現する可能性があります。
 [shop/scout_178] [Digit:3digits ]回限定割引！
 [shop/scout_179] ※提供割合にてポケモン名の後ろに（*）が表示されているバディーズは、進化エピソードを通してポケモンを進化させることができます
 ※バディーズはバディーズサーチ実行後に選ぶことができます
@@ -46317,7 +49115,7 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 특정 버디즈가 반드시 출현하는 구조가 아닙니다.
 ※버디즈서치에서는 같은 버디즈가 출현하는 경우가 있습니다.
 ※포켓몬 진화 후의 같은 버디즈를 이미 보유하고 있는 경우에도 버디즈서치에서는 진화 전 버디즈가 표시됩니다.
-※스페셜 코스튬 한정 버디즈란 이 스페셜 코스튬 한정 버디즈서치 기간 중에 출현할 가능성이 있습니다.
+※스페셜 코스튬 한정 버디즈는 본 스페셜 코스튬 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
 ※스페셜 코스튬 한정 버디즈는 이후 스페셜 코스튬 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
 ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는
 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다.
@@ -46325,14 +49123,10 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 [shop/scout_166] [Name:TrainerNameAndType ] 확정!
 [shop/scout_167] STEP5에서는 픽업 버디즈가 [Digit:6digits ]%로 출현하는 티켓을,
 STEP10에서는 확정적으로 출현하는 티켓을 받을 수 있다!
-[shop/scout_174] ※시즌 한정 버디즈는 본 시즌 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
-※시즌 한정 버디즈는 이후 시즌 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
 [shop/scout_175] ※페스티벌 한정 버디즈는 본 PM페스티벌 기간 중에 출현하는 버디즈를 말합니다.
 ※페스티벌 한정 버디즈는 이후 PM페스티벌 이외에서도 출현할 가능성이 있습니다.
 [shop/scout_176] ※마스터페스티벌 한정 버디즈는 본 마스터페스티벌 기간 중에 출현하는 버디즈를 말합니다.
 ※마스터페스티벌 한정 버디즈는 이후 마스터페스티벌 이외에서도 출현할 가능성이 있습니다.
-[shop/scout_177] ※스페셜 코스튬 한정 버디즈는 본 스페셜 코스튬 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
-※스페셜 코스튬 한정 버디즈는 이후 스페셜 코스튬 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
 [shop/scout_178] [Digit:3digits ]회 한정 할인!
 [shop/scout_179] ※제공 확률에서 포켓몬 이름의 뒤에 (*)이 표시되어 있는 버디즈는 진화 에피소드를 통하여 포켓몬을 진화시킬 수 있습니다
 ※버디즈는 버디즈서치를 실행한 후에 선택할 수 있습니다
@@ -46893,14 +49687,10 @@ shop_zh-TW.lsd
 [shop/scout_166] 必得[Name:TrainerNameAndType ]！
 [shop/scout_167] 在STEP5中可獲得精選拍組會以[Digit:6digits ]％的機率出現的票券
 在STEP10中可獲得拍組必定出現的票券！
-[shop/scout_174] ※季節限定拍組是會在季節限定拍組搜尋期間出現的拍組
-※季節限定拍組今後也有可能在非季節限定拍組搜尋以外出現
 [shop/scout_175] ※盛典限定拍組是會在群星盛典期間出現的拍組
 ※盛典限定拍組今後也有可能在群星盛典以外出現
 [shop/scout_176] ※大師盛典限定拍組是會在大師盛典期間出現的拍組
 ※大師盛典限定拍組今後有可能也會在非大師盛典期間出現
-[shop/scout_177] ※特別套裝限定拍組是會在特別套裝限定拍組搜尋期間出現的拍組
-※特別套裝限定拍組今後也有可能在非特別套裝限定拍組搜尋以外出現
 [shop/scout_178] 僅限[Digit:3digits ]次折扣！
 [shop/scout_179] ※在提供比例畫面中，若拍組的寶可夢名字後面標有(*)，則表示該寶可夢可透過進化劇情進化
 ※可於拍組搜尋後自選1對拍組

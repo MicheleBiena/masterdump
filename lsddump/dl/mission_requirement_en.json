@@ -90,6 +90,7 @@
     "100": "Miss with multiple attacks in\na row",
     "101": "Complete an area that has a\nbattle with the designated lineup",
     "102": "Achieve the designated grade or\nhigher in time trial event areas",
+    "104": "Complete the designated area\nunder the designated time",
     "105": "Complete one of the designated\nareas under the designated time",
     "106": "Complete one of the designated\nareas with certain conditions met",
     "107": "Exchange items",
@@ -123,4 +124,5 @@
     "135": "Riddle mission:\nTo a Riddle Mission Battle, duh!",
     "136": "Riddle mission:\nOsu!",
     "137": "Use the designated move",
+    "138": "Complete one of the designated\nareas with certain conditions met",
 }

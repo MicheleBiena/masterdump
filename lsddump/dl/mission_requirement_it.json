@@ -90,6 +90,7 @@
     "100": "Manca il bersaglio\ncon degli attacchi consecutivi.",
     "101": "Completa delle Guide area\nche prevedono lotte\ncon la squadra indicata.",
     "102": "Completa una delle Guide area\ndella Cronolotta nella categoria\nindicata o in una superiore.",
+    "104": "Completa la Guida area indicata\nin un tempo inferiore a quello\nindicato.",
     "105": "Completa una delle Guide area\nindicate in un tempo inferiore\na quello indicato.",
     "106": "Completa una delle Guide area\nindicate soddisfacendo\nle condizioni indicate.",
     "107": "Scambia degli strumenti.",
@@ -123,4 +124,5 @@
     "135": "Missione enigmatica:\nAlla Lotta per la missione\nenigmatica, eh!",
     "136": "Missione enigmatica:\nKyaaah!",
     "137": "Usa la mossa indicata.",
+    "138": "Completa una delle Guide area\nindicate soddisfacendo\nle condizioni indicate.",
 }

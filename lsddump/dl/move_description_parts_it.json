@@ -428,4 +428,9 @@
     "999511": "Aumenta la potenza di questo attacco in proporzione alla riduzione della Difesa Speciale del bersaglio.",
     "999510": "Chi la usa sguazza nell'acqua, senza ottenere alcun effetto.",
     "999509": "Riduce l'Attacco di tutte le Unità avversarie di [Digit:1digit ] [IT:Qty S=\"grado\" P=\"gradi\" ].",
+    "999508": "Non consumerà la barra mosse quando il campo di lotta è un [Name:ReferencedMessageTag ].",
+    "999507": "Confonde tutte le Unità avversarie.",
+    "999506": "Inoltre, aumenta l'[Name:ReferencedMessageTag Idx=\"2\" ] di tutte le Unità alleate di [Digit:1digit Idx=\"1\" ] [IT:Qty Ref=\"1\" S=\"grado\" P=\"gradi\" ] quando piove.",
+    "999505": "Ha una certa probabilità ([Digit:2digits ]%) di abbassare di 1 il numero di azioni necessarie a chi la usa per sferrare un'Unimossa.",
+    "999504": "Questo attacco aumenta di potenza quando il campo di lotta è un [Name:ReferencedMessageTag ].",
 }

@@ -164,7 +164,7 @@
     "cafe/rarityup_026": "Noch [Digit:4digits ] Tausch[DE:Qty P=\"e\" ]",
     "cafe/rarityup_027": "Die Tauschanzahl hat ihr Limit erreicht.\nDie Zahl der zum Tauschen benötigten\nPotenzialpasstickets beträgt nun [Digit:4digits ].",
     "cafe/rarityup_028": "Du besitzt entweder bereits die nötige\nZahl von Sonder-Potenzialpässen oder\nhast schon 20 Potenzialpässe benutzt.",
-    "cafe/rarityup_029": "Ein Mal pro Kampf wird\ndie Erhöhung der Werte\nnach Einsatz einer GA\nverdoppelt.",
+    "cafe/rarityup_029": "Nach dem ersten Einsatz\neiner GA steigt ein Mal\npro Kampf die Spannung\nim Team um zwei Ränge.",
     "cafe/deck_item_002": "Leer",
     "cafe/deck_item_003": "Ausrüstung ändern",
     "cafe/deck_item_004": "OK",

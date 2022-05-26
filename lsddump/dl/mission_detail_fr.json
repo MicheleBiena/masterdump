@@ -152,6 +152,7 @@
     "100": "Finissez un combat en ratant\n[Digit:6digits ] attaque[FR:Qty P=\"s\" ] d'affilée.",
     "101": "Finissez [Digit:6digits ] fois une zone avec\ndes combats à l'aide d'une équipe\nde trois [Name:Role ]s.",
     "102": "Atteignez le [Name:TimeAttackClearRank ] ou plus\n[Digit:6digits ] fois dans :\n• [Name:EventName ]",
+    "104": "Finissez en moins de [Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ] :\n• [Name:QuestTitle ]",
     "105": "Finissez en moins de [Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ] :\n• [Name:QuestTitle ]\n• [Name:QuestTitle ]",
     "time_attack_clear_rank_20": "rang B",
     "106": "Finissez en moins de [Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ] :\n• [Name:QuestTitle ]\n• [Name:QuestTitle ]\nen utilisant [Digit:2digits Idx=\"1\" ] Duos ou plus, qui ont\nle mot-clé suivant en commun",
@@ -192,4 +193,6 @@
     "136": "Utiliser les faiblesses de votre\nadversaire à votre avantage\nn'est pas un signe de lâcheté !\nMontrez-moi votre stratégie lors\nd'un combat de mission à énigme !",
     "137": "Utilisez la capacité suivante [Digit:6digits ]\nfois (seuls les combats terminés sont\ncomptabilisés) :",
     "137_element": "• [Name:Move ]",
+    "138": "Finissez en moins de [Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ] :\n• [Name:QuestTitle ]\nen utilisant [Digit:2digits Idx=\"1\" ] Duos ou plus, qui ont\nle mot-clé suivant en commun :",
+    "138_element": "• [Name:TeamSkillTag ]",
 }

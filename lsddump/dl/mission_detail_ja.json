@@ -152,6 +152,7 @@
     "100": "一度のバトル中に攻撃を[Digit:6digits ]回連続ではずしてからバトルをクリアしよう",
     "101": "[Name:Role ]のバディーズを3組編成したチームでバトルがあるエリアを[Digit:6digits ]回クリアしよう",
     "102": "「[Name:EventName ]」で[Name:TimeAttackClearRank ]以上を[Digit:6digits ]回クリアしよう",
+    "104": "「[Name:QuestTitle ]」を[Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ]未満でクリアしよう",
     "105": "「[Name:QuestTitle ]」か「[Name:QuestTitle ]」を[Digit:2digits Idx=\"1\" ]:[Digit:2digits Idx=\"2\" ]未満でクリアしよう",
     "time_attack_clear_rank_20": "Bランク",
     "106": "以下のタグを持つバディーズを[Digit:2digits Idx=\"1\" ]組以上編成して「[Name:QuestTitle ]」か「[Name:QuestTitle ]」を[Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ]未満でクリアしよう",
@@ -192,4 +193,6 @@
     "136": "相手の弱点を突くのは卑怯じゃないっす！\nそれが戦略というものっす！\n\nあなたの戦略\n「謎解きミッションバトル！」で\nみせて欲しいっす！オス！",
     "137": "以下のわざを累計[Digit:6digits ]回使おう（バトルクリア時のみカウント）",
     "137_element": "・[Name:Move ]",
+    "138": "以下のタグを持つバディーズを[Digit:2digits Idx=\"1\" ]組以上編成して「[Name:QuestTitle ]」を[Digit:2digits Idx=\"2\" ]:[Digit:2digits Idx=\"3\" ]未満でクリアしよう",
+    "138_element": "・[Name:TeamSkillTag ]",
 }

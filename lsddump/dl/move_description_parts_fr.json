@@ -238,7 +238,7 @@
     "999701": "Plus les PV restants du lanceur sont bas, plus son compteur de capacités Duos diminue (jusqu'à [Digit:1digit ] [FR:Qty S=\"rang\" P=\"rangs\" ]).",
     "999700": "Plus les PV restants du lanceur sont bas, plus son taux de critiques augmente (jusqu'à [Digit:1digit ] [FR:Qty S=\"rang\" P=\"rangs\" ]).",
     "999699": "Augmente la Déf. Spé. du lanceur de [Digit:1digit Idx=\"1\" ] [FR:Qty Ref=\"1\" S=\"rang\" P=\"rangs\" ].",
-    "999698": "Réduit de [Digit:1digit ] le nombre d'actions nécessaires pour lancer la capacité Duo du lanceur. Si le Florizarre du lanceur a méga-évolué, réduit ce nombre de [Digit:1digit Idx=\"1\" ]. En combat Multi en équipe, la réduction concerne tous les alliés.",
+    "999698": "Réduit de [Digit:1digit ] le nombre d'actions nécessaires pour lancer la capacité Duo du lanceur. Si le Florizarre du lanceur a méga-évolué, réduit ce nombre de [Digit:1digit Idx=\"1\" ]. En combat Multi en équipe, la réduction concerne tous les joueurs alliés.",
     "999697": "Augmente l'Attaque et l'Atq. Spé. d'un allié de [Digit:1digit ] [FR:Qty S=\"rang\" P=\"rangs\" ].",
     "999696": "Applique l'effet Coup critique assuré à un allié.",
     "999695": "Change le type du lanceur en la faiblesse de la cible ciblée. Change aussi sa faiblesse ainsi que le type des deux capacités suivantes : Coup Varia-Type, et Pour me surpasser ! Coup Varia-Type !",
@@ -428,4 +428,9 @@
     "999511": "Plus la Déf. Spé. de la cible baisse, plus cette attaque est puissante.",
     "999510": "Le lanceur barbote et éclabousse les environs. Cette capacité n'a aucun effet.",
     "999509": "Baisse l'Attaque de tous les Duos ennemis de [Digit:1digit ] [FR:Qty S=\"rang\" P=\"rangs\" ].",
+    "999508": "Ne consommera pas de segment de la jauge Capacité quand le champ est un [Name:ReferencedMessageTag ].",
+    "999507": "Rend tous les Duos ennemis confus.",
+    "999506": "Augmente également l'[Name:ReferencedMessageTag Idx=\"2\" ] de tous les Duos alliés de [Digit:1digit Idx=\"1\" ] [FR:Qty Ref=\"1\" S=\"rang\" P=\"rangs\" ] quand il pleut.",
+    "999505": "[Digit:2digits ] % de chances de réduire de 1 le nombre d'actions nécessaires pour lancer une capacité Duo.",
+    "999504": "Augmente la puissance de l'attaque quand le champ est un [Name:ReferencedMessageTag ].",
 }

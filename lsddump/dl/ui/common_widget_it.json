@@ -133,6 +133,8 @@
     "common_widget/dialog_085": "Utilizzando un [Name:Item ],\nè possibile scoprire un talento casuale\ntra i seguenti:",
     "common_widget/dialog_086": "Limite strumenti raggiunto. Non è stato\npossibile ottenere i seguenti strumenti:",
     "common_widget/dialog_087": "Non mostrare più",
+    "common_widget/dialog_088": "Vuoi saltare il capitolo 1 (tutorial)\ndella storia?",
+    "common_widget/dialog_089": "Otterrai comunque tutte le prime ricompense,\ne le tue Unità riceveranno Punti Esperienza per le lotte\nsaltate. Potrai rivedere e giocare le sequenze saltate\nin qualsiasi momento.",
     "common_widget/dialog_100": "Utilizzando un [Name:Item ],\nè possibile scoprire il seguente talento:",
     "common_widget/trainer_detail_001": "[Name:TrainerName ]",
     "common_widget/trainer_detail_002": "L.",

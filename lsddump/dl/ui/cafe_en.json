@@ -164,7 +164,7 @@
     "cafe/rarityup_026": "After exchanging [Digit:4digits ]× more:",
     "cafe/rarityup_027": "Exchange limit reached.\nThe number of ★ Power-Up Tickets\nrequired for exchange is now [Digit:4digits ].",
     "cafe/rarityup_028": "You’ve already used 20 ★ Power-Ups,\nor you already have the required\nnumber of Custom ★ Power-Ups.",
-    "cafe/rarityup_029": "Once per battle, the stat\nincrease after using a\nsync move is doubled.",
+    "cafe/rarityup_029": "The sync buff is doubled\nthe first time a sync move\nis used.",
     "cafe/deck_item_002": "EMPTY",
     "cafe/deck_item_003": "Swap Gear",
     "cafe/deck_item_004": "OK",

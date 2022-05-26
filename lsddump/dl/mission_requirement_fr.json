@@ -90,6 +90,7 @@
     "100": "Ratez plusieurs attaques d'affilée.",
     "101": "Finissez une zone avec un combat\navec l'équipe spécifiée.",
     "102": "Finissez une zone de l'évènement\ncontre la montre au rang spécifié\nou mieux.",
+    "104": "Finissez la zone spécifiée dans la\nlimite de temps spécifiée.",
     "105": "Finissez une des zones spécifiées\ndans la limite de temps spécifiée.",
     "106": "Finissez une des zones spécifiées\nen respectant certaines\nconditions.",
     "107": "Échangez des objets.",
@@ -123,4 +124,5 @@
     "135": "Mission à énigme :\nAllez ! On se fait un petit combat\nde mission à énigme !",
     "136": "Mission à énigme :\nYahaaa !",
     "137": "Utilisez la capacité spécifiée.",
+    "138": "Finissez une des zones spécifiées\nen respectant certaines\nconditions.",
 }

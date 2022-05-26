@@ -90,6 +90,7 @@
     "100": "Falla varios ataques seguidos.",
     "101": "Completa ubicaciones con\ncombates con el equipo indicado.",
     "102": "Completa ubicaciones del Evento\nContrarreloj con un rango igual o\nsuperior al indicado.",
+    "104": "Completa la ubicación indicada\nen el tiempo indicado.",
     "105": "Completa ubicaciones en el\ntiempo indicado.",
     "106": "Completa ubicaciones con los\nrequisitos indicados.",
     "107": "Canjea objetos.",
@@ -123,4 +124,5 @@
     "135": "Misión con rompecabezas:\n!selaviR¡",
     "136": "Misión con rompecabezas:\n¡Dales donde duele! ¡Kiaaa!",
     "137": "Usa movimientos determinados.",
+    "138": "Completa ubicaciones con los\nrequisitos indicados.",
 }
