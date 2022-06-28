@@ -5326,6 +5326,56 @@ Teresa 2
 [quest_title_1030440500302010] Vs. Trainer aus Passio 2
 [quest_title_1030440500303010] Vs. Trainer aus Passio 3
 [quest_title_1030440500304010] Vs. Trainer aus Passio 4
+[quest_group_title_10243800000] N (Saison 2022)
+[quest_group_title_10012100000] Lotta (Saison 2022)
+[quest_group_title_10004410000] Gloria (Dojo-Outfit)
+[quest_group_title_10089410000] MaMo-Connie
+[quest_title_1030406000601010] Das Sommerfest beginnt!
+[quest_title_1030406000601030] Sommerlicher Spaß mit
+Freunden
+[quest_title_1030406000601070] Vs. Team Break 1
+[quest_title_1030406000601040] Unvergessliche Erinnerungen
+[quest_title_1030406000601080] Vs. Team Break 2
+[quest_title_1030406000601050] Ein besonderes Spiel
+[quest_title_1030406000601090] Vs. Team Break 3
+[quest_title_1030406000601060] Sommerlicher Nachthimmel
+[quest_title_1030406000601100] Vs. Team Break 4
+[quest_title_1030406000601110] Täglicher schwerer Kampf
+[quest_title_1030406000601120] Herausforderungskampf 1
+[quest_title_1030406000601130] Herausforderungskampf 2
+[quest_title_1030406000605010] Vs. Antonia 1
+[quest_title_1030406000605020] Vs. Antonia 2
+[quest_title_1030406000605030] Vs. Antonia 3
+[quest_title_1030406000605040] Vs. Antonia 4
+[quest_title_1030406000605050] Täglicher Bonus-Kampf
+[quest_title_1030406000602010] Ash im Kampfparadies
+[quest_title_1030406000602020] Gefährtenattacke!
+[quest_title_1030406000602050] Training mit Ash
+[quest_title_1030406000602030] Flamaras brenzlige Situation
+[quest_title_1030406000602060] Vs. Team Break
+[quest_title_1030406000602040] Der mächtigste Donnerblitz
+[quest_title_1030440600201011] Ein Geschenk von Ash?!
+[quest_title_1030406000603010] Kampf-Gefährten unter sich
+[quest_title_1030406000603030] Vs. Hartwig 1
+[quest_title_1030406000603040] Vs. Hartwig 2
+[quest_title_1030406000603050] Vs. Hartwig 3
+[quest_title_1030406000603060] Vs. Hartwig 4
+[quest_title_1030406000603070] Täglicher schwerer Kampf
+[quest_title_1030406000603080] Herausforderungskampf 1
+[quest_title_1030406000603090] Herausforderungskampf 2
+[quest_title_1030406000603020] Das Geheimnis eines
+erfolgreichen Trainings
+[quest_title_1030406000604010] Hey! Karate-Meister!
+[quest_title_1030406000604020] Vs. Schwarzgurt 1
+[quest_title_1030406000604030] Vs. Schwarzgurt 2
+[quest_title_1030406000604040] Vs. Schwarzgurt 3
+[quest_title_1030406000604050] Vs. Schwarzgurt 4
+[quest_title_1030406000606010] Kampfsport-Training 1
+[quest_title_1030406000606020] Kampfsport-Training 2
+[quest_title_1030406000606030] Kampfsport-Training 3
+[quest_title_1030406000606040] Kampfsport-Training 4
+[quest_title_1030220012100000] Ein Tag mit MaMo-Connie
+[quest_title_1030220243800000] Ein Tag mit Gloria
 
 ===========
 story_quest_name_en.lsd
@@ -7683,6 +7733,57 @@ story_quest_name_en.lsd
 [quest_title_1030440500302010] Challenge Pasio’s Trainers: Part 2
 [quest_title_1030440500303010] Challenge Pasio’s Trainers: Part 3
 [quest_title_1030440500304010] Challenge Pasio’s Trainers: Part 4
+[quest_group_title_10243800000] N
+(Summer 2022)
+[quest_group_title_10012100000] Hilda
+(Summer 2022)
+[quest_group_title_10004410000] Gloria
+(Dojo Uniform)
+[quest_group_title_10089410000] Sygna Suit Korrina
+[quest_title_1030406000601010] The Festival Begins
+[quest_title_1030406000601030] Festival Fun for Everyone
+[quest_title_1030406000601070] Challenge Team Break: Part 1
+[quest_title_1030406000601040] Summertime Memento
+[quest_title_1030406000601080] Challenge Team Break: Part 2
+[quest_title_1030406000601050] A Special Game
+[quest_title_1030406000601090] Challenge Team Break: Part 3
+[quest_title_1030406000601060] Summer Night Sky
+[quest_title_1030406000601100] Challenge Team Break: Part 4
+[quest_title_1030406000601110] Daily Extreme Battle 1
+[quest_title_1030406000601120] Battle Challenge! Round 1
+[quest_title_1030406000601130] Battle Challenge! Round 2
+[quest_title_1030406000605010] Challenge Phoebe: Part 1
+[quest_title_1030406000605020] Challenge Phoebe: Part 2
+[quest_title_1030406000605030] Challenge Phoebe: Part 3
+[quest_title_1030406000605040] Challenge Phoebe: Part 4
+[quest_title_1030406000605050] Daily Bonus Battle 1
+[quest_title_1030406000602010] Where Are We?!
+[quest_title_1030406000602020] Ash’s Sync Move Practice
+[quest_title_1030406000602050] Training with Ash
+[quest_title_1030406000602030] Flareon’s Rebellion
+[quest_title_1030406000602060] Challenge Team Break: Part 1
+[quest_title_1030406000602040] Use Thunderbolt!
+[quest_title_1030440600201011] A Present from Ash?!
+[quest_title_1030406000603010] Fighting Fighting-Types
+[quest_title_1030406000603030] Challenge Chuck: Part 1
+[quest_title_1030406000603040] Challenge Chuck: Part 2
+[quest_title_1030406000603050] Challenge Chuck: Part 3
+[quest_title_1030406000603060] Challenge Chuck: Part 4
+[quest_title_1030406000603070] Daily Extreme Battle 1
+[quest_title_1030406000603080] Battle Challenge! Round 1
+[quest_title_1030406000603090] Battle Challenge! Round 2
+[quest_title_1030406000603020] My Way
+[quest_title_1030406000604010] The Karate King
+[quest_title_1030406000604020] Challenge the Black Belts: Part 1
+[quest_title_1030406000604030] Challenge the Black Belts: Part 2
+[quest_title_1030406000604040] Challenge the Black Belts: Part 3
+[quest_title_1030406000604050] Challenge the Black Belts: Part 4
+[quest_title_1030406000606010] The First Trial
+[quest_title_1030406000606020] The Second Trial
+[quest_title_1030406000606030] The Third Trial
+[quest_title_1030406000606040] The Fourth Trial
+[quest_title_1030220012100000] A Day with Sygna Suit Korrina
+[quest_title_1030220243800000] A Day with Gloria
 
 ===========
 story_quest_name_es.lsd
@@ -10248,6 +10349,57 @@ contra Gaia! (2)
 [quest_title_1030440500302010] VS. Entrenadores de Passio (2)
 [quest_title_1030440500303010] VS. Entrenadores de Passio (3)
 [quest_title_1030440500304010] VS. Entrenadores de Passio (4)
+[quest_group_title_10243800000] N (Temporada 22)
+[quest_group_title_10012100000] Liza (Temporada 22)
+[quest_group_title_10004410000] Gloria (Dojo Maestro)
+[quest_group_title_10089410000] Corelia (Traje S)
+[quest_title_1030406000601010] ¡Que comience el festival!
+[quest_title_1030406000601030] ¡Diversión para todos los
+públicos!
+[quest_title_1030406000601070] VS. Team Break
+[quest_title_1030406000601040] Un recuerdo del festival
+[quest_title_1030406000601080] VS. Team Break (2)
+[quest_title_1030406000601050] Un juego especial
+[quest_title_1030406000601090] VS. Team Break (3)
+[quest_title_1030406000601060] Cielo de una noche estival
+[quest_title_1030406000601100] VS. Team Break (4)
+[quest_title_1030406000601110] ¡Un combate difícil al día!
+[quest_title_1030406000601120] ¡Un combate desafiante!
+[quest_title_1030406000601130] ¡Un combate desafiante! (2)
+[quest_title_1030406000605010] VS. Fátima
+[quest_title_1030406000605020] VS. Fátima (2)
+[quest_title_1030406000605030] VS. Fátima (3)
+[quest_title_1030406000605040] VS. Fátima (4)
+[quest_title_1030406000605050] ¡Un combate extra al día!
+[quest_title_1030406000602010] ¿Dónde estamos?
+[quest_title_1030406000602020] Ash practica movimientos
+compi
+[quest_title_1030406000602050] Entrenamiento con Ash
+[quest_title_1030406000602030] La fase rebelde de Flareon
+[quest_title_1030406000602060] VS. Team Break
+[quest_title_1030406000602040] ¡Pikachu, usa Rayo!
+[quest_title_1030440600201011] ¿Un regalo de parte de Ash?
+[quest_title_1030406000603010] Lucha con compis de Lucha
+[quest_title_1030406000603030] VS. Aníbal
+[quest_title_1030406000603040] VS. Aníbal (2)
+[quest_title_1030406000603050] VS. Aníbal (3)
+[quest_title_1030406000603060] VS. Aníbal (4)
+[quest_title_1030406000603070] ¡Un combate difícil al día!
+[quest_title_1030406000603080] ¡Un combate desafiante!
+[quest_title_1030406000603090] ¡Un combate desafiante! (2)
+[quest_title_1030406000603020] Nuestra propia manera de
+entrenar
+[quest_title_1030406000604010] ¡Kiaaa! ¡El Maestro Karateka!
+[quest_title_1030406000604020] VS. Karatekas
+[quest_title_1030406000604030] VS. Karatekas (2)
+[quest_title_1030406000604040] VS. Karatekas (3)
+[quest_title_1030406000604050] VS. Karatekas (4)
+[quest_title_1030406000606010] La primera prueba
+[quest_title_1030406000606020] La segunda prueba
+[quest_title_1030406000606030] La tercera prueba
+[quest_title_1030406000606040] La cuarta prueba
+[quest_title_1030220012100000] Un día con Corelia (Traje S)
+[quest_title_1030220243800000] Un día con Gloria
 
 ===========
 story_quest_name_fr.lsd
@@ -13004,6 +13156,66 @@ Dresseurs de Passio II
 Dresseurs de Passio III
 [quest_title_1030440500304010] Combat :
 Dresseurs de Passio IV
+[quest_group_title_10243800000] N
+(Saison 2022)
+[quest_group_title_10012100000] Ludvina
+(Saison 2022)
+[quest_group_title_10004410000] Gloria (Dojo)
+[quest_group_title_10089410000] Cornélia (Look Ultime)
+[quest_title_1030406000601010] Que le festival commence !
+[quest_title_1030406000601030] Profitons au maximum
+du festival !
+[quest_title_1030406000601070] Combat : Team Break
+[quest_title_1030406000601040] Souvenirs du festival
+[quest_title_1030406000601080] Combat : Team Break II
+[quest_title_1030406000601050] Un jeu spécial
+[quest_title_1030406000601090] Combat : Team Break III
+[quest_title_1030406000601060] Sous le ciel d'une nuit d'été
+[quest_title_1030406000601100] Combat : Team Break IV
+[quest_title_1030406000601110] Combat difficile limité
+à une fois par jour !
+[quest_title_1030406000601120] Combat difficile
+[quest_title_1030406000601130] Combat difficile II
+[quest_title_1030406000605010] Combat : Spectra
+[quest_title_1030406000605020] Combat : Spectra II
+[quest_title_1030406000605030] Combat : Spectra III
+[quest_title_1030406000605040] Combat : Spectra IV
+[quest_title_1030406000605050] Combat bonus limité
+à une fois par jour !
+[quest_title_1030406000602010] Où sommes-nous ?!
+Au paradis du combat !
+[quest_title_1030406000602020] Entraînement à propos
+des capacités Duo
+[quest_title_1030406000602050] Entraînement avec Sacha
+[quest_title_1030406000602030] Le Pyroli rebelle
+[quest_title_1030406000602060] Combat : Team Break
+[quest_title_1030406000602040] Tonnerre à pleine
+puissance !
+[quest_title_1030440600201011] Un cadeau de Sacha ?!
+[quest_title_1030406000603010] L'affrontement des Duos
+de type Combat
+[quest_title_1030406000603030] Combat : Chuck
+[quest_title_1030406000603040] Combat : Chuck II
+[quest_title_1030406000603050] Combat : Chuck III
+[quest_title_1030406000603060] Combat : Chuck IV
+[quest_title_1030406000603070] Combat difficile limité
+à une fois par jour !
+[quest_title_1030406000603080] Combat difficile
+[quest_title_1030406000603090] Combat difficile II
+[quest_title_1030406000603020] Chacun sa propre façon
+de s'entraîner
+[quest_title_1030406000604010] Le Grand Karatéka
+[quest_title_1030406000604020] Combat : Karatéka
+[quest_title_1030406000604030] Combat : Karatéka II
+[quest_title_1030406000604040] Combat : Karatéka III
+[quest_title_1030406000604050] Combat : Karatéka IV
+[quest_title_1030406000606010] Première épreuve
+[quest_title_1030406000606020] Deuxième épreuve
+[quest_title_1030406000606030] Troisième épreuve
+[quest_title_1030406000606040] Quatrième épreuve
+[quest_title_1030220012100000] Une journée avec Cornélia
+(Look Ultime)
+[quest_title_1030220243800000] Une journée avec Gloria
 
 ===========
 story_quest_name_it.lsd
@@ -15317,6 +15529,54 @@ story_quest_name_it.lsd
 [quest_title_1030440500302010] VS Allenatori di Pasio 2
 [quest_title_1030440500303010] VS Allenatori di Pasio 3
 [quest_title_1030440500304010] VS Allenatori di Pasio 4
+[quest_group_title_10243800000] N (feste 2022)
+[quest_group_title_10012100000] Anita (feste 2022)
+[quest_group_title_10004410000] Gloria (Uniforme dojo)
+[quest_group_title_10089410000] Ornella Costumax
+[quest_title_1030406000601010] Comincia il festival!
+[quest_title_1030406000601030] Un festival estivo da godersi tutti insieme
+[quest_title_1030406000601070] VS Team Break
+[quest_title_1030406000601040] Conservare i ricordi di un'estate
+[quest_title_1030406000601080] VS Team Break 2
+[quest_title_1030406000601050] Un gioco particolare
+[quest_title_1030406000601090] VS Team Break 3
+[quest_title_1030406000601060] In tre sotto il cielo di una notte d'estate
+[quest_title_1030406000601100] VS Team Break 4
+[quest_title_1030406000601110] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030406000601120] Sfida ad alta difficoltà
+[quest_title_1030406000601130] Sfida ad alta difficoltà 2
+[quest_title_1030406000605010] VS Ester
+[quest_title_1030406000605020] VS Ester 2
+[quest_title_1030406000605030] VS Ester 3
+[quest_title_1030406000605040] VS Ester 4
+[quest_title_1030406000605050] Lotta bonus (una al giorno)!
+[quest_title_1030406000602010] Dove sono finito? Il paradiso delle lotte!
+[quest_title_1030406000602020] Esercitiamoci per sferrare un'Unimossa!
+[quest_title_1030406000602050] Allenamento con Ash!
+[quest_title_1030406000602030] Lena e il Flareon focoso
+[quest_title_1030406000602060] VS Team Break
+[quest_title_1030406000602040] Un Fulmine a piena potenza!
+[quest_title_1030440600201011] Un regalo da parte di Ash?!
+[quest_title_1030406000603010] Sfida con Unità di tipo Lotta
+[quest_title_1030406000603030] VS Furio
+[quest_title_1030406000603040] VS Furio 2
+[quest_title_1030406000603050] VS Furio 3
+[quest_title_1030406000603060] VS Furio 4
+[quest_title_1030406000603070] Lotta ad alta difficoltà (una al giorno)!
+[quest_title_1030406000603080] Sfida ad alta difficoltà
+[quest_title_1030406000603090] Sfida ad alta difficoltà 2
+[quest_title_1030406000603020] Un proprio modo di allenarsi
+[quest_title_1030406000604010] Grrr! Il maestro di Karate!
+[quest_title_1030406000604020] VS Cinturanera
+[quest_title_1030406000604030] VS Cinturanera 2
+[quest_title_1030406000604040] VS Cinturanera 3
+[quest_title_1030406000604050] VS Cinturanera 4
+[quest_title_1030406000606010] La prima prova
+[quest_title_1030406000606020] La seconda prova
+[quest_title_1030406000606030] La terza prova
+[quest_title_1030406000606040] La quarta prova
+[quest_title_1030220012100000] Un giorno con Ornella Costumax
+[quest_title_1030220243800000] Un giorno con Gloria
 
 ===========
 story_quest_name_ja.lsd
@@ -17675,6 +17935,57 @@ story_quest_name_ja.lsd
 [quest_title_1030440500302010] ＶＳ　パシオのトレーナー２
 [quest_title_1030440500303010] ＶＳ　パシオのトレーナー３
 [quest_title_1030440500304010] ＶＳ　パシオのトレーナー４
+[quest_group_title_10243800000] Ｎ
+（２２シーズン）
+[quest_group_title_10012100000] トウコ
+（２２シーズン）
+[quest_group_title_10004410000] ユウリ
+（アナザー）
+[quest_group_title_10089410000] マジコスコルニ
+[quest_title_1030406000601010] お祭りが始まる！
+[quest_title_1030406000601030] みんなで楽しむ夏祭り
+[quest_title_1030406000601070] ＶＳ　ブレイク団
+[quest_title_1030406000601040] 思い出の証
+[quest_title_1030406000601080] ＶＳ　ブレイク団２
+[quest_title_1030406000601050] スペシャルゲーム
+[quest_title_1030406000601090] ＶＳ　ブレイク団３
+[quest_title_1030406000601060] ３人でみた夏の夜空
+[quest_title_1030406000601100] ＶＳ　ブレイク団４
+[quest_title_1030406000601110] １日１回限定・高難度バトル！
+[quest_title_1030406000601120] チャレンジバトルで勝負！
+[quest_title_1030406000601130] チャレンジバトルで勝負！２
+[quest_title_1030406000605010] ＶＳ　フヨウ
+[quest_title_1030406000605020] ＶＳ　フヨウ２
+[quest_title_1030406000605030] ＶＳ　フヨウ３
+[quest_title_1030406000605040] ＶＳ　フヨウ４
+[quest_title_1030406000605050] １日１回限定・ボーナスバトル！
+[quest_title_1030406000602010] ここはどこ？　バトルの楽園！
+[quest_title_1030406000602020] 特訓！　バディーズわざ！
+[quest_title_1030406000602050] サトシと特訓！
+[quest_title_1030406000602030] めらめらブースターとリッカ
+[quest_title_1030406000602060] ＶＳ　ブレイク団
+[quest_title_1030406000602040] 放て！　渾身の１０まんボルト！
+[quest_title_1030440600201011] サトシからのプレゼント！？
+[quest_title_1030406000603010] 戦う　かくとうバディーズたち
+[quest_title_1030406000603030] ＶＳ　シジマ
+[quest_title_1030406000603040] ＶＳ　シジマ２
+[quest_title_1030406000603050] ＶＳ　シジマ３
+[quest_title_1030406000603060] ＶＳ　シジマ４
+[quest_title_1030406000603070] １日１回限定・高難度バトル！
+[quest_title_1030406000603080] チャレンジバトルで勝負！
+[quest_title_1030406000603090] チャレンジバトルで勝負！２
+[quest_title_1030406000603020] 自分だけの鍛え方
+[quest_title_1030406000604010] オスッ！　カラテ　だいおう！
+[quest_title_1030406000604020] ＶＳ　からておう
+[quest_title_1030406000604030] ＶＳ　からておう２
+[quest_title_1030406000604040] ＶＳ　からておう３
+[quest_title_1030406000604050] ＶＳ　からておう４
+[quest_title_1030406000606010] 武の試練　一
+[quest_title_1030406000606020] 武の試練　二
+[quest_title_1030406000606030] 武の試練　三
+[quest_title_1030406000606040] 武の試練　四
+[quest_title_1030220012100000] とある日のマジコスコルニ
+[quest_title_1030220243800000] とある日のユウリ
 
 ===========
 story_quest_name_ko.lsd
@@ -20032,6 +20343,57 @@ story_quest_name_ko.lsd
 [quest_title_1030440500302010] VS 파시오의 트레이너2
 [quest_title_1030440500303010] VS 파시오의 트레이너3
 [quest_title_1030440500304010] VS 파시오의 트레이너4
+[quest_group_title_10243800000] N
+(22시즌)
+[quest_group_title_10012100000] 투희
+(22시즌)
+[quest_group_title_10004410000] 우리
+(어나더)
+[quest_group_title_10089410000] 궁극코스 코르니
+[quest_title_1030406000601010] 축제 시작!
+[quest_title_1030406000601030] 다 함께 즐기는 여름 축제
+[quest_title_1030406000601070] VS 브레이크단
+[quest_title_1030406000601040] 추억의 증표
+[quest_title_1030406000601080] VS 브레이크단2
+[quest_title_1030406000601050] 스페셜 게임
+[quest_title_1030406000601090] VS 브레이크단3
+[quest_title_1030406000601060] 셋이 함께 본 여름의 밤하늘
+[quest_title_1030406000601100] VS 브레이크단4
+[quest_title_1030406000601110] 1일 1회 한정 고난도 배틀!
+[quest_title_1030406000601120] 챌린지배틀로 승부!
+[quest_title_1030406000601130] 챌린지배틀로 승부!2
+[quest_title_1030406000605010] VS 회연
+[quest_title_1030406000605020] VS 회연2
+[quest_title_1030406000605030] VS 회연3
+[quest_title_1030406000605040] VS 회연4
+[quest_title_1030406000605050] 1일 1회 한정 보너스 배틀!
+[quest_title_1030406000602010] 여긴 어디지? 배틀의 낙원!
+[quest_title_1030406000602020] 특훈! 버디즈기술!
+[quest_title_1030406000602050] 지우와 특훈!
+[quest_title_1030406000602030] 이글이글 부스터와 리카
+[quest_title_1030406000602060] VS 브레이크단
+[quest_title_1030406000602040] 날려라! 혼신의 100만볼트!
+[quest_title_1030440600201011] 지우의 선물!?
+[quest_title_1030406000603010] 싸우는 격투타입 버디즈
+[quest_title_1030406000603030] VS 사도
+[quest_title_1030406000603040] VS 사도2
+[quest_title_1030406000603050] VS 사도3
+[quest_title_1030406000603060] VS 사도4
+[quest_title_1030406000603070] 1일 1회 한정 고난도 배틀!
+[quest_title_1030406000603080] 챌린지배틀로 승부!
+[quest_title_1030406000603090] 챌린지배틀로 승부!2
+[quest_title_1030406000603020] 나만의 단련 방법
+[quest_title_1030406000604010] 안녕요! 태권도 대왕!
+[quest_title_1030406000604020] VS 태권왕
+[quest_title_1030406000604030] VS 태권왕2
+[quest_title_1030406000604040] VS 태권왕3
+[quest_title_1030406000604050] VS 태권왕4
+[quest_title_1030406000606010] 무술 시련1
+[quest_title_1030406000606020] 무술 시련2
+[quest_title_1030406000606030] 무술 시련3
+[quest_title_1030406000606040] 무술 시련4
+[quest_title_1030220012100000] 궁극코스 코르니의 어느 날
+[quest_title_1030220243800000] 우리의 어느 날
 
 ===========
 story_quest_name_zh-TW.lsd
@@ -22389,6 +22751,57 @@ story_quest_name_zh-TW.lsd
 [quest_title_1030440500302010] ＶＳ　帕希歐的訓練家２
 [quest_title_1030440500303010] ＶＳ　帕希歐的訓練家３
 [quest_title_1030440500304010] ＶＳ　帕希歐的訓練家４
+[quest_group_title_10243800000] Ｎ
+（２０２２夏季）
+[quest_group_title_10012100000] 鬥子
+（２０２２夏季）
+[quest_group_title_10004410000] 小優
+（修行套裝）
+[quest_group_title_10089410000] 美極套裝可爾妮
+[quest_title_1030406000601010] 祭典開始！
+[quest_title_1030406000601030] 大家一起享受的夏日祭典
+[quest_title_1030406000601070] ＶＳ　破壞隊
+[quest_title_1030406000601040] 回憶的證明
+[quest_title_1030406000601080] ＶＳ　破壞隊２
+[quest_title_1030406000601050] 特別的遊戲
+[quest_title_1030406000601090] ＶＳ　破壞隊３
+[quest_title_1030406000601060] ３個人一起觀賞的夏日夜空
+[quest_title_1030406000601100] ＶＳ　破壞隊４
+[quest_title_1030406000601110] １天僅限１次的高難度對戰！
+[quest_title_1030406000601120] 用挑戰對戰決勝負！
+[quest_title_1030406000601130] 用挑戰對戰決勝負！２
+[quest_title_1030406000605010] ＶＳ　芙蓉
+[quest_title_1030406000605020] ＶＳ　芙蓉２
+[quest_title_1030406000605030] ＶＳ　芙蓉３
+[quest_title_1030406000605040] ＶＳ　芙蓉４
+[quest_title_1030406000605050] １天僅限１次的獎勵對戰！
+[quest_title_1030406000602010] 這裡是哪裡？對戰的樂園！
+[quest_title_1030406000602020] 特訓！拍組招式！
+[quest_title_1030406000602050] 與小智一起特訓！
+[quest_title_1030406000602030] 火熱的火伊布和俐卡
+[quest_title_1030406000602060] ＶＳ　破壞隊
+[quest_title_1030406000602040] 釋放！渾身解數的十萬伏特！
+[quest_title_1030440600201011] 小智贈送的禮物！？
+[quest_title_1030406000603010] 交戰！格鬥屬性拍組！
+[quest_title_1030406000603030] ＶＳ　阿四
+[quest_title_1030406000603040] ＶＳ　阿四２
+[quest_title_1030406000603050] ＶＳ　阿四３
+[quest_title_1030406000603060] ＶＳ　阿四４
+[quest_title_1030406000603070] １天僅限１次的高難度對戰！
+[quest_title_1030406000603080] 用挑戰對戰決勝負！
+[quest_title_1030406000603090] 用挑戰對戰決勝負！２
+[quest_title_1030406000603020] 專屬自己的鍛鍊方式
+[quest_title_1030406000604010] 嘿啊！空手道大王！
+[quest_title_1030406000604020] ＶＳ　空手道王
+[quest_title_1030406000604030] ＶＳ　空手道王２
+[quest_title_1030406000604040] ＶＳ　空手道王３
+[quest_title_1030406000604050] ＶＳ　空手道王４
+[quest_title_1030406000606010] 武術考驗　一
+[quest_title_1030406000606020] 武術考驗　二
+[quest_title_1030406000606030] 武術考驗　三
+[quest_title_1030406000606040] 武術考驗　四
+[quest_title_1030220012100000] 某日的美極套裝可爾妮
+[quest_title_1030220243800000] 某日的小優
 
 ===========
 trainer_description_de.lsd
@@ -23137,6 +23550,21 @@ Wassers inspiriert wurde. Sie verbringt ihre Zeit auf Passio
 in der Gesellschaft ihres Partner-Pokémon, nachdem sie
 zuvor erfolglos einem anderen Suicune in Johto
 hinterhergejagt war.
+[10089410000] N genießt in einem coolen Outfit das Sommerfest, zu dem
+ihn seine Freunde eingeladen haben. Gemeinsam mit
+Zoroark möchte er dort unvergessliche Erinnerungen
+schaffen.
+[10004410000] Lotta genießt das Sommerfest gemeinsam mit ihrem
+Kaocto, das eine ungewöhnliche Farbe aufweist. Sie
+fordert sowohl andere Gefährtengespanne als auch ihr
+Glück bei den Ständen am Fest heraus.
+[10012100000] Unter Connies Machtmontur lauert ihr Kampfeswille. Ihr
+Partner Marshadow ist zwar schüchtern, die Kombos der
+beiden sind aber perfekt.
+[10243800000] Gloria ist in ihrem alten Dojo-Outfit von der Rüstungsinsel
+zurück. Es ist ihr besonders lieb und teuer, denn es steckt
+voller Erinnerungen an die Zeit, die sie dort mit Wulaosu
+verbracht hat.
 
 ===========
 trainer_description_en.lsd
@@ -23806,6 +24234,18 @@ streak that somehow resembles another friend of his.
 [10018100000] Kris is in a sygna suit inspired by the power of water. As
 she explores Pasio with her current partner, she thinks
 about the times she spent chasing after Suicune in Johto.
+[10089410000] N’s friends have invited him to join a summer festival.
+He’s changed into a breezy outfit and is ready to make
+some fun memories together with Zoroark.
+[10004410000] Hilda is burning with fighting spirit. She’s on a mission to
+enjoy the booths and battles at the summer festival with
+her Grapploct, which has some interesting colors. 
+[10012100000] Korrina is back in a sygna suit, and she’s full of fighting
+spirit. She and her shy partner Marshadow are so in sync
+that they shadow each other in perfect unison.
+[10243800000] Gloria’s back in the training uniform she wore on the Isle
+of Armor. The outfit reminds her of all the time she spent
+training together with Urshifu, so it’s one of her favorites.
 
 ===========
 trainer_description_es.lsd
@@ -24593,6 +25033,20 @@ las distancias como hace otro de sus amigos.
 la energía del agua. Explora Passio junto a Suicune,
 rememorando la época en la que recorrió Johto con el
 fin de encontrarlo.
+[10089410000] N está preparado para disfrutar del Festival Estival con sus
+amigos, que lo han invitado a asistir los tres juntos. Lleva
+un atuendo acorde con la ocasión y disfruta creando
+nuevos recuerdos junto a Zoroark.
+[10004410000] Liza está que no cabe en sí de alegría mientras disfruta
+del Festival Estival. Junto a Grapploct, que tiene un color
+inusual, aborda a Entrenadores y puestos de comida con
+un espíritu combativo admirable.
+[10012100000] El traje nuevo de Corelia simboliza todo su espíritu
+combativo. Su compi Marshadow es tímido, pero se
+complementan a la perfección.
+[10243800000] Gloria luce el uniforme del Dojo Maestro de la Isla de la
+Armadura. Es un traje imbuido de buenos recuerdos con
+Urshifu, así que le tiene especial cariño.
 
 ===========
 trainer_description_fr.lsd
@@ -25336,6 +25790,20 @@ Luth mène des batailles spectaculaires.
 de l'eau. Elle parcourt Passio aux côtés de son partenaire
 Pokémon, Suicune, tout en se remémorant l'époque
 où elle le poursuivait à Johto.
+[10089410000] N profite de l'ambiance des festivals d'été. Invité
+par ses amis, il porte une tenue décontractée
+et crée de nouveaux souvenirs avec Zoroark.
+[10004410000] Ludvina profite de l'ambiance des festivals d'été.
+Aux côtés de son fidèle partenaire Krakos aux
+couleurs rares, elle démontre son puissant esprit
+combatif autant en combat Pokémon qu'autour
+des stands de nourriture.
+[10012100000] Le Look Ultime de Cornélia représente sa grande
+combativité. Son partenaire Marshadow a beau être
+timide, la combinaison de leurs talents est parfaite.
+[10243800000] Gloria a revêtu l'uniforme qu'elle portait à Isolarmure.
+Elle l'aime beaucoup, car il lui rappelle de nombreux
+souvenirs de moments passés avec Shifours.
 
 ===========
 trainer_description_it.lsd
@@ -26070,6 +26538,19 @@ Con Lugia al suo fianco, prende parte a sfide spettacolari.
 [10018100000] Kristy indossa un Costumax ispirato al potere dell'acqua.
 Esplora l'isola di Pasio assieme al suo compagno,
 ricordandosi di quando inseguiva Suicune a Johto.
+[10089410000] N si gode il festival estivo. Invitato dai suoi amici, indossa
+un abito fresco e dà vita a nuovi divertenti ricordi insieme
+a Zoroark.
+[10004410000] Anita si gode il festival estivo. Con il suo fedele
+compagno, un Grapploct dai colori rari, si mette
+alla prova sia nelle lotte Pokémon che tra le varie
+bancarelle, animata da un forte spirito combattivo.
+[10012100000] Ornella indossa un Costumax intriso di un grande spirito
+combattivo. Il suo Marshadow è timido, ma la sintonia
+tra loro è perfetta.
+[10243800000] Gloria indossa l'Uniforme dojo che usava sull'Isola
+dell'Armatura. Le ricorda tutti i momenti vissuti assieme
+a Urshifu, e per questo le è particolarmente affezionata.
 
 ===========
 trainer_description_ja.lsd
@@ -26737,6 +27218,18 @@ trainer_description_ja.lsd
 [10018100000] 水の力を感じる　マジコスを　身にまとった　クリス。
 ジョウトで　追いかけた　スイクンを　思いだしながら
 バディのスイクンと　一緒に　パシオを　駆け巡る。
+[10089410000] 夏の　お祭りを　楽しんでいる　Ｎ。
+仲間たちに　誘われて　涼しげな　衣装を　身に着け
+ゾロアークと　共に　楽しい　思い出を　作る。
+[10004410000] 夏の　お祭りを　楽しんでいる　トウコ。
+珍しい色の　オトスパスを　バディに
+ポケモン勝負も　屋台にも　熱い闘志で　挑む。
+[10012100000] 闘志のこもった　マジコスを　身にまとった　コルニ。
+バディの　マーシャドーは　恥ずかしがり屋だが
+ふたりの　息は　重なるように　ピッタリ。
+[10243800000] ヨロイ島で使っていた道着を　身にまとった　ユウリ。
+ウーラオスとの思い出が　たくさん詰まっているので
+ユウリも　気に入っている。
 
 ===========
 trainer_description_ko.lsd
@@ -27404,6 +27897,18 @@ WPM 운영위원회의 대표도 맡고 있다.
 [10018100000] 물의 힘이 느껴지는 궁극코스를 몸에 두른 크리스.
 성도지방에서 쫓던 스이쿤을 떠올리며
 버디인 스이쿤과 함께 파시오를 뛰어다닌다.
+[10089410000] 여름 축제를 즐기고 있는 N.
+동료들에게 이끌려 시원한 의상을 입고
+조로아크와 함께 즐거운 추억을 만든다.
+[10004410000] 여름 축제를 즐기고 있는 투희.
+희귀한 색의 케오퍼스를 버디로 삼고
+포켓몬 승부도 노점에도 뜨거운 투지로 도전한다.
+[10012100000] 투지가 깃든 궁극코스를 몸에 두른 코르니.
+버디인 마샤도는 부끄럼을 잘 타지만
+둘의 호흡은 하나가 된 것처럼 잘 맞는다.
+[10243800000] 갑옷섬에서 입었던 도복을 몸에 두른 우리.
+우라오스와의 추억이 가득해서
+우리도 마음에 들어 한다.
 
 ===========
 trainer_description_zh-TW.lsd
@@ -28070,6 +28575,18 @@ trainer_description_zh-TW.lsd
 [10018100000] 身穿能感受到水之力的美極套裝的克麗絲。
 她一邊回憶著在城都追尋的水君，
 一邊和拍檔的水君一起在帕希歐四處冒險。
+[10089410000] 享受夏日祭典的Ｎ。
+他應朋友邀請，穿上涼爽的服裝
+和索羅亞克一起創造快樂的回憶。
+[10004410000] 享受夏日祭典的鬥子。
+她與顏色少見的八爪武師成為拍組，
+以熱情的鬥志來挑戰寶可夢對戰和攤販。
+[10012100000] 身穿充滿鬥志的美極套裝的可爾妮。
+她的拍檔瑪夏多生性害羞，
+但他們的默契卻是天衣無縫。
+[10243800000] 身穿在鎧島時穿的修行服的小優。
+由於充滿了和武道熊師相處的回憶，
+小優本身也很喜歡這套服裝。
 
 ===========
 trainer_name_de.lsd
@@ -28232,6 +28749,7 @@ trainer_name_de.lsd
 [ch0161] Hala
 [ch0162] Lucius
 [ch0170] Artie
+[ch0171] Hartwig
 [ch0176] Lucian
 [ch0183] Marlon
 [ch0190] Ryuki
@@ -28273,6 +28791,7 @@ trainer_name_de.lsd
 [ch0623] Pokémon-Züchterin
 [ch0538] Galaktik Rüpel
 [ch0539] Galaktik Rüpel
+[ch0264] Ash
 
 ===========
 trainer_name_en.lsd
@@ -28435,6 +28954,7 @@ trainer_name_en.lsd
 [ch0161] Hala
 [ch0162] Lucas
 [ch0170] Burgh
+[ch0171] Chuck
 [ch0176] Lucian
 [ch0183] Molayne
 [ch0190] Ryuki
@@ -28476,6 +28996,7 @@ trainer_name_en.lsd
 [ch0623] Pokémon Breeder
 [ch0538] Team Galactic Grunt
 [ch0539] Team Galactic Grunt
+[ch0264] Ash
 
 ===========
 trainer_name_es.lsd
@@ -28638,6 +29159,7 @@ trainer_name_es.lsd
 [ch0161] Kaudan
 [ch0162] León
 [ch0170] Camus
+[ch0171] Aníbal
 [ch0176] Delos
 [ch0183] Lario
 [ch0190] Olano
@@ -28679,6 +29201,7 @@ trainer_name_es.lsd
 [ch0623] Criapokémon
 [ch0538] Recluta del Equipo Galaxia
 [ch0539] Recluta del Equipo Galaxia
+[ch0264] Ash
 
 ===========
 trainer_name_fr.lsd
@@ -28841,6 +29364,7 @@ trainer_name_fr.lsd
 [ch0161] Pectorius
 [ch0162] Louka
 [ch0170] Artie
+[ch0171] Chuck
 [ch0176] Lucio
 [ch0183] Molène
 [ch0190] Solane
@@ -28882,6 +29406,7 @@ trainer_name_fr.lsd
 [ch0623] Éleveur
 [ch0538] Sbire Team Galaxie
 [ch0539] Sbire Team Galaxie
+[ch0264] Sacha
 
 ===========
 trainer_name_it.lsd
@@ -29044,6 +29569,7 @@ trainer_name_it.lsd
 [ch0161] Hala
 [ch0162] Lucas
 [ch0170] Artemisio
+[ch0171] Furio
 [ch0176] Luciano
 [ch0183] Tapso
 [ch0190] Morel
@@ -29085,6 +29611,7 @@ trainer_name_it.lsd
 [ch0623] Allevapokémon
 [ch0538] Recluta del Team Galassia
 [ch0539] Recluta del Team Galassia
+[ch0264] Ash
 
 ===========
 trainer_name_ja.lsd
@@ -29247,6 +29774,7 @@ trainer_name_ja.lsd
 [ch0161] ハラ
 [ch0162] コウキ
 [ch0170] アーティ
+[ch0171] シジマ
 [ch0176] ゴヨウ
 [ch0183] マーレイン
 [ch0190] リュウキ
@@ -29288,6 +29816,7 @@ trainer_name_ja.lsd
 [ch0623] ポケモンブリーダー
 [ch0538] ギンガだんの　したっぱ
 [ch0539] ギンガだんの　したっぱ
+[ch0264] サトシ
 
 ===========
 trainer_name_ko.lsd
@@ -29450,6 +29979,7 @@ trainer_name_ko.lsd
 [ch0161] 할라
 [ch0162] 광휘
 [ch0170] 아티
+[ch0171] 사도
 [ch0176] 오엽
 [ch0183] 멀레인
 [ch0190] 용규
@@ -29491,6 +30021,7 @@ trainer_name_ko.lsd
 [ch0623] 포켓몬 브리더
 [ch0538] 갤럭시단의 조무래기
 [ch0539] 갤럭시단의 조무래기
+[ch0264] 지우
 
 ===========
 trainer_name_zh-TW.lsd
@@ -29653,6 +30184,7 @@ trainer_name_zh-TW.lsd
 [ch0161] 哈拉
 [ch0162] 明輝
 [ch0170] 亞堤
+[ch0171] 阿四
 [ch0176] 悟松
 [ch0183] 馬睿因
 [ch0190] 龍葵
@@ -29694,6 +30226,7 @@ trainer_name_zh-TW.lsd
 [ch0623] 寶可夢培育家
 [ch0538] 銀河隊手下
 [ch0539] 銀河隊手下
+[ch0264] 小智
 
 ===========
 trainer_verbose_name_de.lsd
@@ -29805,6 +30338,13 @@ trainer_verbose_name_de.lsd
 [10002100000] MaMo-Lyra
 [10112100000] MaMo-Klarin
 [10018100000] MaMo-Krista
+[10089410000] N 
+(Saison 2022)
+[10004410000] Lotta 
+(Saison 2022)
+[10012100000] MaMo-Connie
+[10243800000] Gloria 
+(Dojo-Outfit)
 
 ===========
 trainer_verbose_name_en.lsd
@@ -29836,13 +30376,13 @@ Cynthia
 [10008400000] Erika
 (Holiday 2020)
 [10118400000] Lillie
-(New Year’s 2021)
+(New Year's 2021)
 [10111400000] Lance
-(New Year’s 2021)
+(New Year's 2021)
 [10130400000] Serena
-(Palentine’s 2021)
+(Palentine's 2021)
 [10116400000] Dawn
-(Palentine’s 2021)
+(Palentine's 2021)
 [10092800000] Iris
 (Champion)
 [10126400000] May
@@ -29891,13 +30431,13 @@ Lusamine
 [10091200000] Sygna Suit Cynthia 
 (Renegade)
 [10114400000] Sabrina 
-(New Year’s 2022)
+(New Year's 2022)
 [10115400000] Volkner 
-(New Year’s 2022)
+(New Year's 2022)
 [10245410000] Marnie
-(Palentine’s 2022)
+(Palentine's 2022)
 [10250400000] Bea
-(Palentine’s 2022)
+(Palentine's 2022)
 [10116100000] Sygna Suit Dawn
 [10194100000] Sygna Suit Cyrus
 [10016500000] Skyla
@@ -29922,6 +30462,14 @@ Giovanni
 [10002100000] Sygna Suit Lyra
 [10112100000] Sygna Suit Ethan
 [10018100000] Sygna Suit Kris
+[10089410000] N
+(Summer 2022)
+[10004410000] Hilda
+(Summer 2022)
+[10012100000] Sygna Suit
+Korrina
+[10243800000] Gloria
+(Dojo Uniform)
 
 ===========
 trainer_verbose_name_es.lsd
@@ -30020,6 +30568,13 @@ arqueóloga)
 [10002100000] Lira (Traje S)
 [10112100000] Eco (Traje S)
 [10018100000] Cristi (Traje S)
+[10089410000] N 
+(Temporada 22)
+[10004410000] Liza 
+(Temporada 22)
+[10012100000] Corelia (Traje S)
+[10243800000] Gloria 
+(Dojo Maestro)
 
 ===========
 trainer_verbose_name_fr.lsd
@@ -30128,6 +30683,12 @@ trainer_verbose_name_fr.lsd
 [10002100000] Célesta (Ultime)
 [10112100000] Luth (Ultime)
 [10018100000] Christy (Ultime)
+[10089410000] N 
+(Saison 2022)
+[10004410000] Ludvina 
+(Saison 2022)
+[10012100000] Cornélia (Ultime)
+[10243800000] Gloria (Dojo)
 
 ===========
 trainer_verbose_name_it.lsd
@@ -30240,6 +30801,13 @@ trainer_verbose_name_it.lsd
 [10002100000] Cetra Costumax
 [10112100000] Armonio Costumax
 [10018100000] Kristy Costumax
+[10089410000] N 
+(feste 2022)
+[10004410000] Anita 
+(feste 2022)
+[10012100000] Ornella Costumax
+[10243800000] Gloria 
+(Uniforme dojo)
 
 ===========
 trainer_verbose_name_ja.lsd
@@ -30352,6 +30920,13 @@ trainer_verbose_name_ja.lsd
 [10002100000] マジコスコトネ
 [10112100000] マジコスヒビキ
 [10018100000] マジコスクリス
+[10089410000] N
+（２２シーズン）
+[10004410000] トウコ
+（２２シーズン）
+[10012100000] マジコスコルニ
+[10243800000] ユウリ
+（アナザー）
 
 ===========
 trainer_verbose_name_ko.lsd
@@ -30464,6 +31039,13 @@ trainer_verbose_name_ko.lsd
 [10002100000] 궁극코스 금선
 [10112100000] 궁극코스 심향
 [10018100000] 궁극코스 크리스
+[10089410000] N
+(22시즌)
+[10004410000] 투희
+(22시즌)
+[10012100000] 궁극코스 코르니
+[10243800000] 우리
+(어나더)
 
 ===========
 trainer_verbose_name_zh-TW.lsd
@@ -30576,6 +31158,13 @@ trainer_verbose_name_zh-TW.lsd
 [10002100000] 美極套裝琴音
 [10112100000] 美極套裝阿響
 [10018100000] 美極套裝克麗絲
+[10089410000] N
+（２０２２夏季）
+[10004410000] 鬥子
+（２０２２夏季）
+[10012100000] 美極套裝可爾妮
+[10243800000] 小優
+（修行套裝）
 
 ===========
 common_widget_de.lsd
@@ -30791,6 +31380,7 @@ Items konnten nicht abgeholt werden:
 [common_widget/dialog_100] Du kannst diese Glücksfähigkeit erlernen,
 indem du das folgende Item einsetzt:
 [Name:Item ].
+[common_widget/dialog_108] Details
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -30972,6 +31562,9 @@ wurde zu einem
 [common_widget/sort_021] Nr.
 [common_widget/sort_022] Grenzbruch
 [common_widget/sort_023] Attacken-Level
+[common_widget/sort_025] Keine Gefährten gefunden.
+[common_widget/sort_026] Keine Pokémon gefunden.
+[common_widget/sort_027] Keine Ausrüstung gefunden.
 [common_widget/cutin_001] Levelaufstieg!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] Potenzial erhöht!
@@ -31155,6 +31748,9 @@ verfügbaren Musikstücke wird abgespielt.
 [common_widget/juke_box_017] Können erhalten werden, wenn [Name:TrainerName ] & [Name:PokemonName ] 6★EX erreichen.
 
 Wenn diese Bedingung erfüllt ist, kannst du dir die oben gelisteten Lieder in der Musikbox anhören.
+[common_widget/juke_box_018] Erhältlich in „[Name:EventName ]“.
+
+Wenn diese Bedingung erfüllt ist, kannst du dir die oben aufgelisteten Lieder in der Musikbox anhören.
 [common_widget/juke_box_019] Kann z. B. beim Freischalten von Liedern in der Musikbox erhalten werden. Nach Erhalt stehen die oben aufgelisteten Lieder zum Anhören zur Verfügung.
 [common_widget/juke_box_020] Kurz reinhören
 [common_widget/juke_box_021] Du kannst die Hintergrundmusik ändern, indem du die Gebietsinfo abschließt.
@@ -31162,6 +31758,7 @@ Wenn diese Bedingung erfüllt ist, kannst du dir die oben gelisteten Lieder in d
 [common_widget/juke_box_023] Hör in die voreingestellte Hintergrundmusik für Kämpfe rein.
 [common_widget/juke_box_024] 6★ EX
 [common_widget/juke_box_025] Item-Tausch
+[common_widget/juke_box_026] Event
 [common_widget/juke_box_027] Spezial
 [common_widget/spreward_001] Spezial-Bonus
 [common_widget/spreward_002] Schließe die Hauptgeschichte ab!
@@ -31407,6 +32004,7 @@ main story?
 [common_widget/dialog_100] Using a [Name:Item ]
 allows you to learn the following
 lucky skill.
+[common_widget/dialog_108] Details
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -31583,6 +32181,9 @@ into [Name:PokemonName ]!
 [common_widget/sort_021] No.
 [common_widget/sort_022] Unlock Level Cap
 [common_widget/sort_023] Move Level
+[common_widget/sort_025] No sync pairs found
+[common_widget/sort_026] No Pokémon found
+[common_widget/sort_027] No gear found
 [common_widget/cutin_001] Level Up!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] Potential increased!
@@ -31739,6 +32340,7 @@ of your Present Box.
 [common_widget/juke_box_015] The following songs have been added.
 [common_widget/juke_box_016] Note: You can listen to songs that have been added after fulfilling certain requirements.
 [common_widget/juke_box_017] Obtained by raising [Name:TrainerName ] & [Name:PokemonName ] to 6★ EX. Allows you to listen to the song above in the jukebox.
+[common_widget/juke_box_018] Obtained from [Name:EventName ]. Allows you to listen to the song above in the jukebox.
 [common_widget/juke_box_019] Obtained from the Unlock Songs menu of the jukebox. Allows you to listen to the song above in the jukebox.
 [common_widget/juke_box_020] Preview
 [common_widget/juke_box_021] Once you complete a battle, you can change its background music.
@@ -31747,6 +32349,7 @@ of your Present Box.
 for this battle.
 [common_widget/juke_box_024] 6★ EX
 [common_widget/juke_box_025] Exchange Items
+[common_widget/juke_box_026] Event
 [common_widget/juke_box_027] Special
 [common_widget/spreward_001] Special Completion Rewards
 [common_widget/spreward_002] Complete the main story!
@@ -32004,6 +32607,7 @@ historia principal (es decir, el tutorial)?
 [common_widget/dialog_100] Puedes desbloquear la siguiente 
 habilidad fortuita utilizando la
 [Name:Item ]:
+[common_widget/dialog_108] Detalles
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Nv.
 [common_widget/trainer_detail_004] MÁX.
@@ -32182,6 +32786,9 @@ evolución?
 [common_widget/sort_021] N.º
 [common_widget/sort_022] Nv. máx.
 [common_widget/sort_023] Nivel de movimientos
+[common_widget/sort_025] No se han encontrado compis.
+[common_widget/sort_026] No se han encontrado Pokémon.
+[common_widget/sort_027] No se han encontrado accesorios.
 [common_widget/cutin_001] ¡Sube de nivel!
 [common_widget/cutin_002] Nv.
 [common_widget/cutin_003] ¡Potencial aumentado!
@@ -32345,6 +32952,9 @@ siguientes:
 [common_widget/juke_box_017] Se puede obtener tras subir a [Name:TrainerName ] y [Name:PokemonName ] a 6★ EX.
 Sirve para desbloquear la pista correspondiente
 en la gramola.
+[common_widget/juke_box_018] Se puede obtener durante el evento "[Name:EventName ]".
+Sirve para desbloquear la pista correspondiente
+en la gramola.
 [common_widget/juke_box_019] Se puede obtener en el menú de la gramola y
 en otras secciones.
 Sirve para desbloquear la pista correspondiente
@@ -32357,6 +32967,7 @@ cambiar la música del combate.
 para este combate.
 [common_widget/juke_box_024] 6★ EX
 [common_widget/juke_box_025] Canje de objetos
+[common_widget/juke_box_026] Evento
 [common_widget/juke_box_027] Especial
 [common_widget/spreward_001] Premios especiales
 [common_widget/spreward_002] ¡Avanza en la historia principal!
@@ -32612,6 +33223,7 @@ Vous pourrez rejouer ces épisodes à tout moment.
 [common_widget/dialog_100] Vous pouvez apprendre le talent
 surprise suivant en utilisant :
 [Name:Item ].
+[common_widget/dialog_108] Détails
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] N.
 [common_widget/trainer_detail_004] MAX
@@ -32794,6 +33406,9 @@ apprise
 [common_widget/sort_021] Nº
 [common_widget/sort_022] N. max. débloqué
 [common_widget/sort_023] Niveau des capacités
+[common_widget/sort_025] Duo introuvable
+[common_widget/sort_026] Pokémon introuvable
+[common_widget/sort_027] Équipement introuvable
 [common_widget/cutin_001] Niveau ↑ !
 [common_widget/cutin_002] N.
 [common_widget/cutin_003] Potentiel augmenté !
@@ -32973,6 +33588,9 @@ après avoir rempli certaines conditions.
 de [Name:TrainerName ] & [Name:PokemonName ] à 6★ EX.
 Une fois obtenu, vous pourrez écouter
 le morceau ci-dessus dans le Jukebox.
+[common_widget/juke_box_018] Peut être obtenu durant « [Name:EventName ] ».
+Une fois obtenu, vous pourrez écouter
+le morceau ci-dessus dans le Jukebox.
 [common_widget/juke_box_019] Peut être obtenu depuis le menu
 « Débloquer des morceaux » du Jukebox.
 Une fois obtenu, vous pourrez écouter
@@ -32985,6 +33603,7 @@ Mélodie disponibles !
 [common_widget/juke_box_023] Écouter la musique par défaut de ce combat.
 [common_widget/juke_box_024] 6★ EX
 [common_widget/juke_box_025] Échange d'objets
+[common_widget/juke_box_026] Évènement
 [common_widget/juke_box_027] Spéciale
 [common_widget/spreward_001] Récompenses (complétion)
 [common_widget/spreward_002] Terminez le scénario principal !
@@ -33231,6 +33850,7 @@ saltate. Potrai rivedere e giocare le sequenze saltate
 in qualsiasi momento.
 [common_widget/dialog_100] Utilizzando un [Name:Item ],
 è possibile scoprire il seguente talento:
+[common_widget/dialog_108] Dettagli
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] L.
 [common_widget/trainer_detail_004] MAX
@@ -33406,6 +34026,9 @@ dell'evoluzione?
 [common_widget/sort_021] Nº 
 [common_widget/sort_022] L. massimi sbloccati
 [common_widget/sort_023] Livello mosse
+[common_widget/sort_025] Nessuna Unità trovata.
+[common_widget/sort_026] Nessun Pokémon trovato.
+[common_widget/sort_027] Nessun accessorio trovato.
 [common_widget/cutin_001] NUOVO LIVELLO!
 [common_widget/cutin_002] L. 
 [common_widget/cutin_003] AUMENTO ★!
@@ -33580,6 +34203,9 @@ soddisfatti determinati requisiti.
 [common_widget/juke_box_017] Ottenibile portando [Name:TrainerName ] & [Name:PokemonName ] a 6★ EX.
 Permette di ascoltare il brano indicato sopra
 nel Jukebox.
+[common_widget/juke_box_018] Ottenibile durante "[Name:EventName ]".
+Permette di ascoltare il brano indicato sopra
+nel Jukebox.
 [common_widget/juke_box_019] Ottenibile ad esempio dal menu "Sblocca
 musica" del Jukebox.
 Permette di ascoltare il brano indicato sopra
@@ -33592,6 +34218,7 @@ una volta completata la Guida area.
 per questa lotta.
 [common_widget/juke_box_024] 6★ EX
 [common_widget/juke_box_025] Scambio strumenti
+[common_widget/juke_box_026] Evento
 [common_widget/juke_box_027] Speciale
 [common_widget/spreward_001] Completapremi
 [common_widget/spreward_002] Completa la storia!
@@ -33835,6 +34462,7 @@ EXカラー衣装が　かくとくできます
 ※スキップしたストーリーはあとから遊ぶことができます
 [common_widget/dialog_100] [Name:Item ]を使用すると
 以下のポテンシャルが習得できます
+[common_widget/dialog_108] 詳細
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -34009,6 +34637,9 @@ Lv.MAX
 [common_widget/sort_021] No.
 [common_widget/sort_022] 上限突破
 [common_widget/sort_023] わざレベル
+[common_widget/sort_025] 該当するバディーズはいません
+[common_widget/sort_026] 該当するポケモンはいません
+[common_widget/sort_027] 該当する装備はありません
 [common_widget/cutin_001] レベルアップ!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★アップ!
@@ -34196,6 +34827,10 @@ HARDクリアで解放
 ★6EXへ★アップすると獲得できます
 獲得すると上記の楽曲をジュークボックスから
 鑑賞できるようになります
+[common_widget/juke_box_018] [Name:EventName ]で
+獲得できます
+獲得すると上記の楽曲をジュークボックスから
+鑑賞できるようになります
 [common_widget/juke_box_019] ジュークボックスの楽曲解放などで獲得できます
 獲得すると上記の楽曲をジュークボックスから
 鑑賞できるようになります
@@ -34207,6 +34842,7 @@ HARDクリアで解放
 設定されている楽曲を再生します
 [common_widget/juke_box_024] ★6EX
 [common_widget/juke_box_025] どうぐ交換
+[common_widget/juke_box_026] イベント
 [common_widget/juke_box_027] スペシャル
 [common_widget/spreward_001] スペシャルクリア報酬
 [common_widget/spreward_002] メインストーリーをクリアしよう！
@@ -34445,6 +35081,7 @@ EX컬러 의상을 획득할 수 있습니다
 ※건너뛴 스토리는 나중에 다시 플레이할 수 있습니다
 [common_widget/dialog_100] [Name:Item ][Kor:Particle char="wo" ] 사용하면
 아래의 포텐셜을 습득할 수 있습니다
+[common_widget/dialog_108] 상세
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -34620,6 +35257,9 @@ Lv.MAX
 [common_widget/sort_021] No.
 [common_widget/sort_022] 상한돌파
 [common_widget/sort_023] 기술 레벨
+[common_widget/sort_025] 해당하는 버디즈가 없습니다
+[common_widget/sort_026] 해당하는 포켓몬이 없습니다
+[common_widget/sort_027] 해당하는 장비가 없습니다
 [common_widget/cutin_001] 레벨업!
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★상승!
@@ -34800,6 +35440,9 @@ BP 버디즈 호출권은 도구 교환에서
 ★6EX로 ★상승시키면 획득할 수 있습니다
 획득하면 위 악곡을 주크박스에서
 감상할 수 있게 됩니다
+[common_widget/juke_box_018] [Name:EventName ]에서 획득할 수 있습니다
+획득하면 위 악곡을 주크박스에서
+감상할 수 있게 됩니다
 [common_widget/juke_box_019] 주크박스의 악곡 해방 등으로 획득할 수 있습니다
 획득하면 위 악곡을 주크박스에서
 감상할 수 있게 됩니다
@@ -34811,6 +35454,7 @@ BP 버디즈 호출권은 도구 교환에서
 설정되어 있던 악곡을 재생합니다
 [common_widget/juke_box_024] ★6EX
 [common_widget/juke_box_025] 도구 교환
+[common_widget/juke_box_026] 이벤트
 [common_widget/juke_box_027] 스페셜
 [common_widget/spreward_001] 스페셜 클리어 보상
 [common_widget/spreward_002] 메인 스토리를 클리어하자!
@@ -35035,6 +35679,7 @@ common_widget_zh-TW.lsd
 ※跳過的劇情以後仍可遊玩
 [common_widget/dialog_100] 使用[Name:Item ]後
 可學習下列潛能
+[common_widget/dialog_108] 詳情
 [common_widget/trainer_detail_001] [Name:TrainerName ]
 [common_widget/trainer_detail_002] Lv.
 [common_widget/trainer_detail_004] MAX
@@ -35205,6 +35850,9 @@ Lv.MAX
 [common_widget/sort_021] No.
 [common_widget/sort_022] 突破上限
 [common_widget/sort_023] 招式等級
+[common_widget/sort_025] 沒有符合條件的拍組
+[common_widget/sort_026] 沒有符合條件的寶可夢
+[common_widget/sort_027] 沒有符合條件的裝備
 [common_widget/cutin_001] 升級！
 [common_widget/cutin_002] Lv.
 [common_widget/cutin_003] ★提升！
@@ -35368,6 +36016,9 @@ EX服裝！
 提升至★6EX後即可獲得
 獲得後可在點播機
 欣賞上述樂曲
+[common_widget/juke_box_018] 可在[Name:EventName ]獲得
+獲得後可在點播機
+欣賞上述樂曲
 [common_widget/juke_box_019] 可在點播機的解鎖樂曲等處獲得
 獲得後可在點播機
 欣賞上述樂曲
@@ -35378,6 +36029,7 @@ EX服裝！
 [common_widget/juke_box_023] 會播放預先設定好的對戰樂曲
 [common_widget/juke_box_024] ★6EX
 [common_widget/juke_box_025] 交換道具
+[common_widget/juke_box_026] 活動
 [common_widget/juke_box_027] 特別
 [common_widget/spreward_001] 特別過關報酬
 [common_widget/spreward_002] 成功過關主線劇情吧！
@@ -39506,7 +40158,7 @@ tienes bastante del siguiente objeto:
 [home/quest_list_171] Se desbloqueará en [Name:DateTime ].
 [home/quest_list_172] Se desbloqueará al completar [Digit:2digits ]
 capítulo[ES:Qty P="s" ] de la trama equipo villano en
-dificultad Normal.
+dificultad normal.
 [home/quest_detail_003] Tipos recomendados
 [home/quest_detail_005] Detalles
 [home/quest_detail_009] Elegir equipo
@@ -40057,7 +40709,7 @@ obtenido!
 miembros del Alto Mando.
 [home/champion_battle_033] ¡Enhorabuena!
 Podrás volver a hacer frente a los
-Combates de Campeones en difícil
+Combates de Campeones en Difícil
 (nivel 1) o superior a partir del
 [Name:DateTime ].
 Las normas especiales y los Pokémon
@@ -40086,7 +40738,7 @@ Hall de la Fama de Passio para
 completar el emblema y desbloquear
 esta función.
 [home/champion_battle_051] Nota: Los premios por completar los Combates
-de Campeones en Difícil (Nivel 1) o superior solo
+de Campeones en Difícil (nivel 1) o superior solo
 se pueden obtener una vez a la semana.
 [home/champion_battle_052] Tras haber registrado compis de todos
 los tipos en el Hall de la Fama de
@@ -45580,6 +46232,8 @@ Schlüssel
 [shop/scout_166] Erhalte garantiert [Name:TrainerNameAndType ]!
 [shop/scout_167] Stufe 5: [Digit:6digits ] % Chance auf Erhalt der genannten Gefährten.
 Stufe 10: Du kannst ein Garantie-G-Sucheticket erhalten!
+[shop/scout_174] Saison-Gefährten sind Gefährten, die während dieser saisonalen Gefährtensuche für begrenzte Zeit erscheinen.
+Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieser saisonalen Gefährtensuche erscheinen werden.
 [shop/scout_175] Festival-Gefährten sind Gefährten, die während dieses PokéFestivals für begrenzte Zeit erscheinen.
 Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses PokéFestivals erscheinen werden.
 [shop/scout_176] Meisterfestival-Gefährten sind Gefährten, die während dieses Meisterfestivals für begrenzte Zeit erscheinen.
@@ -45590,6 +46244,33 @@ Es besteht die Möglichkeit, dass sie in Zukunft auch außerhalb dieses Meisterf
 [shop/scout_182] Wenn du die Gefährtensuche [Digit:3digits ] Mal durchführst, kannst
 du ein Garantie-G-Sucheticket erhalten.
 [shop/scout_183] In der letzten Gefährtensuche (die 10. bei 10 Gefährtensuchen und die 11. bei 11 Gefährtensuchen) wird nur aus Gefährten mit 5 ★ gezogen. Die Erscheinungsrate für die Ziehung aus Gefährten mit 5 ★ findest du bei der Erscheinungsratenanzeige unter „Garantiert 5 ★!“.
+[shop/scout_185] Wähle ein zusätzliches Gefährtengespann aus diesen [Digit:2digits ] Gefährten!
+[shop/scout_186] Garantiert
+5★(1 Mal)!
+[shop/scout_187] Wähle nach der
+G-Suche 1 Mal
+5★-Gefährten.
+[shop/scout_188] Folgende Geschenke sind auf dieser Stufe erhältlich.
+[shop/scout_189] In der G-Suche auf dieser Stufe erhältst du garantiert
+eines der folgenden 5★-Gefährtengespanne.
+[shop/scout_190] Pro Ticket kannst du eine entsprechende Ticket-G-Suche durchführen.
+Hinweis: Es besteht eine Gesamtchance von [Digit:3digits ] %, dass im Fokus stehende Gefährtengespanne in dieser G-Suche erscheinen.
+[shop/scout_191] Nachdem du die G-Suche auf dieser Stufe durchgeführt
+hast, kannst du ein zusätzliches Gefährtengespann aus
+den folgenden wählen.
+[shop/scout_192] Ein 5★-Gefährgengespann garantiert, mit
+einer Chance auf das im Fokus stehende
+Gefährtengespann!
+[shop/scout_193] Nachdem du die G-Suche durchgeführt hast,
+kannst du ein 5★-Gefährtengespann wählen!
+[shop/scout_194] [Digit:6digits ] % Gesamtchance auf das Erscheinen der Fokus-Gefährten!
+[shop/scout_195] Nur Stufe [Digit:2digits ] dieser G-Suche garantiert
+5★-Gefährten.
+[shop/scout_196] Hinweis: Nur Stufe [Digit:2digits ] dieser G-Suche garantiert 5★-Gefährten. In der letzten Gefährtensuche (die 10. bei 10 Gefährtensuchen und die 11. bei 11 Gefährtensuchen) wird nur aus Gefährten mit 5 ★ gezogen. Die Erscheinungsrate für die Ziehung aus Gefährten mit 5 ★ findest du bei der Erscheinungsratenanzeige unter „Garantiert 5 ★!“.
+[shop/scout_197] Pro Ticket kannst du eine entsprechende Ticket-G-Suche durchführen.
+Hinweis: Das im Fokus stehende Gefährtengespann erscheint garantiert in dieser G-Suche.
+[shop/scout_198] Pro Ticket kannst du eine entsprechende Ticket-G-Suche durchführen.
+Hinweis: Es besteht eine Chance von [Digit:3digits ] %, dass das im Fokus stehende Gefährtengespann in dieser G-Suche erscheint.
 [shop/deck_item_sale_001] Ausrüstungstausch
 [shop/deck_item_sale_002] Ausrüstung
 [shop/deck_item_sale_003] Filter
@@ -46168,6 +46849,7 @@ When you see a * displayed after a Pokémon name in the offering rate, that mean
 [shop/scout_166] [Name:TrainerNameAndType ] guaranteed!
 [shop/scout_167] At Tier 5, you can get a ticket with a [Digit:6digits ]% chance to scout
 the featured sync pair. At Tier 10, you can get a guaranteed scout ticket!
+[shop/scout_174] Seasonal sync pairs are sync pairs that will appear for a limited time during this seasonal scout. There is a possibility that they will appear outside of this seasonal scout in the future.
 [shop/scout_175] Fair-exclusive sync pairs are sync pairs that will appear for a limited time during this Poké Fair scout. There is a possibility that they will appear outside of this Poké Fair scout in the future.
 [shop/scout_176] Master Fair sync pairs are sync pairs that will appear for a limited time during this Master Fair. There is a possibility that they will appear outside of this Master Fair in the future.
 [shop/scout_178] Discount (Limit [Digit:3digits ])
@@ -46185,6 +46867,29 @@ When you see a * displayed after a Pokémon name in the offering rate, that mean
 
 [shop/scout_182] If you use the scout [Digit:3digits ] [EN:Qty S="time" P="times" ], you can get a guaranteed scout ticket!
 [shop/scout_183] The final sync pair scouted (the tenth sync pair for ×10 scouts and the eleventh sync pair for ×11 scouts) is selected from a pool of featured 5★ sync pairs. You can see the offering rate for these draws by tapping the 5★-Guaranteed Pool button on the offering rate screen.
+[shop/scout_185] Choose an additional sync pair from
+a pool of [Digit:2digits ] pairs!
+[shop/scout_186] One 5★
+guaranteed
+[shop/scout_187] Choose a
+5★ after
+scouting
+[shop/scout_188] The following presents can be received at this tier.
+[shop/scout_189] When you use the sync pair scout at this tier, one of
+the following 5★ sync pairs is guaranteed to appear.
+[shop/scout_190] One ticket grants one use of the corresponding ticket scout. Note: The featured sync pairs have a [Digit:3digits ]% total chance to appear in this sync pair scout.
+[shop/scout_191] After you use the sync pair scout at this tier, you can
+choose an additional sync pair from the following.
+[shop/scout_192] One 5★ sync pair guaranteed, with a chance
+of it being a featured sync pair!
+[shop/scout_193] After using the sync pair scout,
+you can choose a 5★ sync pair!
+[shop/scout_194] [Digit:6digits ]% total chance the featured sync pairs appear!
+[shop/scout_195] Only tier [Digit:2digits ] of this sync pair scout
+is 5★-guaranteed.
+[shop/scout_196] Note: Only tier [Digit:2digits ] of this sync pair scout is 5★-guaranteed. The final sync pair scouted (the 10th sync pair for ×10 scouts and 11th sync pair for ×11 scouts) is selected from a pool of only 5★ sync pairs. You can see the offering rate for these draws by tapping the 5★Guaranteed button on the offering rate screen.
+[shop/scout_197] One ticket grants one use of the corresponding ticket scout. Note: The featured sync pair is guaranteed to appear in this sync pair scout.
+[shop/scout_198] One ticket grants one use of the corresponding ticket scout. Note: The featured sync pair has a [Digit:3digits ]% chance to appear in this sync pair scout.
 [shop/deck_item_sale_001] Exchange Gear
 [shop/deck_item_sale_002] Gear
 [shop/deck_item_sale_003] Filter
@@ -46702,6 +47407,7 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 [shop/scout_166] ¡[Name:TrainerNameAndType ] con total garantía!
 [shop/scout_167] Fase 5: Billete con [Digit:6digits ]% de probabilidad de reclutar a los compis destacados.
 Fase 10: Billete para reclutarlos con total garantía.
+[shop/scout_174] Los compis de temporada son parejas de compis que aparecen durante un tiempo limitado en este reclutamiento de temporada, aunque es posible que vuelvan a aparecer en un futuro fuera de un reclutamiento de temporada.
 [shop/scout_175] Los festicompis son parejas de compis que aparecen durante un tiempo limitado en este Pokéfestival, aunque es posible que vuelvan a aparecer en un futuro fuera de un Pokéfestival.
 [shop/scout_176] Los festicompis maestros son parejas de compis que aparecen durante un tiempo limitado en este Pokéfestival maestro, aunque es posible que vuelvan a aparecer en un futuro fuera de un Pokéfestival maestro.
 
@@ -46715,6 +47421,32 @@ Los Pokémon de las parejas de compis marcadas con un asterisco (*) en la pantal
 [shop/scout_182] Tras [Digit:3digits ] reclutamiento[ES:Qty P="s" ], puedes obtener un billete con el
 que reclutar con total garantía a los compis destacados.
 [shop/scout_183] La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★ destacadas. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
+[shop/scout_185] ¡Puedes elegir una pareja de compis adicional de entre estas [Digit:2digits ]!
+[shop/scout_186] ¡5★
+garantizadas!
+[shop/scout_187] ¡Elige una
+pareja
+de 5★!
+[shop/scout_188] En esta fase, puedes recibir los siguientes regalos:
+[shop/scout_189] Tras realizar el reclutamiento en esta fase, recibirás
+una de las siguientes parejas de compis de 5★ con
+total garantía:
+[shop/scout_190] Cada billete garantiza un solo uso en el reclutamiento correspondiente.
+Nota: Las parejas de compis destacadas tienen un [Digit:3digits ]% de probabilidades en total de aparecer en este reclutamiento.
+[shop/scout_191] Tras realizar el reclutamiento en esta fase, puedes elegir
+una pareja de compis adicional de entre las siguientes:
+[shop/scout_192] ¡Una pareja de compis de 5★ garantizada con
+probabilidades de ser la pareja destacada!
+[shop/scout_193] ¡Tras realizar el reclutamiento, puedes recibir
+una pareja de compis de 5★ a tu elección!
+[shop/scout_194] ¡[Digit:6digits ]% de prob. de obtener parejas destacadas!
+[shop/scout_195] Solo la fase [Digit:2digits ] de este reclutamiento
+garantiza una pareja de compis de 5★.
+[shop/scout_196] Aviso: Solo la fase [Digit:2digits ] de este reclutamiento garantiza una pareja de compis de 5★. La última pareja de compis de un reclutamiento (esto es, la 10.ª pareja en un reclutamiento ×10; o la 11.ª pareja en un reclutamiento ×11) se selecciona al azar de un conjunto de parejas de compis de 5★ destacadas. Toca el botón "5★ garantizadas" para comprobar las tasas de aparición de dichas parejas de compis.
+[shop/scout_197] Cada billete garantiza un solo uso en su reclutamiento correspondiente.
+Nota: La pareja destacada tiene total garantía de aparecer en este reclutamiento.
+[shop/scout_198] Cada billete garantiza un solo uso en su reclutamiento correspondiente.
+Nota: La pareja de compis destacada tiene un [Digit:3digits ]% de probabilidades de aparecer en este reclutamiento.
 [shop/deck_item_sale_001] Canjear accesorios
 [shop/deck_item_sale_002] Accesorios
 [shop/deck_item_sale_003] Filtrar
@@ -47183,7 +47915,7 @@ Une fois le dernier palier franchi, cet Appel Duo ne sera plus accessible.
 [shop/scout_144] Choisissez en plus un des Duos 5★
 proposés !
 [shop/scout_145] Master Duos
-[shop/scout_146] Master Duos Festival
+[shop/scout_146] Master Duos festival
 [shop/scout_147] Remarque : les pourcentages de chance par nombre d'★ affichés étant arrondis après la troisième décimale, il peut arriver que leur somme totale ne soit pas égale à 100 %. Les pourcentages réels ne sont ni arrondis au supérieur, ni à l'inférieur.
 
 Les pourcentages s'appliquent à chaque Appel Duo indépendamment. Même si vous passez un certain nombre d'Appels Duo, il est possible qu'un certain Duo n'apparaisse pas du tout.
@@ -47242,6 +47974,7 @@ Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran 
 [shop/scout_166] 100 % de chances d'obtenir [Name:TrainerNameAndType ] !
 [shop/scout_167] Au palier 5, vous pourrez recevoir un bon vous octroyant [Digit:6digits ] % de chances d'obtenir
 ce Duo. Et au palier 10, vous pourrez obtenir un bon vous garantissant ce Duo !
+[shop/scout_174] Les Duos saisonniers sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo saisonnier. À l'avenir, les Duos saisonniers pourront aussi apparaître en dehors de cet Appel Duo saisonnier.
 [shop/scout_175] Les Duos festival sont des Duos qui apparaissent pendant la durée limitée de l'Appel Duo festival. À l'avenir, les Duos festival pourront aussi apparaître en dehors de cet Appel Duo festival.
 [shop/scout_176] Les Master Duos festival sont des Duos qui apparaissent pendant la durée limitée du Master festival. À l'avenir, les Master Duos festival pourront aussi apparaître en dehors de ce Master festival.
 [shop/scout_178] Promo (limitée à [Digit:3digits ] fois)
@@ -47259,6 +47992,40 @@ Lorsqu'un astérisque (*) est affiché après le nom d'un Pokémon sur l'écran 
 [shop/scout_182] Si vous passez cet Appel [Digit:3digits ] fois, vous pourrez obtenir
 un bon vous garantissant ce Duo !
 [shop/scout_183] Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★ à l'affiche. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★ à l'affiche, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages.
+[shop/scout_185] Vous pouvez choisir un Duo supplémentaire
+parmi [Digit:2digits ] Duos !
+[shop/scout_186] Un Duo
+5★ garanti
+[shop/scout_187] Choisissez
+un 5★ après
+l'Appel Duo
+[shop/scout_188] Voici les cadeaux que vous pouvez recevoir
+à ce palier :
+[shop/scout_189] L'un de ces Duos 5★ apparaîtra à coup sûr
+lorsque vous passerez l'Appel Duo de ce palier.
+[shop/scout_190] Un bon peut être utilisé une fois seulement
+dans l'Appel Duo avec Bon correspondant.
+Les chances d'apparition pour les Duos à l'affiche
+dans cet Appel Duo sont de [Digit:3digits ] % au total.
+[shop/scout_191] Vous pourrez choisir un Duo supplémentaire
+parmi les Duos suivants lorsque vous aurez
+passé l'Appel Duo de ce palier.
+[shop/scout_192] Un Duo 5★ garanti avec une chance
+qu'il s'agisse d'un des Duos à l'affiche !
+[shop/scout_193] Vous pourrez choisir un Duo 5★ après
+avoir passé cet Appel Duo !
+[shop/scout_194] Chances d'apparition totales des Duos à l'affiche : [Digit:6digits ] %
+[shop/scout_195] Seul le palier [Digit:2digits ] de cet Appel Duo
+garantit un Duo 5★.
+[shop/scout_196] Seul le palier [Digit:2digits ] de cet Appel Duo garantit un Duo 5★. Le dernier Appel Duo (le dixième si vous avez passé 10 Appels Duo d'affilée, le onzième si vous avez passé 11 Appels Duo d'affilée) vous permettra d'obtenir un Duo 5★. Pour connaître les pourcentages utilisés lors de l'Appel Duo garantissant un Duo 5★, touchez le bouton « 5★ garanti ! » sur l'écran de pourcentages.
+[shop/scout_197] Un bon peut être utilisé une fois seulement
+dans l'Appel Duo avec Bon correspondant.
+Le Duo à l'affiche apparaîtra à coup sûr
+dans cet Appel Duo.
+[shop/scout_198] Un bon peut être utilisé une fois seulement
+dans l'Appel Duo avec Bon correspondant.
+Les chances d'apparition pour le Duo à l'affiche
+dans cet Appel Duo sont de [Digit:3digits ] %.
 [shop/deck_item_sale_001] Échanger équipement
 [shop/deck_item_sale_002] Équipement
 [shop/deck_item_sale_003] Filtrer
@@ -47869,6 +48636,8 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 [shop/scout_166] Ottenimento di [Name:TrainerNameAndType ] garantito!
 [shop/scout_167] Al gradino 5 riceverai un ticket con il [Digit:6digits ]% di probabilità di ottenere
 l'Unità in evidenza. Il ticket del gradino 10 ne garantisce l'ottenimento!
+[shop/scout_174] Le Unità festive sono Unità che compariranno durante questa ricerca Unità festiva.
+È possibile che compaiano anche in ricerche Unità successive, non necessariamente festive.
 [shop/scout_175] Le Unità Masterparty sono Unità che compariranno durante questo Masterparty.
 È possibile che in futuro compaiano al di fuori del Masterparty.
 [shop/scout_176] Le Unità Mastergala sono Unità che compariranno durante questo Mastergala.
@@ -47886,6 +48655,35 @@ I Pokémon con un asterisco dopo il nome, visualizzato nel tasso di comparsa del
 che garantisce l'ottenimento dell'Unità in evidenza!
 [shop/scout_183] Nell'ultima estrazione (la decima per un'Unicerca ×10, l'undicesima per un'Unicerca ×11), la selezione avverrà solo tra Unità con 5★.
 Per consultare il tasso di comparsa delle estrazioni che selezionano solo Unità con 5★, tocca il pulsante "Unità con 5★ garantita" nella schermata del tasso di comparsa.
+[shop/scout_185] Scegli un'Unità aggiuntiva tra [Digit:2digits ] disponibili!
+[shop/scout_186] Una 5★
+garantita
+[shop/scout_187] Una 5★ a
+scelta dopo
+l'Unicerca
+[shop/scout_188] È possibile ottenere i seguenti regali in questo
+gradino.
+[shop/scout_189] Quando effettui la ricerca Unità di questo gradino,
+la comparsa di una delle seguenti Unità 5★ è
+garantita.
+[shop/scout_190] Un ticket consente un singolo utilizzo della corrispondente ricerca Unità con ticket.
+Le Unità in evidenza hanno una probabilità complessiva del [Digit:3digits ]% di comparire in questa ricerca Unità.
+[shop/scout_191] Dopo aver effettuato la ricerca Unità di questo
+gradino, puoi scegliere un'Unità aggiuntiva tra
+le seguenti.
+[shop/scout_192] Un'Unità 5★ garantita, con la possibilità che
+sia un'Unità in evidenza!
+[shop/scout_193] Dopo aver effettuato la ricerca Unità,
+puoi scegliere un'Unità 5★!
+[shop/scout_194] Probabilità complessiva di ottenere un'Unità in evidenza: [Digit:6digits ]%!
+[shop/scout_195] Solo il gradino [Digit:2digits ] di questa Unicerca
+garantisce un'Unità 5★.
+[shop/scout_196] Solo il gradino [Digit:2digits ] di questa Unicerca garantisce un'Unità 5★. Nell'ultima estrazione (la decima per un'Unicerca ×10, l'undicesima per un'Unicerca ×11), la selezione avverrà solo tra Unità con 5★.
+Per consultare il tasso di comparsa delle estrazioni che selezionano solo Unità con 5★, tocca il pulsante "Unità con 5★ garantita" nella schermata del tasso di comparsa.
+[shop/scout_197] Un ticket consente un singolo utilizzo della corrispondente ricerca Unità con ticket.
+In questa ricerca Unità è garantita la comparsa dell'Unità in evidenza.
+[shop/scout_198] Un ticket consente un singolo utilizzo della corrispondente ricerca Unità con ticket.
+L'Unità in evidenza ha la seguente probabilità di comparire in questa ricerca Unità: [Digit:3digits ]%.
 [shop/deck_item_sale_001] Scambio accessori
 [shop/deck_item_sale_002] Accessori
 [shop/deck_item_sale_003] Filtra
@@ -48484,6 +49282,8 @@ STEPによってはプレゼントが設定されている場合があります�
 [shop/scout_166] [Name:TrainerNameAndType ]が確定！
 [shop/scout_167] STEP5ではピックアップバディーズが[Digit:6digits ]％で出現するチケットがもらえ
 STEP10では確定で出現するチケットがもらえる！
+[shop/scout_174] ※シーズン限定バディーズとはこのシーズン限定バディーズサーチの期間中に出現するバディーズです。
+※シーズン限定バディーズは今後シーズン限定バディーズサーチ以外でも出現する可能性があります。
 [shop/scout_175] ※フェス限定バディーズとはこのポケマスフェスの期間中に出現するバディーズです。
 ※フェス限定バディーズは今後ポケマスフェス以外でも出現する可能性があります。
 [shop/scout_176] ※マスターフェス限定バディーズとはこのマスターフェスの期間中に出現するバディーズです。
@@ -48501,6 +49301,32 @@ STEP10では確定で出現するチケットがもらえる！
 [shop/scout_182] [Digit:3digits ]回実行するとピックアップバディーズが確定で
 出現するチケットがもらえる！
 [shop/scout_183] ※最後の抽選（10連の場合は10回目の抽選、11連の場合は11回目の抽選）では★5のバディーズのみで抽選を行います。★5のみの抽選個別出現割合は提供割合画面の「★5確定」ボタンをタップして確認できます。
+[shop/scout_185] [Digit:2digits ]組のうちからさらに選んで1組獲得！
+[shop/scout_186] ★5
+1組確定
+[shop/scout_187] 実行後
+選べる
+★5
+[shop/scout_188] このSTEPでは以下のプレゼントが獲得できます
+[shop/scout_189] このSTEPではバディーズサーチを実行すると
+以下の★5バディーズの中から1組が確定で出現します
+[shop/scout_190] このチケットを1枚使用することで特定の「チケット専用バディーズサーチ」（※）を1回実行できます
+（※）ピックアップバディーズの出現率が合計[Digit:3digits ]％の特別なバディーズサーチです
+[shop/scout_191] このSTEPではバディーズサーチ実行後
+さらに追加で以下から好きなバディーズを選んで
+獲得することができます
+[shop/scout_192] 対象となっているピックアップバディーズを含む
+★5バディーズが1組確定！
+[shop/scout_193] バディーズサーチ実行後
+好きな★5バディーズをさらに1組選んで獲得！
+[shop/scout_194] ピックアップバディーズの出現率が合計[Digit:6digits ]％！
+[shop/scout_195] 本バディーズサーチでは
+STEP[Digit:2digits ]のみ★5確定となります
+[shop/scout_196] ※本バディーズサーチでは、STEP[Digit:2digits ]のみ★5確定となり、最後の抽選（10連の場合は10回目の抽選、11連の場合は11回目の抽選）では★5のバディーズのみで抽選を行います。★5のみの抽選個別出現割合は提供割合画面の「★5確定」ボタンをタップして確認できます。
+[shop/scout_197] このチケットを1枚使用することで特定の「チケット専用バディーズサーチ」（※）を1回実行できます
+（※）ピックアップバディーズが確定で出現する特別なバディーズサーチです
+[shop/scout_198] このチケットを1枚使用することで特定の「チケット専用バディーズサーチ」（※）を1回実行できます
+（※）ピックアップバディーズの出現率が[Digit:3digits ]％の特別なバディーズサーチです
 [shop/deck_item_sale_001] 装備売却
 [shop/deck_item_sale_002] 装備
 [shop/deck_item_sale_003] フィルター
@@ -49123,6 +49949,8 @@ STEP에 따라서는 선물이 포함된 경우가 있습니다.
 [shop/scout_166] [Name:TrainerNameAndType ] 확정!
 [shop/scout_167] STEP5에서는 픽업 버디즈가 [Digit:6digits ]%로 출현하는 티켓을,
 STEP10에서는 확정적으로 출현하는 티켓을 받을 수 있다!
+[shop/scout_174] ※시즌 한정 버디즈는 본 시즌 한정 버디즈서치 기간 중에 출현하는 버디즈를 말합니다.
+※시즌 한정 버디즈는 이후 시즌 한정 버디즈서치 이외에서도 출현할 가능성이 있습니다.
 [shop/scout_175] ※페스티벌 한정 버디즈는 본 PM페스티벌 기간 중에 출현하는 버디즈를 말합니다.
 ※페스티벌 한정 버디즈는 이후 PM페스티벌 이외에서도 출현할 가능성이 있습니다.
 [shop/scout_176] ※마스터페스티벌 한정 버디즈는 본 마스터페스티벌 기간 중에 출현하는 버디즈를 말합니다.
@@ -49144,6 +49972,32 @@ STEP10에서는 확정적으로 출현하는 티켓을 받을 수 있다!
 [shop/scout_182] [Digit:3digits ]회 실행하면 픽업 버디즈가 확정적으로
 출현하는 티켓을 받을 수 있다!
 [shop/scout_183] ※마지막 추첨(10연속의 경우에는 10번째 추첨, 11연속의 경우에는 11번째 추첨)에서는 ★5의 버디즈로만 추첨을 진행합니다. ★5만으로 진행되는 추첨 개별 출현 확률은 제공 비율 화면의 "★5 확정" 버튼을 눌러서 확인할 수 있습니다.
+[shop/scout_185] [Digit:2digits ] 버디즈 중 하나를 선택해서 추가 획득!
+[shop/scout_186] ★5
+하나 확정
+[shop/scout_187] 실행 후
+★5
+선택
+[shop/scout_188] 이 STEP에서는 아래의 선물을 획득할 수 있습니다
+[shop/scout_189] 이 STEP에서는 버디즈서치를 실행하면
+아래의 ★5 버디즈 중 하나가 확정적으로 출현합니다
+[shop/scout_190] 이 티켓을 1장 사용하여 특정 "티켓 전용 버디즈서치"(※)를 1회 실행할 수 있습니다
+(※)픽업 버디즈의 출현율이 총 [Digit:3digits ]%인 특별한 버디즈서치입니다
+[shop/scout_191] 이 STEP에서는 버디즈서치 실행 후
+추가로 아래에서 원하는 버디즈를 선택하여
+획득할 수 있습니다
+[shop/scout_192] 대상 픽업 버디즈를 포함한
+★5 버디즈가 하나 확정!
+[shop/scout_193] 버디즈서치 실행 후
+원하는 ★5 버디즈를 추가로 하나 선택해서 획득!
+[shop/scout_194] 픽업 버디즈의 출현율이 총 [Digit:6digits ]%!
+[shop/scout_195] 본 버디즈서치에서는
+STEP[Digit:2digits ]만 ★5 확정입니다
+[shop/scout_196] ※본 버디즈서치에서는 STEP[Digit:2digits ]만 ★5 확정이며, 마지막 추첨(10연속의 경우에는 10번째 추첨, 11연속의 경우에는 11번째 추첨)에서는 ★5의 버디즈로만 추첨을 진행합니다. ★5만으로 진행되는 추첨 개별 출현 확률은 제공 비율 화면의 "★5 확정" 버튼을 눌러서 확인할 수 있습니다.
+[shop/scout_197] 이 티켓을 1장 사용하여 특정 "티켓 전용 버디즈서치"(※)를 1회 실행할 수 있습니다
+(※)픽업 버디즈가 확정적으로 출현하는 특별한 버디즈서치입니다
+[shop/scout_198] 이 티켓을 1장 사용하여 특정 "티켓 전용 버디즈서치"(※)를 1회 실행할 수 있습니다
+(※)픽업 버디즈의 출현율이 [Digit:3digits ]%인 특별한 버디즈서치입니다
 [shop/deck_item_sale_001] 장비 판매
 [shop/deck_item_sale_002] 장비
 [shop/deck_item_sale_003] 필터
@@ -49687,6 +50541,8 @@ shop_zh-TW.lsd
 [shop/scout_166] 必得[Name:TrainerNameAndType ]！
 [shop/scout_167] 在STEP5中可獲得精選拍組會以[Digit:6digits ]％的機率出現的票券
 在STEP10中可獲得拍組必定出現的票券！
+[shop/scout_174] ※季節限定拍組是會在季節限定拍組搜尋期間出現的拍組
+※季節限定拍組今後也有可能在非季節限定拍組搜尋以外出現
 [shop/scout_175] ※盛典限定拍組是會在群星盛典期間出現的拍組
 ※盛典限定拍組今後也有可能在群星盛典以外出現
 [shop/scout_176] ※大師盛典限定拍組是會在大師盛典期間出現的拍組
@@ -49704,6 +50560,31 @@ shop_zh-TW.lsd
 [shop/scout_182] 進行[Digit:3digits ]次拍組搜尋後
 可獲得精選拍組必定出現的票券！
 [shop/scout_183] ※最後一次的搜尋（連續10次時指第10次的搜尋，連續11次時指第11次的搜尋）會僅對★5的拍組進行。各對★5拍組的提供比例可由提供比例的畫面點選「必得★5」確認
+[shop/scout_185] 可另外從[Digit:2digits ]對拍組中自選1對來獲得！
+[shop/scout_186] 必得1對
+★5拍組
+[shop/scout_187] 執行後
+可自選
+★5拍組
+[shop/scout_188] 在此STEP可獲得下列道具
+[shop/scout_189] 在此STEP進行拍組搜尋後
+將必得其中1對下列★5拍組
+[shop/scout_190] 使用1張此票券，即可進行1次特定的「票券專用拍組搜尋」（※）
+（※）精選拍組的出現機率總計為[Digit:3digits ]％的特別拍組搜尋
+[shop/scout_191] 在此STEP進行拍組搜尋後
+可以再由下列拍組中額外獲得１對自選的拍組
+[shop/scout_192] 必得１對★５拍組
+且對象包含精選拍組！
+[shop/scout_193] 進行拍組搜尋後
+可另外自選１對喜歡的★５拍組來獲得！
+[shop/scout_194] 精選拍組的出現機率總計為[Digit:6digits ]％！
+[shop/scout_195] 此拍組搜尋僅限STEP[Digit:2digits ]
+會必得★5拍組
+[shop/scout_196] ※在此拍組搜尋，僅限STEP[Digit:2digits ]會必得★5拍組。最後一次的搜尋（連續10次時指第10次的搜尋，連續11次時指第11次的搜尋）會僅對★5的拍組進行。各對★5拍組的提供比例可由提供比例的畫面點選「必得★5」確認
+[shop/scout_197] 使用1張此票券，即可進行1次特定的「票券專用拍組搜尋」（※）
+（※）精選拍組必定出現的特別拍組搜尋
+[shop/scout_198] 使用1張此票券，即可進行1次特定的「票券專用拍組搜尋」（※）
+（※）精選拍組的出現機率為[Digit:3digits ]％的特別拍組搜尋
 [shop/deck_item_sale_001] 出售裝備
 [shop/deck_item_sale_002] 裝備
 [shop/deck_item_sale_003] 篩選

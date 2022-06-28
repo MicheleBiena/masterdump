@@ -433,4 +433,9 @@
     "999506": "當天氣為下雨時，還會再提高我方全體拍組的[Name:ReferencedMessageTag Idx=\"2\" ][Digit:1digit Idx=\"1\" ]階段。",
     "999505": "有[Digit:2digits ]％的機率會讓自己發動拍組招式所需的行動數減少１次。",
     "999504": "當場地為[Name:ReferencedMessageTag ]時，威力會提高。",
+    "999503": "讓自己變成[Name:ReferencedMessageTag ]狀態。",
+    "999502": "有[Digit:2digits ]％的機率會降低對手的[Name:ReferencedMessageTag Idx=\"1\" ][Digit:1digit Idx=\"2\" ]階段。",
+    "999501": "讓對手處於提高狀態的能力之正值（擊中要害率除外）轉為負值。",
+    "999500": "連續攻擊３次。",
+    "999499": "無視對手的下次傷害防禦狀態進行攻擊。",
 }

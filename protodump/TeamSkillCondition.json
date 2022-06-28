@@ -216,4 +216,6 @@
 { "teamSkillConditionId": "30020000", "teamSkillId": 19970003, "teamSkillMinPairsReq": 2, "u4": 40, "u5": 41, "u6": 0, "u7": 0, "u8": 0, "u9": 0, "u10": 0, "u11": 0 },
 { "teamSkillConditionId": "30020000", "teamSkillId": 19980001, "teamSkillMinPairsReq": 2, "u4": 40, "u5": 41, "u6": 0, "u7": 0, "u8": 0, "u9": 0, "u10": 0, "u11": 0 },
 { "teamSkillConditionId": "30020000", "teamSkillId": 19980002, "teamSkillMinPairsReq": 2, "u4": 0, "u5": 0, "u6": 0, "u7": 0, "u8": 0, "u9": 0, "u10": 0, "u11": 0 },
+{ "teamSkillConditionId": "30020000", "teamSkillId": 19980003, "teamSkillMinPairsReq": 2, "u4": 40, "u5": 41, "u6": 0, "u7": 0, "u8": 0, "u9": 0, "u10": 0, "u11": 0 },
+{ "teamSkillConditionId": "30020000", "teamSkillId": 19990001, "teamSkillMinPairsReq": 2, "u4": 40, "u5": 41, "u6": 0, "u7": 0, "u8": 0, "u9": 0, "u10": 0, "u11": 0 },
 ]}

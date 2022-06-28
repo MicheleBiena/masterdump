@@ -433,4 +433,9 @@
     "999506": "비가 오는 날씨일 때는 추가로 같은 편 버디즈 전원의 [Name:ReferencedMessageTag Idx=\"2\" ][Kor:Particle char=\"ga\" ] [Digit:1digit Idx=\"1\" ]단계 오른다",
     "999505": "[Digit:2digits ]% 확률로 자신의 버디즈기술 발동 가능 상태가 되기까지의 카운트를 1 줄인다",
     "999504": "필드가 [Name:ReferencedMessageTag ]일 때는 위력이 오른다",
+    "999503": "자신을 [Name:ReferencedMessageTag ] 상태로 만든다",
+    "999502": "[Digit:2digits ]% 확률로 상대의 [Name:ReferencedMessageTag Idx=\"1\" ][Kor:Particle char=\"wo\" ] [Digit:1digit Idx=\"2\" ]단계 떨어뜨린다",
+    "999501": "상대의 올라간 능력(급소율 제외)의 플러스를 마이너스로 만든다",
+    "999500": "3회 연속으로 공격한다",
+    "999499": "상대의 차회데미지방어 상태를 무시하고 공격한다",
 }

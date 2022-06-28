@@ -433,4 +433,9 @@
     "999506": "天気があめのときはさらに味方のバディーズ全員の[Name:ReferencedMessageTag Idx=\"2\" ]を[Digit:1digit Idx=\"1\" ]段階あげる",
     "999505": "[Digit:2digits ]％の確率で自分のバディーズわざ発動可能状態までのカウントを１減らす",
     "999504": "フィールドが[Name:ReferencedMessageTag ]のときは威力があがる",
+    "999503": "自分を[Name:ReferencedMessageTag ]にする",
+    "999502": "[Digit:2digits ]％の確率で相手の[Name:ReferencedMessageTag Idx=\"1\" ]を[Digit:1digit Idx=\"2\" ]段階さげる",
+    "999501": "相手のあがっている能力（急所率は除く）のプラスをマイナスにする",
+    "999500": "３回連続で攻撃する",
+    "999499": "相手の次回ダメージ防御状態を無視して攻撃する",
 }

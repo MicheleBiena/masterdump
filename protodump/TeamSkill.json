@@ -724,4 +724,11 @@
 { "teamSkillId": "19980002", "teamSkillPropNum": 1, "teamSkillPropValue": 29990071 },
 { "teamSkillId": "19980002", "teamSkillPropNum": 2, "teamSkillPropValue": 30020000 },
 { "teamSkillId": "19980002", "teamSkillPropNum": 3, "teamSkillPropValue": 40010001 },
+{ "teamSkillId": "19980003", "teamSkillPropNum": 1, "teamSkillPropValue": 29990071 },
+{ "teamSkillId": "19980003", "teamSkillPropNum": 2, "teamSkillPropValue": 30020000 },
+{ "teamSkillId": "19980003", "teamSkillPropNum": 3, "teamSkillPropValue": 40030001 },
+{ "teamSkillId": "19980003", "teamSkillPropNum": 4, "teamSkillPropValue": 40010001 },
+{ "teamSkillId": "19990001", "teamSkillPropNum": 1, "teamSkillPropValue": 29990071 },
+{ "teamSkillId": "19990001", "teamSkillPropNum": 2, "teamSkillPropValue": 30020000 },
+{ "teamSkillId": "19990001", "teamSkillPropNum": 3, "teamSkillPropValue": 40030001 },
 ]}
